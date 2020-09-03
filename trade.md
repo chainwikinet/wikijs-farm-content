@@ -2,9 +2,9 @@
 title: FARM Markets
 description: buy and sell FARM tokens and other Harvest Finance assets
 published: true
-date: 2020-09-02T22:22:16.382Z
+date: 2020-09-03T03:58:26.704Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
 > Beware of scams! Verify token addresses in multiple places to ensure that you are trading for the correct Harvest Finance tokens!
@@ -13,8 +13,7 @@ editor: undefined
 
 # Uniswap
 
-- none yet. [Contribute!](/contribute)
-
+- FARM:USDC https://uniswap.info/pair/0x514906FC121c7878424a5C928cad1852CC545892
 
 # Balancer
 
