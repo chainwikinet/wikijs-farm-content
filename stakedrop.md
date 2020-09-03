@@ -2,9 +2,9 @@
 title: FARM Stake Farming
 description: stake tokens and get FARM
 published: true
-date: 2020-09-02T22:27:27.923Z
+date: 2020-09-03T22:37:41.762Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
 > Beware of scams! Verify token addresses in multiple places to ensure that you are trading for the correct Harvest Finance tokens!
@@ -29,3 +29,49 @@ Wave1 staking can be managed in several places:
 {.is-info}
 
 [Contribute additional information!](/contribute)
+
+# Removing Tokens from Farming
+
+> Gas prices are extremely high.  Use tools like gasnow.org to ensure that you set the gas price high enough or your transaction may take a very long time to confirm.
+{.is-info}
+
+
+For fDAI, fUSDC, and fUSDT, you must first withdraw from the staking rewards contracts.  Then, you can unwrap them back into the underlying DAI, USDC, and USDT.
+
+1. To withdraw from the staking rewards contracts: https://harvest.finance/earn
+  - Click on `Unstake & Claim` and then click on the `UNSTAKE & CLAIM` button below to initiate the transaction.
+  - Wait for your transaction to confirm, and then you will receive the fToken and FARM rewards.
+  
+2. To unwrap the fTokens back into the underlying tokens: https://harvest.finance/
+  - Put in your balance of the tokens that you want to withdraw.  If you are not sure of your balance, you can check it by putting your address into `balanceOf` on the [fDAI][es-fdai], [fUSDC][es-fusdc], or [fUSDT][es-fusdt] contract.  Note that the balance number returned for fUSDC and fUSDT has six decimal places (so 987654321 = 987.654321 fUSDC) and fDAI has 18.  This should be approximately equal to the amount of DAI, USDC, or USDT that you deposited.
+  - Hit the withdraw button and wait for your transaction to confirm.  If you are withdrawing during a period of heavy withdraws and the Harvest withdraw buffer has been depleted, then your transaction will need to pay to remove your stablecoin from the yield farming strategy.  This will be expensive ([example][es-withdraw-nobuffer] that cost 2,200,000 gas).  If you come back later after more funds have been deposited to Harvest and the withdraw buffer has been replenished, then the fees may be lower ([example][es-withdraw-buffer] that cost 468,000 gas).
+  
+  
+
+
+
+
+
+[es-fdai]: https://etherscan.io/address/0xF9E5f9024c2f3f2908A1d0e7272861a767C9484b#readContract
+[es-fusdc]: https://etherscan.io/address/0xE1f9A3EE001a2EcC906E8de637DBf20BB2d44633#readContract
+[es-fusdt]: https://etherscan.io/address/0x5bd997039FFF16F653EF15D1428F2C791519f58d#readContract
+
+[es-withdraw-buffer]: https://etherscan.io/tx/0x70fddec35fcf1f89fbfff90972be0e04ce0ae8c34abfaf2900e5210fdf86303e
+[es-withdraw-nobuffer]: https://etherscan.io/tx/0x959045e3c8fb26a9eeab00e5ebe11fe62012cc7148f4d025c4c7f75ec0bed0bb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
