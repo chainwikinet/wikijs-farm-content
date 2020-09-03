@@ -2,7 +2,7 @@
 title: FARM Markets
 description: buy and sell FARM tokens and other Harvest Finance assets
 published: true
-date: 2020-09-03T16:00:41.885Z
+date: 2020-09-03T17:49:22.600Z
 tags: 
 editor: markdown
 ---
@@ -32,9 +32,9 @@ Harvest Finance has incentivized a USDC:FARM pair on Uniswap.
 
 # Balancer
 
-- https://pools.balancer.exchange/#/pool/0x0395e4a17ff11d36dac9959f2d7c8eca10fe89c9
-- https://etherscan.io/address/0x0395e4a17ff11d36dac9959f2d7c8eca10fe89c9
-
+- Balancer pool: https://pools.balancer.exchange/#/pool/0x0395e4a17ff11d36dac9959f2d7c8eca10fe89c9
+- Balancer pool: https://etherscan.io/address/0x0395e4a17ff11d36dac9959f2d7c8eca10fe89c9
+- BLP rewards pool: https://etherscan.io/address/0x6f8a975758436a5ec38d2f9d2336504430465517
 
 
 [es-farm]: https://etherscan.io/token/0xa0246c9032bc3a600820415ae600c6388619a14d
