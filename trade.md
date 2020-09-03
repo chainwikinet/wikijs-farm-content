@@ -2,7 +2,7 @@
 title: FARM Markets
 description: buy and sell FARM tokens and other Harvest Finance assets
 published: true
-date: 2020-09-03T04:46:51.481Z
+date: 2020-09-03T16:00:41.885Z
 tags: 
 editor: markdown
 ---
@@ -22,7 +22,13 @@ editor: markdown
 
 # Uniswap
 
-- FARM:USDC https://uniswap.info/pair/0x514906FC121c7878424a5C928cad1852CC545892
+Harvest Finance has incentivized a USDC:FARM pair on Uniswap.
+
+- trade: https://app.uniswap.org/#/swap?inputCurrency=0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48&outputCurrency=0xa0246c9032bc3a600820415ae600c6388619a14d
+- add liquidity: https://app.uniswap.org/#/add/0xa0246c9032bc3a600820415ae600c6388619a14d/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48
+- reward pool: https://etherscan.io/address/0x99b0d6641a63ce173e6eb063b3d3aed9a35cf9bf
+- pool stats: https://uniswap.info/pair/0x514906FC121c7878424a5C928cad1852CC545892
+
 
 # Balancer
 
