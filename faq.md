@@ -2,7 +2,7 @@
 title: Frequently Asked Questions
 description: answers to common questions about Harvest Finance
 published: true
-date: 2020-09-03T23:18:08.706Z
+date: 2020-09-03T23:26:46.231Z
 tags: 
 editor: markdown
 ---
@@ -33,8 +33,8 @@ editor: markdown
 
 [es-fdai]: https://etherscan.io/address/0xe85c8581e60d7cd32bbfd86303d2a4fa6a951dac#readContract
 [es-pool-fdai]: https://etherscan.io/address/0xF9E5f9024c2f3f2908A1d0e7272861a767C9484b#readContract
-[es-pool-fusdc]: https://etherscan.io/address/0xc3f7ffb5d5869b3ade9448d094d81b0521e8326f#readContract
-[es-fusdc]: https://etherscan.io/address/0xE1f9A3EE001a2EcC906E8de637DBf20BB2d44633#readContract
+[es-fusdc]: https://etherscan.io/address/0xc3f7ffb5d5869b3ade9448d094d81b0521e8326f#readContract
+[es-pool-fusdc]: https://etherscan.io/address/0xE1f9A3EE001a2EcC906E8de637DBf20BB2d44633#readContract
 [es-fusdt]: https://etherscan.io/address/0xc7ee21406bb581e741fbb8b21f213188433d9f2f#readContract
 [es-pool-fusdt]: https://etherscan.io/address/0x5bd997039FFF16F653EF15D1428F2C791519f58d#readContract
 
