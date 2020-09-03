@@ -2,7 +2,7 @@
 title: FARM Markets
 description: buy and sell FARM tokens and other Harvest Finance assets
 published: true
-date: 2020-09-03T04:03:03.198Z
+date: 2020-09-03T04:03:52.834Z
 tags: 
 editor: markdown
 ---
@@ -25,7 +25,8 @@ editor: markdown
 
 # Balancer
 
-- https://etherscan.io/address/0x0395e4a17ff11d36dac9959f2d7c8eca10fe89c9#tokentxns
+- https://pools.balancer.exchange/#/pool/0x0395e4a17ff11d36dac9959f2d7c8eca10fe89c9
+- https://etherscan.io/address/0x0395e4a17ff11d36dac9959f2d7c8eca10fe89c9
 
 
 
