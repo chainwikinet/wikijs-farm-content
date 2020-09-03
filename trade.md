@@ -2,7 +2,7 @@
 title: FARM Markets
 description: buy and sell FARM tokens and other Harvest Finance assets
 published: true
-date: 2020-09-03T03:58:26.704Z
+date: 2020-09-03T04:03:03.198Z
 tags: 
 editor: markdown
 ---
@@ -11,10 +11,23 @@ editor: markdown
 {.is-warning}
 
 
+| Token | Address |
+|-------|---------|
+| FARM  | [0xa0246c9032bc3a600820415ae600c6388619a14d][es-farm] |
+| fDAI  |  |
+| fUSDC | [0xc3f7ffb5d5869b3ade9448d094d81b0521e8326f][es-fusdc]|
+| fUSDT | | 
+| fTUSD | |
+
 # Uniswap
 
 - FARM:USDC https://uniswap.info/pair/0x514906FC121c7878424a5C928cad1852CC545892
 
 # Balancer
 
-- none yet. [Contribute!](/contribute)
+- https://etherscan.io/address/0x0395e4a17ff11d36dac9959f2d7c8eca10fe89c9#tokentxns
+
+
+
+[es-farm]: https://etherscan.io/token/0xa0246c9032bc3a600820415ae600c6388619a14d
+[es-fusdc]: https://etherscan.io/token/0xc3f7ffb5d5869b3ade9448d094d81b0521e8326f
