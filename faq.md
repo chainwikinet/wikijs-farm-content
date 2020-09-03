@@ -2,7 +2,7 @@
 title: Frequently Asked Questions
 description: answers to common questions about Harvest Finance
 published: true
-date: 2020-09-03T23:06:00.060Z
+date: 2020-09-03T23:06:11.363Z
 tags: 
 editor: markdown
 ---
@@ -10,7 +10,7 @@ editor: markdown
 
 
 
-# Common User Questions
+# Common Questions
 
 1. How many FARM tokens are there? **[FARM supply is 5,000,000 distributed over 4 years](/supply)**
 2. Where can I trade FARM tokens? **[FARM markets on Uniswap and Balancer](/trade)**
