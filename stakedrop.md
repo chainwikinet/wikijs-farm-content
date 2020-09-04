@@ -2,7 +2,7 @@
 title: FARM Stake Farming
 description: stake tokens and get FARM
 published: true
-date: 2020-09-03T23:23:36.782Z
+date: 2020-09-04T09:12:36.977Z
 tags: 
 editor: markdown
 ---
@@ -41,7 +41,7 @@ For fDAI, fUSDC, and fUSDT, you must first withdraw from the staking rewards con
   - Wait for your transaction to confirm, and then you will receive the fToken and FARM rewards.
   
 2. To unwrap the fTokens back into the underlying tokens: https://harvest.finance/
-  - Put in your balance of the tokens that you want to withdraw.  If you are not sure of your balance, you can check it by putting your address into `balanceOf` on the [fDAI][es-fdai], [fUSDC][es-fusdc], or [fUSDT][es-fusdt] contract.  Note that the balance number returned for fUSDC and fUSDT has six decimal places (so 987654321 = 987.654321 fUSDC) and fDAI has 18.  This should be approximately equal to the amount of DAI, USDC, or USDT that you deposited.
+  - Put in your balance of the fTokens that you want to exchange.  If you are not sure of your balance, you can add the fTokens as [custom tokens to your wallet](https://metamask.zendesk.com/hc/en-us/articles/360015489031-How-to-View-See-Your-Tokens-in-Metamask) or check it by putting your address into `balanceOf` on the [fDAI][es-fdai], [fUSDC][es-fusdc], or [fUSDT][es-fusdt] token contracts.  If using the Etherscan contracts, note that the balance number returned for fUSDC and fUSDT has six decimal places (so 987654321 = 987.654321 fUSDC) and fDAI has 18.  This should be approximately equal to the amount of DAI, USDC, or USDT that you deposited.  If you try to withdraw a balance that is too high, your wallet should indicate that the transaction will fail.
   - Hit the withdraw button and send the transaction.  If you are withdrawing during a period of heavy withdraws and the Harvest withdraw buffer has been depleted, then your transaction will need to pay to remove your stablecoin from the yield farming strategy.  This will be expensive ([example][es-withdraw-nobuffer] that cost 2,200,000 gas).  If you come back later after more funds have been deposited to Harvest and the withdraw buffer has been replenished, then the fees may be lower ([example][es-withdraw-buffer] that cost 468,000 gas).
   - Wait for your transaction to confirm, and then you will receive your stablecoin.  Your stablecoin will earn interest if the yield farming strategy has been successful, so you may receive more than you put in.
 
