@@ -2,13 +2,18 @@
 title: FARM Stake Farming
 description: stake tokens and get FARM
 published: true
-date: 2020-09-04T09:12:36.977Z
+date: 2020-09-04T20:24:11.734Z
 tags: 
 editor: markdown
 ---
 
-> Beware of scams! Verify token addresses in multiple places to ensure that you are trading for the correct Harvest Finance tokens!
+> Beware of scams! Verify token addresses [on GitHub](https://github.com/harvest-finance/harvest) to ensure that you are trading the correct Harvest Finance tokens!
 {.is-warning}
+
+> A community member has created [an illustrated guide to staking and unstaking](https://medium.com/@bbbolongx/the-humble-farmers-handbook-d7101a06d5bf?sk=74f9a5238760afa198312908e5849579)
+{.is-info}
+
+
 
 # Stake Tokens, Earn FARM
 
