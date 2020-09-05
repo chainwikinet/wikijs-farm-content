@@ -2,7 +2,7 @@
 title: FARM Stake Farming
 description: stake tokens and get FARM
 published: true
-date: 2020-09-04T20:24:11.734Z
+date: 2020-09-05T01:37:37.603Z
 tags: 
 editor: markdown
 ---
@@ -32,6 +32,14 @@ Wave1 staking can be managed in several places:
 
 
 [Contribute additional information!](/contribute)
+
+
+# Adding Tokens To Farming
+
+> Gas fees can be high to deposit USDC, DAI or USDT into Harvest to receive the fUSDC, fDAI, or fUSDT that you need to participate in the FARM stakedrop. As an alternative, you can [buy fUSDC on Uniswap][uni-fusdc]. Uniswap pools for fDAI and fUSDT are coming soon.
+{.is-warning}
+
+
 
 # Removing Tokens from Farming
 
@@ -63,7 +71,7 @@ For fDAI, fUSDC, and fUSDT, you must first withdraw from the staking rewards con
 [es-withdraw-nobuffer]: https://etherscan.io/tx/0x959045e3c8fb26a9eeab00e5ebe11fe62012cc7148f4d025c4c7f75ec0bed0bb
 
 
-
+[uni-fusdc]: https://app.uniswap.org/#/swap?outputCurrency=0xc3f7ffb5d5869b3ade9448d094d81b0521e8326f
 
 
 
