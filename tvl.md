@@ -2,7 +2,7 @@
 title: Total Value Locked in Harvest Finance
 description: 
 published: true
-date: 2020-09-04T08:56:09.573Z
+date: 2020-09-05T06:47:00.586Z
 tags: 
 editor: markdown
 ---
@@ -32,7 +32,7 @@ The first yield farming strategy active on Harvest Finance farms CRV, the [Curve
 | **Strategy Contract**   | [CRVStrategyYCRVMainnet][crvstrategy] |
 | **Example Harvest TX**  | [doHardWork][harvest] |
 
-
+![harvestcrvstrategy.png](/harvestcrvstrategy.png)
 
 
 [farm-stakedrop]: https://harvest.finance/earn
