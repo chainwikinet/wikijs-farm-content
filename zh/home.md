@@ -2,16 +2,16 @@
 title: 开心农场 Harvest.Finance
 description: 
 published: true
-date: 2020-09-06T09:53:30.023Z
+date: 2020-09-06T14:22:21.408Z
 tags: 
 editor: markdown
 ---
 
 # 欢迎光临开心农场 Harvest Finance!
 
-![harvest.jpeg](/harvest.jpeg)
+![1_gzr5tqzolykqdghxmwxbaq.png](/1_gzr5tqzolykqdghxmwxbaq.png)
 
-这是Wiki是开心农场 Harvest Finance的社区知识库。
+这是 Wiki 是 Harvest Finance的社区知识库。
 
 内容都是免费许可的，你也可以去GitHub上获得最新更新：
 
