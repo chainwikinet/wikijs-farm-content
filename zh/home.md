@@ -2,7 +2,7 @@
 title: 主页
 description: 
 published: true
-date: 2020-09-05T10:30:12.421Z
+date: 2020-09-06T09:52:47.423Z
 tags: 
 editor: markdown
 ---
@@ -21,5 +21,4 @@ https://github.com/chainwikinet/wikijs-farm-content （欢迎各位大佬PR！�
 >我们会尽可能的消除欺诈。 但是进行交易前请还是需要做好自己的调研！
 {.is-warning}
 
-由 [Chainwiki Network]进行管理（https://meta.chainwiki.dev/）。
-
+由 [Chainwiki Network](https://meta.chainwiki.dev/)进行管理
