@@ -2,7 +2,7 @@
 title: Farm Security
 description: 
 published: true
-date: 2020-09-06T07:52:56.974Z
+date: 2020-09-06T09:25:30.472Z
 tags: 
 editor: markdown
 ---
@@ -21,4 +21,4 @@ https://github.com/harvest-finance/harvest/tree/master/test
 The contracts also have great comments to understand what each part of the code is doing.
 
 
-No clear timeline from peckshield yet. There is a preliminary report Sam is awaiting, and there is another audit in parallel
+No clear timeline from peckshield yet. There is a preliminary report Sam is awaiting, and there is another audit by Certik that has been commissioned
