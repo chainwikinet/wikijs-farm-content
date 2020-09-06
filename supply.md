@@ -2,9 +2,9 @@
 title: FARM Token Supply
 description: FARM token supply and emission schedule
 published: true
-date: 2020-09-02T22:17:41.000Z
+date: 2020-09-06T08:44:50.873Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
 
@@ -41,6 +41,8 @@ While there is no premine, some tokens of the tokens will be vested and released
 # What do FARM tokens do?
 
 Funds in Harvest Finance are use to participate in yield farming.  5% of the revenue from the yield farming operations will be distributed to FARM tokenholders.
+
+Currently, there is a proposal to increase 
 
 FARM tokens also allow for participation in [Harvest Finance governance](/govern).
 
