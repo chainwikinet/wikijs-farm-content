@@ -2,7 +2,7 @@
 title: FARM Stake 耕作
 description: 
 published: true
-date: 2020-09-06T09:44:06.105Z
+date: 2020-09-06T15:10:39.249Z
 tags: 
 editor: markdown
 ---
@@ -17,7 +17,7 @@ editor: markdown
 
 # Stake 代币，赚取 FARM
 
-要参与并赚取 FARM，需要 stake 以下几种资产中的一种，并获得在 Harvest Finance 推出后分配的 FARM 份额：
+要参与并赚取 FARM，需要 Stake 以下几种资产中的一种，并获得在 Harvest Finance 推出后分配的 FARM 份额：
 
 -[Harvest Finance上线公告](https://medium.com/harvest-finance/the-harvest-finance-project-338c3e5806fc)
 - 开始Staking时间：2020年9月1日
