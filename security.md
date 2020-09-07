@@ -1,8 +1,8 @@
 ---
-title: Farm Security
-description: 
+title: Harvest Security
+description: testing and auditing the Harvest Finance contracts
 published: true
-date: 2020-09-07T23:50:49.390Z
+date: 2020-09-07T23:51:21.150Z
 tags: 
 editor: markdown
 ---
