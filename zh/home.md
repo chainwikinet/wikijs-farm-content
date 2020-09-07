@@ -2,7 +2,7 @@
 title: 开心农场 Harvest.Finance
 description: 
 published: true
-date: 2020-09-06T14:22:21.408Z
+date: 2020-09-07T15:22:49.202Z
 tags: 
 editor: markdown
 ---
@@ -18,7 +18,7 @@ editor: markdown
 https://github.com/chainwikinet/wikijs-farm-content （欢迎各位大佬PR！）
 
 
->我们会尽可能的消除欺诈。 但是进行交易前请还是需要做好自己的调研！
+>我们会尽可能防止欺诈。 但是进行交易前请还是需要做好自己的调研！
 {.is-warning}
 
 由 [Chainwiki Network](https://meta.chainwiki.dev/)进行管理
