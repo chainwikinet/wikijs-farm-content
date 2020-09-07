@@ -2,7 +2,7 @@
 title: FARM Token Supply
 description: FARM token supply and emission schedule
 published: true
-date: 2020-09-07T16:06:06.599Z
+date: 2020-09-07T16:07:06.782Z
 tags: 
 editor: markdown
 ---
@@ -43,7 +43,7 @@ While there is no premine, some tokens of the tokens will be vested and released
 
 # What do FARM tokens do?
 
-Farm Token is the governance token for Harvest. Farm holders can vote on proposals for the Opeartional Treasury. Farm holders receive 30% of Harvest profits in a form of a FARM token or 5% in a form of a DAI token as long as they stake their FARM tokens in the profit sharing pools. To do that go to the EARN[Earn](//https://harvest.finance/earn) section on https://harvest.finance/earn
+Farm Token is the governance token for Harvest. Farm holders can vote on proposals for the Opeartional Treasury. Farm holders receive 30% of Harvest profits in a form of a FARM token or 5% in a form of a DAI token as long as they stake their FARM tokens in the profit sharing pools. To do that go to [Earn](//https://harvest.finance/earn).
 
 
 
