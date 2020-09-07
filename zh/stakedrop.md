@@ -2,7 +2,7 @@
 title: FARM Stake 耕作
 description: 
 published: true
-date: 2020-09-06T15:10:39.249Z
+date: 2020-09-07T15:21:11.422Z
 tags: 
 editor: markdown
 ---
@@ -52,7 +52,7 @@ editor: markdown
   - 等待交易确认，然后您将获得之前质押的 fToken 和 FARM 奖励。
   
 - 2.要将 fToken 换回基础稳定币中，需要到[官网](https://harvest.finance/)执行以下操作：
-  - 输入您想交换的 fToken的 余额。如果不确定你目前钱包的实际余额，可以将 fToken 作为[自定义令牌添加到您的钱包](https://metamask.zendesk.com/hc/zh-cn/articles/360015489031-How-to-View-See -您的通行证令牌)或通过将您的地址放入 [fDAI] [es-fdai]，[fUSDC] [es-fusdc]或[fUSDT] [es-fusdt]令牌合约中，通过调用的`balanceOf` 合约功能查看。如果使用 Etherscan 的合约，请注意，返回的fUSDC和fUSDT的余额有六个小数位（比如 987654321 = 987.654321 fUSDC），而fDAI的位数为18。这应大约等于您存入的 DAI，USDC 或 USDT 的金额。如果你尝试提超过余额的数量，你钱包就会返回交易将失败的报错。
+  - 输入您想交换的 fToken的 余额。如果不确定你目前钱包的实际余额，可以将 fToken 作为[自定义令牌添加到您的钱包](https://metamask.zendesk.com/hc/zh-cn/articles/360015489031-How-to-View-See -您的通行证令牌)或通过将您的地址放入 [fDAI](https://etherscan.io/address/0xe85c8581e60d7cd32bbfd86303d2a4fa6a951dac#readContract)，[fUSDC](https://etherscan.io/address/0xc3f7ffb5d5869b3ade9448d094d81b0521e8326f#readContract)或[fUSDT](https://etherscan.io/address/0xc7ee21406bb581e741fbb8b21f213188433d9f2f#readContract)令牌合约中，通过调用的`balanceOf` 合约功能查看。如果使用 Etherscan 的合约，请注意，返回的fUSDC和fUSDT的余额有六个小数位（比如 987654321 = 987.654321 fUSDC），而fDAI的位数为18。这应大约等于您存入的 DAI，USDC 或 USDT 的金额。如果你尝试提超过余额的数量，你钱包就会返回交易将失败的报错。
   - 点击`Withdraw`的提款按钮并发送交易。如果您在大量提款期间选择提款并且 Harvest 的提款缓冲用完了的话，你就要支付一笔费用，用于弥补你从以从收益耕作策略中提取你的稳定币。该笔交易将会很贵，[比如这个案例](https://etherscan.io/tx/0x959045e3c8fb26a9eeab00e5ebe11fe62012cc7148f4d025c4c7f75ec0bed0bb) 消耗了 220 万 Gas 费）。如果你通过将更多资金存入 Harvest 并在等带提款缓冲得到补充之后之后再回来，那么费用可能会更低些（[例如](https://etherscan.io/tx/0x70fddec35fcf1f89fbfff90972be0e04ce0ae8c34abfaf2900e5210fdf86303e)，只花费了468,000 Gas 费）。
   - 最后等待交易确认，确认之后你就会收到稳定币。如果耕种策略成功实施的话，您的稳定币会获得超额利息，因此你获得的收益可能超过您投入的成本。
 
