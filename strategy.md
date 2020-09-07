@@ -2,7 +2,7 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2020-09-07T07:34:39.028Z
+date: 2020-09-07T21:02:23.226Z
 tags: 
 editor: markdown
 ---
@@ -64,6 +64,9 @@ The first yield farming strategy active on Harvest Finance farms CRV, the [Curve
  
  **Concept**
  
+ > Curve has protections in place to only allow whitelisted contracts to vote-lock, but these protections have been removed by Swerve. Verify this by inspecting [Curve](https://github.com/curvefi/curve-dao-contracts/blob/master/contracts/VotingEscrow.vy) and [Swerve](https://github.com/SwerveFinance/SwervContracts/blob/master/VotingEscrow.vy) VotingEscrow code and by [diffing the deployed contracts](https://yieldfarming.info/tools/diff/?contract1=0x5f3b5dfeb7b28cdbd7faba78963ee202a494e2a2&contract2=0xe5e7ddadd563018b0e692c1524b60b754fbd7f02).
+{.is-success}
+ 
  The Curve and Swerve AMMs both support a feature whereby governance tokens can be locked for a time to increase the user's voting power and governance token rewards.
  
  Governance token reward rate can be boosted up to 2.5x by locking a sufficient proportion of available tokens for a sufficient length of time.
@@ -74,6 +77,7 @@ The first yield farming strategy active on Harvest Finance farms CRV, the [Curve
  - http://ipfs2.swerve.fi/dao/#/minter/calc
  
  As of September 7th 2020, 1 SWRV locked for the maximum duration of 4 years would yield the maximum vote boost on up to 8700 swUSD.
+
  
  **Implementation**
  
