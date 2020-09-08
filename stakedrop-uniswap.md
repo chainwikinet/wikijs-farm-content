@@ -2,7 +2,7 @@
 title: FARM Uniswap Farming
 description: provide liquidity, stake, get FARM tokens
 published: true
-date: 2020-09-05T08:54:12.932Z
+date: 2020-09-08T01:33:27.919Z
 tags: 
 editor: markdown
 ---
@@ -11,6 +11,9 @@ editor: markdown
 {.is-warning}
 
 # Stake Uniswap LP Shares
+
+> Use the harvest.finance UI to stake assets. Sending tokens directly to contracts will result in loss of funds.
+{.is-warning}
 
 Users can provide liquidity on Uniswap in several supported Uniswap pools, then [deposit those LP shares into the Harvest Finance stakedrop contracts](https://harvest.finance/earn) to receive FARM tokens.
 
