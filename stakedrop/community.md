@@ -2,7 +2,7 @@
 title: DeFi Community Stakedrop
 description: stake DeFi tokens, earn FARM
 published: true
-date: 2020-09-08T15:47:29.322Z
+date: 2020-09-08T20:34:45.977Z
 tags: 
 editor: markdown
 ---
@@ -45,7 +45,7 @@ SWRV:             https://etherscan.io/token/0xB8BAa0e4287890a5F79863aB62b7F175c
 FARM:             https://etherscan.io/token/0xa0246c9032bC3A600820415aE600c6388619A14D
 
 :strawberry: **Balancer: CRV/FARM 90/10**
-balancer pool:    https://pools.balancer.exchange/#/pool/0x4c2fdD59F8CDf25c5EC60cC3C929e0F81367f147
+balancer pool:    https://pools.balancer.exchange/#/pool/0xac6bac9dc3de2c14b420e287de8ecb330d96e492
 rewards pool:     https://etherscan.io/address/0x45a760b3e83ff8c107c4df955b1483de0982f393#readContract
 CRV:              https://etherscan.io/token/0xD533a949740bb3306d119CC777fa900bA034cd52
 FARM:             https://etherscan.io/token/0xa0246c9032bC3A600820415aE600c6388619A14D
