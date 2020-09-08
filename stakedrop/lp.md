@@ -2,7 +2,7 @@
 title: Harvest Liquidity Provider Stakedrop
 description: provide liquidity for Harvest Finance assets, receive FARM
 published: true
-date: 2020-09-08T04:25:04.809Z
+date: 2020-09-08T12:39:50.753Z
 tags: 
 editor: markdown
 ---
@@ -52,6 +52,15 @@ Deposit the Balancer or Uniswap LP tokens you received using the `EARN` tab. You
 > This listing is not complete.
 {.is-info}
 
+Balancer: USDC-FARM 80/20
+rewards pool: ???
+Balancer pool: https://pools.balancer.exchange/#/pool/0x0126cfa7ec6b6d4a960b5979943c06a9742af55e
+
+Uniswap: USDC-FARM
+rewards pool: https://etherscan.io/address/0x99b0d6641A63Ce173E6EB063b3d3AED9A35Cf9bf
+Uniswap pool: https://uniswap.info/pair/0x514906FC121c7878424a5C928cad1852CC545892
+  USDC:           https://etherscan.io/token/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48
+  FARM:           https://etherscan.io/token/0xa0246c9032bC3A600820415aE600c6388619A14D
 
 Uniswap: fUSDT-USDT 
 rewards pool:     https://etherscan.io/address/0x316de40f36da4c54aff11c1d83081555cca41270#readContract
@@ -71,6 +80,7 @@ Uniswap pool:     https://etherscan.io/address/0x007e383bf3c3ffa12a5de06a53bab10
   DAI:            https://etherscan.io/token/0x6b175474e89094c44da98b954eedeac495271d0f
   fDAI:           https://etherscan.io/token/0xe85c8581e60d7cd32bbfd86303d2a4fa6a951dac
   
+
 
 [uni-farm-es]: https://etherscan.io/address/0x514906FC121c7878424a5C928cad1852CC545892
 [uni-fusdc-es]: https://etherscan.io/address/0x4161fa43eaa1ac3882aeed12c5fc05249e533e67
