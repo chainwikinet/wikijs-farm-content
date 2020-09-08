@@ -1,19 +1,21 @@
 ---
 title: Home
-description: Welcome to the Harvest Finance Community Chainwiki
+description: Harvest Finance Community Chainwiki
 published: true
-date: 2020-09-08T13:55:11.013Z
+date: 2020-09-08T13:58:49.950Z
 tags: 
 editor: markdown
 ---
 
-# Harvest Finance Optimizes Yield Farming
+# Harvest Finance Brings #BreadToThePeople :bread:
 
 Yield farming can offer high interest rates, but it is becoming hard for smaller farmers to access:
 
-1. Tracking and responding to yield farming opportunities can be a full-time job.
-2. Gas costs are increasing, and moving between farming opportunities is becoming prohibitively expensive.
-3. Smart contracts are impossible for regular people to audit and bugs can result in locked funds for theft.
+:corn: Tracking and responding to yield farming opportunities can be a full-time job.
+
+:carrot: Gas costs are increasing, and moving between farming opportunities is becoming prohibitively expensive.
+
+:tomato: Smart contracts are hard to audit and bugs can result in locked funds for theft.
 
 Harvest addresses this by deploying strategies to move assets between different yield farming opportunities to maximize yield. Deposit into Harvest and Harvest takes care of APY tracking, strategy develpment and auditing, and gas costs.
 
