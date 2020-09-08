@@ -2,12 +2,12 @@
 title: DeFi Community Stakedrop
 description: stake DeFi tokens, earn FARM
 published: true
-date: 2020-09-08T02:04:49.106Z
+date: 2020-09-08T06:17:25.396Z
 tags: 
 editor: markdown
 ---
 
-> Use the https://harvest.finance UI to stake assets. Sending tokens directly to contracts will result in loss of funds!
+> Use the https://harvest.finance UI to stake assets. Sending tokens directly to contracts will result in loss of funds! Verify all [Harvest token addresses](https://github.com/harvest-finance/harvest) to avoid trading fake tokens.
 {.is-warning}
 
 Each week, tokens in the DeFi community are selected to be eligible to stake to receive the Harvest Finance FARM token. These tokens are simply staked to receive a reward; they are not deposited in to the Harvest Finance [yield farming strategies](/strategy).
