@@ -2,7 +2,7 @@
 title: Home
 description: Harvest Finance Community Chainwiki
 published: true
-date: 2020-09-08T13:58:49.950Z
+date: 2020-09-08T14:02:23.177Z
 tags: 
 editor: markdown
 ---
@@ -28,7 +28,7 @@ Explore this wiki to learn Harvest and its yield farming strategies.
 
 Earn `$FARM` in upcoming stakedrops or by contributing to the Harvest community.
 
-![background-landscape.9bb460ce.png](/background-landscape.9bb460ce.png)
+![harvest.jpeg](/harvest.jpeg)
 
 ## About This Wiki
 
