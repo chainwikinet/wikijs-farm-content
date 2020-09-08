@@ -2,7 +2,7 @@
 title: 如何锁仓挖 FARM
 description: 
 published: true
-date: 2020-09-08T15:41:55.075Z
+date: 2020-09-08T16:15:50.108Z
 tags: 
 editor: markdown
 ---
@@ -13,6 +13,13 @@ editor: markdown
 >热心的社区成员创建了[非常全面的参与 Staking 获得收益的图文指南](https://medium.com/@BIBI_CAT/harvest-finance-%E5%BC%80%E5%BF%83%E5%86%9C%E5%9C%BA%E6%9C%80%E5%85%A8%E6%8C%96%E7%9F%BF%E6%89%8B%E5%86%8C-50351af924eb)
 {.is-info}
 
+# Stake 代币，赚取 FARM
+
+要参与并赚取 FARM，可以通过 Stake 社区币和 `f稳定币`来获得：
+
+-[Harvest Finance上线公告](https://medium.com/harvest-finance/the-harvest-finance-project-338c3e5806fc)
+- 开始Staking时间：2020年9月1日
+- Staking结束时间：2024年9月1日
 
 我们每周都会精选 Harvest 社区投票出的前几名加入 Stake 列表，被选中的可以锁仓来获得 `FARM` 代币。 在第一周的时候，这些代币没有用来收益耕作，锁仓即可获得 `FARM`空投；然而从第二周开始，我们将会提供相应代币的交易对，用户需要把社区币加入 Balancer 上进行流动性做市，才可以获得`FARM` 。
 
@@ -124,42 +131,52 @@ FARM:             https://etherscan.io/token/0xa0246c9032bC3A600820415aE600c6388
 :spaghetti: BASED-sUSD Uniswap LP
 :grapes: PASTA-ETH Uniswap LP
 
+# 关于稳定币挖矿
 
-
-
-
-
-
-
-# Stake 代币，赚取 FARM
-
-要参与并赚取 FARM，需要 Stake 以下几种资产中的一种，并获得在 Harvest Finance 推出后分配的 FARM 份额：
-
--[Harvest Finance上线公告](https://medium.com/harvest-finance/the-harvest-finance-project-338c3e5806fc)
-- 开始Staking时间：2020年9月1日
-- Staking结束时间：2024年9月1日
-- [FARM代币供应信息](/总供应量)
-
-## 第一波挖矿可以在多个地方进行管理：
-
-- [官网](https：//harvest.finance/)
-- 独立的第三方网站
-- 直接和 Etherscan 合同交互
-
-
-
-# 将令牌添加到耕作中
-
-> 将 USDC，DAI 或 USDT 存入 Harvest 来接收你参与 FARM 质押的 fUSDC，fDAI 或 fUSDT 的 Gas 费可能很高。或者，您可以直接在[在Uniswap上购买fUSDC](https://app.uniswap.org/#/swap?outputCurrency=0xc3f7ffb5d5869b3ade9448d094d81b0521e8326f)。用于fDAI和fUSDT的Uniswap池也即将推出。
+> 把 USDC，DAI 或 USDT 存入 Harvest 换取可以用于 FARM 锁仓挖矿的 fUSDC，fDAI 或 fUSDT 的 Gas 费可能很高。所以有的时候，可能直接去 Uniswap 上购买会更划算，您可以直接在[在Uniswap上购买fUSDC](https://app.uniswap.org/#/swap?outputCurrency=0xc3f7ffb5d5869b3ade9448d094d81b0521e8326f)。用于fDAI和fUSDT的Uniswap池也已经推出。
 {.is-warning}
 
+Harvest Finance 的盈利原理是充分用户存放的资产，把它们用在目前收益最高的挖矿项目中去，类似一个稳定币的机枪池，通过汇集大家的资金，创造最大化的利润。
 
+为了引导用户多在 Harvest 存钱，Harvest 存款代币（`fASSETs`）的持有者可以拿这些`fASSETs`进行锁仓挖矿，获得 `FARM`的额外收益。
+
+| 时间  | 锁仓币种 | 奖励 |
+|--------|-----------------|---------|
+| 第一周, 9月2～9号  | USDC, USDT, DAI | 均分 ~12,000 `$FARM`|     
+| 第二周, 9月9～16号| USDC, USDT, DAI | 均分~11,000 `$FARM`|     
+
+# 如何进行稳定币挖矿
+
+### 1.获取 `fASSET`
+
+如果你打算存入超过$1000的稳定币，那么直接存款是最佳选择
+
+只需要从[官网](https://harvest.finance/)存入稳定币资产。
+
+-存入 `USDC` 换出 `fUSDC`
+-存入 `USDT` 换出 `fUSDT`
+-存入 `DAI` 换出 `fDAI`
+
+由于存款交易的数据（ `input data`）非常大，大概需要消耗 450,000 Gas，所以建议将资金多存放数周来平衡支出并获得最佳收益。
+
+另外，您也可以在Uniswap上购买`fASSETS`：
+
+1. [购买 fUSDC](https://app.uniswap.org/#/swap?outputCurrency=0xc3f7ffb5d5869b3ade9448d094d81b0521e8326f)
+2. [购买 fUSDT](https://app.uniswap.org/#/swap?outputCurrency=0xc7ee21406bb581e741fbb8b21f213188433d9f2f)
+3. [购买 fDAI](http://uniswap.exchange/swap?outputCurrency=0xe85c8581e60d7cd32bbfd86303d2a4fa6a951dac)
+
+***相应的，对于想要换回少于$1000 `f稳定币`的对应资产的人来说，在 Uniswap 上直接出售`f稳定币`也会是最佳选择。***
+
+### 2.将 `fASSET` 存入 [harvest.finance/earn](https://harvest.finance/earn)
+
+1. 在`EARN`页面下，对`fASSETs`进行锁仓，你就可以开始领取`$FARM`锁仓奖励。
 
 # 从耕作中取出令牌
 
 > 注意 Gas 交易价格极高。使用[工具](gasnow.org)来确保您将 Gas 价格设置得足够高，否则您的交易可能需要很长时间才能确认。
 {.is-info}
 
+***对于想要换回少于$1000 `f稳定币`的对应资产的人来说，在 Uniswap 上直接出售`f稳定币`也会是最佳选择。***
 
 对于 fDAI，fUSDC 和 fUSDT，您必须首先从 Staking 的奖励合约中取出。然后在首页将它们取出，重新转化为基础 DAI，USDC 和 USDT。
 
