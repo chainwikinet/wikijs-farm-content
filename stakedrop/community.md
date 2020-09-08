@@ -2,7 +2,7 @@
 title: DeFi Community Stakedrop
 description: stake DeFi tokens, earn FARM
 published: true
-date: 2020-09-08T15:44:42.247Z
+date: 2020-09-08T15:47:29.322Z
 tags: 
 editor: markdown
 ---
@@ -63,8 +63,8 @@ YFV:              https://etherscan.io/token/0x45f24BaEef268BB6d63AEe5129015d697
 FARM:             https://etherscan.io/token/0xa0246c9032bC3A600820415aE600c6388619A14D
 
 :bread: **Balancer: LINK/FARM 90/10**
-balancer pool:    https://pools.balancer.exchange/#/pool/0xb4c605b27758ab80cba186d4826bfa9dbcf1bbb0
-rewards pool:     https://etherscan.io/address/0xb0c22da17d32c01861972bc7c55b650c2d533800#readContract
+balancer pool:    https://pools.balancer.exchange/#/pool/0x418d3dfca5099923cd57e0bf9ed1e9994f515152/
+rewards pool:     https://etherscan.io/address/0x19f8ce19c9730a1d0db5149e65e48c2f0daa9919#readContract
 LINK:             https://etherscan.io/token/0x514910771af9ca656af840dff83e8264ecf986ca
 FARM:             https://etherscan.io/token/0xa0246c9032bC3A600820415aE600c6388619A14D
 
