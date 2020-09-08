@@ -2,7 +2,7 @@
 title: FARM Stake 耕作
 description: 
 published: true
-date: 2020-09-07T15:22:12.876Z
+date: 2020-09-08T12:52:46.267Z
 tags: 
 editor: markdown
 ---
@@ -10,7 +10,7 @@ editor: markdown
 > 当心诈骗！在 GitHub 上验证[令牌地址](https://github.com/harvest-finance/harvest)，以确保您交易的是正确的 Harvest Finance 令牌！
 {.is-warning}
 
->热心的社区成员创建了[非常全面的参与 Staking 获得收益的图文指南](https://medium.com/@bbbolongx/the-humble-farmers-handbook-d7101a06d5bf?sk=74f9a5238760afa198312908e5849579)
+>热心的社区成员创建了[非常全面的参与 Staking 获得收益的图文指南](https://medium.com/@BIBI_CAT/harvest-finance-%E5%BC%80%E5%BF%83%E5%86%9C%E5%9C%BA%E6%9C%80%E5%85%A8%E6%8C%96%E7%9F%BF%E6%89%8B%E5%86%8C-50351af924eb)
 {.is-info}
 
 
