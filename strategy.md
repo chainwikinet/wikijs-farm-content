@@ -2,7 +2,7 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2020-09-08T12:25:33.071Z
+date: 2020-09-08T12:33:28.508Z
 tags: 
 editor: markdown
 ---
@@ -29,7 +29,7 @@ The second yield farming strategy active on Harvest Finance farms SWRV, the [Swe
 | **Yield Payout**        | Successful farming makes the fDAI, fUSDC, and fUSDT redeemable for a growing number of DAI, USDC, and USDT |
 | **FARM Incentives**      | [The fDAI, fUSDC, and fUSDT can be deposited to earn a stakedrop of FARM][farm-stakedrop] |
 | **Vault Contracts**      | [VaultDAI](https://etherscan.io/address/0xe85c8581e60d7cd32bbfd86303d2a4fa6a951dac#code), [VaultUSDC](https://etherscan.io/address/0xc3f7ffb5d5869b3ade9448d094d81b0521e8326f#code), [VaultUSDT](https://etherscan.io/address/0xc7ee21406bb581e741fbb8b21f213188433d9f2f#code) |
-| **Strategy Contracts**   | [CRVStrategySwerveUSDTMainnet](https://etherscan.io/address/0x892171eb51d56dc340e586652068cf758e5f798c#code), [CRVStrategySwerveDAIMainnet](https://etherscan.io/address/0xf60afebb76c43f636e4d1a099847fc97dc8bded0#code), [CRVStrategySwerveUSDCMainnet](https://etherscan.io/address/0x892171eb51d56dc340e586652068cf758e5f798c#code) |
+| **Strategy Contracts**   | [CRVStrategySwerveUSDTMainnet](https://etherscan.io/address/0x892171eb51d56dc340e586652068cf758e5f798c#code), [CRVStrategySwerveDAIMainnet](https://etherscan.io/address/0xf60afebb76c43f636e4d1a099847fc97dc8bded0#code), [CRVStrategySwerveUSDCMainnet](https://etherscan.io/address/0x66b7611f35e48e311929e25d73428410c2335c34#code) |
 | **Example Harvest TX**  | [doHardWork](https://etherscan.io/tx/0x1c838d667a553139bc81c8913e48c1ceb3dccd626f8c97a9e7c4ebe25b588531) |
 
 
@@ -77,6 +77,12 @@ https://etherscan.io/address/0xc07eb91961662d275e2d285bdc21885a4db136b0
 strategy: 0x16438572ce90caacd83f175b4b9e22e360a76b48 CRVStrategyWBTCMainnet
 underlying: 0x2260fac5e5542a773aa44fbcfedf7c193bc2c599 Wrapped BTC (WBTC)
 NoMintRewardPool: https://etherscan.io/address/0x6291ece696cb6682a9bb1d42fca4160771b1d7cc#readContract
+
+**CRVStrategySwerveUSDTMainnet** (v2?)
+https://etherscan.io/address/0x0477b3b746f99010d255f6556444039e2e58864e#code
+
+**CRVStrategySwerveUSDCMainnet** (v2?)
+https://etherscan.io/address/0x00f9d525828beebf1ee75fb72b1f21932e195bdf#code
 
 
 
