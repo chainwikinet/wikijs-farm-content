@@ -2,7 +2,7 @@
 title: FARM Markets
 description: buy and sell FARM tokens and other Harvest Finance assets
 published: true
-date: 2020-09-09T22:23:03.413Z
+date: 2020-09-09T22:25:09.230Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-13T07:23:41.115Z
@@ -48,13 +48,13 @@ Harvest assets, including FARM and the fASSET Harvest deposit tokens, are availa
 [uni-buy-frenbtc]: https://uniswap.exchange/swap?outputCurrency=0xfbe122d0ba3c75e1f7c80bd27613c9f35b81feec
 [uni-buy-fcrvrenwbtc]: https://uniswap.exchange/swap?outputCurrency=0x192E9d29D43db385063799BC239E772c3b6888F3
 
-[uni-info-farm]: https://uniswap.info/asset/0xa0246c9032bc3a600820415ae600c6388619a14d
-[uni-info-fdai]: https://uniswap.info/asset/0xe85c8581e60d7cd32bbfd86303d2a4fa6a951dac
-[uni-info-fusdc]: https://uniswap.info/asset/0xc3f7ffb5d5869b3ade9448d094d81b0521e8326f
-[uni-info-fusdt]: https://uniswap.info/asset/0xc7ee21406bb581e741fbb8b21f213188433d9f2f
-[uni-info-fwbtc]: https://uniswap.info/asset/0xc07eb91961662d275e2d285bdc21885a4db136b0
-[uni-info-frenbtc]: https://uniswap.info/asset/0xfbe122d0ba3c75e1f7c80bd27613c9f35b81feec
-[uni-info-fcrvrenwbtc]: https://uniswap.info/asset/0x192E9d29D43db385063799BC239E772c3b6888F3
+[uni-info-farm]: https://uniswap.info/token/0xa0246c9032bc3a600820415ae600c6388619a14d
+[uni-info-fdai]: https://uniswap.info/token/0xe85c8581e60d7cd32bbfd86303d2a4fa6a951dac
+[uni-info-fusdc]: https://uniswap.info/token/0xc3f7ffb5d5869b3ade9448d094d81b0521e8326f
+[uni-info-fusdt]: https://uniswap.info/token/0xc7ee21406bb581e741fbb8b21f213188433d9f2f
+[uni-info-fwbtc]: https://uniswap.info/token/0xc07eb91961662d275e2d285bdc21885a4db136b0
+[uni-info-frenbtc]: https://uniswap.info/token/0xfbe122d0ba3c75e1f7c80bd27613c9f35b81feec
+[uni-info-fcrvrenwbtc]: https://uniswap.info/token/0x192E9d29D43db385063799BC239E772c3b6888F3
 
 
 
