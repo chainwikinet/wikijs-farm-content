@@ -2,9 +2,10 @@
 title: Frequently Asked Questions
 description: answers to common questions about Harvest Finance
 published: true
-date: 2020-09-04T07:46:57.682Z
+date: 2020-09-09T06:25:57.980Z
 tags: 
 editor: markdown
+dateCreated: 2020-09-03T23:06:00.060Z
 ---
 
 
@@ -17,8 +18,8 @@ editor: markdown
 3. How do I turn stablecoins into Harvest `fStablecoins` that earn yield farming revenue? **[On the Harvest front page](https://harvest.finance/)**
 2. How do I turn `fStablecoin` tokens back into regular stablecoins? **[withdrawal instructions](/stakedrop#removing-tokens-from-farming)**
 4. Do FARM tokens get yield farming revenue just be holding them?  **FARM must be deposited in [Profit Sharing](https://harvest.finance/earn)** to earn yield farming revenue.
-5. How much yield farming revenue is shared with Profit Sharing stakers? **5% of yield farming revenue.** It is paid out using a seven-day moving average, so for the first week after launch, payouts may be small.  Yield farming revenue depends on the profitability of available yield farming opportunities and the total assets available for farming by Harvest.
-6. What happens to the other 95% of of yield farming revenue?  **It is paid out to users that deposit assets to Harvest for farming**.  Over time, holders of Harvest farming deposit tokens—like fDAI, fUSDC, and fUSDT—will receive more of the underlying stablecoins when they withdraw.
+5. How much yield farming revenue is shared with Profit Sharing stakers? **30% of yield farming revenue.** It is paid out using a seven-day moving average, so for the first week after launch, payouts may be small.  Yield farming revenue depends on the profitability of available yield farming opportunities and the total assets available for farming by Harvest.
+6. What happens to the other 70% of of yield farming revenue?  **It is paid out to users that deposit assets to Harvest for farming**.  Over time, holders of Harvest farming deposit tokens—like fDAI, fUSDC, and fUSDT—will receive more of the underlying stablecoins when they withdraw.
 
 
 # Technical Stuff
