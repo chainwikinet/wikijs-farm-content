@@ -2,22 +2,67 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2020-09-08T12:33:28.508Z
+date: 2020-09-09T23:08:52.633Z
 tags: 
 editor: markdown
+dateCreated: 2020-09-04T07:47:54.724Z
 ---
+
+
+# New Strategy Proposals
+ 
+ > Grow Harvest. [Contribute to this wiki!](/contribute)
+ {.is-success}
+
+## Curve hBTC Pool (wBTC, hBTC)
+
+Curve launched a new hBTC pool with hBTC, wBTC pair: https://www.curve.fi/hbtc
+
+CRV stakedrop weight for this pool is zero, so this is not a yield farming opportunity yet.
+
+
 
 # Active Yield Farming Strategies
 
-Harvest Finance is launching with one active yield farming strategy. More strategies will be added soon after user feedback is incorporated into the Harvest Finance site.
+Harvest Finance launched on September 1st. New farming strategies are constantly evaluated for addition to Harvest.
 
-95% of the yield farming revenue is returned to users who provide capital. The remaining 5% of the yield farming revenue is distributed to users who [stake FARM in the Profit Sharing contract][farm-stakedrop]. The Harvest Finance team does not charge fees for withdrawing or depositing assets and does not claim a fee on the yield farming revenue.
+- **2020-09-01** Harvest Finance launches with yCRV CRV farming support for DAI, USDC, USDT
+- **2020-09-05** Within 16 hours of Swerve launch, Harvest adds SWRV farming support for DAI, USDC, USDT
+- **2020-09-08** Harvest adds CurveRenWBTC CRV farming support for WBTC, renBTC, crvRenWBTC
 
-## Farming SWRV
+As of September 8th, 70% of the yield farming revenue is returned to users who provide capital. The remaining 30% of the yield farming revenue is distributed to users who [stake FARM in the Profit Sharing contract][farm-stakedrop]. The Harvest Finance team does not charge fees for withdrawing or depositing assets and does not claim a fee on the yield farming revenue.
 
-The second yield farming strategy active on Harvest Finance farms SWRV, the [Swerve Finance DAO token][swrv].
+## Farming CRV with BTC
 
-> You do not receive CRV directly. Instead, the farmed CRV is sold to return more stablecoins to you when you withdraw.
+This strategy farms CRV, the [Curve Finance DAO token][crv].
+
+> You do not receive CRV directly. Instead, the farmed CRV is sold to return more BTC to you when you withdraw.
+{.is-info}
+
+| | |
+|------------------|-|
+| **Asset Farmed**        | CRV, Curve Finance DAO token  |
+| **Assets Used**         | wBTC, renBTC, crvRenWBTC      |
+| **Basic Strategy**      | CRV is farmed and sold for stablecoins |
+| **How To Participate**  | [deposit a supported asset][hf] |
+| **Yield Payout**        | Successful farming makes your deposit redeemable for a growing amount of the deposited asset |
+| **FARM Incentives**      | [fWBTC, frenBTC, and fcrvRenWBTC deposit receipts can be deposited to earn a stakedrop of FARM][farm-stakedrop] |
+| **Vault Contract**      | [fWBTC][es-fwbtc], [frenBTC][es-frenbtc], [fcrvRenWBTC][es-fcrvrenwbtc] |
+| **Strategy Contract**   | [CRVStrategyWBTCMainnet][es-strat-fwbtc], [CRVStrategyRENBTCMainnet][es-strat-renbtc], [CRVStrategyWRenBTCMixMainnet][es-strat-crvrenwbtc] |
+| **Example Harvest TX**  | [doHardWork](https://etherscan.io/tx/0x01dfcfd6dd1ca0db042fb516767c3725e06cc1db28a40781314c72d897351ba8) |
+
+[es-strat-fwbtc]: https://etherscan.io/address/0xe7048e7186cb6f12c566a6c8a818d9d41da6df19#code
+
+[es-strat-renbtc]: https://etherscan.io/address/0x2eadfb06f9d890eba80e999eaba2d445bc70f006#code
+[es-strat-crvrenwbtc]: https://etherscan.io/address/0xaf2d2e5c5af90c782c008b5b287f20334eeb308e#code
+
+
+
+## Farming SWRV with Stablecoins
+
+This strategy farms SWRV, the [Swerve Finance DAO token][swrv].
+
+> You do not receive SWRV directly. Instead, the farmed SWRV is sold to return more stablecoins to you when you withdraw.
 {.is-info}
 
  | | |
@@ -25,18 +70,18 @@ The second yield farming strategy active on Harvest Finance farms SWRV, the [Swe
 | **Asset Farmed**        | SWRV, Swerve Finance DAO token  |
 | **Assets Used**         | DAI, USDC, USDT               |
 | **Basic Strategy**      | SWRV is farmed and sold for stablecoins |
-| **How To Participate**  | [deposit DAI, USDC, USDT][hf] to receive fDAI, fUSDC, fUSDT |
-| **Yield Payout**        | Successful farming makes the fDAI, fUSDC, and fUSDT redeemable for a growing number of DAI, USDC, and USDT |
-| **FARM Incentives**      | [The fDAI, fUSDC, and fUSDT can be deposited to earn a stakedrop of FARM][farm-stakedrop] |
+| **How To Participate**  | [deposit a supported asset][hf] |
+| **Yield Payout**        | Successful farming makes your deposit redeemable for a growing amount of the deposited asset |
+| **FARM Incentives**      | [fDAI, fUSDC, and fUSDT deposit receipts can be deposited to earn a stakedrop of FARM][farm-stakedrop] |
 | **Vault Contracts**      | [VaultDAI](https://etherscan.io/address/0xe85c8581e60d7cd32bbfd86303d2a4fa6a951dac#code), [VaultUSDC](https://etherscan.io/address/0xc3f7ffb5d5869b3ade9448d094d81b0521e8326f#code), [VaultUSDT](https://etherscan.io/address/0xc7ee21406bb581e741fbb8b21f213188433d9f2f#code) |
 | **Strategy Contracts**   | [CRVStrategySwerveUSDTMainnet](https://etherscan.io/address/0x892171eb51d56dc340e586652068cf758e5f798c#code), [CRVStrategySwerveDAIMainnet](https://etherscan.io/address/0xf60afebb76c43f636e4d1a099847fc97dc8bded0#code), [CRVStrategySwerveUSDCMainnet](https://etherscan.io/address/0x66b7611f35e48e311929e25d73428410c2335c34#code) |
 | **Example Harvest TX**  | [doHardWork](https://etherscan.io/tx/0x1c838d667a553139bc81c8913e48c1ceb3dccd626f8c97a9e7c4ebe25b588531) |
 
 
 
-## Farming CRV
+## Farming CRV with Stablecoins
 
-The first yield farming strategy active on Harvest Finance farms CRV, the [Curve Finance DAO token][crv].
+This strategy farms CRV, the [Curve Finance DAO token][crv].
 
 > You do not receive CRV directly. Instead, the farmed CRV is sold to return more stablecoins to you when you withdraw.
 {.is-info}
@@ -193,14 +238,6 @@ https://etherscan.io/address/0x00f9d525828beebf1ee75fb72b1f21932e195bdf#code
  ```
  
  
- # New Strategy Proposals
- 
- > Grow Harvest. [Contribute to this wiki!](/contribute)
- {.is-success}
-
-
-
-
 
 [farm-stakedrop]: https://harvest.finance/earn
 [harvest]: https://etherscan.io/tx/0xf69262029ce30403101cda38d110ae897a6c23b4b8748d10a9a3514c012c365d
@@ -210,3 +247,10 @@ https://etherscan.io/address/0x00f9d525828beebf1ee75fb72b1f21932e195bdf#code
 [hf]: https://harvest.finance
 [swrv]: https://www.coingecko.com/en/coins/swerve
 
+[es-farm]: https://etherscan.io/token/0xa0246c9032bc3a600820415ae600c6388619a14d
+[es-fdai]: https://etherscan.io/token/0xe85c8581e60d7cd32bbfd86303d2a4fa6a951dac
+[es-fusdc]: https://etherscan.io/token/0xc3f7ffb5d5869b3ade9448d094d81b0521e8326f
+[es-fusdt]: https://etherscan.io/token/0xc7ee21406bb581e741fbb8b21f213188433d9f2f
+[es-fwbtc]: https://etherscan.io/token/0xc07eb91961662d275e2d285bdc21885a4db136b0
+[es-frenbtc]: https://etherscan.io/token/0xfbe122d0ba3c75e1f7c80bd27613c9f35b81feec
+[es-fcrvrenwbtc]: https://etherscan.io/token/0x192E9d29D43db385063799BC239E772c3b6888F3
