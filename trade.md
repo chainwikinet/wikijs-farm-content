@@ -2,49 +2,74 @@
 title: FARM Markets
 description: buy and sell FARM tokens and other Harvest Finance assets
 published: true
-date: 2020-09-08T02:07:19.180Z
+date: 2020-09-09T22:23:03.413Z
 tags: 
 editor: markdown
+dateCreated: 2020-08-13T07:23:41.115Z
 ---
 
-> Beware of scams! Verify token addresses in multiple places to ensure that you are trading for the correct Harvest Finance tokens!
+> Beware of scams! Verify all [token addresses](https://github.com/harvest-finance/harvest) to avoid trading fake tokens.
 {.is-warning}
 
 
+# Trade Harvest Assets
+
+Harvest assets, including FARM and the fASSET Harvest deposit tokens, are available on Uniswap.
+
+| Token   | Address | Uniswap |
+|---------|---------|---------|
+| FARM    | [0xa0246c9032bc3a600820415ae600c6388619a14d][es-farm] | [buy][uni-buy-farm], [info][uni-info-farm]
+| fDAI    | [0xe85c8581e60d7cd32bbfd86303d2a4fa6a951dac][es-fdai] | [buy][uni-buy-fdai], [info][uni-info-fdai]
+| fUSDC   | [0xc3f7ffb5d5869b3ade9448d094d81b0521e8326f][es-fusdc] | [buy][uni-buy-fusdc], [info][uni-info-fusdc]
+| fUSDT   | [0xc7ee21406bb581e741fbb8b21f213188433d9f2f][es-fusdt] | [buy][uni-buy-fusdt], [info][uni-info-fusdt]
+| fWBTC   | [0xc07eb91961662d275e2d285bdc21885a4db136b0][es-fwbtc] | [buy][uni-buy-fwbtc], [info][uni-info-fwbtc]
+| frenBTC | [0xfbe122d0ba3c75e1f7c80bd27613c9f35b81feec][es-frenbtc] | [buy][uni-buy-frenbtc], [info][uni-info-frenbtc]
+| fcrvRenWBTC | [0x192E9d29D43db385063799BC239E772c3b6888F3][es-fcrvrenwbtc] | [buy][uni-buy-fcrvrenwbtc], [info][uni-info-fcrvrenwbtc]
 
 
-| Token | Address |
-|-------|---------|
-| FARM  | [0xa0246c9032bc3a600820415ae600c6388619a14d][es-farm]  |
-| fDAI  | [0xe85c8581e60d7cd32bbfd86303d2a4fa6a951dac][es-fdai]  |
-| fUSDC | [0xc3f7ffb5d5869b3ade9448d094d81b0521e8326f][es-fusdc] |
-| fUSDT | [0xc7ee21406bb581e741fbb8b21f213188433d9f2f][es-fusdt] |
-
-# Uniswap
-
-Harvest Finance has incentivized a USDC:FARM pair on Uniswap.
-
-- trade: https://app.uniswap.org/#/swap?inputCurrency=0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48&outputCurrency=0xa0246c9032bc3a600820415ae600c6388619a14d
-- add liquidity: https://app.uniswap.org/#/add/0xa0246c9032bc3a600820415ae600c6388619a14d/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48
-- reward pool: https://etherscan.io/address/0x99b0d6641a63ce173e6eb063b3d3aed9a35cf9bf
-- pool stats: https://uniswap.info/pair/0x514906FC121c7878424a5C928cad1852CC545892
 
 
-# Balancer
 
-- Balancer pool: https://pools.balancer.exchange/#/pool/0x0395e4a17ff11d36dac9959f2d7c8eca10fe89c9
-- Balancer pool: https://etherscan.io/address/0x0395e4a17ff11d36dac9959f2d7c8eca10fe89c9
-- BLP rewards pool: https://etherscan.io/address/0x6f8a975758436a5ec38d2f9d2336504430465517
 
 
 [es-farm]: https://etherscan.io/token/0xa0246c9032bc3a600820415ae600c6388619a14d
-[es-pool-farm]: https://etherscan.io/address/0xae024F29C26D6f71Ec71658B1980189956B0546D
-
 [es-fdai]: https://etherscan.io/token/0xe85c8581e60d7cd32bbfd86303d2a4fa6a951dac
-[es-pool-fdai]: https://etherscan.io/address/0xF9E5f9024c2f3f2908A1d0e7272861a767C9484b
-
 [es-fusdc]: https://etherscan.io/token/0xc3f7ffb5d5869b3ade9448d094d81b0521e8326f
-[es-pool-fusdc]: https://etherscan.io/address/0xE1f9A3EE001a2EcC906E8de637DBf20BB2d44633
-
 [es-fusdt]: https://etherscan.io/token/0xc7ee21406bb581e741fbb8b21f213188433d9f2f
+[es-fwbtc]: https://etherscan.io/token/0xc07eb91961662d275e2d285bdc21885a4db136b0
+[es-frenbtc]: https://etherscan.io/token/0xfbe122d0ba3c75e1f7c80bd27613c9f35b81feec
+[es-fcrvrenwbtc]: https://etherscan.io/token/0x192E9d29D43db385063799BC239E772c3b6888F3
+
+[uni-buy-farm]: https://uniswap.exchange/swap?outputCurrency=0xa0246c9032bc3a600820415ae600c6388619a14d
+[uni-buy-fdai]: https://uniswap.exchange/swap?outputCurrency=0xe85c8581e60d7cd32bbfd86303d2a4fa6a951dac
+[uni-buy-fusdc]: https://uniswap.exchange/swap?outputCurrency=0xc3f7ffb5d5869b3ade9448d094d81b0521e8326f
+[uni-buy-fusdt]: https://uniswap.exchange/swap?outputCurrency=0xc7ee21406bb581e741fbb8b21f213188433d9f2f
+[uni-buy-fwbtc]: https://uniswap.exchange/swap?outputCurrency=0xc07eb91961662d275e2d285bdc21885a4db136b0
+[uni-buy-frenbtc]: https://uniswap.exchange/swap?outputCurrency=0xfbe122d0ba3c75e1f7c80bd27613c9f35b81feec
+[uni-buy-fcrvrenwbtc]: https://uniswap.exchange/swap?outputCurrency=0x192E9d29D43db385063799BC239E772c3b6888F3
+
+[uni-info-farm]: https://uniswap.info/asset/0xa0246c9032bc3a600820415ae600c6388619a14d
+[uni-info-fdai]: https://uniswap.info/asset/0xe85c8581e60d7cd32bbfd86303d2a4fa6a951dac
+[uni-info-fusdc]: https://uniswap.info/asset/0xc3f7ffb5d5869b3ade9448d094d81b0521e8326f
+[uni-info-fusdt]: https://uniswap.info/asset/0xc7ee21406bb581e741fbb8b21f213188433d9f2f
+[uni-info-fwbtc]: https://uniswap.info/asset/0xc07eb91961662d275e2d285bdc21885a4db136b0
+[uni-info-frenbtc]: https://uniswap.info/asset/0xfbe122d0ba3c75e1f7c80bd27613c9f35b81feec
+[uni-info-fcrvrenwbtc]: https://uniswap.info/asset/0x192E9d29D43db385063799BC239E772c3b6888F3
+
+
+
+
+
+
+
+[es-pool-farm]: https://etherscan.io/address/0xae024F29C26D6f71Ec71658B1980189956B0546D
+[es-pool-fdai]: https://etherscan.io/address/0xF9E5f9024c2f3f2908A1d0e7272861a767C9484b
+[es-pool-fusdc]: https://etherscan.io/address/0xE1f9A3EE001a2EcC906E8de637DBf20BB2d44633
 [es-pool-fusdt]: https://etherscan.io/address/0x5bd997039FFF16F653EF15D1428F2C791519f58d
+
+
+
+
+
+
+
