@@ -2,9 +2,10 @@
 title: Harvest Security
 description: testing and auditing the Harvest Finance contracts
 published: true
-date: 2020-09-08T17:51:15.833Z
+date: 2020-09-09T08:19:55.329Z
 tags: 
 editor: markdown
+dateCreated: 2020-09-06T07:52:56.974Z
 ---
 
 # Contract Tests
@@ -12,7 +13,6 @@ editor: markdown
 Harvest's talented tractor engineers have created one of the best test suites, learn more [here](https://github.com/harvest-finance/harvest/tree/master/test)
 
 The contracts also have extensive comments to understand what each part of the code is doing.
-
 
 # Contract Audits
 
@@ -35,3 +35,11 @@ Last few days PeckShield has done a sanity check of Harvest Finance smart contra
 ## Certik Audit
 
 An audit from [Certik](https://twitter.com/certik_io) has also been commissioned. Certik is expected to begin work around September 15-16.
+
+## Haechi Labs
+
+[haechi.io](https://haechi.io) is a Korean security company that has performed audits for LG, Samsung, Carry Protocol, and the Ethereum Foundation.
+
+Confirmed to perform another audit on Harvest with delivery expected in late September.
+
+
