@@ -2,7 +2,7 @@
 title: FARM Markets
 description: buy and sell FARM tokens and other Harvest Finance assets
 published: true
-date: 2020-09-09T22:37:17.114Z
+date: 2020-09-09T22:40:08.116Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-13T07:23:41.115Z
@@ -26,6 +26,13 @@ Harvest assets, including FARM and the fASSET Harvest deposit tokens, are availa
 | frenBTC | [0xfbe122d0ba3c75e1f7c80bd27613c9f35b81feec][es-frenbtc] | [deposit renBTC][hf], [buy][uni-buy-frenbtc], [info][uni-info-frenbtc]
 | fcrvRenWBTC | [0x192E9d29D43db385063799BC239E772c3b6888F3][es-fcrvrenwbtc] | [deposit crvRenWBTC][hf], [buy][uni-buy-fcrvrenwbtc], [info][uni-info-fcrvrenwbtc]
 
+# Centralized Exchange Listings
+
+> Add more listings to this section. [Here's how](/contribute).
+{.is-info}
+
+
+Listed on [LBank.info](https://twitter.com/LBank_Exchange/status/1303291365896331265)
 
 
 
