@@ -2,9 +2,10 @@
 title: Official Harvest Finance Resources
 description: official resources for the Harvest Finance community
 published: true
-date: 2020-09-02T22:03:56.285Z
+date: 2020-09-09T19:09:06.339Z
 tags: 
-editor: undefined
+editor: markdown
+dateCreated: 2020-08-13T07:20:59.363Z
 ---
 
 
@@ -16,6 +17,7 @@ editor: undefined
 The Harvest Finance project was launched by independent developers who wanted to make yield farming easier for smaller holders.
 
 - https://harvest.finance/
+- https://www.reddit.com/r/HarvestFinance/
 
 The official launch team information sources so far are Twitter, Medium, and chat on Discord:
 
