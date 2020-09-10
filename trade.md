@@ -2,7 +2,7 @@
 title: FARM Markets
 description: buy and sell FARM tokens and other Harvest Finance assets
 published: true
-date: 2020-09-10T09:55:52.182Z
+date: 2020-09-10T10:50:53.865Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-13T07:23:41.115Z
@@ -63,9 +63,9 @@ Listed on [LBank.info](https://twitter.com/LBank_Exchange/status/130329136589633
 [uni-buy-fdai]: https://uniswap.exchange/swap?outputCurrency=0xe85c8581e60d7cd32bbfd86303d2a4fa6a951dac
 [uni-buy-fusdc]: https://uniswap.exchange/swap?outputCurrency=0xc3f7ffb5d5869b3ade9448d094d81b0521e8326f
 [uni-buy-fusdt]: https://uniswap.exchange/swap?outputCurrency=0xc7ee21406bb581e741fbb8b21f213188433d9f2f
-[uni-buy-fwbtc]: https://uniswap.exchange/swap?outputCurrency=0xc07eb91961662d275e2d285bdc21885a4db136b0
-[uni-buy-frenbtc]: https://uniswap.exchange/swap?outputCurrency=0xfbe122d0ba3c75e1f7c80bd27613c9f35b81feec
-[uni-buy-fcrvrenwbtc]: https://uniswap.exchange/swap?outputCurrency=0x192E9d29D43db385063799BC239E772c3b6888F3
+[uni-buy-fwbtc]: https://uniswap.exchange/swap?inputCurrency=0x2260fac5e5542a773aa44fbcfedf7c193bc2c599&outputCurrency=0xc07eb91961662d275e2d285bdc21885a4db136b0
+[uni-buy-frenbtc]: https://uniswap.exchange/swap?inputCurrency=0x2260fac5e5542a773aa44fbcfedf7c193bc2c599&outputCurrency=0xfbe122d0ba3c75e1f7c80bd27613c9f35b81feec
+[uni-buy-fcrvrenwbtc]: https://uniswap.exchange/swap?inputCurrency=0x2260fac5e5542a773aa44fbcfedf7c193bc2c599&outputCurrency=0x192E9d29D43db385063799BC239E772c3b6888F3
 
 [uni-info-farm]: https://uniswap.info/token/0xa0246c9032bc3a600820415ae600c6388619a14d
 [uni-info-fdai]: https://uniswap.info/token/0xe85c8581e60d7cd32bbfd86303d2a4fa6a951dac
