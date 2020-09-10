@@ -2,7 +2,7 @@
 title: FARM Markets
 description: buy and sell FARM tokens and other Harvest Finance assets
 published: true
-date: 2020-09-09T22:40:08.116Z
+date: 2020-09-10T09:55:52.182Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-13T07:23:41.115Z
@@ -16,15 +16,27 @@ dateCreated: 2020-08-13T07:23:41.115Z
 
 Harvest assets, including FARM and the fASSET Harvest deposit tokens, are available on Uniswap.
 
+> Click the token name in the following table to add it to Metamask and other compatible wallets.
+{.is-success}
+
+
 | Token   | Address | Uniswap |
 |---------|---------|---------|
-| FARM    | [0xa0246c9032bc3a600820415ae600c6388619a14d][es-farm] | [buy][uni-buy-farm], [info][uni-info-farm]
-| fDAI    | [0xe85c8581e60d7cd32bbfd86303d2a4fa6a951dac][es-fdai] | [deposit DAI][hf], [buy][uni-buy-fdai], [info][uni-info-fdai]
-| fUSDC   | [0xc3f7ffb5d5869b3ade9448d094d81b0521e8326f][es-fusdc] | [deposit USDC][hf], [buy][uni-buy-fusdc], [info][uni-info-fusdc]
-| fUSDT   | [0xc7ee21406bb581e741fbb8b21f213188433d9f2f][es-fusdt] | [deposit USDT][hf], [buy][uni-buy-fusdt], [info][uni-info-fusdt]
-| fWBTC   | [0xc07eb91961662d275e2d285bdc21885a4db136b0][es-fwbtc] | [deposit WBTC][hf], [buy][uni-buy-fwbtc], [info][uni-info-fwbtc]
-| frenBTC | [0xfbe122d0ba3c75e1f7c80bd27613c9f35b81feec][es-frenbtc] | [deposit renBTC][hf], [buy][uni-buy-frenbtc], [info][uni-info-frenbtc]
-| fcrvRenWBTC | [0x192E9d29D43db385063799BC239E772c3b6888F3][es-fcrvrenwbtc] | [deposit crvRenWBTC][hf], [buy][uni-buy-fcrvrenwbtc], [info][uni-info-fcrvrenwbtc]
+| [FARM][add-farm]    | [0xa0246c9032bC3A600820415aE600c6388619A14D][es-farm] | [buy][uni-buy-farm], [info][uni-info-farm]
+| [fDAI][add-fdai]    | [0xe85C8581e60D7Cd32Bbfd86303d2A4FA6a951Dac][es-fdai] | [deposit DAI][hf], [buy][uni-buy-fdai], [info][uni-info-fdai]
+| [fUSDC][add-fusdc]   | [0xc3F7ffb5d5869B3ade9448D094d81B0521e8326f][es-fusdc] | [deposit USDC][hf], [buy][uni-buy-fusdc], [info][uni-info-fusdc]
+| [fUSDT][add-fusdt]   | [0xc7EE21406BB581e741FBb8B21f213188433D9f2F][es-fusdt] | [deposit USDT][hf], [buy][uni-buy-fusdt], [info][uni-info-fusdt]
+| [fWBTC][add-fwbtc]   | [0xc07EB91961662D275E2D285BdC21885A4Db136B0][es-fwbtc] | [deposit WBTC][hf], [buy][uni-buy-fwbtc], [info][uni-info-fwbtc]
+| [frenBTC][add-frenbtc] | [0xfBe122D0ba3c75e1F7C80bd27613c9f35B81FEeC][es-frenbtc] | [deposit renBTC][hf], [buy][uni-buy-frenbtc], [info][uni-info-frenbtc]
+| [fcrvRenWBTC][add-fcrvrenwbtc] | [0x192E9d29D43db385063799BC239E772c3b6888F3][es-fcrvrenwbtc] | [deposit crvRenWBTC][hf], [buy][uni-buy-fcrvrenwbtc], [info][uni-info-fcrvrenwbtc]
+
+[add-farm]: https://silagepete.github.io/add-farm
+[add-fdai]: https://silagepete.github.io/add-fdai
+[add-fusdc]: https://silagepete.github.io/add-fusdc
+[add-fusdt]: https://silagepete.github.io/add-fusdt
+[add-fwbtc]: https://silagepete.github.io/add-fwbtc
+[add-frenbtc]: https://silagepete.github.io/add-frenbtc
+[add-fcrvrenwbtc]: https://silagepete.github.io/add-fcrvrenwbtc
 
 # Centralized Exchange Listings
 
