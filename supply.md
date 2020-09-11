@@ -2,9 +2,10 @@
 title: FARM Token Supply
 description: FARM token supply and emission schedule
 published: true
-date: 2020-09-07T16:12:28.518Z
+date: 2020-09-11T18:46:24.113Z
 tags: 
 editor: markdown
+dateCreated: 2020-08-16T22:09:16.263Z
 ---
 
 
@@ -21,7 +22,7 @@ Only ~4% of the FARM supply will become available in the first month after launc
 
 This requires some math.  [Contribute!](/contribute)
 
-As of right now ( 2020-09-07 UTC 16:00), there are approximately 48 000 FARM tokens in existance.
+As of right now ( 2020-09-07 UTC 16:00), there are approximately 48 000 FARM tokens in existence.
 
 Week 1: 57569.1 released (1.15% of supply)
 Week 2: 51676.2 released (1.03% of supply)
