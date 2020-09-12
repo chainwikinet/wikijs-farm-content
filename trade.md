@@ -2,7 +2,7 @@
 title: FARM Markets
 description: buy and sell FARM tokens and other Harvest Finance assets
 published: true
-date: 2020-09-10T10:50:53.865Z
+date: 2020-09-12T16:36:21.339Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-13T07:23:41.115Z
@@ -30,13 +30,13 @@ Harvest assets, including FARM and the fASSET Harvest deposit tokens, are availa
 | [frenBTC][add-frenbtc] | [0xfBe122D0ba3c75e1F7C80bd27613c9f35B81FEeC][es-frenbtc] | [deposit renBTC][hf], [buy][uni-buy-frenbtc], [info][uni-info-frenbtc]
 | [fcrvRenWBTC][add-fcrvrenwbtc] | [0x192E9d29D43db385063799BC239E772c3b6888F3][es-fcrvrenwbtc] | [deposit crvRenWBTC][hf], [buy][uni-buy-fcrvrenwbtc], [info][uni-info-fcrvrenwbtc]
 
-[add-farm]: https://silagepete.github.io/add-farm
-[add-fdai]: https://silagepete.github.io/add-fdai
-[add-fusdc]: https://silagepete.github.io/add-fusdc
-[add-fusdt]: https://silagepete.github.io/add-fusdt
-[add-fwbtc]: https://silagepete.github.io/add-fwbtc
-[add-frenbtc]: https://silagepete.github.io/add-frenbtc
-[add-fcrvrenwbtc]: https://silagepete.github.io/add-fcrvrenwbtc
+[add-farm]: https://harvestfi.github.io/add-farm
+[add-fdai]: https://harvestfi.github.io/add-fdai
+[add-fusdc]: https://harvestfi.github.io/add-fusdc
+[add-fusdt]: https://harvestfi.github.io/add-fusdt
+[add-fwbtc]: https://harvestfi.github.io/add-fwbtc
+[add-frenbtc]: https://harvestfi.github.io/add-frenbtc
+[add-fcrvrenwbtc]: https://harvestfi.github.io/add-fcrvrenwbtc
 
 # Centralized Exchange Listings
 
