@@ -2,7 +2,7 @@
 title: Risks
 description: Risks of using Harvest Finance
 published: true
-date: 2020-09-12T21:09:22.572Z
+date: 2020-09-12T21:14:15.335Z
 tags: risks
 editor: markdown
 dateCreated: 2020-09-12T19:15:59.710Z
