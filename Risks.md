@@ -2,7 +2,7 @@
 title: Risks
 description: Risks of using Harvest Finance
 published: true
-date: 2020-09-12T21:14:15.335Z
+date: 2020-09-12T21:15:03.929Z
 tags: risks
 editor: markdown
 dateCreated: 2020-09-12T19:15:59.710Z
@@ -45,7 +45,7 @@ Impermanent loss can be easily explained by the difference in holding an asset v
 Harvest uses strategies that have exposure to liquidity pools, thus it is susceptible to this kind of risk.
 
 ## **Slippage**
-Slippage occurs when coins are bought from a liquidity pool. It is the cost that the buyer must bear for disrupting the equilibrium in the liquidity pool. Slippage can occur at any time but is most prevalant during high volatility times.
+Slippage occurs when coins are bought from a liquidity pool. It is the cost that the buyer must bear for disrupting the equilibrium in the liquidity pool. Slippage can occur at any time but is most prevalent during high volatility times.
  
 **Why is this relevant for me?**
 Sometimes when you have put funds on https://harvest.finance/, at the very beginning you could be seeing that you have fewer funds than initially deposited. This phenomenon happens due to slippage. By keeping your funds deposited for some time your deposits should return to what you initially deposited and keep growing.
