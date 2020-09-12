@@ -2,9 +2,10 @@
 title: Home
 description: Harvest Finance Community Chainwiki
 published: true
-date: 2020-09-08T14:03:13.992Z
+date: 2020-09-12T05:16:18.384Z
 tags: 
 editor: markdown
+dateCreated: 2020-08-13T05:55:54.766Z
 ---
 
 # Harvest Finance Brings #BreadToThePeople :bread:
@@ -17,7 +18,7 @@ Yield farming can offer high interest rates, but it is becoming hard for smaller
 
 :tomato: Smart contracts are hard to audit and bugs can result in locked funds for theft.
 
-Harvest addresses this by deploying strategies to move assets between different yield farming opportunities to maximize yield. Deposit into Harvest and Harvest takes care of APY tracking, strategy develpment and auditing, and gas costs.
+Harvest addresses this by deploying strategies to move assets between different yield farming opportunities to maximize yield. Deposit into Harvest and Harvest takes care of APY tracking, strategy development and auditing, and gas costs.
 
 # Learn More
 
