@@ -2,7 +2,7 @@
 title: FARM Markets
 description: buy and sell FARM tokens and other Harvest Finance assets
 published: true
-date: 2020-09-12T16:36:21.339Z
+date: 2020-09-12T17:14:09.734Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-13T07:23:41.115Z
@@ -30,14 +30,6 @@ Harvest assets, including FARM and the fASSET Harvest deposit tokens, are availa
 | [frenBTC][add-frenbtc] | [0xfBe122D0ba3c75e1F7C80bd27613c9f35B81FEeC][es-frenbtc] | [deposit renBTC][hf], [buy][uni-buy-frenbtc], [info][uni-info-frenbtc]
 | [fcrvRenWBTC][add-fcrvrenwbtc] | [0x192E9d29D43db385063799BC239E772c3b6888F3][es-fcrvrenwbtc] | [deposit crvRenWBTC][hf], [buy][uni-buy-fcrvrenwbtc], [info][uni-info-fcrvrenwbtc]
 
-[add-farm]: https://harvestfi.github.io/add-farm
-[add-fdai]: https://harvestfi.github.io/add-fdai
-[add-fusdc]: https://harvestfi.github.io/add-fusdc
-[add-fusdt]: https://harvestfi.github.io/add-fusdt
-[add-fwbtc]: https://harvestfi.github.io/add-fwbtc
-[add-frenbtc]: https://harvestfi.github.io/add-frenbtc
-[add-fcrvrenwbtc]: https://harvestfi.github.io/add-fcrvrenwbtc
-
 # Centralized Exchange Listings
 
 > Add more listings to this section. [Here's how](/contribute).
@@ -50,6 +42,14 @@ Listed on [LBank.info](https://twitter.com/LBank_Exchange/status/130329136589633
 
 
 [hf]: https://harvest.finance
+
+[add-farm]: https://harvestfi.github.io/add-farm
+[add-fdai]: https://harvestfi.github.io/add-fdai
+[add-fusdc]: https://harvestfi.github.io/add-fusdc
+[add-fusdt]: https://harvestfi.github.io/add-fusdt
+[add-fwbtc]: https://harvestfi.github.io/add-fwbtc
+[add-frenbtc]: https://harvestfi.github.io/add-frenbtc
+[add-fcrvrenwbtc]: https://harvestfi.github.io/add-fcrvrenwbtc
 
 [es-farm]: https://etherscan.io/token/0xa0246c9032bc3a600820415ae600c6388619a14d
 [es-fdai]: https://etherscan.io/token/0xe85c8581e60d7cd32bbfd86303d2a4fa6a951dac
