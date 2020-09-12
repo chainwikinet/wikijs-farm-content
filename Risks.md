@@ -2,7 +2,7 @@
 title: Risks
 description: Risks of using Harvest Finance
 published: true
-date: 2020-09-12T21:15:03.929Z
+date: 2020-09-12T21:17:32.428Z
 tags: risks
 editor: markdown
 dateCreated: 2020-09-12T19:15:59.710Z
@@ -29,7 +29,7 @@ While we are still waiting for full audits, we have a preliminary confirmation f
 Last few days PeckShield has done a sanity check of Harvest Finance smart contracts, so far no serious business logic issue was found.  In the next several weeks, we will conduct a full security audit of the smart contracts. [@harvest_finance](https://twitter.com/harvest_finance) #DeFiFarming
 
 **Why is this relevant for me?**
-When you deposit your funds on https://harvest.finance/ they get deposited in our smart contract.
+When you deposit your funds on https://harvest.finance/ they get deposited in the smart contract.
  
 
 ## Composability 
