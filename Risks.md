@@ -2,7 +2,7 @@
 title: Risks
 description: Risks of using Harvest Finance
 published: true
-date: 2020-09-13T06:18:55.309Z
+date: 2020-09-13T07:02:27.369Z
 tags: risks
 editor: markdown
 dateCreated: 2020-09-12T19:15:59.710Z
@@ -38,7 +38,7 @@ Composability risk is about using multiple smart contracts each of which has its
 # **Impermanent Loss / Divergence loss**
 
 Impermanent loss is associated with providing funds/coins to a liquidity pool. Liquidity pools are used in Decentralized Exchanges such as Uniswap, Curve, and Balancer in order to create money markets a.k.a. the ability for traders to buy and sell coins. 
-Impermanent loss can be easily explained by the difference in holding an asset versus providing liquidity in that asset. Or simply said you might be better off by holding an asset vs providing liquidity for it on a Decentralized Exchange. For example, in Uniswap a 25% price change of an asset results in a 0.6% loss relative to if you hold the asset. There are very good resources to understand the concept and the math behind it – [HERE](/en/https://www.youtube.com/watch?v=8XJ1MSTEuU0) and [HERE](/en/https://medium.com/@pintail/uniswap-a-good-deal-for-liquidity-providers-104c0b6816f2)
+Impermanent loss can be easily explained by the difference in holding an asset versus providing liquidity in that asset. Or simply said you might be better off by holding an asset vs providing liquidity for it on a Decentralized Exchange. For example, in Uniswap a 25% price change of an asset results in a 0.6% loss relative to if you hold the asset. There are very good resources to understand the concept and the math behind it – [HERE](https://www.youtube.com/watch?v=8XJ1MSTEuU0) and [HERE](https://medium.com/@pintail/uniswap-a-good-deal-for-liquidity-providers-104c0b6816f2)
 
 
 **Why is this relevant for me?**
