@@ -2,9 +2,10 @@
 title: Harvest Liquidity Provider Stakedrop
 description: provide liquidity for Harvest Finance assets, receive FARM
 published: true
-date: 2020-09-08T12:39:50.753Z
+date: 2020-09-14T18:07:22.413Z
 tags: 
 editor: markdown
+dateCreated: 2020-09-08T04:25:04.809Z
 ---
 
 > Use the [harvest.finance](https://harvest.finance) site to stake assets. Sending tokens directly to contracts will result in loss of funds! Verify all [token addresses](https://github.com/harvest-finance/harvest) to avoid trading fake tokens.
@@ -49,13 +50,12 @@ Deposit the Balancer or Uniswap LP tokens you received using the `EARN` tab. You
 > Contract addresses are provided for technical information only; **do not interact directly with the contracts unless you know what you are doing!**
 {.is-warning}
 
-> This listing is not complete.
-{.is-info}
-
 Balancer: USDC-FARM 80/20
-rewards pool: ???
+rewards pool: https://etherscan.io/address/0x346523a81f16030110e6c858ee0e11f156840bd1
 Balancer pool: https://pools.balancer.exchange/#/pool/0x0126cfa7ec6b6d4a960b5979943c06a9742af55e
-
+  USDC:           https://etherscan.io/token/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48
+  FARM:           https://etherscan.io/token/0xa0246c9032bC3A600820415aE600c6388619A14D
+  
 Uniswap: USDC-FARM
 rewards pool: https://etherscan.io/address/0x99b0d6641A63Ce173E6EB063b3d3AED9A35Cf9bf
 Uniswap pool: https://uniswap.info/pair/0x514906FC121c7878424a5C928cad1852CC545892
