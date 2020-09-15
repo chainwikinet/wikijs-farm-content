@@ -2,7 +2,7 @@
 title: Wiki Contribution Guide
 description: how create and edit content on the wiki
 published: true
-date: 2020-09-15T16:06:55.780Z
+date: 2020-09-15T18:31:41.407Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-21T08:15:02.963Z
@@ -40,3 +40,6 @@ Some ideas to get started:
 
 **Gather updated info about audits from Discord.**
 - add to https://farm.chainwiki.dev/en/security
+
+**Update links to BTC:fBTC Uniswap pools.**
+- add to https://farm.chainwiki.dev/en/stakedrop/lp
