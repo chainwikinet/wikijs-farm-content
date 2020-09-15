@@ -2,7 +2,7 @@
 title: Harvest Liquidity Provider Stakedrop
 description: provide liquidity for Harvest Finance assets, receive FARM
 published: true
-date: 2020-09-14T18:07:22.413Z
+date: 2020-09-15T18:29:38.713Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-08T04:25:04.809Z
@@ -20,14 +20,27 @@ To make it easy to buy and sell Harvest assets and participate in Harvest Financ
 
 | Dates  | Eligible Pool   | Actions | Rewards |
 |--------|-----------------|---------|---------|
-| :cherries:Week 1, Sept 1-8   | $FARM:USDC, Uniswap        | [info][uni-farm-info], [add liquidity][uni-farm-add] | ~8,100 `$FARM` (14% of emission)  |
-| :cherries:Week 1, Sept 1-8   | $FARM:USDC, Balancer 95/5  | [info, add liquidity][bal-farm95-info] | ~8,100 `$FARM` (14% of emission)  |
-| :pineapple:Week 2, Sept 8-15 | $FARM:USDC, Uniswap        | [info][uni-farm-info], [add liquidity][uni-farm-add] | ~18,100 `$FARM` (35% of emission) |
-| :pineapple:Week 2, Sept 8-15 | $FARM:USDC, Balancer 80/20 | [info, add liquidity][bal-farm80-info] | ~3,600 `$FARM` (7% of emission)   |
+| :cherries:Week 1, Sept 1-8   | $FARM:USDC, Uniswap        | [info][uni-farm-info], [add liquidity][uni-farm-add]   | ~8,100 `$FARM` (14% of emission)  |
+| :cherries:Week 1, Sept 1-8   | $FARM:USDC, Balancer 95/5  | [info, add liquidity][bal-farm95-info]                 | ~8,100 `$FARM` (14% of emission)  |
+| :pineapple:Week 2, Sept 8-15 | $FARM:USDC, Uniswap        | [info][uni-farm-info], [add liquidity][uni-farm-add]   | ~18,100 `$FARM` (35% of emission) |
+| :pineapple:Week 2, Sept 8-15 | $FARM:USDC, Balancer 80/20 | [info, add liquidity][bal-farm80-info]                 | ~3,600 `$FARM` (7% of emission)   |
 | :pineapple:Week 2, Sept 8-15 | $fUSDC:USDC, Uniswap       | [info][uni-fusdc-info], [add liquidity][uni-fusdc-add] | ~360 `$FARM` (0.7% of emission) |
 | :pineapple:Week 2, Sept 8-15 | $fUSDT:USDT, Uniswap       | [info][uni-fusdt-info], [add liquidity][uni-fusdt-add] | ~360 `$FARM` (0.7% of emission) |
-| :pineapple:Week 2, Sept 8-15 | $fDAI:DAI, Uniswap         | [info][uni-fdai-info], [add liquidity][uni-fdai-add] | ~360 `$FARM` (0.7% of emission) |
+| :pineapple:Week 2, Sept 8-15 | $fDAI:DAI, Uniswap         | [info][uni-fdai-info], [add liquidity][uni-fdai-add]   | ~360 `$FARM` (0.7% of emission) |
+| :avocado:Week 3, Sept 15-22 | $FARM:USDC, Uniswap              | [info][uni-farm-info], [add liquidity][uni-farm-add]               | ~7,200 `$FARM` (27% of emission) |
+| :avocado:Week 3, Sept 15-22 | $fUSDC:USDC, Uniswap             | [info][uni-fusdc-info], [add liquidity][uni-fusdc-add]             | 82.5 `$FARM` (0.36% of emission) |
+| :avocado:Week 3, Sept 15-22 | $fUSDT:USDT, Uniswap             | [info][uni-fusdt-info], [add liquidity][uni-fusdt-add]             | 82.5 `$FARM` (0.36% of emission) |
+| :avocado:Week 3, Sept 15-22 | $fDAI:DAI, Uniswap               | [info][uni-fdai-info], [add liquidity][uni-fdai-add]               | 82.5 `$FARM` (0.36% of emission) |
+| :avocado:Week 3, Sept 15-22 | $fwBTC:wBTC, Uniswap             | [info][uni-fwbtc-info], [add liquidity][uni-fwbtc-add]             | 82.5 `$FARM` (0.36% of emission) |
+| :avocado:Week 3, Sept 15-22 | $frenBTC:renBTC, Uniswap         | [info][uni-frenbtc-info], [add liquidity][uni-frenbtc-add]         | 82.5 `$FARM` (0.36% of emission) |
+| :avocado:Week 3, Sept 15-22 | $fcrvRenWBTC:crvRenWBTC, Uniswap | [info][uni-fcrvrenwbtc-info], [add liquidity][uni-fcrvrenwbtc-add] | 82.5 `$FARM` (0.36% of emission) |
 
+[uni-fwbtc-info]: #
+[uni-frenbtc-info]: #
+[uni-fcrvrenwbtc-info]: #
+[uni-fwbtc-add]: #
+[uni-frenbtc-add]: #
+[uni-fcrvrenwbtc-add]: #
 
 
 # How To Participate
@@ -50,36 +63,46 @@ Deposit the Balancer or Uniswap LP tokens you received using the `EARN` tab. You
 > Contract addresses are provided for technical information only; **do not interact directly with the contracts unless you know what you are doing!**
 {.is-warning}
 
-Balancer: USDC-FARM 80/20
-rewards pool: https://etherscan.io/address/0x346523a81f16030110e6c858ee0e11f156840bd1
-Balancer pool: https://pools.balancer.exchange/#/pool/0x0126cfa7ec6b6d4a960b5979943c06a9742af55e
-  USDC:           https://etherscan.io/token/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48
-  FARM:           https://etherscan.io/token/0xa0246c9032bC3A600820415aE600c6388619A14D
+
   
-Uniswap: USDC-FARM
+**Uniswap: USDC-FARM**
 rewards pool: https://etherscan.io/address/0x99b0d6641A63Ce173E6EB063b3d3AED9A35Cf9bf
 Uniswap pool: https://uniswap.info/pair/0x514906FC121c7878424a5C928cad1852CC545892
   USDC:           https://etherscan.io/token/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48
   FARM:           https://etherscan.io/token/0xa0246c9032bC3A600820415aE600c6388619A14D
 
-Uniswap: fUSDT-USDT 
+**Uniswap: fUSDT-USDT** 
 rewards pool:     https://etherscan.io/address/0x316de40f36da4c54aff11c1d83081555cca41270#readContract
 Uniswap pool:     https://etherscan.io/address/0x713f62ccf8545ff1df19e5d7ab94887cfaf95677
   USDT:           https://etherscan.io/address/0xdac17f958d2ee523a2206206994597c13d831ec7
   fUSDT:          https://etherscan.io/token/0xc7ee21406bb581e741fbb8b21f213188433d9f2f
 
-Uniswap: USDC-fUSDC
+**Uniswap: USDC-fUSDC**
 rewards pool:     https://etherscan.io/address/0x43286f57cf5981a5db56828df91a46cfab983e58#readContract
 Uniswap pool:     https://etherscan.io/address/0x4161fa43eaa1ac3882aeed12c5fc05249e533e67
   USDC:           https://etherscan.io/token/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48
   fUSDC:          https://etherscan.io/token/0xc3f7ffb5d5869b3ade9448d094d81b0521e8326f
 
-Uniswap: DAI-fDAI
+**Uniswap: DAI-fDAI**
 rewards pool:     https://etherscan.io/address/0xb492faeda6c9ffb9b9854a58f28d5333ff7a11bc#readContract
 Uniswap pool:     https://etherscan.io/address/0x007e383bf3c3ffa12a5de06a53bab103335eff28
   DAI:            https://etherscan.io/token/0x6b175474e89094c44da98b954eedeac495271d0f
   fDAI:           https://etherscan.io/token/0xe85c8581e60d7cd32bbfd86303d2a4fa6a951dac
   
+**Uniswap wBTC:fwBTC**
+no info yet, please [contribute!](/contribute)
+
+**Uniswap renBTC:frenBTC**
+no info yet, please [contribute!](/contribute)
+
+**Uniwap crvRenWBTC:fcrvRenWBTC**
+no info yet, please [contribute!](/contribute)
+
+**Balancer: USDC-FARM 80/20**
+rewards pool: https://etherscan.io/address/0x346523a81f16030110e6c858ee0e11f156840bd1
+Balancer pool: https://pools.balancer.exchange/#/pool/0x0126cfa7ec6b6d4a960b5979943c06a9742af55e
+  USDC:           https://etherscan.io/token/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48
+  FARM:           https://etherscan.io/token/0xa0246c9032bC3A600820415aE600c6388619A14D
 
 
 [uni-farm-es]: https://etherscan.io/address/0x514906FC121c7878424a5C928cad1852CC545892
