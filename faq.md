@@ -2,7 +2,7 @@
 title: Frequently Asked Questions
 description: answers to common questions about Harvest Finance
 published: true
-date: 2020-09-15T01:38:03.991Z
+date: 2020-09-15T01:38:35.475Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-03T23:06:00.060Z
@@ -16,7 +16,7 @@ dateCreated: 2020-09-03T23:06:00.060Z
 1. Is Harvest audited? **[multiple audits are pending](/security)**
 1. How many FARM tokens are there? **[FARM supply is limited to 5,000,000 distributed over 4 years](/supply)**, though this may be revised downward.
 2. Where can I trade FARM tokens? **[FARM markets on Uniswap](/trade)**
-3. How do I turn stablecoins into Harvest `fStablecoins` that earn yield farming revenue? **[on the Harvest front page](https://harvest.finance/)** or by **[trading on Uniswap](/markets)**
+3. How do I turn stablecoins into Harvest `fStablecoins` that earn yield farming revenue? **[on the Harvest front page](https://harvest.finance/)** or by **[trading on Uniswap](/trade)**
 2. How do I turn `fStablecoin` tokens back into regular stablecoins? **[withdrawal instructions](/stakedrop#removing-tokens-from-farming)**
 4. Do FARM tokens get yield farming revenue just be holding them?  **FARM must be deposited in [Profit Sharing](https://harvest.finance/earn)** to earn yield farming revenue.
 5. How much yield farming revenue is shared with Profit Sharing stakers? **30% of yield farming revenue.** It is paid out using a seven-day moving average, so for the first week after launch, payouts may be small.  Yield farming revenue depends on the profitability of available yield farming opportunities and the total assets available for farming by Harvest.
@@ -26,7 +26,7 @@ dateCreated: 2020-09-03T23:06:00.060Z
 # Technical Stuff
 
 1. Is the code open source? **[contracts are](https://github.com/harvest-finance/harvest); frontend UI is not currently** (to slow down clones)
-2. Why is the fee to deposit and withdraw stablecoins so high?  In some cases, **[withdrawing must remove stablecoins from yield farming strategies](/stakedrop#removing-tokens-from-farming)**; come back later for lower fees, or **[trade fASSETs on Uniswap](/markets)**
+2. Why is the fee to deposit and withdraw stablecoins so high?  In some cases, **[withdrawing must remove stablecoins from yield farming strategies](/stakedrop#removing-tokens-from-farming)**; come back later for lower fees, or **[trade fASSETs on Uniswap](/trade)**
 3. I want to see the yield farming revenue paid to FARM Profit Share.  **[example yield farming transaction](https://etherscan.io/tx/0xabd90485e1c558a25b1f8a7f04f338bc5d32151aaa72a2468b739dcf5442d07e). [DAI inflows and outflows from the profit share contract](https://etherscan.io/token/0x6b175474e89094c44da98b954eedeac495271d0f?a=0xae024f29c26d6f71ec71658b1980189956b0546d).**
 4.  I want to audit the funds that Harvest is using for yield farming. **[coming soon.](/tvl)**
 5.  How can I tell that the Harvest fStablecoins are changing in value due to yield farming? Look at the **[fDAI][es-fdai], [fUSDC][es-fusdc], or [fUSDT][es-fusdt] contracts.** The value that converts from fStablecoins to stablecoins is `getPricePerFullShare`. This has the same number of decimals as the underlying stablecoin and will increase over time if yield farming is profitable.
