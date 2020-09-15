@@ -2,7 +2,7 @@
 title: Harvest Finance Dashboards
 description: tools for managing your FARM farms
 published: true
-date: 2020-09-14T01:08:10.352Z
+date: 2020-09-15T09:17:11.178Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-14T19:44:06.472Z
@@ -22,6 +22,7 @@ Tools created by other developers:
 
 - https://harvestfi.github.io/dashboard/
 - https://farmingreturn.com/
+- https://david4neblio.github.io/harvestyield/ (profit share yield calulator)
 
 
 # Key Contracts
