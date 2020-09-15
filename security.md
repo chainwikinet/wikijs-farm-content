@@ -2,7 +2,7 @@
 title: Harvest Security
 description: testing and auditing the Harvest Finance contracts
 published: true
-date: 2020-09-15T18:42:48.308Z
+date: 2020-09-15T18:44:10.833Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-06T07:52:56.974Z
@@ -45,6 +45,6 @@ As a result, what we could find was minor issues including missing interface fil
 
 [haechi.io](https://haechi.io) is a Korean security company that has performed audits for LG, Samsung, Carry Protocol, and the Ethereum Foundation.
 
-Confirmed to perform another audit on Harvest with delivery expected in late September.
+Full Audit on Harvest with delivery expected in late September.
 
 
