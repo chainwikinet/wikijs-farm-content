@@ -2,7 +2,7 @@
 title: DeFi Community Stakedrop
 description: stake DeFi tokens, earn FARM
 published: true
-date: 2020-09-15T16:20:04.482Z
+date: 2020-09-15T16:37:41.166Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-08T02:04:49.106Z
@@ -24,7 +24,7 @@ In Week 3, which began on September 15th at ~19:00 UTC, the team and community d
 > Week 2 rewards ended on September 8th at 19:00 UTC. It is not necessary to withdraw your assets or FARM rewards from https://harvest.finance immediately.
 {.is-warning}
 
-The week 2 stakedrop rewards began on September 8th at 20:00 GMT and continued for one week. Approximately 3,600 FARM, 7% of this week's emission, were distributed in this way.
+The week 2 stakedrop rewards began on September 8th at 20:00 GMT and continued for one week. [Approximately 3,600 FARM, 7% of this week's emission,](https://medium.com/harvest-finance/harvest-rewards-week-2-launch-thegreenrevolution-14c68af416e9) were distributed in this way.
 
 The following DeFi assets are eligible for this week's stakedrop rewards:
 
@@ -38,7 +38,7 @@ The following DeFi assets are eligible for this week's stakedrop rewards:
 :spaghetti: PASTA-ETH Uniswap LP
 :grapes: AMPL-ETH Uniswap LP
 
-## Stakedrop Details
+## Week 2 Stakedrop Details
 
 > Week 2 rewards required depositing a DeFi community asset along with the Harvest Finance FARM token in a Balancer pool in a 90:10 proportion.
 {.is-info}
@@ -124,3 +124,8 @@ The following DeFi assets were eligible for Week 1 stakedrop rewards:
 :avocado: OGN
 :spaghetti: BASED-sUSD Uniswap LP
 :grapes: PASTA-ETH Uniswap LP
+
+## Week 1 Stakedrop Details
+
+> Grow Harvest. [Contribute to this wiki!](/contribute)
+{.is-info}
