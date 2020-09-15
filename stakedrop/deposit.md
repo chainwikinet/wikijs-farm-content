@@ -2,9 +2,10 @@
 title: Harvest Deposit Stakedrop
 description: deposit assets into Harvest yield farming strategies, receive FARM
 published: true
-date: 2020-09-08T03:09:48.188Z
+date: 2020-09-15T22:46:19.339Z
 tags: 
 editor: markdown
+dateCreated: 2020-09-08T03:09:48.188Z
 ---
 
 > Use the [harvest.finance](https://harvest.finance) site to stake assets. Sending tokens directly to contracts will result in loss of funds! Verify all [token addresses](https://github.com/harvest-finance/harvest) to avoid trading fake tokens.
@@ -22,6 +23,7 @@ To bootstrap deposits into Harvest, holders of Harvest deposit tokens (`fASSETs`
 |--------|-----------------|---------|
 | Week 1, Sept 1-8  | USDC, USDT, DAI | ~12,000 `$FARM` split evenly between the eligible assets|     
 | Week 2, Sept 8-15 | USDC, USDT, DAI | ~11,000 `$FARM` split evenly between the eligible assets|     
+| Week 3, Sept 15-22 | USDC, USDT, DAI | ~5,000 `$FARM` split evenly between the eligible assets|  
 
 # How To Participate
 
