@@ -2,7 +2,7 @@
 title: Harvest Liquidity Provider Stakedrop
 description: provide liquidity for Harvest Finance assets, receive FARM
 published: true
-date: 2020-09-16T21:51:13.445Z
+date: 2020-09-16T21:51:39.467Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-08T04:25:04.809Z
@@ -135,7 +135,7 @@ Balancer pool: 		https://pools.balancer.exchange/#/pool/0x0126cfa7ec6b6d4a960b59
 
 [uni-fwbtc-info]: https://uniswap.info/pair/0xaebfeA924DE4080C14DF5C432cECe261934457E0
 [uni-frenbtc-info]: https://uniswap.info/pair/0x007f74c5c82d68a138cc3bc623e51270279fa525
-[uni-fcrvrenwbtc-info]: #
+[uni-fcrvrenwbtc-info]: https://uniswap.info/pair/0xb6a6a3d8ef31d9faeb1ab1487ace79fe1f5df1bb
 [uni-fwbtc-add]: #
 [uni-frenbtc-add]: #
 [uni-fcrvrenwbtc-add]: #
