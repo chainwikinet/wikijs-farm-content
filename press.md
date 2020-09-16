@@ -2,7 +2,7 @@
 title: Harvest Finance Press
 description: Harvest Finance in the news
 published: true
-date: 2020-09-15T23:48:14.023Z
+date: 2020-09-16T00:06:37.204Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-13T07:21:40.116Z
@@ -24,6 +24,7 @@ dateCreated: 2020-08-13T07:21:40.116Z
 - The 🥖#BreadForThePeople Meme Contest. https://medium.com/@harvestfinance/the-breadforthepeople-meme-contest-3b035b0c2fc4
 - Harvest Finance : The reality of APYs. https://medium.com/@Redmption/harvest-finance-the-reality-of-apys-e7bd93a795b7
 - Harvest.Finance Security Review (HAECHI AUDIT). https://medium.com/haechi-audit/harvest-finance-security-review-64782c98d2ae
+- Dummies guide to automated farming for the common people - harvest.finance https://www.publish0x.com/cryptocloaker/dummies-guide-to-automated-farming-for-the-common-people-har-xpjewnl
 - [Contribute!](/contribute)
 
 # Videos
