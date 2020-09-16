@@ -2,7 +2,7 @@
 title: Harvest Liquidity Provider Stakedrop
 description: provide liquidity for Harvest Finance assets, receive FARM
 published: true
-date: 2020-09-15T18:29:38.713Z
+date: 2020-09-16T21:44:30.599Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-08T04:25:04.809Z
@@ -34,13 +34,6 @@ To make it easy to buy and sell Harvest assets and participate in Harvest Financ
 | :avocado:Week 3, Sept 15-22 | $fwBTC:wBTC, Uniswap             | [info][uni-fwbtc-info], [add liquidity][uni-fwbtc-add]             | 82.5 `$FARM` (0.36% of emission) |
 | :avocado:Week 3, Sept 15-22 | $frenBTC:renBTC, Uniswap         | [info][uni-frenbtc-info], [add liquidity][uni-frenbtc-add]         | 82.5 `$FARM` (0.36% of emission) |
 | :avocado:Week 3, Sept 15-22 | $fcrvRenWBTC:crvRenWBTC, Uniswap | [info][uni-fcrvrenwbtc-info], [add liquidity][uni-fcrvrenwbtc-add] | 82.5 `$FARM` (0.36% of emission) |
-
-[uni-fwbtc-info]: #
-[uni-frenbtc-info]: #
-[uni-fcrvrenwbtc-info]: #
-[uni-fwbtc-add]: #
-[uni-frenbtc-add]: #
-[uni-fcrvrenwbtc-add]: #
 
 
 # How To Participate
@@ -74,7 +67,7 @@ Uniswap pool: https://uniswap.info/pair/0x514906FC121c7878424a5C928cad1852CC5458
 **Uniswap: fUSDT-USDT** 
 rewards pool:     https://etherscan.io/address/0x316de40f36da4c54aff11c1d83081555cca41270#readContract
 Uniswap pool:     https://etherscan.io/address/0x713f62ccf8545ff1df19e5d7ab94887cfaf95677
-  USDT:           https://etherscan.io/address/0xdac17f958d2ee523a2206206994597c13d831ec7
+  USDT:           https://etherscan.io/token/0xdac17f958d2ee523a2206206994597c13d831ec7
   fUSDT:          https://etherscan.io/token/0xc7ee21406bb581e741fbb8b21f213188433d9f2f
 
 **Uniswap: USDC-fUSDC**
@@ -90,7 +83,10 @@ Uniswap pool:     https://etherscan.io/address/0x007e383bf3c3ffa12a5de06a53bab10
   fDAI:           https://etherscan.io/token/0xe85c8581e60d7cd32bbfd86303d2a4fa6a951dac
   
 **Uniswap wBTC:fwBTC**
-no info yet, please [contribute!](/contribute)
+rewards pool: https://etherscan.io/address/0xBB846aD2552C0669062C9eADfa63148bCbA3e2B0
+Uniswap pool: https://etherscan.io/address/0xaebfea924de4080c14df5c432cece261934457e0
+wBTC: https://etherscan.io/token/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599?a=0xaebfea924de4080c14df5c432cece261934457e0
+fwBTC: https://etherscan.io/token/0xc07eb91961662d275e2d285bdc21885a4db136b0?a=0xaebfea924de4080c14df5c432cece261934457e0
 
 **Uniswap renBTC:frenBTC**
 no info yet, please [contribute!](/contribute)
@@ -130,7 +126,12 @@ Balancer pool: https://pools.balancer.exchange/#/pool/0x0126cfa7ec6b6d4a960b5979
 [bal-farm80-info]: https://pools.balancer.exchange/#/pool/0x0126cfa7ec6b6d4a960b5979943c06a9742af55e
 
 
-
+[uni-fwbtc-info]: https://uniswap.info/pair/0xaebfeA924DE4080C14DF5C432cECe261934457E0
+[uni-frenbtc-info]: #
+[uni-fcrvrenwbtc-info]: #
+[uni-fwbtc-add]: #
+[uni-frenbtc-add]: #
+[uni-fcrvrenwbtc-add]: #
 
 
 
