@@ -2,7 +2,7 @@
 title: Harvest Finance Press
 description: Harvest Finance in the news
 published: true
-date: 2020-09-16T00:06:37.204Z
+date: 2020-09-16T19:11:51.922Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-13T07:21:40.116Z
@@ -35,3 +35,4 @@ dateCreated: 2020-08-13T07:21:40.116Z
 # Other Media
 
 - https://www.teepublic.com/mug/13902278-farmer-chad
+- Harvest Reddit https://www.reddit.com/r/HarvestFinance/
