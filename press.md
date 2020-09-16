@@ -2,7 +2,7 @@
 title: Harvest Finance Press
 description: Harvest Finance in the news
 published: true
-date: 2020-09-16T19:13:36.083Z
+date: 2020-09-16T19:13:54.706Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-13T07:21:40.116Z
@@ -15,8 +15,6 @@ dateCreated: 2020-08-13T07:21:40.116Z
 - 🔥🔥🔥 and Rewards Week 3 Launch. https://medium.com/harvest-finance/and-rewards-week-3-launch-f4e771946894
 
 # Articles
-
-
 - A bountiful Harvest awaits. https://medium.com/@Redmption/a-bountiful-harvest-awaits-373cbc9cb7d4
 	Introduction to yield farming and Harvest strategy.
 - Harvest Finance. A beginner’s perspective to farming. https://medium.com/@bartysu/harvest-finance-a-beginners-perspective-to-farming-b03b9ab8e852
@@ -28,14 +26,12 @@ dateCreated: 2020-08-13T07:21:40.116Z
 - [Contribute!](/contribute)
 
 # Videos
-
 - https://www.youtube.com/watch?v=wmP2fGKUJG8
 - https://www.youtube.com/watch?v=vrOlFGavRBs&t=510
+
 # Merchandise
 - Farmer Chad Mug https://www.teepublic.com/mug/13902278-farmer-chad
 - Farmer Chad Sticker https://www.teepublic.com/sticker/13902278-farmer-chad
 
 # Other Media
-
-- https://www.teepublic.com/mug/13902278-farmer-chad
 - Harvest Reddit https://www.reddit.com/r/HarvestFinance/
