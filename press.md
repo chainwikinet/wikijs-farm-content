@@ -2,7 +2,7 @@
 title: Harvest Finance Press
 description: Harvest Finance in the news
 published: true
-date: 2020-09-16T19:13:54.706Z
+date: 2020-09-16T19:18:01.900Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-13T07:21:40.116Z
