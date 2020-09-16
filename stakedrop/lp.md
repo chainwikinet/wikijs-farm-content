@@ -2,7 +2,7 @@
 title: Harvest Liquidity Provider Stakedrop
 description: provide liquidity for Harvest Finance assets, receive FARM
 published: true
-date: 2020-09-16T22:01:53.757Z
+date: 2020-09-16T22:03:12.807Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-08T04:25:04.809Z
@@ -101,7 +101,7 @@ Uniswap pool: 		https://etherscan.io/address/0x007f74c5c82d68a138cc3bc623e512702
 rewards pool: 		https://etherscan.io/address/0x489c78aa0969118439176c14af22b3b56bd1d46e
 Uniswap pool: 		https://etherscan.io/address/0xb6a6a3d8ef31d9faeb1ab1487ace79fe1f5df1bb
 	wBTC: 					https://etherscan.io/token/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599?a=0xaebfea924de4080c14df5c432cece261934457e0
-	fcrvRenwBTC: 		https://etherscan.io/token/0x192e9d29d43db385063799bc239e772c3b6888f3?a=0xb6a6a3d8ef31d9faeb1ab1487ace79fe1f5df1bb
+	fcrvRenWBTC: 		https://etherscan.io/token/0x192e9d29d43db385063799bc239e772c3b6888f3?a=0xb6a6a3d8ef31d9faeb1ab1487ace79fe1f5df1bb
 
 **Balancer: USDC-FARM 80/20**
 rewards pool: 		https://etherscan.io/address/0x346523a81f16030110e6c858ee0e11f156840bd1
