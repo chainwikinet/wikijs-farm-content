@@ -2,7 +2,7 @@
 title: Harvest Liquidity Provider Stakedrop
 description: provide liquidity for Harvest Finance assets, receive FARM
 published: true
-date: 2020-09-16T21:51:39.467Z
+date: 2020-09-16T21:53:41.250Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-08T04:25:04.809Z
@@ -127,15 +127,15 @@ Balancer pool: 		https://pools.balancer.exchange/#/pool/0x0126cfa7ec6b6d4a960b59
 [uni-fusdc-info]: https://uniswap.info/pair/0x4161fa43eaa1ac3882aeed12c5fc05249e533e67
 [uni-fusdt-info]: https://uniswap.info/pair/0x713f62ccf8545ff1df19e5d7ab94887cfaf95677
 [uni-fdai-info]: https://uniswap.info/pair/0x007e383bf3c3ffa12a5de06a53bab103335eff28
-
+[uni-fwbtc-info]: https://uniswap.info/pair/0xaebfeA924DE4080C14DF5C432cECe261934457E0
+[uni-frenbtc-info]: https://uniswap.info/pair/0x007f74c5c82d68a138cc3bc623e51270279fa525
+[uni-fcrvrenwbtc-info]: https://uniswap.info/pair/0xb6a6a3d8ef31d9faeb1ab1487ace79fe1f5df1bb
 
 [bal-farm95-info]: https://pools.balancer.exchange/#/pool/0x0395e4a17ff11d36dac9959f2d7c8eca10fe89c9
 [bal-farm80-info]: https://pools.balancer.exchange/#/pool/0x0126cfa7ec6b6d4a960b5979943c06a9742af55e
 
 
-[uni-fwbtc-info]: https://uniswap.info/pair/0xaebfeA924DE4080C14DF5C432cECe261934457E0
-[uni-frenbtc-info]: https://uniswap.info/pair/0x007f74c5c82d68a138cc3bc623e51270279fa525
-[uni-fcrvrenwbtc-info]: https://uniswap.info/pair/0xb6a6a3d8ef31d9faeb1ab1487ace79fe1f5df1bb
+
 [uni-fwbtc-add]: #
 [uni-frenbtc-add]: #
 [uni-fcrvrenwbtc-add]: #
