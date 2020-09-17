@@ -2,7 +2,7 @@
 title: Harvest Finance Press
 description: Harvest Finance in the news
 published: true
-date: 2020-09-17T01:41:42.864Z
+date: 2020-09-17T04:09:36.064Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-13T07:21:40.116Z
@@ -33,6 +33,7 @@ dateCreated: 2020-08-13T07:21:40.116Z
 # Merchandise
 - Farmer Chad Mug https://www.teepublic.com/mug/13902278-farmer-chad
 - Farmer Chad Sticker https://www.teepublic.com/sticker/13902278-farmer-chad
+- Farmer Chad T-Shirt https://www.teepublic.com/t-shirt/14054742-harvest-finance-bread-for-the-people
 
 # Other Media
 - Harvest Reddit https://www.reddit.com/r/HarvestFinance/
