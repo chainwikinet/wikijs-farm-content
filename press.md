@@ -2,7 +2,7 @@
 title: Harvest Finance Press
 description: Harvest Finance in the news
 published: true
-date: 2020-09-17T01:38:23.843Z
+date: 2020-09-17T01:41:42.864Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-13T07:21:40.116Z
@@ -36,3 +36,4 @@ dateCreated: 2020-08-13T07:21:40.116Z
 
 # Other Media
 - Harvest Reddit https://www.reddit.com/r/HarvestFinance/
+- [Harvest Newsletter](/harvest_newsletter_.pdf) (Week 3)
