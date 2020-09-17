@@ -2,7 +2,7 @@
 title: Total Value Locked
 description: how to calculate TVL using the Harvest contracts
 published: true
-date: 2020-09-17T18:35:33.265Z
+date: 2020-09-17T18:40:45.720Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-17T17:40:49.170Z
@@ -36,3 +36,7 @@ Other functions not needed for TLV calculations:
 - `getPricePerFullShare` is the current conversion rate between fASSET and ASSET. This increases with successful harvests.
 
 US Dollar prices can be retrieved from a service such as Coingecko API. If a crvRenWBTC price is not available, it can be estimated to be 1:1 with renBTC.
+
+# Following Changes
+
+New vaults may be added in the future. At the moment there is not a Harvest Registry contract that contains a list of vault contracts, but I will request to deploy one.
