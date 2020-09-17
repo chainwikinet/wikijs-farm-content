@@ -2,7 +2,7 @@
 title: Total Value Locked
 description: how to calculate TVL using the Harvest contracts
 published: true
-date: 2020-09-17T18:32:59.231Z
+date: 2020-09-17T18:35:33.265Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-17T17:40:49.170Z
@@ -22,7 +22,7 @@ The assets that Harvest uses to farm are deposited in vault contracts, which iss
 | USDT Vault | USDT | fUSDT | [0xc7EE21406BB581e741FBb8B21f213188433D9f2F](https://etherscan.io/address/0xc7EE21406BB581e741FBb8B21f213188433D9f2F) |
 | WBTC Vault | WBTC | fWBTC | [0xc07eb91961662d275e2d285bdc21885a4db136b0](https://etherscan.io/address/0xc07eb91961662d275e2d285bdc21885a4db136b0) |
 | RENBTC Vault | RENBTC | fRENBTC | [0xfbe122d0ba3c75e1f7c80bd27613c9f35b81feec](https://etherscan.io/address/0xfbe122d0ba3c75e1f7c80bd27613c9f35b81feec) |
-| CRVRENBTC Vault | CRVRENBTC | fCRVRENBTC | [0x192e9d29d43db385063799bc239e772c3b6888f3](https://etherscan.io/address/0x192e9d29d43db385063799bc239e772c3b6888f3) |
+| CRVRENWBTC Vault | CRVRENWBTC | fCRVRENWBTC | [0x192e9d29d43db385063799bc239e772c3b6888f3](https://etherscan.io/address/0x192e9d29d43db385063799bc239e772c3b6888f3) |
 | WETH Vault | WETH | fWETH | [0x8e298734681adbfC41ee5d17FF8B0d6d803e7098](https://etherscan.io/address/0x8e298734681adbfC41ee5d17FF8B0d6d803e7098) |
 
 Key functions for calculating TLV that are implemented by each Vault:
@@ -35,3 +35,4 @@ Other functions not needed for TLV calculations:
 
 - `getPricePerFullShare` is the current conversion rate between fASSET and ASSET. This increases with successful harvests.
 
+US Dollar prices can be retrieved from a service such as Coingecko API. If a crvRenWBTC price is not available, it can be estimated to be 1:1 with renBTC.
