@@ -2,13 +2,11 @@
 title: Home
 description: Harvest Finance Community Chainwiki
 published: true
-date: 2020-09-18T07:35:31.923Z
+date: 2020-09-18T20:17:42.475Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-13T05:55:54.766Z
 ---
-
->There is currently an error with the WETH contract due to an oversight by the CREAM contracts. WETH was not lost. The issue is being resolved by the CREAM team. At the present time, please do not try to withdraw your wETH from stakes, as it will likely be lost.{.is-danger}
 
 # Harvest Finance Brings #BreadToThePeople :bread:
 
