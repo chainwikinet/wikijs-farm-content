@@ -2,7 +2,7 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2020-09-09T23:08:52.633Z
+date: 2020-09-18T01:10:14.603Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-04T07:47:54.724Z
@@ -100,6 +100,23 @@ This strategy farms CRV, the [Curve Finance DAO token][crv].
 
 ![harvestcrvstrategy.png](/harvestcrvstrategy.png)
 
+## Farming Cream with WETH
+This strategy farms Cream, the [Cream Finance Token][cream].
+
+> You do not receive Cream directly. Instead, the farmed Cream is sold to return more stablecoins to you when you withdraw.
+{.is-info}
+
+| | |
+|------------------|-|
+| **Asset Farmed**        | CREAM, Cream Finance token  |
+| **Assets Used**         | WETH               |
+| **Basic Strategy**      | CREAM is farmed and sold for stablecoins |
+| **How To Participate**  | [deposit WETH][hf] to receive fWETH |
+| **Yield Payout**        | Successful farming makes the fWETH redeemable for a growing number of WETH |
+| **FARM Incentives**      | [The fWETH can be deposited to earn a stakedrop of FARM][farm-stakedrop] |
+| **Vault Contract**      | [VaultCream][vaultcream] |
+| **Strategy Contract**   | [WETHCreamNoFoldStrategy][wethstrategy] |
+| **Example Harvest TX**  | [doHardWork][harvestcream] |
 
 ## Farming Other Things
 
@@ -246,6 +263,10 @@ https://etherscan.io/address/0x00f9d525828beebf1ee75fb72b1f21932e195bdf#code
 [crv]: https://www.coingecko.com/en/coins/curve-dao-token
 [hf]: https://harvest.finance
 [swrv]: https://www.coingecko.com/en/coins/swerve
+[cream]: https://www.coingecko.com/en/coins/cream
+[wethstrategy]: https://etherscan.io/address/0x4e015af8e1c5eb020f91063661cc5ce43719ebcf#code
+[vaultcream]: https://etherscan.io/address/0x8e298734681adbfc41ee5d17ff8b0d6d803e7098
+[harvestcream]: https://etherscan.io/tx/0x9b5f2b36e960f533b3eec83773306c9a3a4a74f596addff2951d4cfd6a9b7694
 
 [es-farm]: https://etherscan.io/token/0xa0246c9032bc3a600820415ae600c6388619a14d
 [es-fdai]: https://etherscan.io/token/0xe85c8581e60d7cd32bbfd86303d2a4fa6a951dac
