@@ -2,7 +2,7 @@
 title: Harvest Deposit Stakedrop
 description: deposit assets into Harvest yield farming strategies, receive FARM
 published: true
-date: 2020-09-18T04:18:48.200Z
+date: 2020-09-18T04:28:37.608Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-08T03:09:48.188Z
@@ -87,9 +87,9 @@ Deposit the `fASSETs` using the `EARN` tab. You will immediately begin receiving
 [es-pool-fdai-week1]: https://etherscan.io/address/0xF9E5f9024c2f3f2908A1d0e7272861a767C9484b#readContract
 [es-pool-fusdc-week1]: https://etherscan.io/address/0xE1f9A3EE001a2EcC906E8de637DBf20BB2d44633#readContract
 [es-pool-fusdt-week1]: https://etherscan.io/address/0x5bd997039FFF16F653EF15D1428F2C791519f58d#readContract
-[es-pool-fwbtc]: https://etherscan.io/address/0x6291eCe696CB6682a9bb1d42fca4160771b1D7CC
-[es-pool-frenbtc]: https://etherscan.io/address/0xCFE1103863F9e7Cf3452Ca8932Eef44d314bf9C5
-[es-pool-fcrvrenwbtc]: https://etherscan.io/address/0x5365A2C47b90EE8C9317faC20edC3ce7037384FB
+[es-pool-fwbtc]: https://etherscan.io/address/0x6291eCe696CB6682a9bb1d42fca4160771b1D7CC#readContract
+[es-pool-frenbtc]: https://etherscan.io/address/0xCFE1103863F9e7Cf3452Ca8932Eef44d314bf9C5#readContract
+[es-pool-fcrvrenwbtc]: https://etherscan.io/address/0x5365A2C47b90EE8C9317faC20edC3ce7037384FB#readContract
 [es-pool-fweth]: https://etherscan.io/address/0xe11c81b924bb91b44bae19793539054b48158a9d#readContract
 
 [es-withdraw-buffer]: https://etherscan.io/tx/0x70fddec35fcf1f89fbfff90972be0e04ce0ae8c34abfaf2900e5210fdf86303e
