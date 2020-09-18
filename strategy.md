@@ -2,7 +2,7 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2020-09-18T01:40:06.729Z
+date: 2020-09-18T01:58:03.369Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-04T07:47:54.724Z
@@ -266,7 +266,7 @@ https://etherscan.io/address/0x00f9d525828beebf1ee75fb72b1f21932e195bdf#code
 [cream]: https://www.coingecko.com/en/coins/cream
 [wethstrategy]: https://etherscan.io/address/0x4e015af8e1c5eb020f91063661cc5ce43719ebcf#code
 [vaultcream]: https://etherscan.io/address/0x8e298734681adbfc41ee5d17ff8b0d6d803e7098
-[harvestcream]: https://etherscan.io/tx/0x51e9fd76b7a16e9bbcb785aaa7015f2b17fb222f2243c1d4480d513826b5d065
+[harvestcream]: https://etherscan.io/tx/0x9b5f2b36e960f533b3eec83773306c9a3a4a74f596addff2951d4cfd6a9b7694
 
 [es-farm]: https://etherscan.io/token/0xa0246c9032bc3a600820415ae600c6388619a14d
 [es-fdai]: https://etherscan.io/token/0xe85c8581e60d7cd32bbfd86303d2a4fa6a951dac
