@@ -2,7 +2,7 @@
 title: Harvest Liquidity Provider Stakedrop
 description: provide liquidity for Harvest Finance assets, receive FARM
 published: true
-date: 2020-09-18T16:19:29.363Z
+date: 2020-09-18T16:38:28.970Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-08T04:25:04.809Z
@@ -34,7 +34,7 @@ To make it easy to buy and sell Harvest assets and participate in Harvest Financ
 | :avocado:Week 3, Sept 15-22 | $fwBTC:wBTC, Uniswap             | [info][uni-fwbtc-info], [add liquidity][uni-fwbtc-add]             | 82.5 `$FARM` (0.36% of emission) |
 | :avocado:Week 3, Sept 15-22 | $frenBTC:wBTC, Uniswap         | [info][uni-frenbtc-info], [add liquidity][uni-frenbtc-add]         | 82.5 `$FARM` (0.36% of emission) |
 | :avocado:Week 3, Sept 15-22 | $fcrvRenWBTC:wBTC, Uniswap | [info][uni-fcrvrenwbtc-info], [add liquidity][uni-fcrvrenwbtc-add] | 82.5 `$FARM` (0.36% of emission) |
-| :avocado:Week 3, Sept 15-22 | $fWETH:ETH, Uniswap | [info][uni-fweth-info], [add liquidity][uni-fweth-add] | 
+| :avocado:Week 3, Sept 15-22 | $fWETH:WETH, Uniswap | [info][uni-fweth-info], [add liquidity][uni-fweth-add] | 
 
 
 
@@ -68,19 +68,19 @@ Uniswap pool: 		https://uniswap.info/pair/0x514906FC121c7878424a5C928cad1852CC54
   FARM:           https://etherscan.io/token/0xa0246c9032bC3A600820415aE600c6388619A14D
 
 **Uniswap: fUSDT-USDT** 
-rewards pool:     https://etherscan.io/address/0x316de40f36da4c54aff11c1d83081555cca41270#readContract
+rewards pool:     https://etherscan.io/address/0x316de40f36da4c54aff11c1d83081555cca41270
 Uniswap pool:     https://etherscan.io/address/0x713f62ccf8545ff1df19e5d7ab94887cfaf95677
   USDT:           https://etherscan.io/token/0xdac17f958d2ee523a2206206994597c13d831ec7
   fUSDT:          https://etherscan.io/token/0xc7ee21406bb581e741fbb8b21f213188433d9f2f
 
 **Uniswap: USDC-fUSDC**
-rewards pool:     https://etherscan.io/address/0x43286f57cf5981a5db56828df91a46cfab983e58#readContract
+rewards pool:     https://etherscan.io/address/0x43286f57cf5981a5db56828df91a46cfab983e58
 Uniswap pool:     https://etherscan.io/address/0x4161fa43eaa1ac3882aeed12c5fc05249e533e67
   USDC:           https://etherscan.io/token/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48
   fUSDC:          https://etherscan.io/token/0xc3f7ffb5d5869b3ade9448d094d81b0521e8326f
 
 **Uniswap: DAI-fDAI**
-rewards pool:     https://etherscan.io/address/0xb492faeda6c9ffb9b9854a58f28d5333ff7a11bc#readContract
+rewards pool:     https://etherscan.io/address/0xb492faeda6c9ffb9b9854a58f28d5333ff7a11bc
 Uniswap pool:     https://etherscan.io/address/0x007e383bf3c3ffa12a5de06a53bab103335eff28
   DAI:            https://etherscan.io/token/0x6b175474e89094c44da98b954eedeac495271d0f
   fDAI:           https://etherscan.io/token/0xe85c8581e60d7cd32bbfd86303d2a4fa6a951dac
@@ -88,21 +88,27 @@ Uniswap pool:     https://etherscan.io/address/0x007e383bf3c3ffa12a5de06a53bab10
 **Uniswap wBTC:fwBTC**
 rewards pool: 		https://etherscan.io/address/0xBB846aD2552C0669062C9eADfa63148bCbA3e2B0
 Uniswap pool: 		https://etherscan.io/address/0xaebfea924de4080c14df5c432cece261934457e0
-	wBTC: 					https://etherscan.io/token/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599?a=0xaebfea924de4080c14df5c432cece261934457e0
-	fwBTC: 					https://etherscan.io/token/0xc07eb91961662d275e2d285bdc21885a4db136b0?a=0xaebfea924de4080c14df5c432cece261934457e0
+	wBTC: 					https://etherscan.io/token/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599
+	fwBTC: 					https://etherscan.io/token/0xc07eb91961662d275e2d285bdc21885a4db136b0
 
 **Uniswap wBTC:frenBTC**
 rewards pool: 		https://etherscan.io/address/0x298a92daf7c71ced261c79300a620e8bee54daa6
 Uniswap pool: 		https://etherscan.io/address/0x007f74c5c82d68a138cc3bc623e51270279fa525
-	wBTC: 					https://etherscan.io/token/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599?a=0xaebfea924de4080c14df5c432cece261934457e0
-	frenBTC: 				https://etherscan.io/token/0xfBe122D0ba3c75e1F7C80bd27613c9f35B81FEeC?a=0x007f74c5c82d68a138cc3bc623e51270279fa525
+	wBTC: 					https://etherscan.io/token/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599
+	frenBTC: 				https://etherscan.io/token/0xfBe122D0ba3c75e1F7C80bd27613c9f35B81FEeC
 
 
 **Uniwap wBTC:fcrvRenWBTC**
 rewards pool: 		https://etherscan.io/address/0x489c78aa0969118439176c14af22b3b56bd1d46e
 Uniswap pool: 		https://etherscan.io/address/0xb6a6a3d8ef31d9faeb1ab1487ace79fe1f5df1bb
-	wBTC: 					https://etherscan.io/token/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599?a=0xaebfea924de4080c14df5c432cece261934457e0
-	fcrvRenWBTC: 		https://etherscan.io/token/0x192e9d29d43db385063799bc239e772c3b6888f3?a=0xb6a6a3d8ef31d9faeb1ab1487ace79fe1f5df1bb
+	wBTC: 					https://etherscan.io/token/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599
+	fcrvRenWBTC: 		https://etherscan.io/token/0x192e9d29d43db385063799bc239e772c3b6888f3
+
+**Uniswap WETH:fWETH**
+rewards pool:			https://etherscan.io/address/0x82bdac405762482f9411a7d970841ce55f64e04b
+Uniswap pool:			https://etherscan.io/address/0x24b34098f6950a5d5b6bbe1358ad79b609b924fb
+	WETH:						https://etherscan.io/token/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2
+  fWETH:					https://etherscan.io/token/0x8e298734681adbfc41ee5d17ff8b0d6d803e7098
 
 **Balancer: USDC-FARM 80/20**
 rewards pool: 		https://etherscan.io/address/0x346523a81f16030110e6c858ee0e11f156840bd1
