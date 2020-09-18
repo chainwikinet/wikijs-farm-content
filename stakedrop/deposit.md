@@ -2,7 +2,7 @@
 title: Harvest Deposit Stakedrop
 description: deposit assets into Harvest yield farming strategies, receive FARM
 published: true
-date: 2020-09-15T22:46:44.066Z
+date: 2020-09-18T04:01:39.438Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-08T03:09:48.188Z
@@ -29,21 +29,20 @@ To bootstrap deposits into Harvest, holders of Harvest deposit tokens (`fASSETs`
 
 ### 1. Acquire fASSETs
 
-The simplest option is to deposit eligible assets on [harvest.finance](https://harvest.finance).
+The simplest option is to deposit eligible assets on [harvest.finance](https://harvest.finance). This is the best option for holders who want to acquire >$1000. Deposit transactions cost around 450,000 gas, so it makes sense to leave funds deposited for several weeks. For smaller purchases of amounts <$1000, it's typically more economical to buy `fASSETS` on Uniswap. Selling `fASSETs` on Uniswap is also an inexpensive way for smaller holders to exit Harvest without paying transaction fees to withdraw.
 
-- deposit `USDC` to receive `fUSDC`
-- deposit `USDT` to receive `fUSDT`
-- deposit `DAI` to receive `fDAI`
 
-This is the best option for holders who want to acquire >$1000. Deposit transactions cost around 450,000 gas, so it makes sense to leave funds deposited for several weeks.
+| Deposit    | Receive      | Uniswap Purchase Link |
+|:----------:|:------------:|-------------|
+| `USDC`     | `fUSDC`   		|[buy fUSDC](https://app.uniswap.org/#/swap?outputCurrency=0xc3f7ffb5d5869b3ade9448d094d81b0521e8326f)|
+| `USDT`     | `fUSDT`   		|[buy fUSDT](https://app.uniswap.org/#/swap?outputCurrency=0xc7ee21406bb581e741fbb8b21f213188433d9f2f)|
+| `DAI`			 | `fDAI`				|[buy fDAI](http://uniswap.exchange/swap?outputCurrency=0xe85c8581e60d7cd32bbfd86303d2a4fa6a951dac)|
+| `WBTC`	   | `fWBTC`	  	|[buy fWBTC](https://app.uniswap.org/#/swap?outputCurrency=0xc07eb91961662d275e2d285bdc21885a4db136b0)
+| `renBTC`   |`frenBTC`   	|[buy frenBTC](https://app.uniswap.org/#/swap?outputCurrency=0xfbe122d0ba3c75e1f7c80bd27613c9f35b81feec)
+|`CrvRenWBTC`|`fcrvRenWBTC`	|[buy fcrvRenWBTC](https://app.uniswap.org/#/swap?outputCurrency=0x192e9d29d43db385063799bc239e772c3b6888f3)
+| `WETH`  	 |`fWETH`				|[buy fWETH](https://app.uniswap.org/#/swap?outputCurrency=0x8e298734681adbfc41ee5d17ff8b0d6d803e7098)
 
-Alternatively, you can buy `fASSETS` on Uniswap:
 
-1. [buy fUSDC](https://app.uniswap.org/#/swap?outputCurrency=0xc3f7ffb5d5869b3ade9448d094d81b0521e8326f)
-2. [buy fUSDT](https://app.uniswap.org/#/swap?outputCurrency=0xc7ee21406bb581e741fbb8b21f213188433d9f2f)
-3. [buy fDAI](http://uniswap.exchange/swap?outputCurrency=0xe85c8581e60d7cd32bbfd86303d2a4fa6a951dac)
-
-This is the best option for holders who want to acquire smaller amounts <$1000. Selling `fASSETs` on Uniswap is also an inexpensive way for smaller holders to exit Harvest without paying transaction fees to withdraw.
 
 ### 2. Deposit fASSETs on [harvest.finance/earn](https://harvest.finance/earn)
 
