@@ -2,7 +2,7 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2020-09-18T01:58:03.369Z
+date: 2020-09-18T05:45:41.455Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-04T07:47:54.724Z
@@ -29,6 +29,7 @@ Harvest Finance launched on September 1st. New farming strategies are constantly
 - **2020-09-01** Harvest Finance launches with yCRV CRV farming support for DAI, USDC, USDT
 - **2020-09-05** Within 16 hours of Swerve launch, Harvest adds SWRV farming support for DAI, USDC, USDT
 - **2020-09-08** Harvest adds CurveRenWBTC CRV farming support for WBTC, renBTC, crvRenWBTC
+- **2020-09-17** Harvest adds UNI farming support for ETH-DAI, ETH-USDC, ETH-USDT, ETH-WBTC.
 
 As of September 8th, 70% of the yield farming revenue is returned to users who provide capital. The remaining 30% of the yield farming revenue is distributed to users who [stake FARM in the Profit Sharing contract][farm-stakedrop]. The Harvest Finance team does not charge fees for withdrawing or depositing assets and does not claim a fee on the yield farming revenue.
 
@@ -117,6 +118,24 @@ This strategy farms CREAM, the [Cream Finance Token][cream].
 | **Vault Contract**      | [VaultCream][vaultcream] |
 | **Strategy Contract**   | [WETHCreamNoFoldStrategy][wethstrategy] |
 | **Example Harvest TX**  | [doHardWork][harvestcream] |
+
+## Farming UNI With LP Tokens
+This strategy farms UNI, the [Uniswap Token][uni].
+
+> You do not receive UNI directly. Instead, the farmed UNI is sold to return more lp tokens of the type deposited when you withdraw.
+{.is-info}
+
+| | |
+|------------------|-|
+| **Asset Farmed**        | UNI, Uniswap token  |
+| **Assets Used**         | ETH-DAI, ETH-USDC, ETH-USDT, ETH-WBTC              |
+| **Basic Strategy**      | UNI is automatically farmed and sold for more LP tokens. Harvest pays your gas fees to grow the underlying LP. 5% of rewards are kept for FARM profit sharing. |
+| **How To Participate**  | [deposit LP Tokens][hf] to receive fUNI-V2 |
+| **Yield Payout**        | Successful farming makes the fUNI-V2 redeemable for a growing number of LP tokens. |
+| **FARM Incentives**     | There are no current FARM incentives for depositing your UNI LP. |
+| **Vault Contract**      | [VaultCream][vaultuni] |
+| **Strategy Contract**   | [WETHCreamNoFoldStrategy][unistrategy] |
+| **Example Harvest TX**  | [doHardWork][harvestuni] |
 
 ## Farming Other Things
 
@@ -264,6 +283,7 @@ https://etherscan.io/address/0x00f9d525828beebf1ee75fb72b1f21932e195bdf#code
 [hf]: https://harvest.finance
 [swrv]: https://www.coingecko.com/en/coins/swerve
 [cream]: https://www.coingecko.com/en/coins/cream
+[uni]: https://www.coingecko.com/en/coins/uniswap
 [wethstrategy]: https://etherscan.io/address/0x4e015af8e1c5eb020f91063661cc5ce43719ebcf#code
 [vaultcream]: https://etherscan.io/address/0x8e298734681adbfc41ee5d17ff8b0d6d803e7098
 [harvestcream]: https://etherscan.io/tx/0x9b5f2b36e960f533b3eec83773306c9a3a4a74f596addff2951d4cfd6a9b7694
