@@ -2,7 +2,7 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2020-09-18T07:21:43.929Z
+date: 2020-09-18T20:17:27.759Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-04T07:47:54.724Z
@@ -106,9 +106,6 @@ This strategy farms CREAM, the [Cream Finance Token][cream].
 
 > You do not receive CREAM directly. Instead, the farmed CREAM is sold to return more stablecoins to you when you withdraw.
 {.is-info}
-
-> There is currently an error with the WETH contract due to an oversight by the CREAM contracts. WETH was not lost. The issue is being resolved by the CREAM team. At the present time, please do not try to withdraw your wETH from stakes, as it will likely be lost.
-{.is-danger}
 
 | | |
 |------------------|-|
