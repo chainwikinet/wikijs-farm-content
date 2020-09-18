@@ -2,7 +2,7 @@
 title: Harvest Liquidity Provider Stakedrop
 description: provide liquidity for Harvest Finance assets, receive FARM
 published: true
-date: 2020-09-18T16:38:28.970Z
+date: 2020-09-18T16:39:43.992Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-08T04:25:04.809Z
@@ -34,7 +34,7 @@ To make it easy to buy and sell Harvest assets and participate in Harvest Financ
 | :avocado:Week 3, Sept 15-22 | $fwBTC:wBTC, Uniswap             | [info][uni-fwbtc-info], [add liquidity][uni-fwbtc-add]             | 82.5 `$FARM` (0.36% of emission) |
 | :avocado:Week 3, Sept 15-22 | $frenBTC:wBTC, Uniswap         | [info][uni-frenbtc-info], [add liquidity][uni-frenbtc-add]         | 82.5 `$FARM` (0.36% of emission) |
 | :avocado:Week 3, Sept 15-22 | $fcrvRenWBTC:wBTC, Uniswap | [info][uni-fcrvrenwbtc-info], [add liquidity][uni-fcrvrenwbtc-add] | 82.5 `$FARM` (0.36% of emission) |
-| :avocado:Week 3, Sept 15-22 | $fWETH:WETH, Uniswap | [info][uni-fweth-info], [add liquidity][uni-fweth-add] | 
+| :avocado:Week 3, Sept 15-22 | $fWETH:WETH, Uniswap | [info][uni-fweth-info], [add liquidity][uni-fweth-add] | 82.5 `$FARM` (0.36% of emission)
 
 
 
