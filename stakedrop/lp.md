@@ -2,7 +2,7 @@
 title: Harvest Liquidity Provider Stakedrop
 description: provide liquidity for Harvest Finance assets, receive FARM
 published: true
-date: 2020-09-16T22:03:12.807Z
+date: 2020-09-18T16:19:29.363Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-08T04:25:04.809Z
@@ -34,6 +34,7 @@ To make it easy to buy and sell Harvest assets and participate in Harvest Financ
 | :avocado:Week 3, Sept 15-22 | $fwBTC:wBTC, Uniswap             | [info][uni-fwbtc-info], [add liquidity][uni-fwbtc-add]             | 82.5 `$FARM` (0.36% of emission) |
 | :avocado:Week 3, Sept 15-22 | $frenBTC:wBTC, Uniswap         | [info][uni-frenbtc-info], [add liquidity][uni-frenbtc-add]         | 82.5 `$FARM` (0.36% of emission) |
 | :avocado:Week 3, Sept 15-22 | $fcrvRenWBTC:wBTC, Uniswap | [info][uni-fcrvrenwbtc-info], [add liquidity][uni-fcrvrenwbtc-add] | 82.5 `$FARM` (0.36% of emission) |
+| :avocado:Week 3, Sept 15-22 | $fWETH:ETH, Uniswap | [info][uni-fweth-info], [add liquidity][uni-fweth-add] | 
 
 
 
@@ -122,6 +123,7 @@ Balancer pool: 		https://pools.balancer.exchange/#/pool/0x0126cfa7ec6b6d4a960b59
 [uni-fwbtc-add]: https://app.uniswap.org/#/add/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599/0xc07eb91961662d275e2d285bdc21885a4db136b0
 [uni-frenbtc-add]: https://app.uniswap.org/#/add/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599/0xfbe122d0ba3c75e1f7c80bd27613c9f35b81feec
 [uni-fcrvrenwbtc-add]: https://app.uniswap.org/#/add/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599/0x192e9d29d43db385063799bc239e772c3b6888f3
+[uni-fweth-add]: https://app.uniswap.org/#/add/ETH/0x8e298734681adbfc41ee5d17ff8b0d6d803e7098
 
 [uni-farm-trade]: https://app.uniswap.org/#/swap?inputCurrency=0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48&outputCurrency=0xa0246c9032bc3a600820415ae600c6388619a14d
 [uni-fusdc-trade]: https://app.uniswap.org/#/swap?inputCurrency=0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48&outputCurrency=0xc3f7ffb5d5869b3ade9448d094d81b0521e8326f
@@ -135,6 +137,7 @@ Balancer pool: 		https://pools.balancer.exchange/#/pool/0x0126cfa7ec6b6d4a960b59
 [uni-fwbtc-info]: https://uniswap.info/pair/0xaebfeA924DE4080C14DF5C432cECe261934457E0
 [uni-frenbtc-info]: https://uniswap.info/pair/0x007f74c5c82d68a138cc3bc623e51270279fa525
 [uni-fcrvrenwbtc-info]: https://uniswap.info/pair/0xb6a6a3d8ef31d9faeb1ab1487ace79fe1f5df1bb
+[uni-fweth-info]: https://uniswap.info/pair/0x24b34098F6950a5d5B6BbE1358AD79B609B924fB
 
 [bal-farm95-info]: https://pools.balancer.exchange/#/pool/0x0395e4a17ff11d36dac9959f2d7c8eca10fe89c9
 [bal-farm80-info]: https://pools.balancer.exchange/#/pool/0x0126cfa7ec6b6d4a960b5979943c06a9742af55e
