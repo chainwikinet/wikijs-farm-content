@@ -2,7 +2,7 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2020-09-18T01:17:15.074Z
+date: 2020-09-18T01:21:57.044Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-04T07:47:54.724Z
@@ -101,7 +101,7 @@ This strategy farms CRV, the [Curve Finance DAO token][crv].
 ![harvestcrvstrategy.png](/harvestcrvstrategy.png)
 
 ## Farming Cream with WETH
-This strategy farms Cream, the [Cream Finance Token][cream].
+This strategy farms CREAM, the [Cream Finance Token][cream].
 
 > You do not receive Cream directly. Instead, the farmed Cream is sold to return more stablecoins to you when you withdraw.
 {.is-info}
