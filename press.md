@@ -2,7 +2,7 @@
 title: Harvest Finance Press
 description: Harvest Finance in the news
 published: true
-date: 2020-09-17T04:09:36.064Z
+date: 2020-09-19T02:41:29.189Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-13T07:21:40.116Z
@@ -23,7 +23,8 @@ dateCreated: 2020-08-13T07:21:40.116Z
 - Harvest Finance : The reality of APYs. https://medium.com/@Redmption/harvest-finance-the-reality-of-apys-e7bd93a795b7
 - Harvest.Finance Security Review (HAECHI AUDIT). https://medium.com/haechi-audit/harvest-finance-security-review-64782c98d2ae
 - Dummies guide to automated farming for the common people - harvest.finance https://www.publish0x.com/cryptocloaker/dummies-guide-to-automated-farming-for-the-common-people-har-xpjewnl
-- The Humble Farmers’ Handbook. https://medium.com/@BIBI_CAT/the-humble-farmers-handbook-d7101a06d5bf
+- The Humble Farmers’ Handbook. https://medium.com/@BIBI_CAT/the-humble-farmers-handbook-d7101a06d5bf\
+- Panic at the Crypto https://medium.com/@Redmption/panic-at-the-crypto-8e4961d10e2
 - [Contribute!](/contribute)
 
 # Videos
