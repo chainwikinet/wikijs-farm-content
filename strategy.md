@@ -2,7 +2,7 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2020-09-18T20:17:27.759Z
+date: 2020-09-19T05:15:28.506Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-04T07:47:54.724Z
@@ -135,7 +135,7 @@ This strategy farms UNI, the [Uniswap Token][uni].
 | **FARM Incentives**     | There are no current FARM incentives for depositing your UNI LP. |
 | **Vault Contract**      | [VaultCream][uni-vault] |
 | **Strategy Contract**   | [SNXRewardUniLPStrategy][uni-strategy] |
-| **Example Harvest TX**  | [doHardWork][uni-harvest] (waiting for harvest) |
+| **Example Harvest TX**  | [doHardWork][uni-harvest]|
 
 ## Farming Other Things
 
@@ -288,7 +288,7 @@ https://etherscan.io/address/0x00f9d525828beebf1ee75fb72b1f21932e195bdf#code
 [vaultcream]: https://etherscan.io/address/0x8e298734681adbfc41ee5d17ff8b0d6d803e7098
 [harvestcream]: https://etherscan.io/tx/0x9b5f2b36e960f533b3eec83773306c9a3a4a74f596addff2951d4cfd6a9b7694
 [uni-vault]:https://etherscan.io/address/0xb1feb6ab4ef7d0f41363da33868e85eb0f3a57ee
-[uni-harvest]:#
+[uni-harvest]: https://etherscan.io/tx/0x5b609ca7f6a78d879a6ca36917ff7f8f7916cd5cd8fc4276d28cedc2e66fdc8c
 [uni-strategy]: https://etherscan.io/address/0x0a7d74604b39229d444855ef294f287099774ac8#code
 
 
