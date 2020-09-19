@@ -2,7 +2,7 @@
 title: Harvest Deposit Stakedrop
 description: deposit assets into Harvest yield farming strategies, receive FARM
 published: true
-date: 2020-09-19T01:10:48.016Z
+date: 2020-09-19T01:18:43.892Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-08T03:09:48.188Z
@@ -42,15 +42,6 @@ The simplest option is to deposit eligible assets on [harvest.finance](https://h
 |`CrvRenWBTC`|`fcrvRenWBTC`	|[buy fcrvRenWBTC](https://app.uniswap.org/#/swap?outputCurrency=0x192e9d29d43db385063799bc239e772c3b6888f3)
 | `WETH`  	 |`fWETH`				|[buy fWETH](https://app.uniswap.org/#/swap?outputCurrency=0x8e298734681adbfc41ee5d17ff8b0d6d803e7098)
 
--------------
-While not eligable for the FARM stakedrop, Harvest.Finance also allows the deposit of uniswap LP tokens used to farm UNI. Eligable deposit tokens are listed below.
-| Deposit    | Receive      | Uniswap Purchase Link |
-|:----------:|:------------:|-------------|
-| `WBTC_WETH_LP`	| `FWBTC_WETH_LP` |		|
-| `DAI_WETH_LP` 	| `FDAI_WETH_LP` 	|		|
-| `USDC_WETH_LP`	| `FUSDC_WETH_LP`	|		|
-| `USDT_WETH_LP` 	| `FUSDT_WETH_LP` |				|
-
 
 Over time, yield farming will cause these fASSETs will grow in value. Simply holding these fASSETs will not entitle you to the FARM stakedrop.
 
@@ -77,10 +68,7 @@ Deposit the `fASSETs` using the `EARN` tab. You will immediately begin receiving
 | frenBTC| [0xCFE1103863F9e7Cf3452Ca8932Eef44d314bf9C5][es-frenbtc]| [0xCFE1103863F9e7Cf3452Ca8932Eef44d314bf9C5][es-pool-frenbtc]|
 |fcrvRenWBTC|[0x192e9d29d43db385063799bc239e772c3b6888f3][es-fcrvrenwbtc]| [0x5365A2C47b90EE8C9317faC20edC3ce7037384FB][es-pool-fcrvrenwbtc]|
 | fWETH	|[0x8e298734681adbfc41ee5d17ff8b0d6d803e7098][es-fweth] | [0xe11c81b924bb91b44bae19793539054b48158a9d][es-pool-fweth]|
-| FWBTC_WETH_LP |[0xBb2b8038a1640196FbE3e38816F3e67Cba72D940][es-fweth-wbtc]| FARM rewards not availiable. |
-| FDAI_WETH_LP 	|[0xA478c2975Ab1Ea89e8196811F51A7B7Ade33eB11][es-fdai-weth] | FARM rewards not availiable. |
-| FUSDC_WETH_LP	|[0xB4e16d0168e52d35CaCD2c6185b44281Ec28C9Dc][es-fusdc-weth]| FARM rewards not availiable. |
-| FUSDT_WETH_LP |[0x0d4a11d5EEaaC28EC3F61d100daF4d40471f1852][es-fusdt-weth]| FARM rewards not availiable. |
+
 
 
 
@@ -92,10 +80,7 @@ Deposit the `fASSETs` using the `EARN` tab. You will immediately begin receiving
 [es-frenbtc]: https://etherscan.io/address/0xCFE1103863F9e7Cf3452Ca8932Eef44d314bf9C5
 [es-fcrvrenwbtc]: https://etherscan.io/token/0x192e9d29d43db385063799bc239e772c3b6888f3
 [es-fweth]: https://etherscan.io/token/0x8e298734681adbfc41ee5d17ff8b0d6d803e7098
-[es-fweth-wbtc]: https://etherscan.io/token/0xBb2b8038a1640196FbE3e38816F3e67Cba72D940
-[es-fdai-weth]: https://etherscan.io/token/0xA478c2975Ab1Ea89e8196811F51A7B7Ade33eB11
-[es-fusdc-weth]: https://etherscan.io/token/0xB4e16d0168e52d35CaCD2c6185b44281Ec28C9Dc
-[es-fusdt-weth]: https://etherscan.io/token/0x0d4a11d5EEaaC28EC3F61d100daF4d40471f1852
+
 
 
 [es-fdai-contract]: https://etherscan.io/address/0xe85c8581e60d7cd32bbfd86303d2a4fa6a951dac#readContract
