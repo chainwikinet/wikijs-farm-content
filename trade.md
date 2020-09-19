@@ -2,7 +2,7 @@
 title: FARM Markets
 description: buy and sell FARM tokens and other Harvest Finance assets
 published: true
-date: 2020-09-12T17:14:09.734Z
+date: 2020-09-19T01:55:47.377Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-13T07:23:41.115Z
@@ -29,6 +29,13 @@ Harvest assets, including FARM and the fASSET Harvest deposit tokens, are availa
 | [fWBTC][add-fwbtc]   | [0xc07EB91961662D275E2D285BdC21885A4Db136B0][es-fwbtc] | [deposit WBTC][hf], [buy][uni-buy-fwbtc], [info][uni-info-fwbtc]
 | [frenBTC][add-frenbtc] | [0xfBe122D0ba3c75e1F7C80bd27613c9f35B81FEeC][es-frenbtc] | [deposit renBTC][hf], [buy][uni-buy-frenbtc], [info][uni-info-frenbtc]
 | [fcrvRenWBTC][add-fcrvrenwbtc] | [0x192E9d29D43db385063799BC239E772c3b6888F3][es-fcrvrenwbtc] | [deposit crvRenWBTC][hf], [buy][uni-buy-fcrvrenwbtc], [info][uni-info-fcrvrenwbtc]
+|fWETH|[0x8e298734681adbfc41ee5d17ff8b0d6d803e7098][es-fweth]|[deposit WETH][hf], [buy][uni-buy-fweth], [info][uni-info-fweth]|
+|FUSDC_WETH_LP|[0x63671425ef4D25Ec2b12C7d05DE855C143f16e3B][es-fusdc_weth_lp]|[deposit USDC_WETH_LP][hf], [buy][uni-buy-fusdc_weth_lp], [info][uni-info-fusdc_weth_lp]|
+|FUSDT_WETH_LP|[0xB19EbFB37A936cCe783142955D39Ca70Aa29D43c][es-fusdt_weth_lp]|[deposit USDT_WETH_LP][hf], [buy][uni-buy-fusdt_weth_lp], [info][uni-info-fusdt_weth_lp]|
+|FDAI_WETH_LP|[0x1a9F22b4C385f78650E7874d64e442839Dc32327][es-fdai_weth_lp]|[deposit DAI_WETH_LP][hf], [buy][uni-buy-fdai_weth_lp], [info][uni-info-fdai_weth_lp]|
+|FWBTC_WETH_LP|[0xb1FeB6ab4EF7d0f41363Da33868e85EB0f3A57EE][es-fwbtc_weth_lp]|[deposit WBTC_WETH_LP][hf], [buy][uni-buy-fwbtc_weth_lp], [info][uni-info-fwbtc_weth_lp]|
+
+
 
 # Centralized Exchange Listings
 
@@ -58,14 +65,24 @@ Listed on [LBank.info](https://twitter.com/LBank_Exchange/status/130329136589633
 [es-fwbtc]: https://etherscan.io/token/0xc07eb91961662d275e2d285bdc21885a4db136b0
 [es-frenbtc]: https://etherscan.io/token/0xfbe122d0ba3c75e1f7c80bd27613c9f35b81feec
 [es-fcrvrenwbtc]: https://etherscan.io/token/0x192E9d29D43db385063799BC239E772c3b6888F3
+[es-fweth]: https://etherscan.io/token/0x8e298734681adbfc41ee5d17ff8b0d6d803e7098
+[es-fusdc_weth_lp]: https://etherscan.io/token/0x63671425ef4D25Ec2b12C7d05DE855C143f16e3B
+[es-fusdt_weth_lp]: https://etherscan.io/token/0xB19EbFB37A936cCe783142955D39Ca70Aa29D43c
+[es-fdai_weth_lp]: https://etherscan.io/token/0x1a9F22b4C385f78650E7874d64e442839Dc32327
+[es-fwbtc_weth_lp]: https://etherscan.io/token/0xb1FeB6ab4EF7d0f41363Da33868e85EB0f3A57EE
 
 [uni-buy-farm]: https://uniswap.exchange/swap?outputCurrency=0xa0246c9032bc3a600820415ae600c6388619a14d
 [uni-buy-fdai]: https://uniswap.exchange/swap?outputCurrency=0xe85c8581e60d7cd32bbfd86303d2a4fa6a951dac
 [uni-buy-fusdc]: https://uniswap.exchange/swap?outputCurrency=0xc3f7ffb5d5869b3ade9448d094d81b0521e8326f
 [uni-buy-fusdt]: https://uniswap.exchange/swap?outputCurrency=0xc7ee21406bb581e741fbb8b21f213188433d9f2f
-[uni-buy-fwbtc]: https://uniswap.exchange/swap?inputCurrency=0x2260fac5e5542a773aa44fbcfedf7c193bc2c599&outputCurrency=0xc07eb91961662d275e2d285bdc21885a4db136b0
-[uni-buy-frenbtc]: https://uniswap.exchange/swap?inputCurrency=0x2260fac5e5542a773aa44fbcfedf7c193bc2c599&outputCurrency=0xfbe122d0ba3c75e1f7c80bd27613c9f35b81feec
-[uni-buy-fcrvrenwbtc]: https://uniswap.exchange/swap?inputCurrency=0x2260fac5e5542a773aa44fbcfedf7c193bc2c599&outputCurrency=0x192E9d29D43db385063799BC239E772c3b6888F3
+[uni-buy-fwbtc]: https://uniswap.exchange/swap?outputCurrency=0xc07eb91961662d275e2d285bdc21885a4db136b0
+[uni-buy-frenbtc]: https://uniswap.exchange/swap?outputCurrency=0xfbe122d0ba3c75e1f7c80bd27613c9f35b81feec
+[uni-buy-fcrvrenwbtc]: https://uniswap.exchange/swap?outputCurrency=0x192E9d29D43db385063799BC239E772c3b6888F3
+[uni-buy-fweth]: https://app.uniswap.org/#/swap?outputCurrency=0x8e298734681adbfc41ee5d17ff8b0d6d803e7098
+[uni-buy-fusdc_weth_lp]: https://app.uniswap.org/#/swap?outputCurrency=0x63671425ef4D25Ec2b12C7d05DE855C143f16e3B
+[uni-buy-fusdt_weth_lp]: https://app.uniswap.org/#/swap?outputCurrency=0xB19EbFB37A936cCe783142955D39Ca70Aa29D43c
+[uni-buy-fdai_weth_lp]: https://app.uniswap.org/#/swap?outputCurrency=0x1a9F22b4C385f78650E7874d64e442839Dc32327
+[uni-buy-fwbtc_weth_lp]: https://app.uniswap.org/#/swap?outputCurrency=0xb1FeB6ab4EF7d0f41363Da33868e85EB0f3A57EE
 
 [uni-info-farm]: https://uniswap.info/token/0xa0246c9032bc3a600820415ae600c6388619a14d
 [uni-info-fdai]: https://uniswap.info/token/0xe85c8581e60d7cd32bbfd86303d2a4fa6a951dac
@@ -74,9 +91,11 @@ Listed on [LBank.info](https://twitter.com/LBank_Exchange/status/130329136589633
 [uni-info-fwbtc]: https://uniswap.info/token/0xc07eb91961662d275e2d285bdc21885a4db136b0
 [uni-info-frenbtc]: https://uniswap.info/token/0xfbe122d0ba3c75e1f7c80bd27613c9f35b81feec
 [uni-info-fcrvrenwbtc]: https://uniswap.info/token/0x192E9d29D43db385063799BC239E772c3b6888F3
-
-
-
+[uni-info-fweth]: https://uniswap.info/token/0x8e298734681adbfc41ee5d17ff8b0d6d803e7098
+[uni-info-fusdc_weth_lp]: https://uniswap.info/token/0x63671425ef4D25Ec2b12C7d05DE855C143f16e3B
+[uni-info-fusdt_weth_lp]: https://uniswap.info/token/0xB19EbFB37A936cCe783142955D39Ca70Aa29D43c
+[uni-info-fdai_weth_lp]: https://uniswap.info/token/0x1a9F22b4C385f78650E7874d64e442839Dc32327
+[uni-info-fwbtc_weth_lp]: https://uniswap.info/token/0xb1FeB6ab4EF7d0f41363Da33868e85EB0f3A57EE
 
 
 
