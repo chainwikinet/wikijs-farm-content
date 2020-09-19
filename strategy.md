@@ -2,7 +2,7 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2020-09-19T23:40:30.029Z
+date: 2020-09-19T23:41:36.417Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-04T07:47:54.724Z
@@ -277,15 +277,18 @@ https://etherscan.io/address/0x00f9d525828beebf1ee75fb72b1f21932e195bdf#code
 [es-frenbtc]: https://etherscan.io/token/0xfbe122d0ba3c75e1f7c80bd27613c9f35b81feec
 [es-fcrvrenwbtc]: https://etherscan.io/token/0x192E9d29D43db385063799BC239E772c3b6888F3
 
+# Obsolete Farming Strategies
 
-## (Obsolete) Farming SWRV with Stablecoins
+> Strategies in this section are obsolete, provided for technical purposes only. {.is-danger}
+
+## Farming SWRV with Stablecoins
 
 This strategy farms SWRV, the [Swerve Finance DAO token][swrv].
 
 > You do not receive SWRV directly. Instead, the farmed SWRV is sold to return more stablecoins to you when you withdraw.
 {.is-info}
 
-> This strategy is obsolete, provided for technical purposes only. {.is-danger}
+
 
  | | |
 |------------------|-|
