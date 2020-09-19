@@ -2,7 +2,7 @@
 title: FARM Token Supply
 description: FARM token supply and emission schedule
 published: true
-date: 2020-09-15T19:11:06.151Z
+date: 2020-09-19T16:29:01.312Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-16T22:09:16.263Z
@@ -25,15 +25,15 @@ https://etherscan.io/tx/0x8c291fe6a2e2f3c56c6df33f197f49bf3f363a4bb93ab050a1a71c
 
 # How Many FARM tokens are liquid now?
 
-This requires some math.  [Contribute!](/contribute)
+| Week | Minted | Distributed | Burned | % of max supply |
+|------|--------|-------------|--------|-----------------|
+|  1   | 57569.1| 57569.1     | 0      | 1.15%           |
+|  2   | 51676.2| 51676.2     | 0      | 1.03%           |
+|  3   | 41250.3| 41250.3     | 14850  | 0.82%           |
+|  4   | 30824.4| 30824.4     | TBD    | 0.62%           |
+|  5+  | 23555.0| 23555.0     | TBD    | 0.47%           |
 
-Week 1: 57569.1 released (1.15% of supply)
-Week 2: 51676.2 released (1.03% of supply)
-Week 3: 41250.3 released (0.82% of supply); 14850 burned
-Week 4: 30824.4 released (0.62% of supply)
-
-Total for first 4 weeks: 181,320 released (3.63% of supply)
-After week 4: constant emission of 23555 FARM per week(0.47% of supply) for 4 years.
+After week 4: constant emission of 23555 FARM per week for 4 years.
 
 
 # How are the tokens distributed?
