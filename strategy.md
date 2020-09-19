@@ -2,7 +2,7 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2020-09-19T23:41:36.417Z
+date: 2020-09-19T23:46:24.148Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-04T07:47:54.724Z
@@ -56,7 +56,6 @@ This strategy farms CRV, the [Curve Finance DAO token][crv].
 [es-strat-renbtc]: https://etherscan.io/address/0x2eadfb06f9d890eba80e999eaba2d445bc70f006#code
 [es-strat-crvrenwbtc]: https://etherscan.io/address/0xaf2d2e5c5af90c782c008b5b287f20334eeb308e#code
 
-
 ## Farming CRV with Stablecoins
 
 This strategy farms CRV, the [Curve Finance DAO token][crv].
@@ -77,6 +76,10 @@ This strategy farms CRV, the [Curve Finance DAO token][crv].
 | **Example Harvest TX**  | [doHardWork][harvest] |
 
 ![harvestcrvstrategy.png](/harvestcrvstrategy.png)
+
+[harvest]: https://etherscan.io/tx/0xf69262029ce30403101cda38d110ae897a6c23b4b8748d10a9a3514c012c365d
+[crvstrategy]: https://etherscan.io/address/0xcf5f83f8fe0ab0f9e9c1db07e6606dd598b2bbf5
+[vaultycrv]: https://etherscan.io/address/0xf2b223eb3d2b382ead8d85f3c1b7ef87c1d35f3a
 
 ## Farming Cream with WETH
 This strategy farms CREAM, the [Cream Finance Token][cream].
@@ -253,9 +256,7 @@ https://etherscan.io/address/0x00f9d525828beebf1ee75fb72b1f21932e195bdf#code
  
 
 [farm-stakedrop]: https://harvest.finance/earn
-[harvest]: https://etherscan.io/tx/0xf69262029ce30403101cda38d110ae897a6c23b4b8748d10a9a3514c012c365d
-[crvstrategy]: https://etherscan.io/address/0xcf5f83f8fe0ab0f9e9c1db07e6606dd598b2bbf5
-[vaultycrv]: https://etherscan.io/address/0xf2b223eb3d2b382ead8d85f3c1b7ef87c1d35f3a
+
 [crv]: https://www.coingecko.com/en/coins/curve-dao-token
 [hf]: https://harvest.finance
 [swrv]: https://www.coingecko.com/en/coins/swerve
@@ -277,9 +278,10 @@ https://etherscan.io/address/0x00f9d525828beebf1ee75fb72b1f21932e195bdf#code
 [es-frenbtc]: https://etherscan.io/token/0xfbe122d0ba3c75e1f7c80bd27613c9f35b81feec
 [es-fcrvrenwbtc]: https://etherscan.io/token/0x192E9d29D43db385063799BC239E772c3b6888F3
 
-# Obsolete Farming Strategies
+# Inactive Farming Strategies
 
-> Strategies in this section are obsolete, provided for technical purposes only. {.is-danger}
+> Strategies in this section have been deployed, but are not presently in active use.
+{.is-warning}
 
 ## Farming SWRV with Stablecoins
 
