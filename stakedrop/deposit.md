@@ -2,7 +2,7 @@
 title: Harvest Deposit Stakedrop
 description: deposit assets into Harvest yield farming strategies, receive FARM
 published: true
-date: 2020-09-19T00:58:36.940Z
+date: 2020-09-19T01:00:42.806Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-08T03:09:48.188Z
@@ -79,8 +79,8 @@ Deposit the `fASSETs` using the `EARN` tab. You will immediately begin receiving
 | fWETH	|[0x8e298734681adbfc41ee5d17ff8b0d6d803e7098][es-fweth] | [0xe11c81b924bb91b44bae19793539054b48158a9d][es-pool-fweth]|
 | FWBTC_WETH_LP |[0xBb2b8038a1640196FbE3e38816F3e67Cba72D940][es-fweth-wbtc]|
 | FDAI_WETH_LP 	|[0xA478c2975Ab1Ea89e8196811F51A7B7Ade33eB11][es-fdai-weth]|
-| FUSDC_WETH_LP	|		|
-| FUSDT_WETH_LP |				|
+| FUSDC_WETH_LP	|[0xB4e16d0168e52d35CaCD2c6185b44281Ec28C9Dc][es-fusdc-weth]|
+| FUSDT_WETH_LP |[0x0d4a11d5EEaaC28EC3F61d100daF4d40471f1852][es-fusdt-weth]|
 
 
 
@@ -94,8 +94,8 @@ Deposit the `fASSETs` using the `EARN` tab. You will immediately begin receiving
 [es-fweth]: https://etherscan.io/token/0x8e298734681adbfc41ee5d17ff8b0d6d803e7098
 [es-fweth-wbtc]: https://etherscan.io/token/0xBb2b8038a1640196FbE3e38816F3e67Cba72D940
 [es-fdai-weth]: https://etherscan.io/token/0xA478c2975Ab1Ea89e8196811F51A7B7Ade33eB11
-[es-fusdc-weth]: 
-[es-fusdt-weth]:
+[es-fusdc-weth]: https://etherscan.io/token/0xB4e16d0168e52d35CaCD2c6185b44281Ec28C9Dc
+[es-fusdt-weth]: https://etherscan.io/token/0x0d4a11d5EEaaC28EC3F61d100daF4d40471f1852
 
 
 [es-fdai-contract]: https://etherscan.io/address/0xe85c8581e60d7cd32bbfd86303d2a4fa6a951dac#readContract
@@ -114,9 +114,6 @@ Deposit the `fASSETs` using the `EARN` tab. You will immediately begin receiving
 [es-withdraw-buffer]: https://etherscan.io/tx/0x70fddec35fcf1f89fbfff90972be0e04ce0ae8c34abfaf2900e5210fdf86303e
 [es-withdraw-nobuffer]: https://etherscan.io/tx/0x959045e3c8fb26a9eeab00e5ebe11fe62012cc7148f4d025c4c7f75ec0bed0bb
 [uni-fusdc]: https://app.uniswap.org/#/swap?outputCurrency=0xc3f7ffb5d5869b3ade9448d094d81b0521e8326f
-
-## Uniswap Liquidity Provider Tokens
-While not eligible for FARM rewards, Harvest.Finance also farms UNI. Like the 
 
 
 
