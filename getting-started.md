@@ -1,8 +1,8 @@
 ---
 title: Getting Started
 description: New to Farming? This will walk you through your first farming experience
-published: false
-date: 2020-09-20T19:27:31.550Z
+published: true
+date: 2020-09-20T19:27:49.168Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-20T18:56:27.102Z
