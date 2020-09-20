@@ -2,7 +2,7 @@
 title: Getting Started
 description: New to Farming? This will walk you through your first farming experience
 published: false
-date: 2020-09-20T18:56:27.102Z
+date: 2020-09-20T19:12:23.000Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-20T18:56:27.102Z
@@ -36,7 +36,10 @@ All done? Alright! Let's get farming!
 - Follow instructions on your exchange and your wallet to transfer USDC from the exchange to the wallet. The flow would be something like this:
 - On your Exchange, follow instructions to Send USDC
 - For the recipient address, copy your Wallet's public address, and paste it into the recipient address on the Exchange Send page
-- Click confirm…HOLD UP! Many exchanges will charge you Gas to Send crypto. We aren't going to go into the details here, but if they charge gas, you need to watch gas prices so you don't get hit with expensive transaction fees.
+- Click confirm…
+> HOLD UP! Many exchanges will charge you Gas to Send crypto. We aren't going to go into the details here, but if they charge gas, you need to watch gas prices so you don't get hit with expensive transaction fees.
+{.is-warning}
+
 
 [//]: # (Should we add more info info on gas here? maybe a reference link or two?)
 - Now wait patiently for your USDC to arrive in your wallet.
@@ -49,12 +52,31 @@ All done? Alright! Let's get farming!
 ![getting_started_configure_brave_wallet.png](/getting_started_configure_brave_wallet.png)
 - Find USDC on the page. Here we can see the APY we'll earn on our deposit. Note: APY is not the same as APR. There are several articles on the interwebs covering this :smile:
 ![getting_started_usdc_apy2.png](/getting_started_usdc_apy2.png)
-- Either enter an amount or click Max. Then click deposit. Need screenshot
-- Missing Steps to be filled in. Sorry :cry:
+- Either enter an amount or click Max. Then click deposit.
 
-[//]: # (Missing some steps here. Need steps with screen shots)
+[//]: # (Need screenshot)
+- Your Wallet should open up and ask for Approval of the transaction
+- Upon Approval, your transaction will start to go through. You can monitor it via your wallet or Ethersacn (should have a link to the transaction in your wallet)
+
+[//]: # (Am I missing some steps here? Need steps with screen shots)
 - HOLD UP! Watch out for gas prices! Remember our little chat about gas prices earlier. Well, here they are again. Pay attention!
 - After the transaction completed, you have now deposited USDC and receive an equivalent value of Farm tokenized USDC as fUSDC. Want to learn more about fUSDC and other f\<Assets>\? Check the FAQ!
 - You can watch your balance \[mostly\] grow (remember the risk of Impermanent Loss?). You can see your balance to the right of the coin on the main page. Hopefully yours isn't blurred out like mine :laughing:.
 ![getting_started_usdc_value.png](/getting_started_usdc_value.png)
+# Stake Your Tokens to Earn FARM
+![No! I said "Stake"!](/getting_started_did_you_say_steak.jpg)
+*No! I said "Stake"!*
+- Now you have all the fUSDC in your wallet. What on Earth are you to do with it??? Let's earn more APY…in FARM. You can find the APY here
+![getting_started_farm_apy.png](/getting_started_farm_apy.png)
+- At the bottom of the page, you'll see a notice that you have unstaked fUSDC. Let's put that unstaked fUSDC to good use!
 
+[//]: # (need screenshot)
+
+- Click Earn at the top of the page
+![getting_started_select_earn.png](/getting_started_select_earn.png)
+- Look for the "Deposit: fUSDC Earn: FARM", and click on the APY button
+![getting_started_select_fusdc_farm.png](/getting_started_select_fusdc_farm.png)
+
+[//]: # (need next steps here with screen shots)
+
+- **HOLD UP!** (what? again? YUP!) Watch out for gas prices! If you just did the previous transaction step and were happy with the price, keep going.
