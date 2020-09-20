@@ -2,7 +2,7 @@
 title: Harvest Security
 description: testing and auditing the Harvest Finance contracts
 published: true
-date: 2020-09-20T11:19:23.743Z
+date: 2020-09-20T11:22:39.867Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-06T07:52:56.974Z
@@ -69,7 +69,7 @@ CREAM, like Compound, cannot always guarantee that withdrawals of any size can b
 
 When the issue was understood, Harvest community wiki managers `BIBI CAT`, `Silage Pete`, and several other Harvest Discord moderators and helpful users notified the Harvest development team of the problem and alerted everyone in Discord that they should not attempt any more WETH withdrawals until the issue was fixed. Notices to avoid withdrawals were placed in Discord and the wiki.
 
-At 07:00 UTC, around 1 hour after the incident was reported, contributor Byron McKeeby submitted [a pull request to the WETH strategy repository](https://github.com/harvest-finance/harvest/pull/4/files) attempting to fix this bug. This PR would not recover the WETH for those who had failed to withdraw, but it proposed an approach for avoiding the failed withdrawal problem in future strategy deployments.
+At 07:00 UTC, around 1 hour after the incident was reported, contributor `Byron McKeeby` submitted [a pull request to the WETH strategy repository](https://github.com/harvest-finance/harvest/pull/4/files) attempting to fix this bug. This PR would not recover the WETH for those who had failed to withdraw, but it proposed an approach for avoiding the failed withdrawal problem in future strategy deployments.
 
 Approximately 5% of the fWETH supply held by 11 owners attempted to withdraw and was affected by this bug. When a withdrawal failed, ownership of the WETH in CREAM that failed to be withdrawn was transferred to the remaining shareholders in the fWETH pool and causing the fWETH share price to increase.
 
