@@ -2,7 +2,7 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2020-09-20T00:29:54.627Z
+date: 2020-09-20T00:33:11.350Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-04T07:47:54.724Z
@@ -33,7 +33,7 @@ Harvest Finance launched on September 1st. New farming strategies are constantly
 
 As of September 8th, 70% of the yield farming revenue is returned to users who provide capital. The remaining 30% of the yield farming revenue is distributed to users who [stake FARM in the Profit Sharing contract][farm-stakedrop]. The Harvest Finance team does not charge fees for withdrawing or depositing assets and does not claim a fee on the yield farming revenue.
 
-## Farming CRV with BTC v1
+## Farming CRV with BTC
 
 This strategy farms CRV, the [Curve Finance DAO token][crv].
 
