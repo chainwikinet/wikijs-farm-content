@@ -2,7 +2,7 @@
 title: Harvest Security
 description: testing and auditing the Harvest Finance contracts
 published: true
-date: 2020-09-19T12:50:26.304Z
+date: 2020-09-20T11:19:23.743Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-06T07:52:56.974Z
@@ -51,6 +51,10 @@ Full Audit on Harvest with delivery expected in late September.
 # Incident Retrospectives
 
 ## fWETH Withdraw Failure Sept 18 2020
+
+> This summary was prepared by user `Silage Pete` and has not been reviewed for accuracy or completeness by the Harvest team.
+{.is-info}
+
 
 At around 06:00 UTC on Friday September 18th 2020, users in the Harvest Finance Discord chat began reporting problems with fWETH withdrawals.
 
