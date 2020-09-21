@@ -2,7 +2,7 @@
 title: Getting Started
 description: New to Farming? This will walk you through your first farming experience
 published: true
-date: 2020-09-20T19:27:49.168Z
+date: 2020-09-21T01:26:23.167Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-20T18:56:27.102Z
@@ -55,7 +55,7 @@ All done? Alright! Let's get farming!
 ![getting_started_connect_wallet.png](/getting_started_connect_wallet.png)
 - Your Wallet should ask you to approve connecting to harvest.finance. (yes, click Approve)
 - Now you can send money into the harvest!
-![getting_started_configure_brave_wallet.png](/getting_started_configure_brave_wallet.png)
+
 - Find USDC on the page. Here we can see the APY we'll earn on our deposit. Note: APY is not the same as APR. There are several articles on the interwebs covering this :smile:
 ![getting_started_usdc_apy2.png](/getting_started_usdc_apy2.png)
 - Either enter an amount or click Max. Then click deposit.
