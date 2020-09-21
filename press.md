@@ -2,7 +2,7 @@
 title: Harvest Finance Press
 description: Harvest Finance in the news
 published: true
-date: 2020-09-19T02:41:29.189Z
+date: 2020-09-21T06:56:05.895Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-13T07:21:40.116Z
@@ -25,6 +25,7 @@ dateCreated: 2020-08-13T07:21:40.116Z
 - Dummies guide to automated farming for the common people - harvest.finance https://www.publish0x.com/cryptocloaker/dummies-guide-to-automated-farming-for-the-common-people-har-xpjewnl
 - The Humble Farmers’ Handbook. https://medium.com/@BIBI_CAT/the-humble-farmers-handbook-d7101a06d5bf\
 - Panic at the Crypto https://medium.com/@Redmption/panic-at-the-crypto-8e4961d10e2
+- There’s a potential competitor to Ethereum’s Yearn.finance (YFI): DeFi analyst https://cryptoslate.com/theres-a-potential-competitor-to-ethereums-yearn-finance-yfi-defi-analyst/
 - [Contribute!](/contribute)
 
 # Videos
