@@ -2,7 +2,7 @@
 title: Harvest Deposit Stakedrop
 description: deposit assets into Harvest yield farming strategies, receive FARM
 published: true
-date: 2020-09-22T10:12:05.563Z
+date: 2020-09-22T23:56:11.208Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-08T03:09:48.188Z
@@ -79,6 +79,10 @@ Deposit the `fASSETs` using the `EARN` tab. You will immediately begin receiving
 [es-frenbtc]: https://etherscan.io/token/0xfBe122D0ba3c75e1F7C80bd27613c9f35B81FEeC
 [es-fcrvrenwbtc]: https://etherscan.io/token/0x192E9d29D43db385063799BC239E772c3b6888F3
 [es-fweth]: https://etherscan.io/token/0x8e298734681adbfC41ee5d17FF8B0d6d803e7098
+[es-fusdc_weth_lp]: https://etherscan.io/token/0x63671425ef4D25Ec2b12C7d05DE855C143f16e3B
+[es-fusdt_weth_lp]: https://etherscan.io/token/0xB19EbFB37A936cCe783142955D39Ca70Aa29D43c
+[es-fdai_weth_lp]: https://etherscan.io/token/0x1a9F22b4C385f78650E7874d64e442839Dc32327
+[es-fwbtc_weth_lp]: https://etherscan.io/token/0xb1FeB6ab4EF7d0f41363Da33868e85EB0f3A57EE
 
 [es-usdc]: https://etherscan.io/token/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48
 [es-usdt]: https://etherscan.io/token/0xdAC17F958D2ee523a2206206994597C13D831ec7
@@ -87,6 +91,10 @@ Deposit the `fASSETs` using the `EARN` tab. You will immediately begin receiving
 [es-renbtc]: https://etherscan.io/token/0xEB4C2781e4ebA804CE9a9803C67d0893436bB27D
 [es-crvrenwbtc]: https://etherscan.io/token/0x49849C98ae39Fff122806C06791Fa73784FB3675
 [es-weth]: https://etherscan.io/token/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2
+[es-usdc_weth_lp]: https://etherscan.io/token/0xb4e16d0168e52d35cacd2c6185b44281ec28c9dc
+[es-usdt_weth_lp]: https://etherscan.io/token/0x0d4a11d5eeaac28ec3f61d100daf4d40471f1852
+[es-dai_weth_lp]: https://etherscan.io/token/0xa478c2975ab1ea89e8196811f51a7b7ade33eb11
+[es-wbtc_weth_lp]: https://etherscan.io/token/0xbb2b8038a1640196fbe3e38816f3e67cba72d940
 
 
 [es-fdai-contract]: https://etherscan.io/address/0xe85c8581e60d7cd32bbfd86303d2a4fa6a951dac#readContract
