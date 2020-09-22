@@ -2,7 +2,7 @@
 title: Harvest Deposit Stakedrop
 description: deposit assets into Harvest yield farming strategies, receive FARM
 published: true
-date: 2020-09-19T01:18:43.892Z
+date: 2020-09-22T09:55:28.535Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-08T03:09:48.188Z
@@ -65,7 +65,7 @@ Deposit the `fASSETs` using the `EARN` tab. You will immediately begin receiving
 | fUSDT | [0xc7ee21406bb581e741fbb8b21f213188433d9f2f][es-fusdt] | [0x5bd997039FFF16F653EF15D1428F2C791519f58d][es-pool-fusdt-week1] |
 | fDAI  | [0xe85c8581e60d7cd32bbfd86303d2a4fa6a951dac][es-fdai]  | [0xF9E5f9024c2f3f2908A1d0e7272861a767C9484b][es-pool-fdai-week1] |
 | fWBTC | [0xc07eb91961662d275e2d285bdc21885a4db136b0][es-fWBTC] | [0x6291eCe696CB6682a9bb1d42fca4160771b1D7CC][es-pool-fwbtc]|
-| frenBTC| [0xCFE1103863F9e7Cf3452Ca8932Eef44d314bf9C5][es-frenbtc]| [0xCFE1103863F9e7Cf3452Ca8932Eef44d314bf9C5][es-pool-frenbtc]|
+| frenBTC| [0xfBe122D0ba3c75e1F7C80bd27613c9f35B81FEeC][es-frenbtc]| [0xCFE1103863F9e7Cf3452Ca8932Eef44d314bf9C5][es-pool-frenbtc]|
 |fcrvRenWBTC|[0x192e9d29d43db385063799bc239e772c3b6888f3][es-fcrvrenwbtc]| [0x5365A2C47b90EE8C9317faC20edC3ce7037384FB][es-pool-fcrvrenwbtc]|
 | fWETH	|[0x8e298734681adbfc41ee5d17ff8b0d6d803e7098][es-fweth] | [0xe11c81b924bb91b44bae19793539054b48158a9d][es-pool-fweth]|
 
@@ -77,7 +77,7 @@ Deposit the `fASSETs` using the `EARN` tab. You will immediately begin receiving
 [es-fusdt]: https://etherscan.io/token/0xc7ee21406bb581e741fbb8b21f213188433d9f2f
 [es-fdai]: https://etherscan.io/token/0xe85c8581e60d7cd32bbfd86303d2a4fa6a951dac
 [es-fwbtc]: https://etherscan.io/token/0xc07eb91961662d275e2d285bdc21885a4db136b0
-[es-frenbtc]: https://etherscan.io/address/0xCFE1103863F9e7Cf3452Ca8932Eef44d314bf9C5
+[es-frenbtc]: https://etherscan.io/address/0xfBe122D0ba3c75e1F7C80bd27613c9f35B81FEeC
 [es-fcrvrenwbtc]: https://etherscan.io/token/0x192e9d29d43db385063799bc239e772c3b6888f3
 [es-fweth]: https://etherscan.io/token/0x8e298734681adbfc41ee5d17ff8b0d6d803e7098
 
