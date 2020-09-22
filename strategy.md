@@ -2,7 +2,7 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2020-09-22T08:42:24.518Z
+date: 2020-09-22T08:50:19.403Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-04T07:47:54.724Z
@@ -95,15 +95,22 @@ This strategy farms UNI, the [Uniswap Token][uni].
 | **How To Participate**  | [deposit LP Tokens][hf] to receive fUNI-V2 |
 | **Yield Payout**        | Successful farming makes the fUNI-V2 redeemable for a growing number of LP tokens. |
 | **FARM Incentives**     | There are no current FARM incentives for depositing your UNI LP. |
-| **Vault Contract**      | [fUNI-V2][es-funi-v2] |
-| **Strategy Contract**   | SNXRewardUniLPStrategy [WETH-WBTC][es-weth-wbtc-strategy], [WETH-USDT][es-weth-usdt-strategy], [WETH-USDC][es-weth-usdc-strategy], [WETH-DAI][es-weth-dai-strategy]|
+| **Vault Contract**      | fUNI-V2 [fWBTC-WETH][es-fwbtc-weth-LP], [fUSDC_WETH_LP][es-fusdc-weth-LP] |
+| **Strategy Contract**   | SNXRewardUniLPStrategy [WBTC-WETH][es-weth-wbtc-strategy], [USDT-WETH][es-weth-usdt-strategy], [USDC-WETH][es-weth-usdc-strategy], [DAI-WETH][es-weth-dai-strategy]|
 | **Example Harvest TX**  | [doHardWork][es-weth-wbtc-harvest]|
 
+[es-fwbtc-weth-LP]: https://etherscan.io/address/0xb1feb6ab4ef7d0f41363da33868e85eb0f3a57ee
+[es-fusdc-weth-LP]: https://etherscan.io/address/0x63671425ef4D25Ec2b12C7d05DE855C143f16e3B
+[es-fusdt-weth-LP]: https://etherscan.io/address/0xB19EbFB37A936cCe783142955D39Ca70Aa29D43c
+[es-fusdt-weth-LP]: https://etherscan.io/address/0x1a9F22b4C385f78650E7874d64e442839Dc32327
+
 [es-weth-wbtc-harvest]: https://etherscan.io/tx/0x5b609ca7f6a78d879a6ca36917ff7f8f7916cd5cd8fc4276d28cedc2e66fdc8c
-[es-weth-wbtc-strategy]: https://etherscan.io/address/0x0a7d74604b39229d444855ef294f287099774ac8#code
+[es-weth-wbtc-strategy]: https://etherscan.io/address/0x0a7d74604b39229d444855ef294f287099774ac8
 [es-weth-usdt-strategy]: https://etherscan.io/address/0xb43aa2c44b99bad346143fb44e264213d412b6c2
 [es-weth-usdc-strategy]: https://etherscan.io/address/0x50f1191f3059069888d9e16a327b96afdd26c6fd
 [es-weth-dai-strategy]: https://etherscan.io/address/0x2fee56e039acccefa3cb1f3051ad00fe550a472c
+
+
 
 ## Farming Other Things
 
@@ -339,4 +346,4 @@ This strategy farms CRV, the [Curve Finance DAO token][crv].
 [es-frenbtc]: https://etherscan.io/token/0xfbe122d0ba3c75e1f7c80bd27613c9f35b81feec
 [es-fcrvrenwbtc]: https://etherscan.io/token/0x192E9d29D43db385063799BC239E772c3b6888F3
 [es-fweth]: https://etherscan.io/address/0x8e298734681adbfc41ee5d17ff8b0d6d803e7098
-[es-funi-v2]:https://etherscan.io/address/0xb1feb6ab4ef7d0f41363da33868e85eb0f3a57ee
+
