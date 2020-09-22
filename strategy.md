@@ -2,7 +2,7 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2020-09-22T08:50:19.403Z
+date: 2020-09-22T08:51:41.194Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-04T07:47:54.724Z
@@ -95,14 +95,14 @@ This strategy farms UNI, the [Uniswap Token][uni].
 | **How To Participate**  | [deposit LP Tokens][hf] to receive fUNI-V2 |
 | **Yield Payout**        | Successful farming makes the fUNI-V2 redeemable for a growing number of LP tokens. |
 | **FARM Incentives**     | There are no current FARM incentives for depositing your UNI LP. |
-| **Vault Contract**      | fUNI-V2 [fWBTC-WETH][es-fwbtc-weth-LP], [fUSDC_WETH_LP][es-fusdc-weth-LP] |
+| **Vault Contract**      | fUNI-V2 [fWBTC-WETH][es-fwbtc-weth-LP], [fUSDC_WETH_LP][es-fusdc-weth-LP], [fUSDT_WETH_LP][es-fusdt-weth-LP], [fDAI-WETH-LP][es-fdai-weth-LP] |
 | **Strategy Contract**   | SNXRewardUniLPStrategy [WBTC-WETH][es-weth-wbtc-strategy], [USDT-WETH][es-weth-usdt-strategy], [USDC-WETH][es-weth-usdc-strategy], [DAI-WETH][es-weth-dai-strategy]|
 | **Example Harvest TX**  | [doHardWork][es-weth-wbtc-harvest]|
 
 [es-fwbtc-weth-LP]: https://etherscan.io/address/0xb1feb6ab4ef7d0f41363da33868e85eb0f3a57ee
 [es-fusdc-weth-LP]: https://etherscan.io/address/0x63671425ef4D25Ec2b12C7d05DE855C143f16e3B
 [es-fusdt-weth-LP]: https://etherscan.io/address/0xB19EbFB37A936cCe783142955D39Ca70Aa29D43c
-[es-fusdt-weth-LP]: https://etherscan.io/address/0x1a9F22b4C385f78650E7874d64e442839Dc32327
+[es-fdai-weth-LP]: https://etherscan.io/address/0x1a9F22b4C385f78650E7874d64e442839Dc32327
 
 [es-weth-wbtc-harvest]: https://etherscan.io/tx/0x5b609ca7f6a78d879a6ca36917ff7f8f7916cd5cd8fc4276d28cedc2e66fdc8c
 [es-weth-wbtc-strategy]: https://etherscan.io/address/0x0a7d74604b39229d444855ef294f287099774ac8
