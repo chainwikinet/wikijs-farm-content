@@ -2,7 +2,7 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2020-09-22T08:51:41.194Z
+date: 2020-09-22T08:51:52.088Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-04T07:47:54.724Z
@@ -104,13 +104,13 @@ This strategy farms UNI, the [Uniswap Token][uni].
 [es-fusdt-weth-LP]: https://etherscan.io/address/0xB19EbFB37A936cCe783142955D39Ca70Aa29D43c
 [es-fdai-weth-LP]: https://etherscan.io/address/0x1a9F22b4C385f78650E7874d64e442839Dc32327
 
-[es-weth-wbtc-harvest]: https://etherscan.io/tx/0x5b609ca7f6a78d879a6ca36917ff7f8f7916cd5cd8fc4276d28cedc2e66fdc8c
+
 [es-weth-wbtc-strategy]: https://etherscan.io/address/0x0a7d74604b39229d444855ef294f287099774ac8
 [es-weth-usdt-strategy]: https://etherscan.io/address/0xb43aa2c44b99bad346143fb44e264213d412b6c2
 [es-weth-usdc-strategy]: https://etherscan.io/address/0x50f1191f3059069888d9e16a327b96afdd26c6fd
 [es-weth-dai-strategy]: https://etherscan.io/address/0x2fee56e039acccefa3cb1f3051ad00fe550a472c
 
-
+[es-weth-wbtc-harvest]: https://etherscan.io/tx/0x5b609ca7f6a78d879a6ca36917ff7f8f7916cd5cd8fc4276d28cedc2e66fdc8c
 
 ## Farming Other Things
 
