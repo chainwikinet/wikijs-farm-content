@@ -2,7 +2,7 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2020-09-22T08:51:52.088Z
+date: 2020-09-22T23:43:08.731Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-04T07:47:54.724Z
@@ -111,6 +111,28 @@ This strategy farms UNI, the [Uniswap Token][uni].
 [es-weth-dai-strategy]: https://etherscan.io/address/0x2fee56e039acccefa3cb1f3051ad00fe550a472c
 
 [es-weth-wbtc-harvest]: https://etherscan.io/tx/0x5b609ca7f6a78d879a6ca36917ff7f8f7916cd5cd8fc4276d28cedc2e66fdc8c
+
+## Farming Cream with WETH
+This strategy farms CREAM, the [Cream Finance Token][cream].
+
+> You do not receive CREAM directly. Instead, the farmed CREAM is sold to return more stablecoins to you when you withdraw.
+{.is-info}
+
+| | |
+|------------------|-|
+| **Asset Farmed**        | CREAM, Cream Finance token  |
+| **Assets Used**         | WETH               |
+| **Basic Strategy**      | CREAM is farmed and sold for stablecoins |
+| **How To Participate**  | [deposit WETH][hf] to receive fWETH |
+| **Yield Payout**        | Successful farming makes the fWETH redeemable for a growing number of WETH |
+| **FARM Incentives**      | [The fWETH can be deposited to earn a stakedrop of FARM][farm-stakedrop] |
+| **Vault Contract**      | [fWETH][es-fweth] |
+| **Strategy Contract**   | [WETHCreamNoFoldStrategy][es-weth-strategy] |
+| **Example Harvest TX**  | [doHardWork][harvestcream] |
+
+[es-weth-strategy]: https://etherscan.io/address/0xcf477f117caa349ca92dedb3955481628d463bf1#code
+
+[harvestcream]: https://etherscan.io/tx/0x9f9e3640b8cfd503cbd9115f8c457b1273858f582c4dfb928e21f32eb78e717c
 
 ## Farming Other Things
 
@@ -254,30 +276,8 @@ https://etherscan.io/address/0x00f9d525828beebf1ee75fb72b1f21932e195bdf#code
 
 # Inactive Farming Strategies
 
-> Strategies in this section have been deployed, but are not presently in active use.
+> Strategies in this section have been deployed, but are not presently in active use. Note that some of these represent obsolete strategies that have been updated in the active strategy section.
 {.is-warning}
-
-## Farming Cream with WETH
-This strategy farms CREAM, the [Cream Finance Token][cream].
-
-> You do not receive CREAM directly. Instead, the farmed CREAM is sold to return more stablecoins to you when you withdraw.
-{.is-info}
-
-| | |
-|------------------|-|
-| **Asset Farmed**        | CREAM, Cream Finance token  |
-| **Assets Used**         | WETH               |
-| **Basic Strategy**      | CREAM is farmed and sold for stablecoins |
-| **How To Participate**  | [deposit WETH][hf] to receive fWETH |
-| **Yield Payout**        | Successful farming makes the fWETH redeemable for a growing number of WETH |
-| **FARM Incentives**      | [The fWETH can be deposited to earn a stakedrop of FARM][farm-stakedrop] |
-| **Vault Contract**      | [fWETH][es-fweth] |
-| **Strategy Contract**   | [WETHCreamNoFoldStrategy][wethstrategy] |
-| **Example Harvest TX**  | [doHardWork][harvestcream] |
-
-[wethstrategy]: https://etherscan.io/address/0x4e015af8e1c5eb020f91063661cc5ce43719ebcf#code
-
-[harvestcream]: https://etherscan.io/tx/0x9b5f2b36e960f533b3eec83773306c9a3a4a74f596addff2951d4cfd6a9b7694
 
 ## Farming SWRV with Stablecoins
 
@@ -324,6 +324,27 @@ This strategy farms CRV, the [Curve Finance DAO token][crv].
 
 ![harvestcrvstrategy.png](/harvestcrvstrategy.png)
 
+## Farming Cream with WETH V1
+This strategy farms CREAM, the [Cream Finance Token][cream].
+
+> You do not receive CREAM directly. Instead, the farmed CREAM is sold to return more stablecoins to you when you withdraw.
+{.is-info}
+
+| | |
+|------------------|-|
+| **Asset Farmed**        | CREAM, Cream Finance token  |
+| **Assets Used**         | WETH               |
+| **Basic Strategy**      | CREAM is farmed and sold for stablecoins |
+| **How To Participate**  | [deposit WETH][hf] to receive fWETH |
+| **Yield Payout**        | Successful farming makes the fWETH redeemable for a growing number of WETH |
+| **FARM Incentives**      | [The fWETH can be deposited to earn a stakedrop of FARM][farm-stakedrop] |
+| **Vault Contract**      | [fWETH][es-fweth] |
+| **Strategy Contract**   | [WETHCreamNoFoldStrategy][es-weth-strategy-v1] |
+| **Example Harvest TX**  | [doHardWork][harvestcream-v1] |
+
+[es-weth-strategy-v1]: https://etherscan.io/address/0x4e015af8e1c5eb020f91063661cc5ce43719ebcf#code
+
+[harvestcream-v1]: https://etherscan.io/tx/0x9b5f2b36e960f533b3eec83773306c9a3a4a74f596addff2951d4cfd6a9b7694
 
 
 
@@ -346,4 +367,3 @@ This strategy farms CRV, the [Curve Finance DAO token][crv].
 [es-frenbtc]: https://etherscan.io/token/0xfbe122d0ba3c75e1f7c80bd27613c9f35b81feec
 [es-fcrvrenwbtc]: https://etherscan.io/token/0x192E9d29D43db385063799BC239E772c3b6888F3
 [es-fweth]: https://etherscan.io/address/0x8e298734681adbfc41ee5d17ff8b0d6d803e7098
-
