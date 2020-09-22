@@ -2,7 +2,7 @@
 title: Harvest Finance Press
 description: Harvest Finance in the news
 published: true
-date: 2020-09-22T06:06:17.137Z
+date: 2020-09-22T23:18:53.458Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-13T07:21:40.116Z
@@ -13,6 +13,7 @@ dateCreated: 2020-08-13T07:21:40.116Z
 - Harvest Reward Pools Launch. https://medium.com/harvest-finance/harvest-reward-pools-launch-60d1dcbc4b81
 - Harvest Rewards Week 2 Launch. https://medium.com/harvest-finance/harvest-rewards-week-2-launch-thegreenrevolution-14c68af416e9
 - 🔥🔥🔥 and Rewards Week 3 Launch. https://medium.com/harvest-finance/and-rewards-week-3-launch-f4e771946894
+- 🚜 Harvest Rewards Week 4 Launch. https://medium.com/harvest-finance/harvest-rewards-week-4-launch-f69ae0b26e09
 
 # Articles
 - A bountiful Harvest awaits. https://medium.com/@Redmption/a-bountiful-harvest-awaits-373cbc9cb7d4
