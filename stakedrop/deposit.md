@@ -2,7 +2,7 @@
 title: Harvest Deposit Stakedrop
 description: deposit assets into Harvest yield farming strategies, receive FARM
 published: true
-date: 2020-09-22T09:55:28.535Z
+date: 2020-09-22T10:12:05.563Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-08T03:09:48.188Z
@@ -32,8 +32,8 @@ To bootstrap deposits into Harvest, holders of Harvest deposit tokens (`fASSETs`
 The simplest option is to deposit eligible assets on [harvest.finance](https://harvest.finance). This is the best option for holders who want to acquire >$1000. Deposit transactions cost around 450,000 gas, so it makes sense to leave funds deposited for several weeks. For smaller purchases of amounts <$1000, it's typically more economical to buy `fASSETS` on Uniswap. Selling `fASSETs` on Uniswap is also an inexpensive way for smaller holders to exit Harvest without paying transaction fees to withdraw.
 
 
-| Deposit    | Receive      | Uniswap Purchase Link |
-|:----------:|:------------:|-------------|
+| Deposit    | Receive      | Buy on Uniswap |
+|:----------:|:------------:|----------------|
 | `USDC`     | `fUSDC`   		|[buy fUSDC](https://app.uniswap.org/#/swap?outputCurrency=0xc3f7ffb5d5869b3ade9448d094d81b0521e8326f)|
 | `USDT`     | `fUSDT`   		|[buy fUSDT](https://app.uniswap.org/#/swap?outputCurrency=0xc7ee21406bb581e741fbb8b21f213188433d9f2f)|
 | `DAI`			 | `fDAI`				|[buy fDAI](http://uniswap.exchange/swap?outputCurrency=0xe85c8581e60d7cd32bbfd86303d2a4fa6a951dac)|
@@ -57,30 +57,36 @@ Deposit the `fASSETs` using the `EARN` tab. You will immediately begin receiving
 > Contract addresses are provided for technical information only; **do not interact directly with the contracts unless you know what you are doing!**
 {.is-warning}
 
-
-| Token | Address | Rewards Staking Pool |
-|-------|---------|--------------|
-| FARM  | [0xa0246c9032bc3a600820415ae600c6388619a14d][es-farm]  | [0xae024F29C26D6f71Ec71658B1980189956B0546D][es-pool-farm-week1] |
-| fUSDC | [0xc3f7ffb5d5869b3ade9448d094d81b0521e8326f][es-fusdc] | [0xE1f9A3EE001a2EcC906E8de637DBf20BB2d44633][es-pool-fusdc-week1] |
-| fUSDT | [0xc7ee21406bb581e741fbb8b21f213188433d9f2f][es-fusdt] | [0x5bd997039FFF16F653EF15D1428F2C791519f58d][es-pool-fusdt-week1] |
-| fDAI  | [0xe85c8581e60d7cd32bbfd86303d2a4fa6a951dac][es-fdai]  | [0xF9E5f9024c2f3f2908A1d0e7272861a767C9484b][es-pool-fdai-week1] |
-| fWBTC | [0xc07eb91961662d275e2d285bdc21885a4db136b0][es-fWBTC] | [0x6291eCe696CB6682a9bb1d42fca4160771b1D7CC][es-pool-fwbtc]|
-| frenBTC| [0xfBe122D0ba3c75e1F7C80bd27613c9f35B81FEeC][es-frenbtc]| [0xCFE1103863F9e7Cf3452Ca8932Eef44d314bf9C5][es-pool-frenbtc]|
-|fcrvRenWBTC|[0x192e9d29d43db385063799bc239e772c3b6888f3][es-fcrvrenwbtc]| [0x5365A2C47b90EE8C9317faC20edC3ce7037384FB][es-pool-fcrvrenwbtc]|
-| fWETH	|[0x8e298734681adbfc41ee5d17ff8b0d6d803e7098][es-fweth] | [0xe11c81b924bb91b44bae19793539054b48158a9d][es-pool-fweth]|
-
+| Token | Address | Underlying | Rewards Staking Pool |
+|-------|---------|------------|----------------------|
+| FARM  | [0xa0246c9032bC3A600820415aE600c6388619A14D][es-farm]  | [0xa0246c9032bC3A600820415aE600c6388619A14D][es-farm] | [0xae024F29C26D6f71Ec71658B1980189956B0546D][es-pool-farm-week1] |
+| fUSDC | [0xc3F7ffb5d5869B3ade9448D094d81B0521e8326f][es-fusdc] | [0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48][es-usdc] | [0xE1f9A3EE001a2EcC906E8de637DBf20BB2d44633][es-pool-fusdc-week1] |
+| fUSDT | [0xc7EE21406BB581e741FBb8B21f213188433D9f2F][es-fusdt] | [0xdAC17F958D2ee523a2206206994597C13D831ec7][es-usdt] | [0x5bd997039FFF16F653EF15D1428F2C791519f58d][es-pool-fusdt-week1] |
+| fDAI  | [0xe85C8581e60D7Cd32Bbfd86303d2A4FA6a951Dac][es-fdai]  | [0x6B175474E89094C44Da98b954EedeAC495271d0F][es-dai]  | [0xF9E5f9024c2f3f2908A1d0e7272861a767C9484b][es-pool-fdai-week1] |
+| fWBTC | [0xc07EB91961662D275E2D285BdC21885A4Db136B0][es-fWBTC] | [0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599][es-wbtc] | [0x6291eCe696CB6682a9bb1d42fca4160771b1D7CC][es-pool-fwbtc]|
+| frenBTC| [0xfBe122D0ba3c75e1F7C80bd27613c9f35B81FEeC][es-frenbtc]| [0xEB4C2781e4ebA804CE9a9803C67d0893436bB27D][es-renbtc] | [0xCFE1103863F9e7Cf3452Ca8932Eef44d314bf9C5][es-pool-frenbtc]|
+|fcrvRenWBTC|[0x192E9d29D43db385063799BC239E772c3b6888F3][es-fcrvrenwbtc]| [0x49849C98ae39Fff122806C06791Fa73784FB3675][es-crvrenwbtc] | [0x5365A2C47b90EE8C9317faC20edC3ce7037384FB][es-pool-fcrvrenwbtc]|
+| fWETH	|[0x8e298734681adbfC41ee5d17FF8B0d6d803e7098][es-fweth]  | [0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2][es-weth] | [0xe11c81b924bb91b44bae19793539054b48158a9d][es-pool-fweth]|
 
 
 
-[es-farm]: https://etherscan.io/token/0xa0246c9032bc3a600820415ae600c6388619a14d
-[es-fusdc]: https://etherscan.io/token/0xc3f7ffb5d5869b3ade9448d094d81b0521e8326f
-[es-fusdt]: https://etherscan.io/token/0xc7ee21406bb581e741fbb8b21f213188433d9f2f
-[es-fdai]: https://etherscan.io/token/0xe85c8581e60d7cd32bbfd86303d2a4fa6a951dac
-[es-fwbtc]: https://etherscan.io/token/0xc07eb91961662d275e2d285bdc21885a4db136b0
-[es-frenbtc]: https://etherscan.io/address/0xfBe122D0ba3c75e1F7C80bd27613c9f35B81FEeC
-[es-fcrvrenwbtc]: https://etherscan.io/token/0x192e9d29d43db385063799bc239e772c3b6888f3
-[es-fweth]: https://etherscan.io/token/0x8e298734681adbfc41ee5d17ff8b0d6d803e7098
 
+[es-farm]: https://etherscan.io/token/0xa0246c9032bC3A600820415aE600c6388619A14D
+[es-fusdc]: https://etherscan.io/token/0xc3F7ffb5d5869B3ade9448D094d81B0521e8326f
+[es-fusdt]: https://etherscan.io/token/0xc7EE21406BB581e741FBb8B21f213188433D9f2F
+[es-fdai]: https://etherscan.io/token/0xe85C8581e60D7Cd32Bbfd86303d2A4FA6a951Dac
+[es-fwbtc]: https://etherscan.io/token/0xc07EB91961662D275E2D285BdC21885A4Db136B0
+[es-frenbtc]: https://etherscan.io/token/0xfBe122D0ba3c75e1F7C80bd27613c9f35B81FEeC
+[es-fcrvrenwbtc]: https://etherscan.io/token/0x192E9d29D43db385063799BC239E772c3b6888F3
+[es-fweth]: https://etherscan.io/token/0x8e298734681adbfC41ee5d17FF8B0d6d803e7098
+
+[es-usdc]: https://etherscan.io/token/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48
+[es-usdt]: https://etherscan.io/token/0xdAC17F958D2ee523a2206206994597C13D831ec7
+[es-dai]: https://etherscan.io/token/0x6B175474E89094C44Da98b954EedeAC495271d0F
+[es-wbtc]: https://etherscan.io/token/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599
+[es-renbtc]: https://etherscan.io/token/0xEB4C2781e4ebA804CE9a9803C67d0893436bB27D
+[es-crvrenwbtc]: https://etherscan.io/token/0x49849C98ae39Fff122806C06791Fa73784FB3675
+[es-weth]: https://etherscan.io/token/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2
 
 
 [es-fdai-contract]: https://etherscan.io/address/0xe85c8581e60d7cd32bbfd86303d2a4fa6a951dac#readContract
