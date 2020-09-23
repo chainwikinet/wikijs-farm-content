@@ -2,7 +2,7 @@
 title: Harvest Finance Press
 description: Harvest Finance in the news
 published: true
-date: 2020-09-23T21:23:24.659Z
+date: 2020-09-23T21:28:38.916Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-13T07:21:40.116Z
@@ -17,6 +17,11 @@ dateCreated: 2020-08-13T07:21:40.116Z
 
 # Contests
 - The 🥖#BreadForThePeople Meme Contest. https://medium.com/@harvestfinance/the-breadforthepeople-meme-contest-3b035b0c2fc4
+Contest is over. Here are the winners: 
+🥇 1st place: https://twitter.com/F3alimi/status/1307230681404182528
+🥈 2nd place: https://twitter.com/Geo47319865/status/1304516999935123457
+🥉 3rd place: https://twitter.com/blujunk/status/1306446725540798465
+
 - 🎉 Launching the Harvest Finance Creativity Contest https://medium.com/@harvestfinance/launching-the-harvest-finance-creativity-contest-d04d9f0a9a38
 
 # Articles
