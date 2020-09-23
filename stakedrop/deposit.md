@@ -2,7 +2,7 @@
 title: Harvest Deposit Stakedrop
 description: deposit assets into Harvest yield farming strategies, receive FARM
 published: true
-date: 2020-09-22T23:56:11.208Z
+date: 2020-09-23T00:31:28.818Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-08T03:09:48.188Z
@@ -42,6 +42,23 @@ The simplest option is to deposit eligible assets on [harvest.finance](https://h
 |`CrvRenWBTC`|`fcrvRenWBTC`	|[buy fcrvRenWBTC](https://app.uniswap.org/#/swap?outputCurrency=0x192e9d29d43db385063799bc239e772c3b6888f3)
 | `WETH`  	 |`fWETH`				|[buy fWETH](https://app.uniswap.org/#/swap?outputCurrency=0x8e298734681adbfc41ee5d17ff8b0d6d803e7098)
 
+FARM may also be aquired by depositing `UNI-V2` LP tokens. These tokens must first be aquired by providing liquidity to Uniswap pools of appropriate asset pairs. Upon deposit, you will receive the corresponding `fUNI-V2` token.
+
+| Asset Pair  | 		Receive  | Supply Liquidity on Uniswap |
+|:-----------:|:------------:|-----------------------------|
+| `USDC` - `WETH` | `FUSDC_WETH_LP`|[Buy USDC-WETH LP][uni-buy-fusdc_weth_lp]
+| `USDT` - `WETH` | `FUSDT_WETH_LP`|[Buy USDT-WETH LP][uni-buy-fusdt_weth_lp]
+| `DAI` - `WETH` | `FDAI_WETH_LP`|[Buy DAI-WETH LP][uni-buy-fdai_weth_lp]
+| `WBTC` - `WETH` | `FWBTC_WETH_LP`|[Buy WBTC-WETH LP][uni-buy-fwbtc_weth_lp]
+
+[uni-buy-fusdc_weth_lp]: https://uniswap.exchange/add/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2
+[uni-buy-fusdt_weth_lp]: https://app.uniswap.org/#/add/0xdac17f958d2ee523a2206206994597c13d831ec7/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2
+[uni-buy-fdai_weth_lp]: https://app.uniswap.org/#/add/0x6b175474e89094c44da98b954eedeac495271d0f/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2
+[uni-buy-fwbtc_weth_lp]: https://app.uniswap.org/#/add/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2
+
+
+
+
 
 Over time, yield farming will cause these fASSETs will grow in value. Simply holding these fASSETs will not entitle you to the FARM stakedrop.
 
@@ -67,7 +84,10 @@ Deposit the `fASSETs` using the `EARN` tab. You will immediately begin receiving
 | frenBTC| [0xfBe122D0ba3c75e1F7C80bd27613c9f35B81FEeC][es-frenbtc]| [0xEB4C2781e4ebA804CE9a9803C67d0893436bB27D][es-renbtc] | [0xCFE1103863F9e7Cf3452Ca8932Eef44d314bf9C5][es-pool-frenbtc]|
 |fcrvRenWBTC|[0x192E9d29D43db385063799BC239E772c3b6888F3][es-fcrvrenwbtc]| [0x49849C98ae39Fff122806C06791Fa73784FB3675][es-crvrenwbtc] | [0x5365A2C47b90EE8C9317faC20edC3ce7037384FB][es-pool-fcrvrenwbtc]|
 | fWETH	|[0x8e298734681adbfC41ee5d17FF8B0d6d803e7098][es-fweth]  | [0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2][es-weth] | [0xe11c81b924bb91b44bae19793539054b48158a9d][es-pool-fweth]|
-
+| FUSDC_WETH_LP |[0x63671425ef4D25Ec2b12C7d05DE855C143f16e3B][es-fusdc_weth_lp]|[0xb4e16d0168e52d35cacd2c6185b44281ec28c9dc][es-usdc_weth_lp]|[0xc24da7a6b5adc8771588d58b6109ef52c95a311e][es-pool-fusdc_weth_lp]
+| FUSDT_WETH_LP |[0xB19EbFB37A936cCe783142955D39Ca70Aa29D43c][es-fusdt_weth_lp]|[0x0d4a11d5eeaac28ec3f61d100daf4d40471f1852][es-usdt_weth_lp]|[0x9494a3026f28d0b189252428cebbfa52e69608c4][es-pool-fusdt_weth_lp]
+| FDAI_WETH_LP |[0x1a9F22b4C385f78650E7874d64e442839Dc32327][es-fdai_weth_lp]|[0xa478c2975ab1ea89e8196811f51a7b7ade33eb11][es-dai_weth_lp]|[0xdc27244311c56ed038e7acf104245ec6a040d07f][es-pool-fdai_weth_lp]
+| FWBTC_WETH_LP |[0xb1FeB6ab4EF7d0f41363Da33868e85EB0f3A57EE][es-fwbtc_weth_lp]|[0xbb2b8038a1640196fbe3e38816f3e67cba72d940][es-wbtc_weth_lp]|[0x3bdc3e2572a5540bb1eb1e55bb8749d33fd1a105][es-pool-fwbtc_weth_lp]
 
 
 
@@ -109,6 +129,11 @@ Deposit the `fASSETs` using the `EARN` tab. You will immediately begin receiving
 [es-pool-frenbtc]: https://etherscan.io/address/0xCFE1103863F9e7Cf3452Ca8932Eef44d314bf9C5#readContract
 [es-pool-fcrvrenwbtc]: https://etherscan.io/address/0x5365A2C47b90EE8C9317faC20edC3ce7037384FB#readContract
 [es-pool-fweth]: https://etherscan.io/address/0xe11c81b924bb91b44bae19793539054b48158a9d#readContract
+
+[es-pool-fusdc_weth_lp]: https://etherscan.io/address/0xc24da7a6b5adc8771588d58b6109ef52c95a311e
+[es-pool-fusdt_weth_lp]: https://etherscan.io/address/0x9494a3026f28d0b189252428cebbfa52e69608c4
+[es-pool-fdai_weth_lp]: https://etherscan.io/address/0xdc27244311c56ed038e7acf104245ec6a040d07f
+[es-pool-fwbtc_weth_lp]: https://etherscan.io/address/0x3bdc3e2572a5540bb1eb1e55bb8749d33fd1a105
 
 [es-withdraw-buffer]: https://etherscan.io/tx/0x70fddec35fcf1f89fbfff90972be0e04ce0ae8c34abfaf2900e5210fdf86303e
 [es-withdraw-nobuffer]: https://etherscan.io/tx/0x959045e3c8fb26a9eeab00e5ebe11fe62012cc7148f4d025c4c7f75ec0bed0bb
