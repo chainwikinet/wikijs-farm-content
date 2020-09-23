@@ -2,7 +2,7 @@
 title: Harvest Finance Press
 description: Harvest Finance in the news
 published: true
-date: 2020-09-22T23:18:53.458Z
+date: 2020-09-23T21:23:24.659Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-13T07:21:40.116Z
@@ -15,12 +15,15 @@ dateCreated: 2020-08-13T07:21:40.116Z
 - 🔥🔥🔥 and Rewards Week 3 Launch. https://medium.com/harvest-finance/and-rewards-week-3-launch-f4e771946894
 - 🚜 Harvest Rewards Week 4 Launch. https://medium.com/harvest-finance/harvest-rewards-week-4-launch-f69ae0b26e09
 
+# Contests
+- The 🥖#BreadForThePeople Meme Contest. https://medium.com/@harvestfinance/the-breadforthepeople-meme-contest-3b035b0c2fc4
+- 🎉 Launching the Harvest Finance Creativity Contest https://medium.com/@harvestfinance/launching-the-harvest-finance-creativity-contest-d04d9f0a9a38
+
 # Articles
 - A bountiful Harvest awaits. https://medium.com/@Redmption/a-bountiful-harvest-awaits-373cbc9cb7d4
 	Introduction to yield farming and Harvest strategy.
 - Harvest Finance. A beginner’s perspective to farming. https://medium.com/@bartysu/harvest-finance-a-beginners-perspective-to-farming-b03b9ab8e852
 	Introduction to the Harvest.finance project and team.
-- The 🥖#BreadForThePeople Meme Contest. https://medium.com/@harvestfinance/the-breadforthepeople-meme-contest-3b035b0c2fc4
 - Harvest Finance : The reality of APYs. https://medium.com/@Redmption/harvest-finance-the-reality-of-apys-e7bd93a795b7
 - Harvest.Finance Security Review (HAECHI AUDIT). https://medium.com/haechi-audit/harvest-finance-security-review-64782c98d2ae
 - Dummies guide to automated farming for the common people - harvest.finance https://www.publish0x.com/cryptocloaker/dummies-guide-to-automated-farming-for-the-common-people-har-xpjewnl
