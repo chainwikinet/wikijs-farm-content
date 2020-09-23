@@ -2,7 +2,7 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2020-09-23T01:20:25.269Z
+date: 2020-09-23T20:33:32.193Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-04T07:47:54.724Z
@@ -98,7 +98,7 @@ This strategy farms UNI, the [Uniswap Token][uni].
 | **How To Participate**  | [deposit LP Tokens][hf] to receive fUNI-V2 |
 | **Yield Payout**        | Successful farming makes the fUNI-V2 redeemable for a growing number of LP tokens. |
 | **FARM Incentives**     | There are no current FARM incentives for depositing your UNI LP. |
-| **Vault Contract**      | fUNI-V2 [fWBTC-WETH][es-fwbtc-weth-LP], [fUSDC_WETH_LP][es-fusdc-weth-LP], [fUSDT_WETH_LP][es-fusdt-weth-LP], [fDAI-WETH-LP][es-fdai-weth-LP] |
+| **Vault Contract**      | fUNI-V2 [fWBTC_WETH_LP][es-fwbtc-weth-LP], [fUSDC_WETH_LP][es-fusdc-weth-LP], [fUSDT_WETH_LP][es-fusdt-weth-LP], [fDAI-WETH-LP][es-fdai-weth-LP] |
 | **Strategy Contract**   | SNXRewardUniLPStrategy [WBTC-WETH][es-weth-wbtc-strategy], [USDT-WETH][es-weth-usdt-strategy], [USDC-WETH][es-weth-usdc-strategy], [DAI-WETH][es-weth-dai-strategy]|
 | **Example Harvest TX**  | [doHardWork][es-weth-wbtc-harvest]|
 
