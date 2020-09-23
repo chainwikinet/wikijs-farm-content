@@ -2,7 +2,7 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2020-09-23T20:33:32.193Z
+date: 2020-09-23T21:45:19.645Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-04T07:47:54.724Z
@@ -96,8 +96,8 @@ This strategy farms UNI, the [Uniswap Token][uni].
 | **Assets Used**         | ETH-DAI, ETH-USDC, ETH-USDT, ETH-WBTC              |
 | **Basic Strategy**      | UNI is automatically farmed and sold for more LP tokens. Harvest pays your gas fees to grow the underlying LP. 5% of rewards are kept for FARM profit sharing. |
 | **How To Participate**  | [deposit LP Tokens][hf] to receive fUNI-V2 |
-| **Yield Payout**        | Successful farming makes the fUNI-V2 redeemable for a growing number of LP tokens. |
-| **FARM Incentives**     | There are no current FARM incentives for depositing your UNI LP. |
+| **Yield Payout**        | Successful farming makes the fUNISWAP_LP redeemable for a growing number of LP tokens. |
+| **FARM Incentives**     | [The fUNISWAP_LP can be deposited to earn a stakedrop of FARM][farm-stakedrop] |
 | **Vault Contract**      | fUNI-V2 [fWBTC_WETH_LP][es-fwbtc-weth-LP], [fUSDC_WETH_LP][es-fusdc-weth-LP], [fUSDT_WETH_LP][es-fusdt-weth-LP], [fDAI-WETH-LP][es-fdai-weth-LP] |
 | **Strategy Contract**   | SNXRewardUniLPStrategy [WBTC-WETH][es-weth-wbtc-strategy], [USDT-WETH][es-weth-usdt-strategy], [USDC-WETH][es-weth-usdc-strategy], [DAI-WETH][es-weth-dai-strategy]|
 | **Example Harvest TX**  | [doHardWork][es-weth-wbtc-harvest]|
@@ -108,10 +108,10 @@ This strategy farms UNI, the [Uniswap Token][uni].
 [es-fdai-weth-LP]: https://etherscan.io/address/0x1a9F22b4C385f78650E7874d64e442839Dc32327
 
 
-[es-weth-wbtc-strategy]: https://etherscan.io/address/0x0a7d74604b39229d444855ef294f287099774ac8
-[es-weth-usdt-strategy]: https://etherscan.io/address/0xb43aa2c44b99bad346143fb44e264213d412b6c2
-[es-weth-usdc-strategy]: https://etherscan.io/address/0x50f1191f3059069888d9e16a327b96afdd26c6fd
-[es-weth-dai-strategy]: https://etherscan.io/address/0x2fee56e039acccefa3cb1f3051ad00fe550a472c
+[es-weth-wbtc-strategy]: https://etherscan.io/address/0xd3927f43d622e8bc9ce9a1111becd5d6d3cf3c90
+[es-weth-usdt-strategy]: https://etherscan.io/address/0x13627b75cf955eee2d57fc11a7082de5c36050c3
+[es-weth-usdc-strategy]: https://etherscan.io/address/0x987a168e19f6f64d6ab08ae0e0fe77ea3d79baac
+[es-weth-dai-strategy]: https://etherscan.io/address/0xa82660a0a468bba63db950532cdbda47144c212c
 
 [es-weth-wbtc-harvest]: https://etherscan.io/tx/0x5b609ca7f6a78d879a6ca36917ff7f8f7916cd5cd8fc4276d28cedc2e66fdc8c
 
@@ -348,6 +348,42 @@ This strategy farms CREAM, the [Cream Finance Token][cream].
 [es-weth-strategy-v1]: https://etherscan.io/address/0x4e015af8e1c5eb020f91063661cc5ce43719ebcf#code
 
 [harvestcream-v1]: https://etherscan.io/tx/0x9b5f2b36e960f533b3eec83773306c9a3a4a74f596addff2951d4cfd6a9b7694
+
+## Farming UNI With LP Tokens V1 (No FARM Rewards)
+This strategy farms UNI, the [Uniswap Token][uni].
+
+> You do not receive UNI directly. Instead, the farmed UNI is sold to return more lp tokens of the type deposited when you withdraw.
+{.is-info}
+
+| | |
+|------------------|-|
+| **Asset Farmed**        | UNI, Uniswap token  |
+| **Assets Used**         | ETH-DAI, ETH-USDC, ETH-USDT, ETH-WBTC              |
+| **Basic Strategy**      | UNI is automatically farmed and sold for more LP tokens. Harvest pays your gas fees to grow the underlying LP. 5% of rewards are kept for FARM profit sharing. |
+| **How To Participate**  | [deposit LP Tokens][hf] to receive fUNI-V2 |
+| **Yield Payout**        | Successful farming makes the fUNI-V2 redeemable for a growing number of LP tokens. |
+| **FARM Incentives**     | There are no current FARM incentives for depositing your UNI LP. |
+| **Vault Contract**      | fUNI-V2 [fWBTC_WETH_LP][es-fwbtc-weth-LP-v1], [fUSDC_WETH_LP][es-fusdc-weth-LP-v1], [fUSDT_WETH_LP][es-fusdt-weth-LP-v1], [fDAI-WETH-LP][es-fdai-weth-LP-v1] |
+| **Strategy Contract**   | SNXRewardUniLPStrategy [WBTC-WETH][es-weth-wbtc-strategy-v1], [USDT-WETH][es-weth-usdt-strategy-v1], [USDC-WETH][es-weth-usdc-strategy-v1], [DAI-WETH][es-weth-dai-strategy-v1]|
+| **Example Harvest TX**  | [doHardWork][es-weth-wbtc-harvest-v1]|
+
+[es-fwbtc-weth-LP-v1]: https://etherscan.io/address/0xb1feb6ab4ef7d0f41363da33868e85eb0f3a57ee
+[es-fusdc-weth-LP-v1]: https://etherscan.io/address/0x63671425ef4D25Ec2b12C7d05DE855C143f16e3B
+[es-fusdt-weth-LP-v1]: https://etherscan.io/address/0xB19EbFB37A936cCe783142955D39Ca70Aa29D43c
+[es-fdai-weth-LP-v1]: https://etherscan.io/address/0x1a9F22b4C385f78650E7874d64e442839Dc32327
+
+
+[es-weth-wbtc-strategy-v1]: https://etherscan.io/address/0x0a7d74604b39229d444855ef294f287099774ac8
+[es-weth-usdt-strategy-v1]: https://etherscan.io/address/0xb43aa2c44b99bad346143fb44e264213d412b6c2
+[es-weth-usdc-strategy-v1]: https://etherscan.io/address/0x50f1191f3059069888d9e16a327b96afdd26c6fd
+[es-weth-dai-strategy-v1]: https://etherscan.io/address/0x2fee56e039acccefa3cb1f3051ad00fe550a472c
+
+[es-weth-wbtc-harvest-v1]: https://etherscan.io/tx/0x5b609ca7f6a78d879a6ca36917ff7f8f7916cd5cd8fc4276d28cedc2e66fdc8c
+
+
+
+
+
 
 
 
