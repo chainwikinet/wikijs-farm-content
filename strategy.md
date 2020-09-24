@@ -2,7 +2,7 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2020-09-23T21:45:19.645Z
+date: 2020-09-24T22:35:53.190Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-04T07:47:54.724Z
@@ -397,12 +397,12 @@ This strategy farms UNI, the [Uniswap Token][uni].
 
 
 
-[es-farm]: https://etherscan.io/token/0xa0246c9032bc3a600820415ae600c6388619a14d
-[es-fdai]: https://etherscan.io/token/0xe85c8581e60d7cd32bbfd86303d2a4fa6a951dac
-[es-fusdc]: https://etherscan.io/token/0xc3f7ffb5d5869b3ade9448d094d81b0521e8326f
-[es-fusdt]: https://etherscan.io/token/0xc7ee21406bb581e741fbb8b21f213188433d9f2f
+[es-farm]: https://etherscan.io/address/0xa0246c9032bc3a600820415ae600c6388619a14d
+[es-fdai]: https://etherscan.io/address/0xe85c8581e60d7cd32bbfd86303d2a4fa6a951dac
+[es-fusdc]: https://etherscan.io/address/0xc3f7ffb5d5869b3ade9448d094d81b0521e8326f
+[es-fusdt]: https://etherscan.io/address/0xc7ee21406bb581e741fbb8b21f213188433d9f2f
 [es-vaultycrv]: https://etherscan.io/address/0xf2b223eb3d2b382ead8d85f3c1b7ef87c1d35f3a
-[es-fwbtc]: https://etherscan.io/token/0xc07eb91961662d275e2d285bdc21885a4db136b0
-[es-frenbtc]: https://etherscan.io/token/0xfbe122d0ba3c75e1f7c80bd27613c9f35b81feec
-[es-fcrvrenwbtc]: https://etherscan.io/token/0x192E9d29D43db385063799BC239E772c3b6888F3
+[es-fwbtc]: https://etherscan.io/address/0xc07eb91961662d275e2d285bdc21885a4db136b0
+[es-frenbtc]: https://etherscan.io/address/0xfbe122d0ba3c75e1f7c80bd27613c9f35b81feec
+[es-fcrvrenwbtc]: https://etherscan.io/address/0x192E9d29D43db385063799BC239E772c3b6888F3
 [es-fweth]: https://etherscan.io/address/0x8e298734681adbfc41ee5d17ff8b0d6d803e7098
