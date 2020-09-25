@@ -2,7 +2,7 @@
 title: Wiki Contribution Guide
 description: how create and edit content on the wiki
 published: true
-date: 2020-09-25T08:18:29.635Z
+date: 2020-09-25T08:25:19.285Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-21T08:15:02.963Z
@@ -38,6 +38,9 @@ After your pull request is approved by a wiki manager, they should go live on th
 - add to https://farm.chainwiki.dev/en/security
 
 ### Specific Requests
+
+**Gather list of Defi wallets like Zapper and Zerion that support Harest**
+- add to https://farm.chainwiki.dev/en/links
 
 **Add links to dev and operational treasuries on Etherscan**
 - add to https://farm.chainwiki.dev/en/supply
