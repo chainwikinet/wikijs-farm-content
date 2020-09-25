@@ -2,7 +2,7 @@
 title: Harvest Finance Press
 description: Harvest Finance in the news
 published: true
-date: 2020-09-23T21:28:38.916Z
+date: 2020-09-25T08:14:33.913Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-13T07:21:40.116Z
@@ -39,8 +39,10 @@ Contest is over. Here are the winners:
 - [Contribute!](/contribute)
 
 # Videos
-- https://www.youtube.com/watch?v=wmP2fGKUJG8
-- https://www.youtube.com/watch?v=vrOlFGavRBs&t=510
+- [Harvest Finance: what it is and how to use it](https://youtu.be/-smwjTROfmw) (Cryptosetups)
+- [Harvest.Finance - Make +300% Yields with yEarns Degenerate Cousin](https://www.youtube.com/watch?v=wmP2fGKUJG8) (Gabriel Haines)
+- [State Of Yield Farming - Results & Best APY And Future Opportunities
+](https://www.youtube.com/watch?v=vrOlFGavRBs&t=510) (mention by denome)
 
 # Merchandise
 - Farmer Chad Mug https://www.teepublic.com/mug/13902278-farmer-chad
