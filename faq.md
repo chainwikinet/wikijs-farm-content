@@ -2,7 +2,7 @@
 title: Frequently Asked Questions
 description: answers to common questions about Harvest Finance
 published: true
-date: 2020-09-25T07:51:38.185Z
+date: 2020-09-25T07:54:44.285Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-03T23:06:00.060Z
@@ -17,9 +17,9 @@ dateCreated: 2020-09-03T23:06:00.060Z
 1. Who is the Harvest team? **The Harvest Finance launch team is anonymous**
 1. How many FARM tokens are there? **[FARM supply is limited to 5,000,000 distributed over 4 years](/supply)**, though this may be revised downward.
 2. Where can I trade FARM tokens? **[FARM markets on Uniswap](/trade)**
-3. How do I turn tokens into Harvest `fTokens` that earn yield farming revenue? **[on the Harvest front page](https://harvest.finance/)** or by **[trading on Uniswap](/trade)**
+3. How do I turn tokens into Harvest `fTokens` that earn yield farming revenue? **[on the Harvest front page][hf]** or by **[trading on Uniswap](/trade)**
 2. How do I turn `fTokens` tokens back into regular tokens? **[withdrawal instructions](/stakedrop#removing-tokens-from-farming)**
-4. Do FARM tokens get yield farming revenue just be holding them?  **FARM must be deposited in [Profit Sharing](https://harvest.finance/earn)** to earn yield farming revenue.
+4. Do FARM tokens get yield farming revenue just be holding them?  **FARM must be deposited in [Profit Sharing][hf-earn]** to earn yield farming revenue.
 5. How much yield farming revenue is shared with Profit Sharing stakers? **30% of yield farming revenue.** It is paid out using a seven-day moving average, so for the first week after launch, payouts may be small.  Yield farming revenue depends on the profitability of available yield farming opportunities and the total assets available for farming by Harvest.
 6. What happens to the other 70% of of yield farming revenue?  **It is paid out to users that deposit assets to Harvest for farming**.  Over time, holders of Harvest farming fTokens will receive more of the underlying tokens when they withdraw.
 
@@ -28,10 +28,10 @@ dateCreated: 2020-09-03T23:06:00.060Z
 
 1. Is the code open source? **[contracts are](https://github.com/harvest-finance/harvest); frontend UI is not currently** (to slow down clones)
 2. Why is the fee to deposit and withdraw stablecoins so high?  In some cases, **[withdrawing must remove stablecoins from yield farming strategies](/stakedrop#removing-tokens-from-farming)**; come back later for lower fees, or **[trade fASSETs on Uniswap](/trade)**
-3. I want to see the yield farming revenue paid to FARM Profit Share.  **[example yield farming transaction](https://etherscan.io/tx/0xabd90485e1c558a25b1f8a7f04f338bc5d32151aaa72a2468b739dcf5442d07e). [DAI inflows and outflows from the profit share contract](https://etherscan.io/token/0x6b175474e89094c44da98b954eedeac495271d0f?a=0xae024f29c26d6f71ec71658b1980189956b0546d).**
+3. I want to see the yield farming revenue paid to FARM Profit Share.  **[example yield farming transaction][es-harvest]. [DAI inflows and outflows from the profit share contract][es-profitshare].**
 4.  I want to audit the funds that Harvest is using for yield farming. **[coming soon.](/tvl)**
 5.  How can I tell that the Harvest fStablecoins are changing in value due to yield farming? Look at the **[fDAI][es-fdai], [fUSDC][es-fusdc], or [fUSDT][es-fusdt] contracts.** The value that converts from fStablecoins to stablecoins is `getPricePerFullShare`. This has the same number of decimals as the underlying stablecoin and will increase over time if yield farming is profitable.
-6. How can I help?  Glad you asked.  **[Join Harvest on Discord](/team),** or **[contribute to this wiki!](/contribute)**
+6. How can I help?  Glad you asked.  **[Join Harvest on Discord][hf-discord],** or **[contribute to this wiki!](/contribute)**
 
 
 # Risks
@@ -81,12 +81,14 @@ Market impact (aka price impact) occurs when a trade is large enough to change t
 
 Some Harvest strategies may involve entering and exiting automated market maker LP positions on Curve, Swerve, Balancer, Uniswap from a single asset supported by the AMM. If price volatility reduces the liquidity of the asset you have deposited, **you may experience market impact losses when you try to withdraw.** These losses may appear as a reduction in your deposited balance. If the liquidity situation for your asset improves, your displayed balance may also improve.
 
-
-
+[hf]: https://harvest.finance/earn
+[hf-earn]: https://harvest.finance/earn
+[hf-discord]: https://discord.gg/R5SeTVR
 [es-fdai]: https://etherscan.io/address/0xe85c8581e60d7cd32bbfd86303d2a4fa6a951dac#readContract
 [es-pool-fdai]: https://etherscan.io/address/0xF9E5f9024c2f3f2908A1d0e7272861a767C9484b#readContract
 [es-fusdc]: https://etherscan.io/address/0xc3f7ffb5d5869b3ade9448d094d81b0521e8326f#readContract
 [es-pool-fusdc]: https://etherscan.io/address/0xE1f9A3EE001a2EcC906E8de637DBf20BB2d44633#readContract
 [es-fusdt]: https://etherscan.io/address/0xc7ee21406bb581e741fbb8b21f213188433d9f2f#readContract
 [es-pool-fusdt]: https://etherscan.io/address/0x5bd997039FFF16F653EF15D1428F2C791519f58d#readContract
-
+[es-profitshare]: https://etherscan.io/token/0x6b175474e89094c44da98b954eedeac495271d0f?a=0xae024f29c26d6f71ec71658b1980189956b0546d
+[es-harvest]: https://etherscan.io/tx/0xabd90485e1c558a25b1f8a7f04f338bc5d32151aaa72a2468b739dcf5442d07e
