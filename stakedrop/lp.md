@@ -2,7 +2,7 @@
 title: Harvest Liquidity Provider Stakedrop
 description: provide liquidity for Harvest Finance assets, receive FARM
 published: true
-date: 2020-09-25T09:21:06.895Z
+date: 2020-09-25T09:23:19.956Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-08T04:25:04.809Z
@@ -20,7 +20,7 @@ To make it easy to buy and sell Harvest assets and participate in Harvest Financ
 | Dates  | Eligible Pool   | Actions | Rewards (% of week) |
 |--------|-----------------|---------|---------|
 | :tomato:Week 4, Sept 22-29 | $FARM:USDC, Uniswap | [add liquidity][cream-farm-add] | 7867 `$FARM` (31%)
-| :tomato:Week 4, Sept 22-29 | $FARM:USDC, CREAM 80/20 | [info][uni-farm-info], [add liquidity][uni-farm-add] | 131 `$FARM` (0.52%)
+| :tomato:Week 4, Sept 22-29 | $FARM:ETH, CREAM 80/20 | [info][uni-farm-info], [add liquidity][uni-farm-add] | 131 `$FARM` (0.52%)
 | :avocado:Week 3, Sept 15-22 | $FARM:USDC, Uniswap              | [info][uni-farm-info], [add liquidity][uni-farm-add]               | ~7,200 `$FARM` (27%) |
 | :avocado:Week 3, Sept 15-22 | $fUSDC:USDC, Uniswap             | [info][uni-fusdc-info], [add liquidity][uni-fusdc-add]             | 82.5 `$FARM` (0.36%) |
 | :avocado:Week 3, Sept 15-22 | $fUSDT:USDT, Uniswap             | [info][uni-fusdt-info], [add liquidity][uni-fusdt-add]             | 82.5 `$FARM` (0.36%) |
@@ -42,11 +42,9 @@ To make it easy to buy and sell Harvest assets and participate in Harvest Financ
 
 ### 1. Provide liquidity on a supported pool.
 
-Click on "Add Liquidity" next to a supported pool. Deposit tokens to provide liquidity.
+Click on "Add Liquidity" next to a supported pool. Deposit tokens to provide liquidity and you will receive LP tokens.
 
-
-
-### 2. Deposit fASSETs on [harvest.finance/earn](https://harvest.finance/earn)
+### 2. Deposit LP tokens on [harvest.finance/earn](https://harvest.finance/earn)
 
 Deposit the Balancer or Uniswap LP tokens you received using the `EARN` tab. You will immediately begin receiving `$FARM` stakedrop rewards that can be claimed at any time.
 
@@ -115,6 +113,8 @@ Balancer pool: 		https://pools.balancer.exchange/#/pool/0x0126cfa7ec6b6d4a960b59
   USDC:           https://etherscan.io/token/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48
   FARM:           https://etherscan.io/token/0xa0246c9032bC3A600820415aE600c6388619A14D
 
+**CREAM Swap FARM-ETH 80/20**
+Balancer pool: https://app.cream.finance/pools/pool/0x655ad905dec61e4fb7d4840a1f450685801511b2
 
 [uni-farm-es]: https://etherscan.io/address/0x514906FC121c7878424a5C928cad1852CC545892
 [uni-fusdc-es]: https://etherscan.io/address/0x4161fa43eaa1ac3882aeed12c5fc05249e533e67
