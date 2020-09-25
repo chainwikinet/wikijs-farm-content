@@ -2,7 +2,7 @@
 title: Harvest Liquidity Provider Stakedrop
 description: provide liquidity for Harvest Finance assets, receive FARM
 published: true
-date: 2020-09-18T16:39:43.992Z
+date: 2020-09-25T09:19:41.394Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-08T04:25:04.809Z
@@ -13,30 +13,29 @@ dateCreated: 2020-09-08T04:25:04.809Z
 
 To make it easy to buy and sell Harvest assets and participate in Harvest Finance, `$FARM` incentives are being distributed to users who deposit Harvest assets to provide liquidity in Uniswap and Balancer.
 
-> Providing liquidity on Uniswap or Balancer is risky and may result in loss of funds.`$FARM` rewards are designed to offset risks to liquidity providers and do NOT guarantee profitability. If you don't understand the risks of [impermanent loss](https://balancer.finance/2020/03/16/80-20-balancer-pools/
-), do not provide liquidity!
+> Providing liquidity on Uniswap or Balancer is risky and may result in loss of funds.`$FARM` rewards are designed to offset risks to liquidity providers and do NOT guarantee profitability. If you don't understand [the risks of impermanent loss](/faq#risks), do not provide liquidity!
 {.is-danger}
 
 
-| Dates  | Eligible Pool   | Actions | Rewards |
+| Dates  | Eligible Pool   | Actions | Rewards (% week emission) |
 |--------|-----------------|---------|---------|
-| :cherries:Week 1, Sept 1-8   | $FARM:USDC, Uniswap        | [info][uni-farm-info], [add liquidity][uni-farm-add]   | ~8,100 `$FARM` (14% of emission)  |
-| :cherries:Week 1, Sept 1-8   | $FARM:USDC, Balancer 95/5  | [info, add liquidity][bal-farm95-info]                 | ~8,100 `$FARM` (14% of emission)  |
-| :pineapple:Week 2, Sept 8-15 | $FARM:USDC, Uniswap        | [info][uni-farm-info], [add liquidity][uni-farm-add]   | ~18,100 `$FARM` (35% of emission) |
-| :pineapple:Week 2, Sept 8-15 | $FARM:USDC, Balancer 80/20 | [info, add liquidity][bal-farm80-info]                 | ~3,600 `$FARM` (7% of emission)   |
-| :pineapple:Week 2, Sept 8-15 | $fUSDC:USDC, Uniswap       | [info][uni-fusdc-info], [add liquidity][uni-fusdc-add] | ~360 `$FARM` (0.7% of emission) |
-| :pineapple:Week 2, Sept 8-15 | $fUSDT:USDT, Uniswap       | [info][uni-fusdt-info], [add liquidity][uni-fusdt-add] | ~360 `$FARM` (0.7% of emission) |
-| :pineapple:Week 2, Sept 8-15 | $fDAI:DAI, Uniswap         | [info][uni-fdai-info], [add liquidity][uni-fdai-add]   | ~360 `$FARM` (0.7% of emission) |
-| :avocado:Week 3, Sept 15-22 | $FARM:USDC, Uniswap              | [info][uni-farm-info], [add liquidity][uni-farm-add]               | ~7,200 `$FARM` (27% of emission) |
-| :avocado:Week 3, Sept 15-22 | $fUSDC:USDC, Uniswap             | [info][uni-fusdc-info], [add liquidity][uni-fusdc-add]             | 82.5 `$FARM` (0.36% of emission) |
-| :avocado:Week 3, Sept 15-22 | $fUSDT:USDT, Uniswap             | [info][uni-fusdt-info], [add liquidity][uni-fusdt-add]             | 82.5 `$FARM` (0.36% of emission) |
-| :avocado:Week 3, Sept 15-22 | $fDAI:DAI, Uniswap               | [info][uni-fdai-info], [add liquidity][uni-fdai-add]               | 82.5 `$FARM` (0.36% of emission) |
-| :avocado:Week 3, Sept 15-22 | $fwBTC:wBTC, Uniswap             | [info][uni-fwbtc-info], [add liquidity][uni-fwbtc-add]             | 82.5 `$FARM` (0.36% of emission) |
-| :avocado:Week 3, Sept 15-22 | $frenBTC:wBTC, Uniswap         | [info][uni-frenbtc-info], [add liquidity][uni-frenbtc-add]         | 82.5 `$FARM` (0.36% of emission) |
-| :avocado:Week 3, Sept 15-22 | $fcrvRenWBTC:wBTC, Uniswap | [info][uni-fcrvrenwbtc-info], [add liquidity][uni-fcrvrenwbtc-add] | 82.5 `$FARM` (0.36% of emission) |
-| :avocado:Week 3, Sept 15-22 | $fWETH:WETH, Uniswap | [info][uni-fweth-info], [add liquidity][uni-fweth-add] | 82.5 `$FARM` (0.36% of emission)
-
-
+| :tomato:Week 4, Sept 22-29 | $FARM:USDC, Uniswap | [add liquidity][cream-farm-add] | 7867.9125 `$FARM` (31%)
+| :tomato:Week 4, Sept 22-29 | $FARM:USDC 80/20, CREAM | [info][uni-farm-info], [add liquidity][uni-farm-add] | 131.131875 `$FARM` (0.52%)
+| :avocado:Week 3, Sept 15-22 | $FARM:USDC, Uniswap              | [info][uni-farm-info], [add liquidity][uni-farm-add]               | ~7,200 `$FARM` (27%) |
+| :avocado:Week 3, Sept 15-22 | $fUSDC:USDC, Uniswap             | [info][uni-fusdc-info], [add liquidity][uni-fusdc-add]             | 82.5 `$FARM` (0.36%) |
+| :avocado:Week 3, Sept 15-22 | $fUSDT:USDT, Uniswap             | [info][uni-fusdt-info], [add liquidity][uni-fusdt-add]             | 82.5 `$FARM` (0.36%) |
+| :avocado:Week 3, Sept 15-22 | $fDAI:DAI, Uniswap               | [info][uni-fdai-info], [add liquidity][uni-fdai-add]               | 82.5 `$FARM` (0.36%) |
+| :avocado:Week 3, Sept 15-22 | $fwBTC:wBTC, Uniswap             | [info][uni-fwbtc-info], [add liquidity][uni-fwbtc-add]             | 82.5 `$FARM` (0.36%) |
+| :avocado:Week 3, Sept 15-22 | $frenBTC:wBTC, Uniswap         | [info][uni-frenbtc-info], [add liquidity][uni-frenbtc-add]         | 82.5 `$FARM` (0.36%) |
+| :avocado:Week 3, Sept 15-22 | $fcrvRenWBTC:wBTC, Uniswap | [info][uni-fcrvrenwbtc-info], [add liquidity][uni-fcrvrenwbtc-add] | 82.5 `$FARM` (0.36%) |
+| :avocado:Week 3, Sept 15-22 | $fWETH:WETH, Uniswap | [info][uni-fweth-info], [add liquidity][uni-fweth-add] | 82.5 `$FARM` (0.36%)
+| :pineapple:Week 2, Sept 8-15 | $FARM:USDC, Uniswap        | [info][uni-farm-info], [add liquidity][uni-farm-add]   | ~18,100 `$FARM` (35%) |
+| :pineapple:Week 2, Sept 8-15 | $FARM:USDC, Balancer 80/20 | [info, add liquidity][bal-farm80-info]                 | ~3,600 `$FARM` (7%)   |
+| :pineapple:Week 2, Sept 8-15 | $fUSDC:USDC, Uniswap       | [info][uni-fusdc-info], [add liquidity][uni-fusdc-add] | ~360 `$FARM` (0.7%) |
+| :pineapple:Week 2, Sept 8-15 | $fUSDT:USDT, Uniswap       | [info][uni-fusdt-info], [add liquidity][uni-fusdt-add] | ~360 `$FARM` (0.7%) |
+| :pineapple:Week 2, Sept 8-15 | $fDAI:DAI, Uniswap         | [info][uni-fdai-info], [add liquidity][uni-fdai-add]   | ~360 `$FARM` (0.7%) |
+| :cherries:Week 1, Sept 1-8   | $FARM:USDC, Uniswap        | [info][uni-farm-info], [add liquidity][uni-farm-add]   | ~8,100 `$FARM` (14%)  |
+| :cherries:Week 1, Sept 1-8   | $FARM:USDC, Balancer 95/5  | [info, add liquidity][bal-farm95-info]                 | ~8,100 `$FARM` (14%)  |
 
 
 # How To Participate
@@ -148,7 +147,7 @@ Balancer pool: 		https://pools.balancer.exchange/#/pool/0x0126cfa7ec6b6d4a960b59
 [bal-farm95-info]: https://pools.balancer.exchange/#/pool/0x0395e4a17ff11d36dac9959f2d7c8eca10fe89c9
 [bal-farm80-info]: https://pools.balancer.exchange/#/pool/0x0126cfa7ec6b6d4a960b5979943c06a9742af55e
 
-
+[cream-farm-add]: https://app.cream.finance/pools/pool/0x655ad905dec61e4fb7d4840a1f450685801511b2
 
 
 
