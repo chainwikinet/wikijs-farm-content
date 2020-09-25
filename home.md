@@ -2,7 +2,7 @@
 title: Home
 description: Harvest Finance Community Chainwiki
 published: true
-date: 2020-09-18T20:17:42.475Z
+date: 2020-09-25T07:46:31.404Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-13T05:55:54.766Z
@@ -25,7 +25,15 @@ Harvest addresses this by deploying strategies to move assets between different 
 > Join [Harvest Discord](https://discord.gg/R5SeTVR) and get involved to grow the harvest.
 {.is-success}
 
-Explore this wiki to learn Harvest and its yield farming strategies.
+Explore this wiki to learn about Harvest and its yield farming strategies.
+
+- https://harvest.finance/
+- **Twitter:** https://twitter.com/harvest_finance
+- **Medium:** https://medium.com/harvest-finance
+- **Reddit:** https://www.reddit.com/r/HarvestFinance/
+- **Discord:** https://discord.gg/R5SeTVR
+- **Telegram:** https://t.me/Breadforthepeople (bridged with Discord)
+- **Github:**: https://github.com/harvest-finance
 
 Earn `$FARM` in upcoming stakedrops or by contributing to the Harvest community.
 
