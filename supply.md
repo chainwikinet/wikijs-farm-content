@@ -2,12 +2,14 @@
 title: FARM Token Supply
 description: FARM token supply and emission schedule
 published: true
-date: 2020-09-23T02:23:07.483Z
+date: 2020-09-25T08:29:58.356Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-16T22:09:16.263Z
 ---
 
+> Grow Harvest. [Contribute to this wiki!](/contribute)
+{.is-success}
 
 # How Many FARM tokens are there?
 
