@@ -2,7 +2,7 @@
 title: FARM Markets
 description: buy and sell FARM tokens and other Harvest Finance assets
 published: true
-date: 2020-09-25T09:03:42.868Z
+date: 2020-09-25T09:06:42.535Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-13T07:23:41.115Z
@@ -22,6 +22,7 @@ dateCreated: 2020-08-13T07:23:41.115Z
 - Create FARM [market orders](https://1inch.exchange/#/ETH/FARM) and [limit orders](https://1inch.exchange/#/limit-order/USDC/FARM) on 1inch.exchange
 - FARM is listed on Paraswap.io
 - FARM is listed on DeBank.com
+- Trading might be available on [Balancer](https://balancer.exchange/) or [CREAM Swap](https://app.cream.finance/swap)
 
 
 
