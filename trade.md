@@ -2,7 +2,7 @@
 title: FARM Markets
 description: buy and sell FARM tokens and other Harvest Finance assets
 published: true
-date: 2020-09-25T09:07:22.826Z
+date: 2020-09-25T09:28:00.860Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-13T07:23:41.115Z
@@ -30,6 +30,8 @@ dateCreated: 2020-08-13T07:23:41.115Z
 
 - Listed on [LBank.info](https://twitter.com/LBank_Exchange/status/1303291365896331265)
 - Listed on Probit
+- Listed on Hotbit
+- Listed on Gate.io
 
 
 # Harvest Finance Assets
