@@ -2,7 +2,7 @@
 title: Official Harvest Finance Resources
 description: official resources for the Harvest Finance community
 published: true
-date: 2020-09-09T19:09:54.652Z
+date: 2020-09-25T07:59:49.845Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-13T07:20:59.363Z
@@ -17,16 +17,13 @@ dateCreated: 2020-08-13T07:20:59.363Z
 The Harvest Finance project was launched by independent developers who wanted to make yield farming easier for smaller holders.
 
 - https://harvest.finance/
+- **Twitter:** https://twitter.com/harvest_finance
+- **Medium:** https://medium.com/harvest-finance
+- **Reddit:** https://www.reddit.com/r/HarvestFinance/
+- **Discord:** https://discord.gg/R5SeTVR
+- **Telegram:** https://t.me/Breadforthepeople
 
-
-The official launch team information sources so far are Twitter, Medium, Reddit and chat on Discord:
-
-- https://twitter.com/harvest_finance
-- https://medium.com/harvest-finance
-- https://www.reddit.com/r/HarvestFinance/
-- https://discord.gg/R5SeTVR
-
-Discord is the best place to discuss Harvest Finance and get help.
+Discord is the best place to discuss Harvest Finance and get help. Telegram chat is also bridged with Discord.
 
 # Official Code
 
