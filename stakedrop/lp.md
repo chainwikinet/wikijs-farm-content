@@ -2,7 +2,7 @@
 title: Harvest Liquidity Provider Stakedrop
 description: provide liquidity for Harvest Finance assets, receive FARM
 published: true
-date: 2020-09-25T09:23:19.956Z
+date: 2020-09-25T09:23:52.442Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-08T04:25:04.809Z
@@ -19,8 +19,8 @@ To make it easy to buy and sell Harvest assets and participate in Harvest Financ
 
 | Dates  | Eligible Pool   | Actions | Rewards (% of week) |
 |--------|-----------------|---------|---------|
-| :tomato:Week 4, Sept 22-29 | $FARM:USDC, Uniswap | [add liquidity][cream-farm-add] | 7867 `$FARM` (31%)
-| :tomato:Week 4, Sept 22-29 | $FARM:ETH, CREAM 80/20 | [info][uni-farm-info], [add liquidity][uni-farm-add] | 131 `$FARM` (0.52%)
+| :tomato:Week 4, Sept 22-29 | $FARM:USDC, Uniswap | [info][uni-farm-info], [add liquidity][uni-farm-add] | 7867 `$FARM` (31%)
+| :tomato:Week 4, Sept 22-29 | $FARM:ETH, CREAM 80/20 | [add liquidity][cream-farm-add] | 131 `$FARM` (0.52%)
 | :avocado:Week 3, Sept 15-22 | $FARM:USDC, Uniswap              | [info][uni-farm-info], [add liquidity][uni-farm-add]               | ~7,200 `$FARM` (27%) |
 | :avocado:Week 3, Sept 15-22 | $fUSDC:USDC, Uniswap             | [info][uni-fusdc-info], [add liquidity][uni-fusdc-add]             | 82.5 `$FARM` (0.36%) |
 | :avocado:Week 3, Sept 15-22 | $fUSDT:USDT, Uniswap             | [info][uni-fusdt-info], [add liquidity][uni-fusdt-add]             | 82.5 `$FARM` (0.36%) |
