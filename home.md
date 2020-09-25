@@ -2,7 +2,7 @@
 title: Home
 description: Harvest Finance Community Chainwiki
 published: true
-date: 2020-09-25T07:46:31.404Z
+date: 2020-09-25T07:47:09.649Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-13T05:55:54.766Z
@@ -20,7 +20,7 @@ Yield farming can offer high interest rates, but it is becoming hard for smaller
 
 Harvest addresses this by deploying strategies to move assets between different yield farming opportunities to maximize yield. Deposit into Harvest and Harvest takes care of APY tracking, strategy development and auditing, and gas costs.
 
-# Learn More
+# Learn More :mag:
 
 > Join [Harvest Discord](https://discord.gg/R5SeTVR) and get involved to grow the harvest.
 {.is-success}
@@ -39,7 +39,7 @@ Earn `$FARM` in upcoming stakedrops or by contributing to the Harvest community.
 
 ![harvest.jpeg](/harvest.jpeg)
 
-# About This Wiki
+# About This Wiki :globe_with_meridians:
 
 > Learn how to [contribute to this wiki](/contribute).
 {.is-info}
