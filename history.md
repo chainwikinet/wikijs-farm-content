@@ -2,11 +2,14 @@
 title: Harvest Finance History
 description: launch, governance, and significant events in Harvest Finance
 published: true
-date: 2020-09-02T22:36:53.827Z
+date: 2020-09-25T07:47:46.161Z
 tags: 
-editor: undefined
+editor: markdown
+dateCreated: 2020-08-16T03:19:50.546Z
 ---
 
+> The Harvest Finance launch team is anonymous—their actual identities are not known.
+{.is-info}
 
 # Launch
 
