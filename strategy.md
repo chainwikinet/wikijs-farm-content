@@ -2,17 +2,17 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2020-09-24T22:35:53.190Z
+date: 2020-09-25T08:33:26.265Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-04T07:47:54.724Z
 ---
 
-
-# New Strategy Proposals
- 
  > Grow Harvest. [Contribute to this wiki!](/contribute)
  {.is-success}
+
+
+# New Strategy Proposals
 
 ## Curve hBTC Pool (wBTC, hBTC)
 
