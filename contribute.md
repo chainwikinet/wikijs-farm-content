@@ -2,7 +2,7 @@
 title: Wiki Contribution Guide
 description: how create and edit content on the wiki
 published: true
-date: 2020-09-15T18:31:41.407Z
+date: 2020-09-25T08:18:29.635Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-21T08:15:02.963Z
@@ -29,11 +29,7 @@ After your pull request is approved by a wiki manager, they should go live on th
 
 # Requests
 
-Some ideas to get started:
-
-**Edit the community stakedrop page to add the contracts from week 1.**
-- https://farm.chainwiki.dev/en/stakedrop/community
-- get contracts from https://harvest.finance/breadtothepeople
+### Reoccurring Tasks
 
 **Gather blog posts and other media from Discord.**
 - add to https://farm.chainwiki.dev/en/press
@@ -41,5 +37,14 @@ Some ideas to get started:
 **Gather updated info about audits from Discord.**
 - add to https://farm.chainwiki.dev/en/security
 
+### Specific Requests
+
+**Add links to dev and operational treasuries on Etherscan**
+- add to https://farm.chainwiki.dev/en/supply
+
 **Update links to BTC:fBTC Uniswap pools.**
 - add to https://farm.chainwiki.dev/en/stakedrop/lp
+
+**Edit the community stakedrop page to add the contracts from week 1.**
+- https://farm.chainwiki.dev/en/stakedrop/community
+- get contracts from https://harvest.finance/breadtothepeople
