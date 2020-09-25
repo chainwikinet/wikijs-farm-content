@@ -2,7 +2,7 @@
 title: FARM Markets
 description: buy and sell FARM tokens and other Harvest Finance assets
 published: true
-date: 2020-09-19T02:27:41.124Z
+date: 2020-09-25T09:03:42.868Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-13T07:23:41.115Z
@@ -12,7 +12,26 @@ dateCreated: 2020-08-13T07:23:41.115Z
 {.is-warning}
 
 
-# Trade Harvest Assets
+# Decentralized Exchange Listings
+
+> DEXs other than Uniswap may quote bad prices for large orders. We are working with them to resolve this issue.
+{.is-warning}
+
+
+- The easiest place to buy FARM is on the [Uniswap decentralized exchange][uni-buy-farm]
+- Create FARM [market orders](https://1inch.exchange/#/ETH/FARM) and [limit orders](https://1inch.exchange/#/limit-order/USDC/FARM) on 1inch.exchange
+- FARM is listed on Paraswap.io
+- FARM is listed on DeBank.com
+
+
+
+# Centralized Exchange Listings
+
+- Listed on [LBank.info](https://twitter.com/LBank_Exchange/status/1303291365896331265)
+- Listed on Probit
+
+
+# Harvest Finance Assets
 
 Harvest assets, including FARM and the fASSET Harvest deposit tokens, are available on Uniswap.
 
@@ -34,17 +53,6 @@ Harvest assets, including FARM and the fASSET Harvest deposit tokens, are availa
 |FUSDT_WETH_LP|[0xB19EbFB37A936cCe783142955D39Ca70Aa29D43c][es-fusdt_weth_lp]|[deposit USDT_WETH_LP][hf], [buy LP][uni-buy-fusdt_weth_lp], [info][uni-info-fusdt_weth_lp]|
 |FDAI_WETH_LP|[0x1a9F22b4C385f78650E7874d64e442839Dc32327][es-fdai_weth_lp]|[deposit DAI_WETH_LP][hf], [buy LP][uni-buy-fdai_weth_lp], [info][uni-info-fdai_weth_lp]|
 |FWBTC_WETH_LP|[0xb1FeB6ab4EF7d0f41363Da33868e85EB0f3A57EE][es-fwbtc_weth_lp]|[deposit WBTC_WETH_LP][hf], [buy LP][uni-buy-fwbtc_weth_lp], [info][uni-info-fwbtc_weth_lp]|
-
-
-
-# Centralized Exchange Listings
-
-> Add more listings to this section. [Here's how](/contribute).
-{.is-info}
-
-
-Listed on [LBank.info](https://twitter.com/LBank_Exchange/status/1303291365896331265)
-
 
 
 
