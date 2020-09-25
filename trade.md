@@ -2,7 +2,7 @@
 title: FARM Markets
 description: buy and sell FARM tokens and other Harvest Finance assets
 published: true
-date: 2020-09-25T09:06:42.535Z
+date: 2020-09-25T09:07:22.826Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-13T07:23:41.115Z
@@ -14,7 +14,7 @@ dateCreated: 2020-08-13T07:23:41.115Z
 
 # Decentralized Exchange Listings
 
-> DEXs other than Uniswap may quote bad prices for large orders. We are working with them to resolve this issue.
+> DEXs other than Uniswap may quote bad prices for large orders. We are working with them to resolve the issue.
 {.is-warning}
 
 
