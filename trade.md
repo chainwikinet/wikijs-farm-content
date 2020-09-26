@@ -2,7 +2,7 @@
 title: FARM Markets
 description: buy and sell FARM tokens and other Harvest Finance assets
 published: true
-date: 2020-09-25T09:28:00.860Z
+date: 2020-09-26T08:11:21.511Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-13T07:23:41.115Z
@@ -25,13 +25,12 @@ dateCreated: 2020-08-13T07:23:41.115Z
 - Trading might be available on [Balancer](https://balancer.exchange/) or [CREAM Swap](https://app.cream.finance/swap)
 
 
-
 # Centralized Exchange Listings
 
-- Listed on [LBank.info](https://twitter.com/LBank_Exchange/status/1303291365896331265)
-- Listed on Probit
-- Listed on Hotbit
+- Listed on [Probit](https://support.probit.com/hc/en-us/articles/900002847263)
 - Listed on Gate.io
+- Listed on Hotbit
+- Listed on [LBank.info](https://twitter.com/LBank_Exchange/status/1303291365896331265)
 
 
 # Harvest Finance Assets
