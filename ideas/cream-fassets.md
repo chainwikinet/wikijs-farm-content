@@ -2,13 +2,13 @@
 title: Add Harvest Yield-Bearing Tokens to CREAM cyUSD
 description: 
 published: true
-date: 2020-09-26T09:45:24.773Z
+date: 2020-09-26T09:49:40.787Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-26T09:45:24.773Z
 ---
 
-> Thsi is a proposal by Harvest technical contributor and wiki admin, `Silage Pete`
+> Thsi is a proposal by Harvest technical contributor and wiki manager, `Silage Pete`
 {.is-success}
 
 
