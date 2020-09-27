@@ -2,7 +2,7 @@
 title: Getting Started with UNI Pools
 description: Now you have the basics down. Let's go after that high APY in the UNI Pool!
 published: true
-date: 2020-09-27T20:44:07.652Z
+date: 2020-09-27T20:51:32.620Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-27T19:40:02.868Z
@@ -55,6 +55,12 @@ With the USDC and FARM in our Wallet, we are going to add it to Uniswaps USDC-FA
 ![getting_started_uni_acquire_uni_lp_tokens.png](/getting_started_images/getting_started_uni_acquire_uni_lp_tokens.png)
 - At the top right of the page, select Add Liquidity
 ![getting_started_uni_add_liquidity.png](/getting_started_images/getting_started_uni_add_liquidity.png)
-- Select Max FARM (or USDC :shrug: ) 
+- Select Max FARM (or USDC)! Then click Approve
+![getting_started_uni_approve_liquidity.png](/getting_started_images/getting_started_uni_approve_liquidity.png)
+- Once Approve transaction goes through, Click Supply
+![getting_started_uni_supply_liquidity.png](/getting_started_images/getting_started_uni_supply_liquidity.png)
+- After this transaction, Uniswap will show your positions in the Pool
+![getting_started_uni_lp_positions.png](/getting_started_images/getting_started_uni_lp_positions.png)
+- Congrats! you are now a Liquidity Provider for Uniswaps USDC-FARM Liquidity Pool! You are now earning fees off user's exchange transactions from this pool. Of course, now you are also at risk of Impermanent Loss :scream: :scream: :scream:
 # Deposit Tokens in to UNI LP Farm :seedling:
 # Earn FARM! :bread:
