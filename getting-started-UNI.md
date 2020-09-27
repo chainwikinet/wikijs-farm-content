@@ -2,7 +2,7 @@
 title: Getting Started with UNI Pools
 description: Now you have the basics down. Let's go after that high APY in the UNI Pool!
 published: true
-date: 2020-09-27T21:27:10.137Z
+date: 2020-09-27T21:27:58.578Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-27T19:40:02.868Z
@@ -81,4 +81,6 @@ Farming is good honest work. You did great my fellow farmhand. Let's now watch t
 ![getting_started_uni_harvest_dashboard3.png](/getting_started_images/getting_started_uni_harvest_dashboard3.png)
 - We now see ouf FARM_USDC_LP there and the staked balance of UNI_LP we added.
 - Assets at the bottom will include the Underlying USDC and FARM that we added to the Liquidity Pool.
-- If ya need an overview of all data in the Dashboard, check out the [first tutorial](/en/getting-started#watch-your-bounty-grow)
+> If ya need an overview of all data in the Dashboard, check out the last section of the [first tutorial](/en/getting-started#watch-your-bounty-grow)
+{.is-info}
+
