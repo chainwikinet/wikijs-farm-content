@@ -2,7 +2,7 @@
 title: Getting Started with UNI Pools
 description: Now you have the basics down. Let's go after that high APY in the UNI Pool!
 published: true
-date: 2020-09-27T22:47:56.754Z
+date: 2020-09-27T23:07:04.537Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-27T19:40:02.868Z
@@ -75,7 +75,7 @@ Time to put our UNI_LP tokens into the Farm and earn some of that high yield FAR
 - In our Wallet, we will do 2 transactions: Approve and Stake. I'm tired of taking screen shots; you're on your own for that
 - All done! We are staked in the Farm, earning that sweet APY!
 ![getting_started_uni_stake_complete.png](/getting_started_images/getting_started_uni_stake_complete.png)
-> Harvest is now collecting our transaction fees, and reinvesting the profits into more LP. If you go back to Uniswap, you will not see your positions there anymore 
+> I went to Uniswap and don't see my posiitons!! When you add your UNI_LP tokens to Farm, you temporarily stake your LP tokens into Harvest, and Harvest use it to farm and sell crops to grow the amount of your LP. The value of your LP still grows with each trade on the Uniswap pool. So you get to enjoy Harvest's automated golden crops on top of Unicorn yields.
 {.is-info}
 # Earn FARM! :bread:
 Farming is good honest work. You did great my fellow farmhand. Let's now watch the fruits of our labor!
