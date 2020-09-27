@@ -2,7 +2,7 @@
 title: Getting Started with UNI Pools
 description: Now you have the basics down. Let's go after that high APY in the UNI Pool!
 published: true
-date: 2020-09-27T20:51:32.620Z
+date: 2020-09-27T21:27:10.137Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-27T19:40:02.868Z
@@ -47,7 +47,7 @@ Now, with our USDC, we are going to swap half of it for FARM
 *I know, I know. You are wondering where I accumulated all that DAI and FNT. That's none of your business!*
 # Add FARM and USDC to UNI LP :apple:
 With the USDC and FARM in our Wallet, we are going to add it to Uniswaps USDC-FARM Liquidity Pool.
-> This will also require two transaction: Approve and Supply
+> This will also require two transactions: Approve and Supply
 {.is-warning}
 - Click Earn on the top of Harvest.Finance. Then select the Uniswap Farm
 - ![getting_started_uni_select_uni_farm.png](/getting_started_uni_select_uni_farm.png)
@@ -61,6 +61,24 @@ With the USDC and FARM in our Wallet, we are going to add it to Uniswaps USDC-FA
 ![getting_started_uni_supply_liquidity.png](/getting_started_images/getting_started_uni_supply_liquidity.png)
 - After this transaction, Uniswap will show your positions in the Pool
 ![getting_started_uni_lp_positions.png](/getting_started_images/getting_started_uni_lp_positions.png)
+- We received 0.0000657 UNI_LP-V2 tokens that we will use in the next step
 - Congrats! you are now a Liquidity Provider for Uniswaps USDC-FARM Liquidity Pool! You are now earning fees off user's exchange transactions from this pool. Of course, now you are also at risk of Impermanent Loss :scream: :scream: :scream:
 # Deposit Tokens in to UNI LP Farm :seedling:
+> This will also require two transactions: Approve and Stake
+{.is-warning}
+
+Time to put our UNI_LP tokens into the Farm and earn some of that high yield FARM!
+- Back on the Harvest's Uniswap Farm page, we now have the ability to Stake. Select Max, then select Stake
+![getting_started_uni_stake_uni_lp.png](/getting_started_images/getting_started_uni_stake_uni_lp.png)
+- In our Wallet, we will do 2 transactions: Approve and Stake. I'm tired of taking screen shots; you're on your own for that
+- All done! We are staked in the Farm, earning that sweet APY!
+![getting_started_uni_stake_complete.png](/getting_started_images/getting_started_uni_stake_complete.png)
+> Harvest is now collecting our transaction fees, and reinvesting the profits into more LP. If you go back to Uniswap, you will not see your positions there anymore 
+{.is-info}
 # Earn FARM! :bread:
+Farming is good honest work. You did great my fellow farmhand. Let's now watch the fruits of our labor!
+- Navigate to the [Harvest Finance Dashbaord](https://harvestfi.github.io/dashboard/)
+![getting_started_uni_harvest_dashboard3.png](/getting_started_images/getting_started_uni_harvest_dashboard3.png)
+- We now see ouf FARM_USDC_LP there and the staked balance of UNI_LP we added.
+- Assets at the bottom will include the Underlying USDC and FARM that we added to the Liquidity Pool.
+- If ya need an overview of all data in the Dashboard, check out the [first tutorial](/en/getting-started#watch-your-bounty-grow)
