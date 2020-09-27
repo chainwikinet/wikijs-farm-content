@@ -2,7 +2,7 @@
 title: Getting Started with UNI Pools
 description: Now you have the basics down. Let's go after that high APY in the UNI Pool!
 published: true
-date: 2020-09-27T20:27:18.113Z
+date: 2020-09-27T20:44:07.652Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-27T19:40:02.868Z
@@ -24,7 +24,7 @@ To participate in the Uniswap LP Farm, we will need to supply USDC-FARM liquidit
 1. Deposit USDC and FARM into Uniswap's Liquidity Pool. Receive UNI_LP tokens
 1. Deposit UNI_LP Token into Farm
 1. Profit! :bread:
-> These steps total 6 transactions on the Etherium blockchain. Be wary of gas prices before you start. Gas was at ~50 Gwei at time of doing this tutorial
+> These steps total 6 transactions on the Etherium blockchain. Be wary of gas prices before you start. Make sure you have enough ETH in your Wallet. Gas was at ~50 Gwei at time of doing this tutorial.
 {.is-warning}
 
 # Get USDC :watermelon:
@@ -46,5 +46,15 @@ Now, with our USDC, we are going to swap half of it for FARM
 ![getting_started_uni_metamask_farm_usdc.png](/getting_started_uni_metamask_farm_usdc.png)
 *I know, I know. You are wondering where I accumulated all that DAI and FNT. That's none of your business!*
 # Add FARM and USDC to UNI LP :apple:
+With the USDC and FARM in our Wallet, we are going to add it to Uniswaps USDC-FARM Liquidity Pool.
+> This will also require two transaction: Approve and Supply
+{.is-warning}
+- Click Earn on the top of Harvest.Finance. Then select the Uniswap Farm
+- ![getting_started_uni_select_uni_farm.png](/getting_started_uni_select_uni_farm.png)
+- Select UNI-V2. This will take you to Uniswap's USDC-FARM Pair page
+![getting_started_uni_acquire_uni_lp_tokens.png](/getting_started_images/getting_started_uni_acquire_uni_lp_tokens.png)
+- At the top right of the page, select Add Liquidity
+![getting_started_uni_add_liquidity.png](/getting_started_images/getting_started_uni_add_liquidity.png)
+- Select Max FARM (or USDC :shrug: ) 
 # Deposit Tokens in to UNI LP Farm :seedling:
 # Earn FARM! :bread:
