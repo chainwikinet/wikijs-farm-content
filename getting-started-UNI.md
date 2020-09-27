@@ -2,7 +2,7 @@
 title: Getting Started with UNI Pools
 description: Now you have the basics down. Let's go after that high APY in the UNI Pool!
 published: true
-date: 2020-09-27T21:27:58.578Z
+date: 2020-09-27T21:38:53.758Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-27T19:40:02.868Z
@@ -83,4 +83,15 @@ Farming is good honest work. You did great my fellow farmhand. Let's now watch t
 - Assets at the bottom will include the Underlying USDC and FARM that we added to the Liquidity Pool.
 > If ya need an overview of all data in the Dashboard, check out the last section of the [first tutorial](/en/getting-started#watch-your-bounty-grow)
 {.is-info}
+# What about All that Gas?
+Here's all the gas I paid in this process. Etherium gas price was around 55 Gwei while making these transactions.
+| Transaction                | Cost   |
+|----------------------------|--------|
+| Approve USDC Spend Limit   |  $1.13 |
+| Swap USDC for FARM         |  $3.02 |
+| Approve FARM spend limit   |  $1.01 |
+| Add Liquidity              |  $3.43 |
+| Approve UNI-V2 Spend Limit |  $1.00 |
+| Stake UNI-V2               |  $2.43 |
+| **Total**                      | **$12.02** |
 
