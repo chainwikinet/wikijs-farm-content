@@ -2,7 +2,7 @@
 title: Getting Started with UNI Pools
 description: Now you have the basics down. Let's go after that high APY in the UNI Pool!
 published: true
-date: 2020-09-27T19:48:16.812Z
+date: 2020-09-27T19:52:22.931Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-27T19:40:02.868Z
@@ -25,7 +25,7 @@ To participate in the Uniswap LP Farm, you will need to supply USDC-FARM liquidi
 1. Deposit UNI_LP Token into Farm
 1. Profit! :bread:
 # Get USDC :watermelon:
-Alright, you should alreayd know how to do this if you followed the first tutorial (link)
+Alright, you should already know how to do this if you followed the first tutorial (link)
 # Buy FARM :strawberry:
 Now, with your USDC, you are going to swap it for farm
 UNI Warning. Verify FARM address here: https://github.com/harvest-finance/harvest
