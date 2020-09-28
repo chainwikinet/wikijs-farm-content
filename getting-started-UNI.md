@@ -2,7 +2,7 @@
 title: Getting Started with UNI Pools
 description: Now you have the basics down. Let's go after that high APY in the UNI Pool!
 published: true
-date: 2020-09-27T23:07:04.537Z
+date: 2020-09-28T13:35:00.962Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-27T19:40:02.868Z
@@ -41,9 +41,9 @@ Now, with our USDC, we are going to swap half of it for FARM
 > The warning says exactly what it means. It's up to you to make sure the addresses you are using are correct. You might want to click on those View on Etherscan links and verify them against [Harvest's Github page](https://github.com/harvest-finance/harvest).
 {.is-danger}
 - All set? Okay! Take half of our USDC and Swap it for FARM! in this case, we have 1500 USDC. So we will use 750 for the SWAP.!
-[getting_started_uni_swap_usdc_farm_approve.png](/getting_started_uni_swap_usdc_farm_approve.png)
+![getting_started_uni_swap_usdc_farm_approve.png](/getting_started_uni_swap_usdc_farm_approve.png)
 - Once the Approval goes through, we will now do the Swap!
-[getting_started_uni_swap_usdc_farm_swap.png](/getting_started_uni_swap_usdc_farm_swap.png)
+![getting_started_uni_swap_usdc_farm_swap.png](/getting_started_uni_swap_usdc_farm_swap.png)
 - Hooray! We now have USDC and FARM in our Wallet to add to the Liquidity Pool
 ![getting_started_uni_metamask_farm_usdc.png](/getting_started_uni_metamask_farm_usdc.png)
 *I know, I know. You are wondering where I accumulated all that DAI and FNT. That's none of your business!*
