@@ -2,7 +2,7 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2020-09-25T08:33:26.265Z
+date: 2020-09-30T11:01:45.000Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-04T07:47:54.724Z
@@ -118,7 +118,7 @@ This strategy farms UNI, the [Uniswap Token][uni].
 ## Farming Cream with WETH
 This strategy farms CREAM, the [Cream Finance Token][cream].
 
-> You do not receive CREAM directly. Instead, the farmed CREAM is sold to return more stablecoins to you when you withdraw.
+> You do not receive CREAM directly. Instead, the farmed CREAM is sold to return more wETH to you when you withdraw.
 {.is-info}
 
 | | |
