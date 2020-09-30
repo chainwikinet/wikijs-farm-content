@@ -2,7 +2,7 @@
 title: Trade fASSETs on 1inch
 description: may be less expensive than depositing and withdrawing for small traders
 published: true
-date: 2020-09-30T13:51:15.041Z
+date: 2020-09-30T13:52:08.171Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-30T13:42:27.357Z
@@ -18,7 +18,7 @@ Withdrawing assets from Harvest can sometimes be expensive, especially when gas 
 
 If you are withdrawing during a period of heavy withdraws and the Harvest withdraw buffer has been depleted, then your transaction will need to pay to remove your stablecoin from the yield farming strategy.  This will be expensive ([example][es-withdraw-nobuffer] that cost 2,200,000 gas).  If you come back later after more funds have been deposited to Harvest and the withdraw buffer has been replenished, then the fees may be lower ([example][es-withdraw-buffer] that cost 468,000 gas).
 
-**By trading fASSETs on 1inch, you can avoid deposit or withdraw fees**.
+**By trading fASSETs on 1inch, you may pay lower fees than depositing or withdrawing directly**.
 
 # How To Do It
 
