@@ -2,13 +2,17 @@
 title: Trade fASSETs on 1inch
 description: may be less expensive than depositing and withdrawing for small traders
 published: true
-date: 2020-09-30T13:42:27.357Z
+date: 2020-09-30T13:51:15.041Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-30T13:42:27.357Z
 ---
 
 # Problem To Solve
+
+> If you are depositing an amount in excess of $1000, depositing directly into Harvest will probably give a better price than trading.
+{.is-info}
+
 
 Withdrawing assets from Harvest can sometimes be expensive, especially when gas prices are high.
 
@@ -18,7 +22,7 @@ If you are withdrawing during a period of heavy withdraws and the Harvest withdr
 
 # How To Do It
 
-> Trades may not always be available on 1inch.
+> Trades may not always be available on 1inch. This is a test run with small limit orders between the stablecoin pairs. If it is successful, we may add the BTC pairs and larger orders. Please ask questions in the #🔄trading channel on Discord.
 {.is-info}
 
 **1. Visit 1inch exchange https://1inch.exchange/**
