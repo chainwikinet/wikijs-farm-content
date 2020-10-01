@@ -2,7 +2,7 @@
 title: Harvest Finance Media & Dashboards
 description: manage your farming and learn more about Harvest
 published: true
-date: 2020-10-01T12:31:52.455Z
+date: 2020-10-01T17:30:57.601Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-14T19:44:06.472Z
@@ -53,6 +53,7 @@ Contest is over. Here are the winners:
 - Harvest Rewards Week 2 Launch. https://medium.com/harvest-finance/harvest-rewards-week-2-launch-thegreenrevolution-14c68af416e9
 - 🔥🔥🔥 and Rewards Week 3 Launch. https://medium.com/harvest-finance/and-rewards-week-3-launch-f4e771946894
 - 🚜 Harvest Rewards Week 4 Launch. https://medium.com/harvest-finance/harvest-rewards-week-4-launch-f69ae0b26e09
+- Week 5: The Power of 69 https://medium.com/harvest-finance/week-5-the-power-of-69-6c8346ec3d8d
 
 ## Community
 - A bountiful Harvest awaits. https://medium.com/@Redmption/a-bountiful-harvest-awaits-373cbc9cb7d4
