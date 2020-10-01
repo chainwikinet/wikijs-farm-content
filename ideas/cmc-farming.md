@@ -2,19 +2,43 @@
 title: API for Coinmarketcap Farming Page
 description: 
 published: true
-date: 2020-09-21T14:03:06.346Z
+date: 2020-10-01T12:24:11.170Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-21T14:03:06.346Z
 ---
 
-Coinmarket cap added a yield farming summary page: https://coinmarketcap.com/beta/yield-farming/
+Coinmarket cap added a yield farming summary page: https://coinmarketcap.com/yield-farming/
 
 To be listed on this page, Harvest must provide an API that returns some information.
 
 If we are building a backend to serve Token Terminal data, an endpoint could be added for this CMC Farming data.
 
+# 2020 Oct Updates
+
+A few corrections are needed to the CMC Farming API.
+
+**pool name : poolRewards**
+USDC Vault : FARM, USDC
+USDT Vault : FARM, USDT
+WBTC Vault : FARM, WBTC
+WETH Vault : FARM, WETH
+CRVRENWBTC Vault : FARM, renBTC, wBTC
+RENBTC Vault : FARM, renBTC
+DAI Vault : FARM, DAI
+FARM Profit Sharing : FARM
+ETH-USDC Vault : FARM, ETH, USDC
+ETH-DAI Vault : FARM, ETH, DAI
+ETH-WBTC Vault : FARM, ETH, WBTC
+ETH-USDT Vault : FARM, ETH, USDT
+
+**Pool : Pair**
+CRVRENWBTC Vault : renBTC-wBTC
+
+
 # Required API
+
+API was delivered in 2020 Sept.
 
 ```json
 {
