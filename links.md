@@ -2,24 +2,30 @@
 title: Harvest Finance Media & Dashboards
 description: manage your farming and learn more about Harvest
 published: true
-date: 2020-09-25T08:21:47.231Z
+date: 2020-10-01T12:31:52.455Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-14T19:44:06.472Z
 ---
 
+# Listings
 
-# Official Tools
+- [Harvest Finance in the Coinmarketcap yield farming list](https://coinmarketcap.com/yield-farming/)
+- [Harvest Finance on dapp.com](https://www.dapp.com/ja/app/harvest-finance)
+
+
+
+# Harvest Farming Tools
+
+## Official
 
 Tools released by the launch team to monitor and manage yield farming and staking:
 
 - https://harvest.finance/
 - https://harvestfi.github.io/dashboard/ (officially unofficial)
 
+## Community
 
-# Unofficial Tools
-
-- [Harvest Finance on dapp.com](https://www.dapp.com/ja/app/harvest-finance)
 
 Tools created by community members:
 
@@ -27,15 +33,8 @@ Tools created by community members:
 - https://david4neblio.github.io/harvestyield/ (profit share yield calulator)
 - https://www.omnicalculator.com/finance/apy (convert between APY and APR)
 
-
-# Harvest Blog Posts
-- The Harvest Finance Launch. https://medium.com/harvest-finance/the-harvest-finance-project-338c3e5806fc
-- Harvest Reward Pools Launch. https://medium.com/harvest-finance/harvest-reward-pools-launch-60d1dcbc4b81
-- Harvest Rewards Week 2 Launch. https://medium.com/harvest-finance/harvest-rewards-week-2-launch-thegreenrevolution-14c68af416e9
-- 🔥🔥🔥 and Rewards Week 3 Launch. https://medium.com/harvest-finance/and-rewards-week-3-launch-f4e771946894
-- 🚜 Harvest Rewards Week 4 Launch. https://medium.com/harvest-finance/harvest-rewards-week-4-launch-f69ae0b26e09
-
 # Contests
+
 - The 🥖#BreadForThePeople Meme Contest. https://medium.com/@harvestfinance/the-breadforthepeople-meme-contest-3b035b0c2fc4
 Contest is over. Here are the winners: 
 🥇 1st place: https://twitter.com/F3alimi/status/1307230681404182528
@@ -44,7 +43,18 @@ Contest is over. Here are the winners:
 
 - 🎉 Launching the Harvest Finance Creativity Contest https://medium.com/@harvestfinance/launching-the-harvest-finance-creativity-contest-d04d9f0a9a38
 
+
+
 # Articles
+
+## Core Team
+- The Harvest Finance Launch. https://medium.com/harvest-finance/the-harvest-finance-project-338c3e5806fc
+- Harvest Reward Pools Launch. https://medium.com/harvest-finance/harvest-reward-pools-launch-60d1dcbc4b81
+- Harvest Rewards Week 2 Launch. https://medium.com/harvest-finance/harvest-rewards-week-2-launch-thegreenrevolution-14c68af416e9
+- 🔥🔥🔥 and Rewards Week 3 Launch. https://medium.com/harvest-finance/and-rewards-week-3-launch-f4e771946894
+- 🚜 Harvest Rewards Week 4 Launch. https://medium.com/harvest-finance/harvest-rewards-week-4-launch-f69ae0b26e09
+
+## Community
 - A bountiful Harvest awaits. https://medium.com/@Redmption/a-bountiful-harvest-awaits-373cbc9cb7d4
 	Introduction to yield farming and Harvest strategy.
 - Harvest Finance. A beginner’s perspective to farming. https://medium.com/@bartysu/harvest-finance-a-beginners-perspective-to-farming-b03b9ab8e852
