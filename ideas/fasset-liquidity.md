@@ -2,7 +2,7 @@
 title: Make fASSETs liquid
 description: 
 published: true
-date: 2020-10-02T12:47:31.991Z
+date: 2020-10-02T13:05:48.715Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-02T11:09:52.564Z
@@ -50,15 +50,23 @@ Bamboo Relay has open listing process.
 - https://bamboorelay.com/
 - https://bamboorelay.com/add-token
 - https://0xtracker.com/relayers/bamboo-relay
-- I can add an ytoken to Bamboo
+- I can add any token to Bamboo
 - I can do market orders
 - I can do limit orders for FARM:WETH, but they don't show up in 1inch
 - I get an error when doing FARM:USDC limit orders
 - Mesh limit orders for fUSDC don't show up
+- possible that only WETH pairs are allowed for unverified tokens?
+  - FARM:WETH order on Bamboo does not show up on 1inch
+  - FARM:WETH order on 1inch does not show up on Bamboo
 
 1inch listing
 - 0.25% taker fee on limit orders
 - uses 0xAPI / 0xMesh
+
+Matcha listing
+- no listing process described
+- orders created on Matcha show up on 1inch
+- no maker or taker fee
 
 # Deposit/Withdrawal Abstraction
 
