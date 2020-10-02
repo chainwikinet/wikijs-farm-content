@@ -2,7 +2,7 @@
 title: Make fASSETs liquid
 description: 
 published: true
-date: 2020-10-02T11:09:52.564Z
+date: 2020-10-02T11:11:06.686Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-02T11:09:52.564Z
@@ -27,7 +27,7 @@ https://etherscan.io/address/0x4161Fa43eaA1Ac3882aeeD12C5FC05249e533e67
 
 Submitted limit order that can be arbitraged. It was not, so automated arbitrage does not appear to be operating.
 
-
+Are there open source arbitrage bots?
 
 # Deposit/Withdrawal Abstraction
 
