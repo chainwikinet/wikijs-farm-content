@@ -2,7 +2,7 @@
 title: Make fASSETs liquid
 description: 
 published: true
-date: 2020-10-02T11:11:06.686Z
+date: 2020-10-02T11:22:07.496Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-02T11:09:52.564Z
@@ -28,6 +28,8 @@ https://etherscan.io/address/0x4161Fa43eaA1Ac3882aeeD12C5FC05249e533e67
 Submitted limit order that can be arbitraged. It was not, so automated arbitrage does not appear to be operating.
 
 Are there open source arbitrage bots?
+ - [MakerDAO Market Maker Keeper](https://github.com/makerdao/market-maker-keeper/commit/bb4543559843d3e8d6b1b5979629e7d6f85bb933)
+- [MakerDAO Simple Arbitrage Keeper](https://github.com/makerdao/simple-arbitrage-keeper) references Uniswap and 0x but not updated recently
 
 # Deposit/Withdrawal Abstraction
 
