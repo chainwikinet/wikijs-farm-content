@@ -2,7 +2,7 @@
 title: Getting Started
 description: New to Farming? This will walk you through your first farming experience
 published: true
-date: 2020-09-21T01:26:23.167Z
+date: 2020-10-03T19:55:47.919Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-20T18:56:27.102Z
@@ -12,7 +12,6 @@ dateCreated: 2020-09-20T18:56:27.102Z
 [//]: # (I want to include more images of the transactions, but I have nothing to transact to take screen shots :/)
 [//]: # (Should we talk more about gas prices? This hit me right in the n00bs when I first started. At least need a couple good links to help explain it?)
 [//]: # (Need some A's for the Q's on the Greenhorn Q&A.)
-[//]: # (Please delete images from the image pool \(I don't have permission\). These images are not needed anymore: getting_started_coinbase_portfolio.png, getting_started_usdc_value2.png, getting_started_usdc_apy.png, getting_started_harvest_finance_dashboard.png)
 
 # Welcome :corn:
 Welcome city boy! You aren't from around here, are ya? That's alright. We can use more hands on our farm. And soon you will be a seasoned farmer, just like the rest of us…with strong callused hands.
@@ -94,8 +93,7 @@ All done? Alright! Let's get farming!
 # Watch Your Bounty Grow :bread:
 - Now just sit back and relax. It was good honest work for the day. You deserve a break, and just watch fruits (or bread) of your labor!
 ## Harvest Finance Dashboard
-- Click on that cute little farmer emoji at the top of the page
-![getting_started_farmer_emoji_menu.png](/getting_started_farmer_emoji_menu.png)
+- Click on Dashboard at the top of the page
 - You can also navigate directly to the page here: [https://harvestfi.github.io/dashboard/](https://harvestfi.github.io/dashboard/)
 - Follow the steps to connect your wallet, just like you did on harvest.finance. And here's your dashboard! Let's walk through what you see here.
 ![getting_started_harvest_finance_dashboard2.png](/getting_started_harvest_finance_dashboard2.png)
