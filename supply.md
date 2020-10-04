@@ -2,7 +2,7 @@
 title: FARM Token Supply
 description: FARM token supply and emission schedule
 published: true
-date: 2020-10-04T02:43:40.308Z
+date: 2020-10-04T02:46:22.455Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-16T22:09:16.263Z
@@ -17,14 +17,6 @@ The $FARM token first became available when Harvest Finance launched on Septembe
 
 There will be a maximum of **690,420** FARM tokens!
 
-The initial distribution plan intended that only ~4% of the FARM supply would become available in the first month after launch. However, in Week 3 the team began burning 36% of emissions to reduce the $FARM inflation rate.
-
-Burn transactions, week 3:
-https://etherscan.io/tx/0xcfd1378afdab6980a498edeeecccbf1aa6ff4822dc98eb9dcfe1caf47cc17390
-https://etherscan.io/tx/0x455612eb4be5b32eb3662f9acb2b5cb59ad594d28851ad688bf10a8fd545bb30
-https://etherscan.io/tx/0x8c291fe6a2e2f3c56c6df33f197f49bf3f363a4bb93ab050a1a71c85c32ededb
-
-
 # How Many FARM tokens are liquid now?
 
 | Week | Minted | Distributed | Burned | % of max supply |
@@ -38,6 +30,14 @@ https://etherscan.io/tx/0x8c291fe6a2e2f3c56c6df33f197f49bf3f363a4bb93ab050a1a71c
 |  Continues untils week 208                             |
 
 After week 5, every week will have a 4.45% reduction from the prior week until week 208 which is exactly 4 years. 
+
+*NOTES:*
+Week 3 the team burn 14850 to reduce the $FARM inflation rate.
+
+Burn transactions, week 3:
+https://etherscan.io/tx/0xcfd1378afdab6980a498edeeecccbf1aa6ff4822dc98eb9dcfe1caf47cc17390
+https://etherscan.io/tx/0x455612eb4be5b32eb3662f9acb2b5cb59ad594d28851ad688bf10a8fd545bb30
+https://etherscan.io/tx/0x8c291fe6a2e2f3c56c6df33f197f49bf3f363a4bb93ab050a1a71c85c32ededb
 
 
 # How are the tokens distributed?
