@@ -2,11 +2,21 @@
 title: Make fASSETs liquid
 description: 
 published: true
-date: 2020-10-04T02:58:27.894Z
+date: 2020-10-04T13:59:09.921Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-02T11:09:52.564Z
 ---
+
+# Deposit/Withdrawal Abstraction
+
+If there is fAsset liquidity availale, the website can automatically compare the rates and costs of withdrawing or depositing with the rates and costs of trading in or out of the fAsset. **It can automatically direct users along the route that gives the best deal.**
+
+Make simple example app to demonstrate:
+- deposit dialog could compare trade quote to the deposit rate
+- consider rates and transaction fees
+- prompt user to go the less expensive route
+
 
 # Vault Deposit/Withdrawal Costs
 
@@ -167,14 +177,6 @@ Matcha listing
 - no listing process described
 - orders created on Matcha show up on 1inch
 - no maker or taker fee
-
-# Deposit/Withdrawal Abstraction
-
-Make simple example to demonstrate:
-- deposit dialog could compare trade quote to the deposit rate
-- consider rates and transaction fees
-- prompt user to go the less expensive route
-
 
 
 
