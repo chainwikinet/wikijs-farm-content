@@ -2,7 +2,7 @@
 title: Make fASSETs liquid
 description: 
 published: true
-date: 2020-10-04T02:49:13.554Z
+date: 2020-10-04T02:58:27.894Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-02T11:09:52.564Z
@@ -10,7 +10,7 @@ dateCreated: 2020-10-02T11:09:52.564Z
 
 # Vault Deposit/Withdrawal Costs
 
-By depositing teh 
+Investigating how much it costs to deposit and withdraw from vaults and strategies. This can help determine where the ability to trade fAssets could save the most in transaction fees.
 
 | Asset   | Deposit Gas | Withdraw Gas        |
 |---------|-------------|---------------------|
