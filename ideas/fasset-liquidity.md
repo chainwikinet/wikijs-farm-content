@@ -2,7 +2,7 @@
 title: Make fASSETs liquid
 description: 
 published: true
-date: 2020-10-04T14:00:47.330Z
+date: 2020-10-04T14:01:17.253Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-02T11:09:52.564Z
@@ -12,7 +12,7 @@ dateCreated: 2020-10-02T11:09:52.564Z
 
 Giving users the option to trade in or out of fAssets instead of depositing or withdrawing from the Vaults directly could save them transaction fees. But new users will not seek out the trading option.  **It should be integrated right into the Harvest site so that it is invisible to users.**
 
-If there is fAsset liquidity availale, the website can automatically compare the rates and costs of withdrawing or depositing with the rates and costs of trading in or out of the fAsset. **It can automatically direct users along the route that gives the best deal.**
+If there is fAsset liquidity available, the website can automatically compare the rates and costs of withdrawing or depositing with the rates and costs of trading in or out of the fAsset. **It can automatically direct users along the route that gives the best deal.**
 
 Make simple example app to demonstrate:
 - deposit dialog could compare trade quote to the deposit rate
