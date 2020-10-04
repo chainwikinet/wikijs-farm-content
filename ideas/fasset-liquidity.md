@@ -2,7 +2,7 @@
 title: Make fASSETs liquid
 description: 
 published: true
-date: 2020-10-04T01:21:44.425Z
+date: 2020-10-04T02:49:13.554Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-02T11:09:52.564Z
@@ -12,13 +12,52 @@ dateCreated: 2020-10-02T11:09:52.564Z
 
 By depositing teh 
 
-| Asset   | Deposit Gas | Withdraw Gas |
-|---------|-------------|--------------|
-| fSTABLE | 873,405     | |
-| fBTC    | 289,296     | |
-| fWETH   | 155,385     | |
-| Uniswap | 140,673     | |
+| Asset   | Deposit Gas | Withdraw Gas        |
+|---------|-------------|---------------------|
+| fSTABLE | 873,405     | 482,391 to 2,210,864|
+| fBTC    | 289,296     | 160,928 to 769,901  |
+| fWETH   | 155,385     | 64,226 to 2,157,646 |
+| Uniswap | 140,673     | 96,904 to 216,015   |
  
+
+
+
+## Withdraw TXs
+ 
+withdraw WBTC from Strategy
+- https://etherscan.io/tx/0x1e9c6e42ffc0b49d2aa6726104b74406974053e33aa62866286a07ee674552c4
+- 769,901 gas
+
+withdraw WBTC from Vault
+- https://etherscan.io/tx/0x6650df8ddc170de1043e38963006e3eae3aa3c1c6d83b09f9cc680f4b8d3e778
+- 160,928 gas
+
+withdraw WETH from Strategy
+- https://etherscan.io/tx/0xa7ead29fd4cc5279780e44632139ff7522790624e1c29c6340ea0adf9a101f20
+- 2,157,646 gas
+
+withdraw WETH from Vault
+- https://etherscan.io/tx/0xe6d3fff6d59ee1891143b851dbf89975e1fb6782b4277b5626f7be0f5c000be5
+- 64,226 gas
+
+withdraw USDC from Vault
+- https://etherscan.io/tx/0xc2f2fe17cef2c35a64e9ad666823f33428249b587f150ecd9af6447bdd05ae86
+- 482,391 gas
+
+withdraw USDC from Strategy
+- https://etherscan.io/tx/0x35ae13f29334a67e22323f079d69a20c62b0a0ca0c4c0bccc5ac36445a6e642a
+- 2,210,864 gas
+
+withdraw Uniswap LP from Vault
+- https://etherscan.io/tx/0xfa318b03fd62f066ee2c1140989c484a800f3fd6f0f913de0d95ee9e7160b506
+- 96,904 gas
+
+withdraw Uniswap LP from Strategy
+- https://etherscan.io/tx/0x9dbd2aa564f2cba2ebab8691e4858c6374f2ea46547a180519fb108bc6f1eec9
+- 216,015 gas
+
+
+## Deposit TXs
 
 depositing Uniswap LP tokens
 - https://etherscan.io/tx/0xa847d681abe98cc092c49e757836d69d937ac71c54032955b1b6a5025c5658e1
