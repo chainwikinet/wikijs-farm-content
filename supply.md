@@ -2,7 +2,7 @@
 title: FARM Token Supply
 description: FARM token supply and emission schedule
 published: true
-date: 2020-10-04T02:58:09.369Z
+date: 2020-10-04T03:29:31.624Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-16T22:09:16.263Z
@@ -16,6 +16,9 @@ dateCreated: 2020-08-16T22:09:16.263Z
 The $FARM token first became available when Harvest Finance launched on September 1st, 2020.
 
 There will be a maximum of **690,420** FARM tokens!
+
+FARM token on ehterscan:
+https://etherscan.io/token/0xa0246c9032bc3a600820415ae600c6388619a14d
 
 # How Many FARM tokens are liquid now?
 
