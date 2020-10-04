@@ -2,7 +2,7 @@
 title: FARM Token Supply
 description: FARM token supply and emission schedule
 published: true
-date: 2020-10-04T03:29:31.624Z
+date: 2020-10-04T03:30:43.344Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-16T22:09:16.263Z
