@@ -2,7 +2,7 @@
 title: FARM Token Supply
 description: FARM token supply and emission schedule
 published: true
-date: 2020-10-04T02:25:12.774Z
+date: 2020-10-04T02:43:40.308Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-16T22:09:16.263Z
@@ -15,7 +15,7 @@ dateCreated: 2020-08-16T22:09:16.263Z
 
 The $FARM token first became available when Harvest Finance launched on September 1st, 2020.
 
-There will be a maximum of [5,000,000 FARM distributed over four years][medium-launch], but the final distribution may be substantially less. Already, 14,850 $FARM has been burned.
+There will be a maximum of **690,420** FARM tokens!
 
 The initial distribution plan intended that only ~4% of the FARM supply would become available in the first month after launch. However, in Week 3 the team began burning 36% of emissions to reduce the $FARM inflation rate.
 
@@ -29,13 +29,15 @@ https://etherscan.io/tx/0x8c291fe6a2e2f3c56c6df33f197f49bf3f363a4bb93ab050a1a71c
 
 | Week | Minted | Distributed | Burned | % of max supply |
 |------|--------|-------------|--------|-----------------|
-|  1   | 57569.1| 57569.1     | 0      | 1.15%           |
-|  2   | 51676.2| 51676.2     | 0      | 1.03%           |
-|  3   | 41250.3| 26400.3     | 14850  | 0.82%           |
-|  4   | 30824.4| 24997.5     | 5846.9 | 0.62%           |
-|  5+  | 23555.0| 23555.0     | TBD    | 0.47%           |
+|  1   | 57569.1| 57569.1     | 0      | 8.34%           |
+|  2   | 51676.2| 51676.2     | 0      | 6.48%           |
+|  3   | 41250.3| 26400.3     | 14850  | 3.82%           |
+|  4   | 30824.4| 24997.5     | 5846.9 | 3.61%           |
+|  5   | 23555.0| 23555.0     | TBD    | 3.41%           |
+|  6+  | prior week minted x 95.55%                      |
+|  Continues untils week 208                             |
 
-After week 4: constant emission of 23555 FARM per week for 4 years.
+After week 5, every week will have a 4.45% reduction from the prior week until week 208 which is exactly 4 years. 
 
 
 # How are the tokens distributed?
