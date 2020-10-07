@@ -2,7 +2,7 @@
 title: Getting Started
 description: New to Farming? This will walk you through your first farming experience
 published: true
-date: 2020-10-07T19:19:33.040Z
+date: 2020-10-07T19:25:38.363Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-20T18:56:27.102Z
