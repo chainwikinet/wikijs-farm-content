@@ -2,7 +2,7 @@
 title: Getting Started
 description: New to Farming? This will walk you through your first farming experience
 published: true
-date: 2020-10-03T19:55:47.919Z
+date: 2020-10-07T16:57:53.858Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-20T18:56:27.102Z
@@ -16,7 +16,7 @@ dateCreated: 2020-09-20T18:56:27.102Z
 # Welcome :corn:
 Welcome city boy! You aren't from around here, are ya? That's alright. We can use more hands on our farm. And soon you will be a seasoned farmer, just like the rest of us…with strong callused hands.
 
-Before we get started, make sure you understand the [basics](/en/press) and the [risks](/en/faq) of farming.
+Before we get started with this tutorial, take a look at [this article](https://medium.com/@Redmption/flight-of-the-aggregator-1a687a1662ed) describing how we FARM! Then make sure you understand the [basics](/en/press) and the [risks](/en/faq) of FARMing.
 
 All done? Alright! Let's get farming!
 # What We're Gonna Do :tomato:
@@ -114,4 +114,5 @@ All done? Alright! Let's get farming!
 - Where does all this great APY come from? Whose money was it?
 - Why does my balance go up and down?
 - Why does the APY go up and down?
-- Everyone keeps talking about “Whales” in the Discord. What are they, and how do they impact farming?
+- Everyone keeps talking about “Whales” in the Discord. What are they, and how do they impact FARMing?
+	- Whales are entities who make large transactions in our pools. If they buy $FARM, $FARM increases in value, and likewise. Similarly, if a whale adds liquidity to a FARM pool, the APY will go down, and likewise.
