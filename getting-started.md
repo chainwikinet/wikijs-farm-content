@@ -2,7 +2,7 @@
 title: Getting Started
 description: New to Farming? This will walk you through your first farming experience
 published: true
-date: 2020-10-07T19:25:38.363Z
+date: 2020-10-07T19:31:57.614Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-20T18:56:27.102Z
@@ -119,4 +119,4 @@ All done? Alright! Let's get farming!
 **Q:** Why does the APY go up and down?
 
 **Q:** Everyone keeps talking about “Whales” in the Discord. What are they, and how do they impact FARMing?
--	**A:** Whales are entities who make large transactions in our pools. If they buy $FARM, $FARM increases in value, and vice versa. Similarly, if a whale adds liquidity to a FARM pool, the APY will go down, and vice versa.
+-	**A:** Whales are entities with very high capital, referred to as such because they are "bigger" than the average investor. Their large-volume transactions often have observable effects on the market because their [market impact](https://en.wikipedia.org/wiki/Market_impact) is large. For example, sufficiently large purchases of $FARM will cause the price of $FARM to increase, while large selloffs will cause the price to fall. Additionally, because FARM stakedrops are finite and defined at the beginning of each week, large investments/withdraws have the potential to significantly change the APY associated with the stakedrop reward. (Stakedrops are the incentives added to each pool, displayed on the front page as +[:tractor: APY%].)
