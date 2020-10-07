@@ -2,7 +2,7 @@
 title: Getting Started
 description: New to Farming? This will walk you through your first farming experience
 published: true
-date: 2020-10-07T19:04:27.518Z
+date: 2020-10-07T19:19:33.040Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-20T18:56:27.102Z
@@ -114,6 +114,7 @@ All done? Alright! Let's get farming!
 **Q:** Where does all this great APY come from? Whose money was it?
 
 **Q:** Why does my balance go up and down?
+- **A:** This is due to "slippage" (google it, lots of great blog posts out there) in the automated farming. Every time it performs a transaction there are varying amounts of slippage. The good news is that it is distributed across everyone in the pool, minimizing impact to a single person
 
 **Q:** Why does the APY go up and down?
 
