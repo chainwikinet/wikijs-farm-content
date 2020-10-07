@@ -2,7 +2,7 @@
 title: Getting Started
 description: New to Farming? This will walk you through your first farming experience
 published: true
-date: 2020-10-07T16:57:53.858Z
+date: 2020-10-07T16:59:17.677Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-20T18:56:27.102Z
@@ -111,8 +111,11 @@ All done? Alright! Let's get farming!
 # Greenhorn Q&A :question:
 [//]: # (Needs some A's for these Q's)
 *Under construction!*
-- Where does all this great APY come from? Whose money was it?
-- Why does my balance go up and down?
-- Why does the APY go up and down?
-- Everyone keeps talking about “Whales” in the Discord. What are they, and how do they impact FARMing?
-	- Whales are entities who make large transactions in our pools. If they buy $FARM, $FARM increases in value, and likewise. Similarly, if a whale adds liquidity to a FARM pool, the APY will go down, and likewise.
+**Q:** Where does all this great APY come from? Whose money was it?
+
+**Q:** Why does my balance go up and down?
+
+**Q:** Why does the APY go up and down?
+
+**Q:** Everyone keeps talking about “Whales” in the Discord. What are they, and how do they impact FARMing?
+-	**A:** Whales are entities who make large transactions in our pools. If they buy $FARM, $FARM increases in value, and likewise. Similarly, if a whale adds liquidity to a FARM pool, the APY will go down, and likewise.
