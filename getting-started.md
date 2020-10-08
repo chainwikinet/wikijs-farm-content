@@ -2,7 +2,7 @@
 title: Getting Started
 description: New to Farming? This will walk you through your first farming experience
 published: true
-date: 2020-10-08T13:45:26.726Z
+date: 2020-10-08T13:46:36.032Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-20T18:56:27.102Z
@@ -116,8 +116,8 @@ All done? Alright! Let's get farming!
 
 **Q:** Why does my balance sometimes go down on the main page?
 - **A:** This is called slippage and can be caused (over a short deposit period) by several factors, most notably:
-	- your displayed balance may drop on initial deposit due to market impact on entry into the AMM LP position
-	- your displayed balance may drop due to fluctuations in the prices of the assets in the AMM pool
+	- your displayed balance may drop on initial deposit due to market impact on entry into the AMM LP position (such as fUSDC pool)
+	- your displayed balance may drop due to fluctuations in the prices of the assets in the pool
 	- your displayed balance may drop when market impact on exit of the AMM LP position is factored in
 - Consider when using a system like Curve there is slippage when withdrawing to a singular asset, as well as a withdraw fee. When a user exits Harvest, those fees are currently socialized across the fAsset pools, but in the near future will be directly charged to the user triggering the slippage/fee. This means the pool value of fAssets will no longer be impacted by these events.
 
