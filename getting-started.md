@@ -2,7 +2,7 @@
 title: Getting Started
 description: New to Farming? This will walk you through your first farming experience
 published: true
-date: 2020-10-07T19:45:46.113Z
+date: 2020-10-08T13:45:26.726Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-20T18:56:27.102Z
@@ -114,8 +114,12 @@ All done? Alright! Let's get farming!
 **Q:** Where does all this great APY come from? Whose money was it?
 - **A:** Long story short, it comes from the collected transaction fees from the swaps generated in the underlying pools.
 
-**Q:** Why does my balance go up and down?
-- **A:** This is due to "slippage" (google it, lots of great blog posts out there). Every time the Harvest platform harvest and reinvests in the pools, there are varying amounts of slippage in each transaction. The good news is that it is distributed across everyone in the pool, minimizing impact to a single person.
+**Q:** Why does my balance sometimes go down on the main page?
+- **A:** This is called slippage and can be caused (over a short deposit period) by several factors, most notably:
+	- your displayed balance may drop on initial deposit due to market impact on entry into the AMM LP position
+	- your displayed balance may drop due to fluctuations in the prices of the assets in the AMM pool
+	- your displayed balance may drop when market impact on exit of the AMM LP position is factored in
+- Consider when using a system like Curve there is slippage when withdrawing to a singular asset, as well as a withdraw fee. When a user exits Harvest, those fees are currently socialized across the fAsset pools, but in the near future will be directly charged to the user triggering the slippage/fee. This means the pool value of fAssets will no longer be impacted by these events.
 
 **Q:** Why does the APY go up and down?
 
