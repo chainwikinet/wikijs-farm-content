@@ -73,7 +73,7 @@ This strategy farms CRV, the [Curve Finance DAO token][crv].
 | **FARM Incentives**      | [The fDAI, fUSDC, and fUSDT can be deposited to earn a stakedrop of FARM][farm-stakedrop] |
 | **Vault Contract**      | [VaultYCRV][es-vaultycrv], [fDAI][es-fdai], [fUSDC][es-fusdc], [fUSDT][es-fusdt] |
 | **Strategy Contract**   | [CRVStrategyYCRVMainnet][es-strat-crvstable-v2], [DAI Strategy][es-strat-crystable-dai], [USDC Strategy][es-strat-crystable-usdc], [USDT Strategy][es-strat-crystable-usdt] |
-| **Example Harvest TX**  | [doHardWork](#) |
+| **Example Harvest TX**  | [doHardWork](https://etherscan.io/tx/0x8b2b07852bd0b3e988fccf011ce22fc1522a4dcc6d6d9a3270a7171fa8eda062) |
 
 > Note: This strategy is using a two-tiered vault. All stablecoins deposited are combined into a single pool, thus farming yields are equal for all three pools.
 {.is-info}
