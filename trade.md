@@ -2,20 +2,26 @@
 title: FARM Markets
 description: buy and sell FARM tokens and other Harvest Finance assets
 published: true
-date: 2020-09-26T08:11:21.511Z
+date: 2020-10-09T02:18:47.400Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-13T07:23:41.115Z
 ---
 
+
+
 > Beware of scams! Verify all [token addresses](https://github.com/harvest-finance/harvest) to avoid trading fake tokens.
 {.is-warning}
 
+# Key Resources
+
+- [Harvest Community Dashboard](https://harvestfi.github.io/dashboard/) - open source tool ([Github](https://github.com/harvestfi/dashboard)) for monitoring your positions
+- [FARM:USDC Chart for Uniswap](https://beta.dex.vision/?ticker=UniswapV2:FARMUSDC-0x514906FC121c7878424a5C928cad1852CC545892&interval=15) - accurate prices
+- [Trade FARM on Uniswap](https://app.uniswap.org/#/swap?outputCurrency=0xa0246c9032bc3a600820415ae600c6388619a14d) - simplest trading
+- [FARM Limit Orders on 1inch](https://1inch.exchange/#/limit-order/USDC/FARM) - automatically buy or sell at a certain price
+
 
 # Decentralized Exchange Listings
-
-> DEXs other than Uniswap may quote bad prices for large orders. We are working with them to resolve the issue.
-{.is-warning}
 
 
 - The easiest place to buy FARM is on the [Uniswap decentralized exchange][uni-buy-farm]
@@ -114,6 +120,9 @@ Harvest assets, including FARM and the fASSET Harvest deposit tokens, are availa
 [es-pool-fdai]: https://etherscan.io/address/0xF9E5f9024c2f3f2908A1d0e7272861a767C9484b
 [es-pool-fusdc]: https://etherscan.io/address/0xE1f9A3EE001a2EcC906E8de637DBf20BB2d44633
 [es-pool-fusdt]: https://etherscan.io/address/0x5bd997039FFF16F653EF15D1428F2C791519f58d
+
+
+
 
 
 
