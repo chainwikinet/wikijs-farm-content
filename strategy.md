@@ -2,7 +2,7 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2020-09-30T11:01:45.000Z
+date: 2020-10-10T22:44:53.443Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-04T07:47:54.724Z
@@ -68,11 +68,11 @@ This strategy farms CRV, the [Curve Finance DAO token][crv].
 | **Asset Farmed**        | CRV, Curve Finance DAO token  |
 | **Assets Used**         | DAI, USDC, USDT               |
 | **Basic Strategy**      | CRV is farmed and sold for stablecoins |
-| **How To Participate**  | [deposit DAI, USDC, USDT][hf] to receive fDAI, fUSDC, fUSDT |
+| **How To Participate**  | [deposit DAI, USDC, USDT, TUSD][hf] to receive fDAI, fUSDC, fUSDT |
 | **Yield Payout**        | Successful farming makes the fDAI, fUSDC, and fUSDT redeemable for a growing number of DAI, USDC, and USDT |
-| **FARM Incentives**      | [The fDAI, fUSDC, and fUSDT can be deposited to earn a stakedrop of FARM][farm-stakedrop] |
-| **Vault Contract**      | [VaultYCRV][es-vaultycrv], [fDAI][es-fdai], [fUSDC][es-fusdc], [fUSDT][es-fusdt] |
-| **Strategy Contract**   | [CRVStrategyYCRVMainnet][es-strat-crvstable-v2], [DAI Strategy][es-strat-crystable-dai], [USDC Strategy][es-strat-crystable-usdc], [USDT Strategy][es-strat-crystable-usdt] |
+| **FARM Incentives**      | [The fDAI, fUSDC, fUSDT, and fTUSD can be deposited to earn a stakedrop of FARM][farm-stakedrop] |
+| **Vault Contract**      | [VaultYCRV][es-vaultycrv], [fDAI][es-fdai], [fUSDC][es-fusdc], [fUSDT][es-fusdt], [fTUSD][es-ftusd] |
+| **Strategy Contract**   | [CRVStrategyYCRVMainnet][es-strat-crvstable-v2], [DAI Strategy][es-strat-crystable-dai], [USDC Strategy][es-strat-crystable-usdc], [USDT Strategy][es-strat-crystable-usdt], [TUSD Strategy][es-strat-crystable-tusd] |
 | **Example Harvest TX**  | [doHardWork](#) |
 
 > Note: This strategy is using a two-tiered vault. All stablecoins deposited are combined into a single pool, thus farming yields are equal for all three pools.
@@ -82,7 +82,7 @@ This strategy farms CRV, the [Curve Finance DAO token][crv].
 [es-strat-crystable-dai]: https://etherscan.io/address/0x810b83fc33e6f5da9be9ae5dd0f918338e980938#code
 [es-strat-crystable-usdc]: https://etherscan.io/address/0x68e6aa634b22dd28c4c22cc9fc4c1900e8bea90b#code
 [es-strat-crystable-usdt]: https://etherscan.io/address/0x03292bdfE36591F70575C77847d7f004FFd0966A
-
+[es-strat-crystable-tusd]: https://etherscan.io/address/0x9d356fda8437f7c7b6a4bc84466a98a4a6eec462
 
 ## Farming UNI With LP Tokens
 This strategy farms UNI, the [Uniswap Token][uni].
@@ -406,3 +406,4 @@ This strategy farms UNI, the [Uniswap Token][uni].
 [es-frenbtc]: https://etherscan.io/address/0xfbe122d0ba3c75e1f7c80bd27613c9f35b81feec
 [es-fcrvrenwbtc]: https://etherscan.io/address/0x192E9d29D43db385063799BC239E772c3b6888F3
 [es-fweth]: https://etherscan.io/address/0x8e298734681adbfc41ee5d17ff8b0d6d803e7098
+[es-ftusd]: https://etherscan.io/address/0x7674622c63bee7f46e86a4a5a18976693d54441b
