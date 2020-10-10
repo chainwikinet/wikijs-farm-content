@@ -2,7 +2,7 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2020-10-10T22:44:53.443Z
+date: 2020-10-10T22:55:30.979Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-04T07:47:54.724Z
@@ -71,7 +71,7 @@ This strategy farms CRV, the [Curve Finance DAO token][crv].
 | **How To Participate**  | [deposit DAI, USDC, USDT, TUSD][hf] to receive fDAI, fUSDC, fUSDT |
 | **Yield Payout**        | Successful farming makes the fDAI, fUSDC, and fUSDT redeemable for a growing number of DAI, USDC, and USDT |
 | **FARM Incentives**      | [The fDAI, fUSDC, fUSDT, and fTUSD can be deposited to earn a stakedrop of FARM][farm-stakedrop] |
-| **Vault Contract**      | [VaultYCRV][es-vaultycrv], [fDAI][es-fdai], [fUSDC][es-fusdc], [fUSDT][es-fusdt], [fTUSD][es-ftusd] |
+| **Vault Contract**      | [VaultYCRV][es-vaultycrv], [fDAI][es-fdai], [fUSDC][es-fusdc], [fUSDT][es-fusdt], [fTUSD Vault Proxy Address][es-ftusd-proxy] ([Current TUSD Vault implementation][es-ftusd]) |
 | **Strategy Contract**   | [CRVStrategyYCRVMainnet][es-strat-crvstable-v2], [DAI Strategy][es-strat-crystable-dai], [USDC Strategy][es-strat-crystable-usdc], [USDT Strategy][es-strat-crystable-usdt], [TUSD Strategy][es-strat-crystable-tusd] |
 | **Example Harvest TX**  | [doHardWork](#) |
 
@@ -406,4 +406,5 @@ This strategy farms UNI, the [Uniswap Token][uni].
 [es-frenbtc]: https://etherscan.io/address/0xfbe122d0ba3c75e1f7c80bd27613c9f35b81feec
 [es-fcrvrenwbtc]: https://etherscan.io/address/0x192E9d29D43db385063799BC239E772c3b6888F3
 [es-fweth]: https://etherscan.io/address/0x8e298734681adbfc41ee5d17ff8b0d6d803e7098
-[es-ftusd]: https://etherscan.io/address/0x7674622c63bee7f46e86a4a5a18976693d54441b
+[es-ftusd]: https://etherscan.io/address/0x9b3be0cc5dd26fd0254088d03d8206792715588b
+[es-ftusd-proxy]: https://etherscan.io/address/0x7674622c63bee7f46e86a4a5a18976693d54441b
