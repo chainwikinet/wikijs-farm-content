@@ -2,7 +2,7 @@
 title: FARM Token Supply
 description: FARM token supply and emission schedule
 published: true
-date: 2020-10-04T03:30:43.344Z
+date: 2020-10-12T22:16:40.466Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-16T22:09:16.263Z
@@ -22,17 +22,20 @@ https://etherscan.io/token/0xa0246c9032bc3a600820415ae600c6388619a14d
 
 # How Many FARM tokens are liquid now?
 
-| Week | Minted | Distributed | Burned | % of max supply |
-|------|--------|-------------|--------|-----------------|
-|  1   | 57569.1| 57569.1     | 0      | 8.34%           |
-|  2   | 51676.2| 51676.2     | 0      | 6.48%           |
-|  3   | 41250.3| 26400.3     | 14850  | 3.82%           |
-|  4   | 30824.4| 24997.5     | 5846.9 | 3.61%           |
-|  5   | 23555.0| 23555.0     | TBD    | 3.41%           |
-|  6+  | prior week minted x 95.55%                      |
-|  Continues untils week 208                             |
+| Week | Distributed |% of max supply  | Total Supply | % of total supply
+|------|-------------|-----------------|--------------|-------------------------
+|  1   | 57,569.1    | 8.34%           | 57,569.1     | 8.34% 
+|  2   | 51,676.2    | 6.48%           | 109,245.3    | 15.82%
+|  3   | 26,400.3    | 3.82%           | 135,645.3    | 19.64%
+|  4   | 24,997.5    | 3.61%           | 160,622.8    | 23.26%
+|  5   | 23,555.0    | 3.41%           | 184,177.8    | 26.67%
+|  6   | 22,507.3    | 3.26%           | 206,685.6    | 29.93%
+|  7   | 21,507.22   | 3.11%           | 228,192.8    | 33.05%
 
-After week 5, every week will have a 4.45% reduction from the prior week until week 208 which is exactly 4 years. 
+
+- Continues until week 208 and a Total Supply of 690,420 FARM tokens.
+
+- After week 5, every week will have a 4.45% reduction from the prior week until week 208 which is exactly 4 years. 
 
 ![screen_shot_2020-10-03_at_10.12.12_pm.png](/screen_shot_2020-10-03_at_10.12.12_pm.png)
 
