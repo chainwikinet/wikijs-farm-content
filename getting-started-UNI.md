@@ -2,7 +2,7 @@
 title: Getting Started with UNI Pools
 description: Now you have the basics down. Let's go after that high APY in the UNI Pool!
 published: true
-date: 2020-10-09T20:26:07.832Z
+date: 2020-10-12T22:51:43.574Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-27T19:40:02.868Z
@@ -14,7 +14,7 @@ Welcome back city slicker! Now that you roughed up your hands in the [first tuto
 Sounds too good to be true, you say? Good point. You need to understand the risk if Impermanent Loss by playing in this pool.
 
 > If you don't understand IL, I highly suggest you stop right here and do a little homework. Personally, I had to watch [this video](https://www.youtube.com/watch?v=8XJ1MSTEuU0) and read [this blog](https://blog.bancor.network/beginners-guide-to-getting-rekt-by-impermanent-loss-7c9510cb2f22) a good 3 times or so for it to finally sink in.
-tl;dr
+tl;dr this [Tweet](https://twitter.com/Fiskantes/status/1314524664484503555) from [@Fiskantes](https://twitter.com/Fiskantes) sums it up...
 ![getting_started_uni_good_lp.png](/getting_started_images/getting_started_uni_good_lp.png) ![getting_started_uni_bad_lp.png](/getting_started_images/getting_started_uni_bad_lp.png)
 {.is-danger}
 
