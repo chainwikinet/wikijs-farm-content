@@ -2,7 +2,7 @@
 title: Home
 description: Harvest Finance Community Chainwiki
 published: true
-date: 2020-10-12T20:51:36.303Z
+date: 2020-10-12T21:01:23.582Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-13T05:55:54.766Z
@@ -35,7 +35,7 @@ Harvest addresses this by deploying strategies to move assets between different 
 ✅ We have a great community and mods always willing to help
 
 
-*Saved amount is tracked at Week2
+*Saved amount is tracked at Week2 and it depends on gas prices
 # Learn More :mag:
 
 > Join [Harvest Discord](https://discord.gg/R5SeTVR) and get involved to grow the harvest.
