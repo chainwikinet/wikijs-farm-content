@@ -2,7 +2,7 @@
 title: Harvest Security
 description: testing and auditing the Harvest Finance contracts
 published: true
-date: 2020-09-20T11:22:39.867Z
+date: 2020-10-12T21:18:52.257Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-06T07:52:56.974Z
@@ -18,35 +18,38 @@ The contracts also have extensive comments to understand what each part of the c
 
 To keep the crops secure, you must invest in fences. The Harvest operations budget (10% of supply) will be used to ensure that Harvest farming strategies are audited and secure.
 
+
 ## PeckShield Audit
 
-Currently, the chickens from Peckshield have offered to peck the contracts to ensure all the harvesters have no oil leakage.
+> We acquired an audit from PeckShield  which should assure our farmers that their crops are safe and bread for the people will be produced, no matter what the future brings. The main issue pointed out by PeckShield is the privileged role of our 0xf00d deployer address. Based on the discussion with our community, we have implemented timelock mechanisms that provide the farmers with an opportunity to leave the farm if they disagree with the deployer's actions before these actions are executed. An additional issue related to CRVStrategyStable's depositArbCheck() was pointed out by our wonderful community and was already fixed before the report by PeckShield was completed. Other non-informational issues do not affect the system, or are explicit design choices and decentralization features made by our team. We would like to thank PeckShield for their hard work on this audit and keeping our farmers safe.
+> 
+> [PeckShield Audit](/en/https://github.com/harvest-finance/harvest/blob/master/audits/PeckShield-Harvest.pdf)
 
-> [PeckShield Inc. @peckshield (2020-09-03)](https://twitter.com/peckshield/status/1301647769145278466
-)
-Harvest Finance Smart Contracts are being audited by PeckShield. [@harvest_finance](https://twitter.com/harvest_finance) #DeFi 🚀
 
-On September 7th 2020, PeckShield indicated that no serious business logic issues had been found in a preliminary review:
 
-> [PeckShield Inc. @peckshield (2020-09-07)](https://twitter.com/peckshield/status/1303012731197382656
+> On September 7th 2020, PeckShield indicated that no serious business logic issues had been found in a preliminary review:
+ [PeckShield Inc. @peckshield (2020-09-07)](https://twitter.com/peckshield/status/1303012731197382656
 )
 Last few days PeckShield has done a sanity check of Harvest Finance smart contracts, so far no serious business logic issue was found.  In the next several weeks, we will conduct a full security audit of the smart contracts. [@harvest_finance](https://twitter.com/harvest_finance) #DeFiFarming
 
-## Certik Audit
-
-An audit from [Certik](https://twitter.com/certik_io) has also been commissioned. Certik is expected to begin work around September 15-16.
 
 ## Haechi Labs
 
-Preliminary results from 14th of September 2020:
+> We acquired an audit from Haechi which should assure our farmers that their crops are safe and bread for the people will be produced, no matter what the future brings. The audit highlighted one issue classified as major (initially pointed out by the community, thus it is already fixed), and 5 additional minor issues, 4 of which are in fact decentralization features and design choices that we actively made for our platform. The one remaining minor issue was fixed as well. We would like to thank Haechi for their hard work on this audit and keeping our farmers safe.
+> 
+>  [Haechi Labs Audit](/en/https://github.com/harvest-finance/harvest/blob/master/audits/Haechi-Harvest.pdf)
+ 
 
->  Thanks to Harvest.Finance developer’s hard work, we could not identify any serious bug in smart contracts. We were able to find that Harvest.Finance development team had put a lot of effort into testing the smart contracts. Including external contract tests which were very helpful while reviewing the contracts.
+
+>  Preliminary results from 14th of September 2020: Thanks to Harvest.Finance developer’s hard work, we could not identify any serious bug in smart contracts. We were able to find that Harvest.Finance development team had put a lot of effort into testing the smart contracts. Including external contract tests which were very helpful while reviewing the contracts.
 As a result, what we could find was minor issues including missing interface files which do not affect the security of the business logic. [LINK to the original post](https://medium.com/haechi-audit/harvest-finance-security-review-64782c98d2ae)
 
 [haechi.io](https://haechi.io) is a Korean security company that has performed audits for LG, Samsung, Carry Protocol, and the Ethereum Foundation.
 
-Full Audit on Harvest with delivery expected in late September.
 
+## Certik Audit
+
+An audit from [Certik](https://twitter.com/certik_io) has also been commissioned. Certik is expected to complete in Week7.
 
 # Incident Retrospectives
 
