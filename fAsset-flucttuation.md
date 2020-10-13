@@ -1,8 +1,8 @@
 ---
-title: fAsset fluctioation
+title: fAsset fluctuation
 description: 
 published: true
-date: 2020-10-13T15:32:13.279Z
+date: 2020-10-13T15:37:23.622Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-13T11:18:18.263Z
