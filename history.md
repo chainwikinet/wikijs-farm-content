@@ -2,7 +2,7 @@
 title: Harvest Finance History
 description: launch, governance, and significant events in Harvest Finance
 published: true
-date: 2020-10-13T07:27:38.227Z
+date: 2020-10-13T07:46:25.369Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-16T03:19:50.546Z
@@ -25,35 +25,43 @@ To assist in initial distribution of FARM to a broad audience of DeFi power user
  
 ## Week 6
 
+- 🔒 12 hours timelock strategy got deployed for the TUSD vault.
+- 📝 2 out of the 3 security [Audits](/en/security) have been published
+- 🤑 The first deal to consider for The council of 69 has been shaped [Snapshot Vote](/en/https://snapshot.page/#/farm/proposal/QmNf42fVYj1jnbFxrp1hQQRZH6mynH9tddBtSjY9bkpxDo)
+- 🗳️ Harvest governance begin to take shape. [Governance discussion Forum](/en/https://gov.harvest.finance/)
 ## Week 5
-> After a throughout discussion on total emissions and a community vote on 27th of September the total supply of FARM tokens was reduced from 5 000 000 to 690,420 FARM. [Weekly Supply](/en/supply)
+> 🔥🔥🔥 After a throughout discussion on total emissions and a community vote on 27th of September the total supply of FARM tokens was reduced from 5 000 000 to 690,420 FARM. [Weekly Supply](/en/supply)
 the community vote results : https://snapshot.page/#/farm/proposal/QmQvoNCNhz5dARMgR82vFPeHAMPqMahHgsHjPYggFuAkGZ
-{.is-success}
 
-The council of 69 was introduced. It is an initiatve to bring even more yields for Harvest Finance farmers by investing in strategic early stage ventures. The way The synidcate of 69 works is : 
-1. A savy community member suggest a deal and organizises a community vote to move the deal further (1000FARM votes needed)
-2. The Harvest council of 69 performs a due dilligence and makes a decision
-3. After a successful invesmtnt the member who suggested **the deal gets 10% in a liquidity even, while the remaining 90% go to the Profit Share pool** to be distributed among the Harvest Farmers.
 
-- Time-lock upgradability contracts published
-- Autostaking and autocompounding for the Profit Share automated
-- Tons of new listing for Harvest Finance on major platform
+> 🤑 The council of 69♋ was introduced. It is an initiatve to bring even more yields💰 for Harvest Finance farmers by investing in strategic early stage ventures. 
+The way The council of 69♋ works is : 
+> 1. A savy community member suggest a deal and organizises a community vote to move the deal further (1000FARM votes needed)
+> 2. The Harvest council of 69 performs a due dilligence and makes a decision
+> 3. 💰 After a successful invesmtnt the member who suggested **the deal gets 10% in a liquidity even, while the remaining 90% go to the Profit Share pool** to be distributed among the Harvest Farmers.
+> 
+
+
+
+- ⏳Time-lock upgradability contracts published
+- 🥩Autostaking and autocompounding for the Profit Share automated
+- 🥇Tons of new listing for Harvest Finance on major platform
 
 ## Week 4
 
-- Further burn of 5846.9 FARM
-- Enabling a VWAP bot
+- 🔥Further burn of 5846.9 FARM
+- 🤖 Enabling a VWAP bot
 
 ## Week 3
 
-- $500 000 000 in TVL reached
-- FARM Supply reductions started after discussions in the community. 14,580 FARM were burned (a 36% reduction of the initially planned emissions for Week3) :
+- 🌟 $500 000 000 in TVL reached
+- 🔥FARM Supply reductions started after discussions in the community. 14,580 FARM were burned (a 36% reduction of the initially planned emissions for Week3) :
 https://etherscan.io/tx/0xcfd1378afdab6980a498edeeecccbf1aa6ff4822dc98eb9dcfe1caf47cc17390
 https://etherscan.io/tx/0x455612eb4be5b32eb3662f9acb2b5cb59ad594d28851ad688bf10a8fd545bb30
 https://etherscan.io/tx/0x8c291fe6a2e2f3c56c6df33f197f49bf3f363a4bb93ab050a1a71c85c32ededb
 
-- WETH vault was introduced
-- Stake all button was introduced.
+- 💵 WETH vault was introduced
+- 🥩 Stake all button was introduced.
 
 In Week 3, which began on September 15th at ~19:00 UTC, the team and community decided to discontinue the community stakedrop. FARM tokens can be [traded on Uniswap](/trade) or acquired by [providing liquidity on Harvest assets](/stakedrop/lp) or [depositing supported assets into Harvest yield farming strategies](/stakedrop/deposit).
 
