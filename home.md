@@ -2,7 +2,7 @@
 title: Home
 description: Harvest Finance Community Chainwiki
 published: true
-date: 2020-10-13T07:47:49.104Z
+date: 2020-10-13T07:48:35.650Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-13T05:55:54.766Z
@@ -30,7 +30,7 @@ Harvest addresses this by deploying strategies to move assets between different 
 - That can make a huge difference in your returns if you are a small farmer.
 
 ✅ We find the farming opportunities that will maximize your yield(APY) returns 
-- Finding the newest high return opportunities and doing a due dilligence might be a full time job that we do for you. 
+- Finding the newest high return opportunities and doing a due dilligence might be a full time job. We do the work for you. 
 
 ✅ We have a great community and mods always willing to help
 
