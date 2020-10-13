@@ -2,7 +2,7 @@
 title: Why is my DAI balance going down?
 description: 
 published: true
-date: 2020-10-13T10:22:13.107Z
+date: 2020-10-13T10:22:40.269Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-13T10:08:29.780Z
