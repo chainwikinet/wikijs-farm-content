@@ -2,7 +2,7 @@
 title: Harvest Finance History
 description: launch, governance, and significant events in Harvest Finance
 published: true
-date: 2020-10-13T06:58:41.790Z
+date: 2020-10-13T07:27:38.227Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-16T03:19:50.546Z
@@ -20,9 +20,29 @@ Harvest Finance was launched by an anonymous team on September 1st, 2020.
 # DeFi Community Stakedrop (discontinued)
 
 
-To assist in initial distribution of FARM to a broad audience of DeFi power users, tokens in the DeFi community were selected to be eligible to stake their tokens in order to receive the Harvest Finance FARM token. These tokens were not deposited into the Harvest Finance [yield farming strategies](/strategy).
+To assist in initial distribution of FARM to a broad audience of DeFi power users, tokens in the DeFi community were selected to be eligible to stake their tokens in order to receive the Harvest Finance FARM token. These tokens were not deposited into the Harvest Finance
+ [yield farming strategies](/strategy).
+ 
+## Week 6
+
+## Week 5
+> After a throughout discussion on total emissions and a community vote on 27th of September the total supply of FARM tokens was reduced from 5 000 000 to 690,420 FARM. [Weekly Supply](/en/supply)
+the community vote results : https://snapshot.page/#/farm/proposal/QmQvoNCNhz5dARMgR82vFPeHAMPqMahHgsHjPYggFuAkGZ
+{.is-success}
+
+The council of 69 was introduced. It is an initiatve to bring even more yields for Harvest Finance farmers by investing in strategic early stage ventures. The way The synidcate of 69 works is : 
+1. A savy community member suggest a deal and organizises a community vote to move the deal further (1000FARM votes needed)
+2. The Harvest council of 69 performs a due dilligence and makes a decision
+3. After a successful invesmtnt the member who suggested **the deal gets 10% in a liquidity even, while the remaining 90% go to the Profit Share pool** to be distributed among the Harvest Farmers.
+
+- Time-lock upgradability contracts published
+- Autostaking and autocompounding for the Profit Share automated
+- Tons of new listing for Harvest Finance on major platform
 
 ## Week 4
+
+- Further burn of 5846.9 FARM
+- Enabling a VWAP bot
 
 ## Week 3
 
