@@ -2,7 +2,7 @@
 title: Harvest Finance Media & Dashboards
 description: manage your farming and learn more about Harvest
 published: true
-date: 2020-10-06T20:34:26.382Z
+date: 2020-10-13T06:36:06.187Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-14T19:44:06.472Z
@@ -61,6 +61,7 @@ Contest is over. Here are the winners:
 	Introduction to yield farming and Harvest strategy.
 - Harvest Finance. A beginner’s perspective to farming. https://medium.com/@bartysu/harvest-finance-a-beginners-perspective-to-farming-b03b9ab8e852
 	Introduction to the Harvest.finance project and team.
+- Farm Divident paying shares: https://medium.com/trading-cryptocurrency/harvest-finance-farm-dividend-paying-shares-d600a9404f18
 - Harvest Finance : The reality of APYs. https://medium.com/@Redmption/harvest-finance-the-reality-of-apys-e7bd93a795b7
 - Harvest.Finance Security Review (HAECHI AUDIT). https://medium.com/haechi-audit/harvest-finance-security-review-64782c98d2ae
 - Dummies guide to automated farming for the common people - harvest.finance https://www.publish0x.com/cryptocloaker/dummies-guide-to-automated-farming-for-the-common-people-har-xpjewnl
@@ -68,6 +69,7 @@ Contest is over. Here are the winners:
 - Panic at the Crypto https://medium.com/@Redmption/panic-at-the-crypto-8e4961d10e2
 - There’s a potential competitor to Ethereum’s Yearn.finance (YFI): DeFi analyst https://cryptoslate.com/theres-a-potential-competitor-to-ethereums-yearn-finance-yfi-defi-analyst/
 - Harvest Finance, Memes and $Farm https://www.publish0x.com/mind-puzzle/harvest-finance-memes-and-dollar-farm-xpjewzl
+
 - [Contribute!](/contribute)
 
 # Videos
