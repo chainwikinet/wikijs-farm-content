@@ -2,7 +2,7 @@
 title: Harvest Finance History
 description: launch, governance, and significant events in Harvest Finance
 published: true
-date: 2020-09-25T08:35:37.893Z
+date: 2020-10-13T06:58:41.790Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-16T03:19:50.546Z
@@ -22,8 +22,18 @@ Harvest Finance was launched by an anonymous team on September 1st, 2020.
 
 To assist in initial distribution of FARM to a broad audience of DeFi power users, tokens in the DeFi community were selected to be eligible to stake their tokens in order to receive the Harvest Finance FARM token. These tokens were not deposited into the Harvest Finance [yield farming strategies](/strategy).
 
+## Week 4
 
-## Week 3+
+## Week 3
+
+- $500 000 000 in TVL reached
+- FARM Supply reductions started after discussions in the community. 14,580 FARM were burned (a 36% reduction of the initially planned emissions for Week3) :
+https://etherscan.io/tx/0xcfd1378afdab6980a498edeeecccbf1aa6ff4822dc98eb9dcfe1caf47cc17390
+https://etherscan.io/tx/0x455612eb4be5b32eb3662f9acb2b5cb59ad594d28851ad688bf10a8fd545bb30
+https://etherscan.io/tx/0x8c291fe6a2e2f3c56c6df33f197f49bf3f363a4bb93ab050a1a71c85c32ededb
+
+- WETH vault was introduced
+- Stake all button was introduced.
 
 In Week 3, which began on September 15th at ~19:00 UTC, the team and community decided to discontinue the community stakedrop. FARM tokens can be [traded on Uniswap](/trade) or acquired by [providing liquidity on Harvest assets](/stakedrop/lp) or [depositing supported assets into Harvest yield farming strategies](/stakedrop/deposit).
 
