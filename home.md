@@ -2,7 +2,7 @@
 title: Home
 description: Harvest Finance Community Chainwiki
 published: true
-date: 2020-10-12T21:01:23.582Z
+date: 2020-10-13T07:47:49.104Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-13T05:55:54.766Z
@@ -21,7 +21,7 @@ Yield farming can offer high interest rates, but it is becoming hard for smaller
 Harvest addresses this by deploying strategies to move assets between different yield farming opportunities to maximize yield. Deposit into Harvest and Harvest takes care of APY tracking, strategy development and auditing, and gas costs.
 
 # Why deposit at Harvest Finance
-> We SAVE you Time and Costs and bring you the newest high returns in DeFi.
+> We SAVE you Time and Costs and bring you the newest high returns in Yield Farming.
 {.is-success}
 
 ✅ We are [Audited](/en/security)
