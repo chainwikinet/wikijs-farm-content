@@ -2,7 +2,7 @@
 title: Harvest Finance History
 description: launch, governance, and significant events in Harvest Finance
 published: true
-date: 2020-10-13T07:46:25.369Z
+date: 2020-10-13T07:47:18.052Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-16T03:19:50.546Z
