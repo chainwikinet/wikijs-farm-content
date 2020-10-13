@@ -2,7 +2,7 @@
 title: Frequently Asked Questions
 description: answers to common questions about Harvest Finance
 published: true
-date: 2020-10-04T03:21:56.174Z
+date: 2020-10-13T10:11:22.893Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-03T23:06:00.060Z
@@ -13,15 +13,16 @@ dateCreated: 2020-09-03T23:06:00.060Z
 
 # Common Questions
 
-1. Is Harvest audited? **[multiple audits are pending](/security)**
+1. Is Harvest audited? **[Yes](/security)**
 1. Who is the Harvest team? **The Harvest Finance launch team is anonymous**
 1. How many FARM tokens are there? [FARM tokens are capped at 690,420 tokens minted over a 4-year period](/en/supply)
+1. Why is my DAI balance going down? [Throughout explanation by Brandon | RADAR .](/en/DAI)
 2. Where can I trade FARM tokens? **[FARM markets on Uniswap](/trade)**
-3. How do I turn tokens into Harvest `fTokens` that earn yield farming revenue? **[on the Harvest front page][hf]** or by **[trading on Uniswap](/trade)**
+3. How do I turn tokens into Harvest `fTokens` that earn yield farming revenue? **[on the Harvest front page](/en/https://harvest.finance/)** or by **[trading on Uniswap](/trade)**
 2. How do I turn `fTokens` tokens back into regular tokens? **[withdrawal instructions](/stakedrop#removing-tokens-from-farming)**
 4. Do FARM tokens get yield farming revenue just be holding them?  **FARM must be deposited in [Profit Sharing][hf-earn]** to earn yield farming revenue.
 5. How much yield farming revenue is shared with Profit Sharing stakers? **30% of yield farming revenue.** It is paid out using a seven-day moving average, so for the first week after launch, payouts may be small.  Yield farming revenue depends on the profitability of available yield farming opportunities and the total assets available for farming by Harvest.
-6. What happens to the other 70% of of yield farming revenue?  **It is paid out to users that deposit assets to Harvest for farming**.  Over time, holders of Harvest farming fTokens will receive more of the underlying tokens when they withdraw.
+6. What happens to the other 70% of yield farming revenue?  **It is paid out to users that deposit assets to Harvest for farming**.  Over time, holders of Harvest farming fTokens will receive more of the underlying tokens when they withdraw.
 
 
 # Technical Stuff
