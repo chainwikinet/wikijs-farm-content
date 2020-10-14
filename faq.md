@@ -2,7 +2,7 @@
 title: Frequently Asked Questions
 description: answers to common questions about Harvest Finance
 published: true
-date: 2020-10-14T00:41:47.932Z
+date: 2020-10-14T01:28:41.636Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-03T23:06:00.060Z
@@ -24,7 +24,7 @@ dateCreated: 2020-09-03T23:06:00.060Z
 4. Do FARM tokens get yield farming revenue just be holding them?  **FARM must be deposited in [Profit Sharing][hf-earn]** to earn yield farming revenue.
 5. How much yield farming revenue is shared with Profit Sharing stakers? **30% of yield farming revenue.** It is paid out using a seven-day moving average, so for the first week after launch, payouts may be small.  Yield farming revenue depends on the profitability of available yield farming opportunities and the total assets available for farming by Harvest.
 6. What happens to the other 70% of yield farming revenue?  **It is paid out to users that deposit assets to Harvest for farming**.  Over time, holders of Harvest farming fTokens will receive more of the underlying tokens when they withdraw.
-7. Why did the APY in the UNI:FARM-USDC LP go so high? Because it used to be APR; but now it's APY weekly (it means it's calculated based on weekly compounding)
+7. Why did the APY in the UNI:FARM-USDC LP go so high? Because it changed how it is calculated; it used to be APR; but now it's switchd to weekly APY (it means it's calculated based on weekly compounding). You have to do the compounding manually yourself.
 
 
 # Technical Stuff
