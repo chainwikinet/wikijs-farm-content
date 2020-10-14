@@ -2,7 +2,7 @@
 title: FARM Markets
 description: buy and sell FARM tokens and other Harvest Finance assets
 published: true
-date: 2020-10-14T02:18:25.782Z
+date: 2020-10-14T02:18:36.835Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-13T07:23:41.115Z
@@ -50,7 +50,7 @@ Harvest assets, including FARM and the fASSET Harvest deposit tokens, are availa
 | Token   | Address | Uniswap |
 |---------|---------|---------|
 | [FARM][add-farm]    | [0xa0246c9032bC3A600820415aE600c6388619A14D][es-farm] | [buy][uni-buy-farm], [info][uni-info-farm]
-| [FARM_USDC_LP]      | [0x514906FC121c7878424a5C928cad1852CC545892][es-farm_usdc_lp]|[deposit LP][hf], [buy LP][uni-buy_farm_usdc]
+| FARM_USDC_LP      | [0x514906FC121c7878424a5C928cad1852CC545892][es-farm_usdc_lp]|[deposit LP][hf], [buy LP][uni-buy_farm_usdc]
 | [fDAI][add-fdai]    | [0xe85C8581e60D7Cd32Bbfd86303d2A4FA6a951Dac][es-fdai] | [deposit DAI][hf], [buy][uni-buy-fdai], [info][uni-info-fdai]
 | [fUSDC][add-fusdc]   | [0xc3F7ffb5d5869B3ade9448D094d81B0521e8326f][es-fusdc] | [deposit USDC][hf], [buy][uni-buy-fusdc], [info][uni-info-fusdc]
 | [fUSDT][add-fusdt]   | [0xc7EE21406BB581e741FBb8B21f213188433D9f2F][es-fusdt] | [deposit USDT][hf], [buy][uni-buy-fusdt], [info][uni-info-fusdt]
