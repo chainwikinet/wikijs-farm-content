@@ -2,7 +2,7 @@
 title: FARM Markets
 description: buy and sell FARM tokens and other Harvest Finance assets
 published: true
-date: 2020-10-09T02:18:47.400Z
+date: 2020-10-14T02:18:25.782Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-13T07:23:41.115Z
@@ -50,6 +50,7 @@ Harvest assets, including FARM and the fASSET Harvest deposit tokens, are availa
 | Token   | Address | Uniswap |
 |---------|---------|---------|
 | [FARM][add-farm]    | [0xa0246c9032bC3A600820415aE600c6388619A14D][es-farm] | [buy][uni-buy-farm], [info][uni-info-farm]
+| [FARM_USDC_LP]      | [0x514906FC121c7878424a5C928cad1852CC545892][es-farm_usdc_lp]|[deposit LP][hf], [buy LP][uni-buy_farm_usdc]
 | [fDAI][add-fdai]    | [0xe85C8581e60D7Cd32Bbfd86303d2A4FA6a951Dac][es-fdai] | [deposit DAI][hf], [buy][uni-buy-fdai], [info][uni-info-fdai]
 | [fUSDC][add-fusdc]   | [0xc3F7ffb5d5869B3ade9448D094d81B0521e8326f][es-fusdc] | [deposit USDC][hf], [buy][uni-buy-fusdc], [info][uni-info-fusdc]
 | [fUSDT][add-fusdt]   | [0xc7EE21406BB581e741FBb8B21f213188433D9f2F][es-fusdt] | [deposit USDT][hf], [buy][uni-buy-fusdt], [info][uni-info-fusdt]
@@ -75,6 +76,7 @@ Harvest assets, including FARM and the fASSET Harvest deposit tokens, are availa
 [add-fcrvrenwbtc]: https://harvestfi.github.io/add-fcrvrenwbtc
 
 [es-farm]: https://etherscan.io/token/0xa0246c9032bc3a600820415ae600c6388619a14d
+[es-farm_usdc_lp]: https://etherscan.io/address/0x514906FC121c7878424a5C928cad1852CC545892
 [es-fdai]: https://etherscan.io/token/0xe85c8581e60d7cd32bbfd86303d2a4fa6a951dac
 [es-fusdc]: https://etherscan.io/token/0xc3f7ffb5d5869b3ade9448d094d81b0521e8326f
 [es-fusdt]: https://etherscan.io/token/0xc7ee21406bb581e741fbb8b21f213188433d9f2f
@@ -88,6 +90,7 @@ Harvest assets, including FARM and the fASSET Harvest deposit tokens, are availa
 [es-fwbtc_weth_lp]: https://etherscan.io/token/0xb1FeB6ab4EF7d0f41363Da33868e85EB0f3A57EE
 
 [uni-buy-farm]: https://uniswap.exchange/swap?outputCurrency=0xa0246c9032bc3a600820415ae600c6388619a14d
+[uni-buy_farm_usdc]: https://app.uniswap.org/#/add/0xa0246c9032bc3a600820415ae600c6388619a14d/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48
 [uni-buy-fdai]: https://uniswap.exchange/swap?outputCurrency=0xe85c8581e60d7cd32bbfd86303d2a4fa6a951dac
 [uni-buy-fusdc]: https://uniswap.exchange/swap?outputCurrency=0xc3f7ffb5d5869b3ade9448d094d81b0521e8326f
 [uni-buy-fusdt]: https://uniswap.exchange/swap?outputCurrency=0xc7ee21406bb581e741fbb8b21f213188433d9f2f
