@@ -30,6 +30,7 @@ Harvest Finance launched on September 1st. New farming strategies are constantly
 - **2020-09-05** Within 16 hours of Swerve launch, Harvest adds SWRV farming support for DAI, USDC, USDT
 - **2020-09-08** Harvest adds CurveRenWBTC CRV farming support for WBTC, renBTC, crvRenWBTC
 - **2020-09-17** Harvest adds UNI farming support for ETH-DAI, ETH-USDC, ETH-USDT, ETH-WBTC.
+- **2020-10-13** Harvest adds SUSHI farming support for WBTC-TBTC.
 
 As of September 8th, 70% of the yield farming revenue is returned to users who provide capital. The remaining 30% of the yield farming revenue is distributed to users who [stake FARM in the Profit Sharing contract][farm-stakedrop]. The Harvest Finance team does not charge fees for withdrawing or depositing assets and does not claim a fee on the yield farming revenue.
 
@@ -73,7 +74,7 @@ This strategy farms CRV, the [Curve Finance DAO token][crv].
 | **FARM Incentives**      | [The fDAI, fUSDC, fUSDT, and fTUSD can be deposited to earn a stakedrop of FARM][farm-stakedrop] |
 | **Vault Contract**      | [VaultYCRV][es-vaultycrv], [fDAI][es-fdai], [fUSDC][es-fusdc], [fUSDT][es-fusdt], [fTUSD Vault Proxy Address][es-ftusd-proxy] ([Current TUSD Vault implementation][es-ftusd]) |
 | **Strategy Contract**   | [CRVStrategyYCRVMainnet][es-strat-crvstable-v2], [DAI Strategy][es-strat-crystable-dai], [USDC Strategy][es-strat-crystable-usdc], [USDT Strategy][es-strat-crystable-usdt], [TUSD Strategy][es-strat-crystable-tusd] |
-| **Example Harvest TX**  | [doHardWork](#) |
+| **Example Harvest TX**  | [doHardWork][es-crvstable-harvest] |
 
 > Note: This strategy is using a two-tiered vault. All stablecoins deposited are combined into a single pool, thus farming yields are equal for all three pools.
 {.is-info}
@@ -83,6 +84,8 @@ This strategy farms CRV, the [Curve Finance DAO token][crv].
 [es-strat-crystable-usdc]: https://etherscan.io/address/0x68e6aa634b22dd28c4c22cc9fc4c1900e8bea90b#code
 [es-strat-crystable-usdt]: https://etherscan.io/address/0x03292bdfE36591F70575C77847d7f004FFd0966A
 [es-strat-crystable-tusd]: https://etherscan.io/address/0x9d356fda8437f7c7b6a4bc84466a98a4a6eec462
+
+[es-crvstable-harvest]: https://etherscan.io/tx/0x0b8f78bb74fc5e1451af4c6b15dd48b263fc5b29006a3555bd5942313235d22a
 
 ## Farming UNI With LP Tokens
 This strategy farms UNI, the [Uniswap Token][uni].
@@ -94,7 +97,7 @@ This strategy farms UNI, the [Uniswap Token][uni].
 |------------------|-|
 | **Asset Farmed**        | UNI, Uniswap token  |
 | **Assets Used**         | ETH-DAI, ETH-USDC, ETH-USDT, ETH-WBTC              |
-| **Basic Strategy**      | UNI is automatically farmed and sold for more LP tokens. Harvest pays your gas fees to grow the underlying LP. 5% of rewards are kept for FARM profit sharing. |
+| **Basic Strategy**      | UNI is automatically farmed and sold for more LP tokens. Harvest pays your gas fees to grow the underlying LP. 30% of rewards are kept for FARM profit sharing. |
 | **How To Participate**  | [deposit LP Tokens][hf] to receive fUNI-V2 |
 | **Yield Payout**        | Successful farming makes the fUNISWAP_LP redeemable for a growing number of LP tokens. |
 | **FARM Incentives**     | [The fUNISWAP_LP can be deposited to earn a stakedrop of FARM][farm-stakedrop] |
@@ -117,7 +120,34 @@ This strategy farms UNI, the [Uniswap Token][uni].
 [es-weth-usdc-strategy]: https://etherscan.io/address/0x0fd7c77b473e3efe3170536805a14b61050efc6e
 [es-weth-dai-strategy]: https://etherscan.io/address/0x2cf4ceb36172fb2196a47490419d57584234cbd4
 
-[es-weth-wbtc-harvest]: https://etherscan.io/tx/
+[es-weth-wbtc-harvest]: https://etherscan.io/tx/0x7e9f139d796487bebe3b0d6e629aee01fafc6b1dd05a8783aa297c96625510cd
+
+## Farming SUSHI with LP Tokens
+
+This strategy farms SUSHI, the [Sushiswap token][sushi].
+
+> You do not receive SUSHI directly. Instead, the farmed SUSHI is sold to return more BTC to you when you withdraw.
+{.is-info}
+
+| | |
+|------------------|-|
+| **Asset Farmed**        | SUSHI, Sushiswap token  |
+| **Assets Used**         | WBTC-TBTC |
+| **Basic Strategy**      | SUSHI is automatically farmed and sold for more LP tokens. Harvest pays your gas fees to grow the underlying LP. 30% of rewards are kept for FARM profit sharing. |
+| **How To Participate**  | [deposit a supported asset][hf] |
+| **Yield Payout**        | Successful farming makes your deposit redeemable for a growing amount of the deposited asset |
+| **FARM Incentives**      | [fSLP deposit receipts can be deposited to earn a stakedrop of FARM][farm-stakedrop] |
+| **Vault Contract**      | fSLP [fWBTC_TBTC_LP][es-fwbtc-tbtc-LP] ([implementation][es-fwbtc-tbtc-LP-proxy]) |
+| **Strategy Contract**   | SushiMasterChefLPStrategy [fWBTC_TBTC_LP][es-wbtc-tbtc-strategy] |
+| **Example Harvest TX**  | [doHardWork][es-wbtc-tbtc-harvest] |
+
+[es-fwbtc-tbtc-LP]: https://etherscan.io/address/0xF553E1f826f42716cDFe02bde5ee76b2a52fc7EB
+
+[es-fwbtc-tbtc-LP-proxy]: https://etherscan.io/address/0x9b3be0cc5dd26fd0254088d03d8206792715588b
+
+[es-wbtc-tbtc-strategy]: https://etherscan.io/address/0x53df6664b3ddE086DCe6315c317d1002b14B87E3
+
+[es-wbtc-tbtc-harvest]: https://etherscan.io/tx/0xdb0f7cd77685b5ac36cbf251771b4d26c9056aaa583eccc2cabdc43be50640d6
 
 ## Farming Cream with WETH
 This strategy farms CREAM, the [Cream Finance Token][cream].
@@ -427,6 +457,7 @@ This strategy farms UNI, the [Uniswap Token][uni].
 [swrv]: https://www.coingecko.com/en/coins/swerve
 [cream]: https://www.coingecko.com/en/coins/cream
 [uni]: https://www.coingecko.com/en/coins/uniswap
+[sushi]: https://www.coingecko.com/en/coins/sushi
 
 
 
