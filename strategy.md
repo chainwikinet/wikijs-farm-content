@@ -2,7 +2,7 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2020-10-20T07:46:36.412Z
+date: 2020-10-20T09:47:39.059Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-04T07:47:54.724Z
@@ -10,16 +10,6 @@ dateCreated: 2020-09-04T07:47:54.724Z
 
  > Grow Harvest. [Contribute to this wiki!](/contribute)
  {.is-success}
-
-
-# New Strategy Proposals
-
-## Curve hBTC Pool (wBTC, hBTC)
-
-Curve launched a new hBTC pool with hBTC, wBTC pair: https://www.curve.fi/hbtc
-
-CRV stakedrop weight for this pool is zero, so this is not a yield farming opportunity yet.
-
 
 
 # Active Yield Farming Strategies
@@ -30,7 +20,8 @@ Harvest Finance launched on September 1st. New farming strategies are constantly
 - **2020-09-05** Within 16 hours of Swerve launch, Harvest adds SWRV farming support for DAI, USDC, USDT
 - **2020-09-08** Harvest adds CurveRenWBTC CRV farming support for WBTC, renBTC, crvRenWBTC
 - **2020-09-17** Harvest adds UNI farming support for ETH-DAI, ETH-USDC, ETH-USDT, ETH-WBTC.
-- **2020-10-13** Harvest adds SUSHI farming support for WBTC-TBTC.
+- **2020-10-06** Harvest adds CRV farming support for TUSD with a 12 hour timelock.
+- **2020-10-13** Harvest adds SUSHI farming support for WBTC-TBTC, and adds a 12 hour timelock to UNI vaults.
 
 As of September 8th, 70% of the yield farming revenue is returned to users who provide capital. The remaining 30% of the yield farming revenue is distributed to users who [stake FARM in the Profit Sharing contract][farm-stakedrop]. The Harvest Finance team does not charge fees for withdrawing or depositing assets and does not claim a fee on the yield farming revenue.
 
@@ -52,6 +43,7 @@ This strategy farms CRV, the [Curve Finance DAO token][crv].
 | **Vault Contract**      | [fWBTC][es-fwbtc], [frenBTC][es-frenbtc], [fcrvRenWBTC][es-fcrvrenwbtc] |
 | **Strategy Contract**   | [CRVStrategyWBTCMainnet][es-strat-fwbtc-v1], [CRVStrategyRENBTCMainnet][es-strat-renbtc-v1], [CRVStrategyWRenBTCMixMainnet][es-strat-crvrenwbtc-v1] |
 | **Example Harvest TX**  | [doHardWork](https://etherscan.io/tx/0x01dfcfd6dd1ca0db042fb516767c3725e06cc1db28a40781314c72d897351ba8) |
+| **Timelock**            | 12 hours
 
 [es-strat-fwbtc-v1]: https://etherscan.io/address/0xe7048e7186cb6f12c566a6c8a818d9d41da6df19#code
 [es-strat-renbtc-v1]: https://etherscan.io/address/0x2eadfb06f9d890eba80e999eaba2d445bc70f006#code
@@ -75,6 +67,7 @@ This strategy farms CRV, the [Curve Finance DAO token][crv].
 | **Vault Contract**      | [VaultYCRV][es-vaultycrv], [fDAI][es-fdai], [fUSDC][es-fusdc], [fUSDT][es-fusdt], [fTUSD Vault Proxy Address][es-ftusd-proxy] ([Current TUSD Vault implementation][es-ftusd]) |
 | **Strategy Contract**   | [CRVStrategyYCRVMainnet][es-strat-crvstable-v2], [DAI Strategy][es-strat-crystable-dai], [USDC Strategy][es-strat-crystable-usdc], [USDT Strategy][es-strat-crystable-usdt], [TUSD Strategy][es-strat-crystable-tusd] |
 | **Example Harvest TX**  | [doHardWork][es-crvstable-harvest] |
+| **Timelock**            | None (To be implemented 2020-10-20)
 
 > Note: This strategy is using a two-tiered vault. All stablecoins deposited are combined into a single pool, thus farming yields are equal for all three pools.
 {.is-info}
@@ -104,6 +97,7 @@ This strategy farms UNI, the [Uniswap Token][uni].
 | **Vault Contract**      | fUNI-V2 [fWBTC_WETH_LP][es-fwbtc-weth-LP] ([implementation][es-fwbtc-weth-LP-proxy]), [fUSDC_WETH_LP][es-fusdc-weth-LP] ([implementation][es-fusdc-weth-LP-proxy]), [fUSDT_WETH_LP][es-fusdt-weth-LP] ([implementation][es-fusdt-weth-LP-proxy]), [fDAI-WETH-LP][es-fdai-weth-LP] ([implementation][es-fdai-weth-LP-proxy]) |
 | **Strategy Contract**   | SNXRewardUniLPStrategy [WBTC-WETH][es-weth-wbtc-strategy], [USDT-WETH][es-weth-usdt-strategy], [USDC-WETH][es-weth-usdc-strategy], [DAI-WETH][es-weth-dai-strategy]|
 | **Example Harvest TX**  | [doHardWork][es-weth-wbtc-harvest]|
+| **Timelock**            | 12 hours
 
 [es-fwbtc-weth-LP]: https://etherscan.io/address/0x01112a60f427205dca6e229425306923c3cc2073 
 [es-fusdc-weth-LP]: https://etherscan.io/address/0xa79a083fdd87f73c2f983c5551ec974685d6bb36
@@ -140,6 +134,7 @@ This strategy farms SUSHI, the [Sushiswap token][sushi].
 | **Vault Contract**      | fSLP [fWBTC_TBTC_LP][es-fwbtc-tbtc-LP] ([implementation][es-fwbtc-tbtc-LP-proxy]) |
 | **Strategy Contract**   | SushiMasterChefLPStrategy [fWBTC_TBTC_LP][es-wbtc-tbtc-strategy] |
 | **Example Harvest TX**  | [doHardWork][es-wbtc-tbtc-harvest] |
+| **Timelock**            | 12 hours
 
 [es-fwbtc-tbtc-LP]: https://etherscan.io/address/0xF553E1f826f42716cDFe02bde5ee76b2a52fc7EB
 
@@ -166,6 +161,7 @@ This strategy farms CREAM, the [Cream Finance Token][cream].
 | **Vault Contract**      | [fWETH][es-fweth] |
 | **Strategy Contract**   | [WETHCreamNoFoldStrategy][es-weth-strategy] |
 | **Example Harvest TX**  | [doHardWork][harvestcream] |
+| **Timelock**            | None (To be implemented 2020-10-20)
 
 [es-weth-strategy]: https://etherscan.io/address/0xcf477f117caa349ca92dedb3955481628d463bf1#code
 
@@ -200,6 +196,13 @@ https://etherscan.io/address/0x0477b3b746f99010d255f6556444039e2e58864e#code
 https://etherscan.io/address/0x00f9d525828beebf1ee75fb72b1f21932e195bdf#code
 
 
+# New Strategy Proposals
+
+## Curve hBTC Pool (wBTC, hBTC)
+
+Curve launched a new hBTC pool with hBTC, wBTC pair: https://www.curve.fi/hbtc
+
+CRV stakedrop weight for this pool is zero, so this is not a yield farming opportunity yet.
 
 
 # Potential Strategy Improvements
