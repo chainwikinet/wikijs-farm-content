@@ -2,7 +2,7 @@
 title: Silo Sentinel
 description: Harvest Community Newspaper
 published: true
-date: 2020-10-20T12:51:05.105Z
+date: 2020-10-20T12:51:24.168Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-20T12:51:05.105Z
@@ -21,5 +21,5 @@ dateCreated: 2020-10-20T12:51:05.105Z
 
 # :sunflower: Recent Issues
 
-- [Issue One](2020w42), Oct 12-18 -- Welcome
 - [Issue Two](2020w43), Oct 19-25 -- $750mm AUM
+- [Issue One](2020w42), Oct 12-18 -- Welcome
