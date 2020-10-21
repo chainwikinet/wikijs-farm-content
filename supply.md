@@ -2,7 +2,7 @@
 title: FARM Token Supply
 description: FARM token supply and emission schedule
 published: true
-date: 2020-10-13T06:24:16.898Z
+date: 2020-10-21T00:33:20.014Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-16T22:09:16.263Z
@@ -31,7 +31,7 @@ https://etherscan.io/token/0xa0246c9032bc3a600820415ae600c6388619a14d
 |  5   | 23,555.0    | 3.41%           | 184,177.8    | 26.67%
 |  6   | 22,507.3    | 3.26%           | 206,685.6    | 29.93%
 |  7   | 21,507.22   | 3.11%           | 228,192.8    | 33.05%
-
+|  8   | 20,551.42   | 2.98%           | 248,744.2    | 36.03%
 
 - Continues until week 208 and a Total Supply of 690,420 FARM tokens.
 
