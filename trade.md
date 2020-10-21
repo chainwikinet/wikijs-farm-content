@@ -2,13 +2,14 @@
 title: FARM Markets
 description: buy and sell FARM tokens and other Harvest Finance assets
 published: true
-date: 2020-10-14T02:18:36.835Z
+date: 2020-10-21T10:37:16.474Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-13T07:23:41.115Z
 ---
 
 
+> DUE TO VAULT MIGRATION, SOME CONTRACTS BELOW MAY BE OUT OF DATE. {.is-danger}
 
 > Beware of scams! Verify all [token addresses](https://github.com/harvest-finance/harvest) to avoid trading fake tokens.
 {.is-warning}
