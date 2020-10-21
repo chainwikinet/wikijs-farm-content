@@ -2,7 +2,7 @@
 title: Harvest Finance Media & Dashboards
 description: manage your farming and learn more about Harvest
 published: true
-date: 2020-10-21T10:58:23.177Z
+date: 2020-10-21T19:05:42.596Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-14T19:44:06.472Z
@@ -56,6 +56,7 @@ Contest is over. Here are the winners:
 - Week 5: The Power of 69 https://medium.com/harvest-finance/week-5-the-power-of-69-6c8346ec3d8d
 - Week 6 Update: Security Rules Everything Around Me https://medium.com/harvest-finance/week-6-update-security-rules-everything-around-me-62a681a3692a
 - Week 7 Update: Ongoing Vault Migration Phase 2 https://medium.com/harvest-finance/harvest-finance-week-7-update-ongoing-vault-migration-phase-2-794d293083f0
+- Week 8 Update: Welcome to the Good Life (Migration Complete) https://medium.com/@harvestfinance/week-8-update-welcome-to-the-good-life-migration-complete-cf72137fc6eb
 
 ## Community
 - A bountiful Harvest awaits. https://medium.com/@Redmption/a-bountiful-harvest-awaits-373cbc9cb7d4
