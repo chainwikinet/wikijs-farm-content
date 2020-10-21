@@ -2,15 +2,16 @@
 title: 常见问题
 description: 
 published: true
-date: 2020-09-08T14:49:16.689Z
+date: 2020-10-21T09:53:52.442Z
 tags: 
 editor: markdown
+dateCreated: 2020-09-06T08:00:45.742Z
 ---
 
 # 常见问题
 
 - Q1. FARM 代币的总量是多少？
-- A1. FARM 代币为 5,000,000，总共通过4年时间进行释放。
+- A1. FARM 代币初始设定总量为5,000,000；经社区投票后，缩减为 690,420，总共通过4年时间进行释放。
 
 - Q2 . 现在我可以在哪里可以交易 FARM 代币？
 - A2 . 目前你可以在 Uniswap 和 Balancer 上的 FARM-USDC 交易对获取 FARM，你也可以在 Hotbit.io 买到 FARM，目前已经开通了 FARM/ETH 和 FARM/ USDT 交易对。
