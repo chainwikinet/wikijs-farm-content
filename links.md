@@ -2,7 +2,7 @@
 title: Harvest Finance Media & Dashboards
 description: manage your farming and learn more about Harvest
 published: true
-date: 2020-10-14T17:32:35.678Z
+date: 2020-10-21T10:58:23.177Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-14T19:44:06.472Z
@@ -70,6 +70,9 @@ Contest is over. Here are the winners:
 - Panic at the Crypto https://medium.com/@Redmption/panic-at-the-crypto-8e4961d10e2
 - There’s a potential competitor to Ethereum’s Yearn.finance (YFI): DeFi analyst https://cryptoslate.com/theres-a-potential-competitor-to-ethereums-yearn-finance-yfi-defi-analyst/
 - Harvest Finance, Memes and $Farm https://www.publish0x.com/mind-puzzle/harvest-finance-memes-and-dollar-farm-xpjewzl
+
+## Translations
+- (French) https://cryptoouf.com/newsletter/category/Harvest+finance
 
 - [Contribute!](/contribute)
 
