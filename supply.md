@@ -2,7 +2,7 @@
 title: FARM Token Supply
 description: FARM token supply and emission schedule
 published: true
-date: 2020-10-22T00:30:15.945Z
+date: 2020-10-22T09:08:36.623Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-16T22:09:16.263Z
@@ -46,8 +46,8 @@ FARM is bootstrapped and has no VCs or investors.
 While there is no premine, some tokens of the tokens will be vested and released to incentivize further development:
 
 - 70% of the FARM tokens will be distributed to capital and liquidity providers
-- 10% of the FARM tokens will vest to the Operational Treasury to pay for additional development and promotion
-- 20% of the FARM tokens will vest to the Development Team
+- 10% of the FARM tokens will vest to the Operational Treasury to pay for additional development and promotion (https://etherscan.io/address/0x843002b1d545ef7abb71c716e6179570582faa40)
+- 20% of the FARM tokens will vest to the Development Team (https://etherscan.io/address/0x49d71131396f23f0bce31de80526d7c025981c4d)
 
 # What do FARM tokens do?
 
