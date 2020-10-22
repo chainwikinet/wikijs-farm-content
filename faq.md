@@ -2,7 +2,7 @@
 title: Frequently Asked Questions
 description: answers to common questions about Harvest Finance
 published: true
-date: 2020-10-15T00:49:59.144Z
+date: 2020-10-22T02:48:13.327Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-03T23:06:00.060Z
@@ -32,7 +32,8 @@ dateCreated: 2020-09-03T23:06:00.060Z
 3. I want to see the yield farming revenue paid to FARM Profit Share.  **[example yield farming transaction][es-harvest]. [DAI inflows and outflows from the profit share contract][es-profitshare].**
 4.  I want to audit the funds that Harvest is using for yield farming. **[coming soon.](/tvl)**
 5.  How can I tell that the Harvest fStablecoins are changing in value due to yield farming? Look at the **[fDAI][es-fdai], [fUSDC][es-fusdc], or [fUSDT][es-fusdt] contracts.** The value that converts from fTokens to tokens is `getPricePerFullShare`. This has the same number of decimals as the underlying stablecoin and will increase over time if yield farming is profitable.
-6. How can I help?  Glad you asked.  **[Join Harvest on Discord][hf-discord],** or **[contribute to this wiki!](/contribute)**
+6. Are there timelocks? **Yes, 12 hours.**
+7. How can I help?  Glad you asked.  **[Join Harvest on Discord][hf-discord],** or **[contribute to this wiki!](/contribute)**
 
 
 # Risks
