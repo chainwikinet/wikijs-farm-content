@@ -2,13 +2,11 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2020-10-25T01:19:36.817Z
+date: 2020-10-25T01:56:39.550Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-04T07:47:54.724Z
 ---
-
-> DUE TO VAULT MIGRATION, SOME CONTRACTS BELOW MAY BE OUT OF DATE. {.is-danger}
 
 > Grow Harvest. [Contribute to this wiki!](/contribute)
  {.is-success}
@@ -161,7 +159,7 @@ This strategy farms CREAM, the [Cream Finance Token][cream].
 | **Yield Payout**        | Successful farming makes the fWETH redeemable for a growing number of WETH |
 | **FARM Incentives**      | [The fWETH can be deposited to earn a stakedrop of FARM][farm-stakedrop] |
 | **Vault Contract**      | [fWETH][es-fweth] |
-| **Strategy Contract**   | [WETHCreamNoFoldStrategy][es-weth-strategy] |
+| **Strategy Contract**   | [DEGOSimpleStrategy][es-weth-strategy] |
 | **Example Harvest TX**  | [doHardWork][harvestcream] |
 | **Timelock**            | None (To be implemented 2020-10-20)
 
