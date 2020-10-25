@@ -2,7 +2,7 @@
 title: Harvest Liquidity Provider Stakedrop
 description: provide liquidity for Harvest Finance assets, receive FARM
 published: true
-date: 2020-09-25T09:23:52.442Z
+date: 2020-10-25T02:22:55.127Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-08T04:25:04.809Z
@@ -106,15 +106,6 @@ rewards pool:			https://etherscan.io/address/0x82bdac405762482f9411a7d970841ce55
 Uniswap pool:			https://etherscan.io/address/0x24b34098f6950a5d5b6bbe1358ad79b609b924fb
 	WETH:						https://etherscan.io/token/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2
   fWETH:					https://etherscan.io/token/0x8e298734681adbfc41ee5d17ff8b0d6d803e7098
-
-**Balancer: USDC-FARM 80/20**
-rewards pool: 		https://etherscan.io/address/0x346523a81f16030110e6c858ee0e11f156840bd1
-Balancer pool: 		https://pools.balancer.exchange/#/pool/0x0126cfa7ec6b6d4a960b5979943c06a9742af55e
-  USDC:           https://etherscan.io/token/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48
-  FARM:           https://etherscan.io/token/0xa0246c9032bC3A600820415aE600c6388619A14D
-
-**CREAM Swap FARM-ETH 80/20**
-Balancer pool: https://app.cream.finance/pools/pool/0x655ad905dec61e4fb7d4840a1f450685801511b2
 
 [uni-farm-es]: https://etherscan.io/address/0x514906FC121c7878424a5C928cad1852CC545892
 [uni-fusdc-es]: https://etherscan.io/address/0x4161fa43eaa1ac3882aeed12c5fc05249e533e67
