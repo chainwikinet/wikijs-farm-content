@@ -2,7 +2,7 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2020-10-24T22:38:01.419Z
+date: 2020-10-25T01:19:36.817Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-04T07:47:54.724Z
@@ -43,13 +43,13 @@ This strategy farms CRV, the [Curve Finance DAO token][crv].
 | **Yield Payout**        | Successful farming makes your deposit redeemable for a growing amount of the deposited asset |
 | **FARM Incentives**      | [fWBTC, frenBTC, and fcrvRenWBTC deposit receipts can be deposited to earn a stakedrop of FARM][farm-stakedrop] |
 | **Vault Contract**      | [fWBTC][es-fwbtc], [frenBTC][es-frenbtc], [fcrvRenWBTC][es-fcrvrenwbtc] |
-| **Strategy Contract**   | [CRVStrategyWBTCMainnet][es-strat-fwbtc-v1], [CRVStrategyRENBTCMainnet][es-strat-renbtc-v1], [CRVStrategyWRenBTCMixMainnet][es-strat-crvrenwbtc-v1] |
+| **Strategy Contract**   | [CRVStrategyWBTCMainnet][es-strat-fwbtc], [CRVStrategyRENBTCMainnet][es-strat-renbtc], [CRVStrategyWRenBTCMixMainnet][es-strat-crvrenwbtc] |
 | **Example Harvest TX**  | [doHardWork](https://etherscan.io/tx/0x01dfcfd6dd1ca0db042fb516767c3725e06cc1db28a40781314c72d897351ba8) |
 | **Timelock**            | 12 hours
 
-[es-strat-fwbtc-v1]: https://etherscan.io/address/0xe7048e7186cb6f12c566a6c8a818d9d41da6df19#code
-[es-strat-renbtc-v1]: https://etherscan.io/address/0x2eadfb06f9d890eba80e999eaba2d445bc70f006#code
-[es-strat-crvrenwbtc-v1]: https://etherscan.io/address/0xaf2d2e5c5af90c782c008b5b287f20334eeb308e#code
+[es-strat-fwbtc]: https://etherscan.io/address/0x3f31edcd57b2461fd2650f4a1066a97f73b97158#code
+[es-strat-renbtc]: https://etherscan.io/address/0xd2429c20af3eb06b15c08b5290f4971b9fac20b1#code
+[es-strat-crvrenwbtc]: https://etherscan.io/address/0x9aA8F427A17d6B0d91B6262989EdC7D45d6aEdf8#code
 
 ## Farming CRV with Stablecoins
 
@@ -75,9 +75,9 @@ This strategy farms CRV, the [Curve Finance DAO token][crv].
 {.is-info}
 
 [es-strat-crvstable-v2]: https://etherscan.io/address/0x2427da81376a0c0a0c654089a951887242d67c92
-[es-strat-crystable-dai]: https://etherscan.io/address/0x810b83fc33e6f5da9be9ae5dd0f918338e980938#code
-[es-strat-crystable-usdc]: https://etherscan.io/address/0x68e6aa634b22dd28c4c22cc9fc4c1900e8bea90b#code
-[es-strat-crystable-usdt]: https://etherscan.io/address/0x03292bdfE36591F70575C77847d7f004FFd0966A
+[es-strat-crystable-dai]: https://etherscan.io/address/0xab4ae725223a91c3363e050619a088c0903e6d84#code
+[es-strat-crystable-usdc]: https://etherscan.io/address/0xd55ada00494d96ce1029c201425249f9dfd216cc#code
+[es-strat-crystable-usdt]: https://etherscan.io/address/0x1c47343ea7135c2ba3b2d24202ad960adafaa81c
 [es-strat-crystable-tusd]: https://etherscan.io/address/0x9d356fda8437f7c7b6a4bc84466a98a4a6eec462
 
 [es-crvstable-harvest]: https://etherscan.io/tx/0x0b8f78bb74fc5e1451af4c6b15dd48b263fc5b29006a3555bd5942313235d22a
@@ -112,8 +112,8 @@ This strategy farms UNI, the [Uniswap Token][uni].
 [es-fdai-weth-LP-proxy]: https://etherscan.io/address/0x9b3be0cc5dd26fd0254088d03d8206792715588b
 
 [es-weth-wbtc-strategy]: https://etherscan.io/address/0x46ec909099f9691b43b64413f1bc662edfbee00a
-[es-weth-usdt-strategy]: https://etherscan.io/address/0xc6e973b8fe772c58ad0d20099d43d2b3f0aef5c0
-[es-weth-usdc-strategy]: https://etherscan.io/address/0x0fd7c77b473e3efe3170536805a14b61050efc6e
+[es-weth-usdt-strategy]: https://etherscan.io/address/0x0fd7c77b473e3efe3170536805a14b61050efc6e
+[es-weth-usdc-strategy]: https://etherscan.io/address/0xc6e973b8fe772c58ad0d20099d43d2b3f0aef5c0
 [es-weth-dai-strategy]: https://etherscan.io/address/0x2cf4ceb36172fb2196a47490419d57584234cbd4
 
 [es-weth-wbtc-harvest]: https://etherscan.io/tx/0x7e9f139d796487bebe3b0d6e629aee01fafc6b1dd05a8783aa297c96625510cd
@@ -165,7 +165,7 @@ This strategy farms CREAM, the [Cream Finance Token][cream].
 | **Example Harvest TX**  | [doHardWork][harvestcream] |
 | **Timelock**            | None (To be implemented 2020-10-20)
 
-[es-weth-strategy]: https://etherscan.io/address/0xcf477f117caa349ca92dedb3955481628d463bf1#code
+[es-weth-strategy]: https://etherscan.io/address/0xa23c6f2d85fe47e613ce6bbb40e74acb49ae281a#code
 
 [harvestcream]: https://etherscan.io/tx/0x9f9e3640b8cfd503cbd9115f8c457b1273858f582c4dfb928e21f32eb78e717c
 
