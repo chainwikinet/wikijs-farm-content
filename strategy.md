@@ -2,7 +2,7 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2020-10-25T01:56:39.550Z
+date: 2020-10-26T02:35:10.184Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-04T07:47:54.724Z
@@ -144,28 +144,28 @@ This strategy farms SUSHI, the [Sushiswap token][sushi].
 
 [es-wbtc-tbtc-harvest]: https://etherscan.io/tx/0xdb0f7cd77685b5ac36cbf251771b4d26c9056aaa583eccc2cabdc43be50640d6
 
-## Farming Cream with WETH
-This strategy farms CREAM, the [Cream Finance Token][cream].
+## Farming DEGO with WETH
+This strategy farms DEGO, the [DEGO Finance Token][dego].
 
-> You do not receive CREAM directly. Instead, the farmed CREAM is sold to return more wETH to you when you withdraw.
+> You do not receive DEGO directly. Instead, the farmed DEGO is sold to return more wETH to you when you withdraw.
 {.is-info}
 
 | | |
 |------------------|-|
-| **Asset Farmed**        | CREAM, Cream Finance token  |
+| **Asset Farmed**        | DEGO, DEGO Finance token  |
 | **Assets Used**         | WETH               |
-| **Basic Strategy**      | CREAM is farmed and sold for stablecoins |
+| **Basic Strategy**      | DEGO is farmed and sold for stablecoins |
 | **How To Participate**  | [deposit WETH][hf] to receive fWETH |
 | **Yield Payout**        | Successful farming makes the fWETH redeemable for a growing number of WETH |
 | **FARM Incentives**      | [The fWETH can be deposited to earn a stakedrop of FARM][farm-stakedrop] |
 | **Vault Contract**      | [fWETH][es-fweth] |
 | **Strategy Contract**   | [DEGOSimpleStrategy][es-weth-strategy] |
-| **Example Harvest TX**  | [doHardWork][harvestcream] |
+| **Example Harvest TX**  | [doHardWork][harvestdego] |
 | **Timelock**            | None (To be implemented 2020-10-20)
 
 [es-weth-strategy]: https://etherscan.io/address/0xa23c6f2d85fe47e613ce6bbb40e74acb49ae281a#code
 
-[harvestcream]: https://etherscan.io/tx/0x9f9e3640b8cfd503cbd9115f8c457b1273858f582c4dfb928e21f32eb78e717c
+[harvestdego]: https://etherscan.io/tx/0x626da7f36e3dd430a1726eb1ec0d242e04bb0caa16a27507fa7dd1d3a53c4393
 
 ## Farming Other Things
 
@@ -459,6 +459,7 @@ This strategy farms UNI, the [Uniswap Token][uni].
 [hf]: https://harvest.finance
 [swrv]: https://www.coingecko.com/en/coins/swerve
 [cream]: https://www.coingecko.com/en/coins/cream
+[dego]: https://www.coingecko.com/en/coins/dego-finance
 [uni]: https://www.coingecko.com/en/coins/uniswap
 [sushi]: https://www.coingecko.com/en/coins/sushi
 
