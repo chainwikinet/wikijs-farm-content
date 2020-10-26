@@ -2,7 +2,7 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2020-10-26T02:35:10.184Z
+date: 2020-10-26T02:37:58.284Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-04T07:47:54.724Z
@@ -165,7 +165,7 @@ This strategy farms DEGO, the [DEGO Finance Token][dego].
 
 [es-weth-strategy]: https://etherscan.io/address/0xa23c6f2d85fe47e613ce6bbb40e74acb49ae281a#code
 
-[harvestdego]: https://etherscan.io/tx/0x626da7f36e3dd430a1726eb1ec0d242e04bb0caa16a27507fa7dd1d3a53c4393
+[harvestdego]: https://etherscan.io/tx/0x6fdb02f8f961dae5853d15c1ff06322025abdf3eb76097a1d99b2fbe888c005b
 
 ## Farming Other Things
 
