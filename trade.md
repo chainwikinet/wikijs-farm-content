@@ -2,7 +2,7 @@
 title: FARM Markets
 description: buy and sell FARM tokens and other Harvest Finance assets
 published: true
-date: 2020-10-23T00:28:29.337Z
+date: 2020-10-27T19:30:31.071Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-13T07:23:41.115Z
@@ -57,7 +57,7 @@ Harvest assets, including FARM and the fASSET Harvest deposit tokens, are availa
 | [fWBTC][add-fwbtc]   | [0x5d9d25c7C457dD82fc8668FFC6B9746b674d4EcB][es-fwbtc] | [deposit WBTC][hf], [buy][uni-buy-fwbtc], [info][uni-info-fwbtc]
 | [frenBTC][add-frenbtc] | [0xC391d1b08c1403313B0c28D47202DFDA015633C4][es-frenbtc] | [deposit renBTC][hf], [buy][uni-buy-frenbtc], [info][uni-info-frenbtc]
 | [fcrvRenWBTC][add-fcrvrenwbtc] | [0x9aA8F427A17d6B0d91B6262989EdC7D45d6aEdf8][es-fcrvrenwbtc] | [deposit crvRenWBTC][hf], [buy][uni-buy-fcrvrenwbtc], [info][uni-info-fcrvrenwbtc]
-|fWETH|[0x8e298734681adbfc41ee5d17ff8b0d6d803e7098][es-fweth]|[deposit WETH][hf], [buy][uni-buy-fweth], [info][uni-info-fweth]|
+|fWETH|[0xFE09e53A81Fe2808bc493ea64319109B5bAa573e][es-fweth]|[deposit WETH][hf], [buy][uni-buy-fweth], [info][uni-info-fweth]|
 |FUSDC_WETH_LP|[0xA79a083FDD87F73c2f983c5551EC974685D6bb36][es-fusdc_weth_lp]|[deposit USDC_WETH_LP][hf], [buy LP][uni-buy-fusdc_weth_lp], [info][uni-info-fusdc_weth_lp]|
 |FUSDT_WETH_LP|[0x7DDc3ffF0612E75Ea5ddC0d6Bd4e268f70362Cff][es-fusdt_weth_lp]|[deposit USDT_WETH_LP][hf], [buy LP][uni-buy-fusdt_weth_lp], [info][uni-info-fusdt_weth_lp]|
 |FDAI_WETH_LP|[	0x307E2752e8b8a9C29005001Be66B1c012CA9CDB7][es-fdai_weth_lp]|[deposit DAI_WETH_LP][hf], [buy LP][uni-buy-fdai_weth_lp], [info][uni-info-fdai_weth_lp]|
@@ -85,7 +85,7 @@ Harvest assets, including FARM and the fASSET Harvest deposit tokens, are availa
 [es-fwbtc]: https://etherscan.io/token/0x5d9d25c7C457dD82fc8668FFC6B9746b674d4EcB
 [es-frenbtc]: https://etherscan.io/token/0xC391d1b08c1403313B0c28D47202DFDA015633C4
 [es-fcrvrenwbtc]: https://etherscan.io/token/0x9aA8F427A17d6B0d91B6262989EdC7D45d6aEdf8
-[es-fweth]: https://etherscan.io/token/0x8e298734681adbfc41ee5d17ff8b0d6d803e7098
+[es-fweth]: https://etherscan.io/token/0xFE09e53A81Fe2808bc493ea64319109B5bAa573e
 [es-fusdc_weth_lp]: https://etherscan.io/token/0xA79a083FDD87F73c2f983c5551EC974685D6bb36
 [es-fusdt_weth_lp]: https://etherscan.io/token/0x7DDc3ffF0612E75Ea5ddC0d6Bd4e268f70362Cff
 [es-fdai_weth_lp]: https://etherscan.io/token/0x307E2752e8b8a9C29005001Be66B1c012CA9CDB7
