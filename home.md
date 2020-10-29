@@ -2,14 +2,14 @@
 title: Home
 description: Harvest Finance Community Chainwiki
 published: true
-date: 2020-10-29T03:38:51.394Z
+date: 2020-10-29T03:40:00.909Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-13T05:55:54.766Z
 ---
 
 # Harvest Governance Vote
-> There is an ongoing vote regarding whether those who lost funds in the flashloan attack on October 26th. Read more and vote here: https://snapshot.page/#/farm/proposal/QmYF62qGaqyHAXt88Hmxise6CFaSWxnTmi5VedZ3VX8Zy2 Vote ends Oct 30, 2020, 9:00 PM {.is-success}
+> There is an ongoing vote regarding whether or not reparations should be payed to those who lost funds in the flashloan attack on October 26th in the form of an IOU token. Read more and vote here: https://snapshot.page/#/farm/proposal/QmYF62qGaqyHAXt88Hmxise6CFaSWxnTmi5VedZ3VX8Zy2 Vote ends Oct 30, 2020, 9:00 PM {.is-success}
 
 # Harvest Finance Brings #BreadToThePeople :bread:
 
