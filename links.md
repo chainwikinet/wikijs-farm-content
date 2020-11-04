@@ -2,7 +2,7 @@
 title: Harvest Finance Media & Dashboards
 description: manage your farming and learn more about Harvest
 published: true
-date: 2020-10-23T22:04:27.956Z
+date: 2020-11-04T13:49:19.796Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-14T19:44:06.472Z
@@ -28,12 +28,23 @@ Tools released by the launch team to monitor and manage yield farming and stakin
 
 
 Tools created by community members:
-
+- https://cold-block-3726.on.fleek.co/ (fAssets price chart)
 - https://farmingreturn.com/ (caution: contains Google Analytics tracking software)
 - https://david4neblio.github.io/harvestyield/ (profit share yield calulator)
 - https://www.omnicalculator.com/finance/apy (convert between APY and APR)
 
 # Contests
+- Harvest Finance Web Design Contest. https://www.publish0x.com/harvestfinance/harvest-finance-web-design-contest-winners-xqorxee
+Contest is over. Here are the winners:
+🥇 1st place: https://harvest-finance.webflow.io/
+🥈 2nd place: https://yellow118039.invisionapp.com/console/share/W31PYAZZS4 / https://twitter.com/yellowestchips
+🥉 3rd place: https://i.imgur.com/fzN44e0.png
+
+- 🎉 Harvest Finance Creativity Contes. https://harvestfinance.medium.com/launching-the-harvest-finance-creativity-contest-d04d9f0a9a38 / Winners: https://www.publish0x.com/harvestfinance/harvest-finance-farm-arts-creativity-contest-winners-round-2-xyvlxwd
+Contest is over. Here are the winners: 
+🥇 1st place: https://twitter.com/LushDarkWings/status/1319781080606625799?s=20
+🥈 2nd place: https://twitter.com/svbubbles/status/1320712214190280705
+🥉 3rd place: https://twitter.com/ScifiZephyr/status/1320926223917150210
 
 - The 🥖#BreadForThePeople Meme Contest. https://medium.com/@harvestfinance/the-breadforthepeople-meme-contest-3b035b0c2fc4
 Contest is over. Here are the winners: 
@@ -41,7 +52,7 @@ Contest is over. Here are the winners:
 🥈 2nd place: https://twitter.com/Geo47319865/status/1304516999935123457
 🥉 3rd place: https://twitter.com/blujunk/status/1306446725540798465
 
-- 🎉 Launching the Harvest Finance Creativity Contest https://medium.com/@harvestfinance/launching-the-harvest-finance-creativity-contest-d04d9f0a9a38
+
 
 
 
