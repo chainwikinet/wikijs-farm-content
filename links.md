@@ -2,7 +2,7 @@
 title: Harvest Finance Media & Dashboards
 description: manage your farming and learn more about Harvest
 published: true
-date: 2020-11-04T14:11:21.353Z
+date: 2020-11-04T14:21:50.943Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-14T19:44:06.472Z
@@ -75,6 +75,9 @@ Contest is over. Here are the winners:
 - Week 8 Update: Welcome to the Good Life (Migration Complete) https://medium.com/@harvestfinance/week-8-update-welcome-to-the-good-life-migration-complete-cf72137fc6eb
 
 ## Community
+##### Podcasts
+Redemtion's podcast appearance at Defi France: https://youtu.be/GpmnSMLP_Ms?t=2463
+##### Articles
 - Redmption's Farmers Collection
 		- A bountiful Harvest awaits. https://medium.com/@Redmption/a-bountiful-harvest-awaits-373cbc9cb7d4
 		- Harvest Finance : The reality of APYs. https://medium.com/@Redmption/harvest-finance-the-reality-of-apys-e7bd93a795b7
@@ -99,6 +102,7 @@ Contest is over. Here are the winners:
 
 # Videos
 - [Harvest Finance: what it is and how to use it](https://youtu.be/-smwjTROfmw) (Cryptosetups)
+[Adding Wbtc to the harvest finance wbtc vault](https://odysee.com/@Crypto-Setups:c/Adding-Wbtc-to-the-harvest-finance-wbtc-vault-:7?r=3aA1dgK5aTsvGTe8qNDGyYhDNahgncms) (CryptoSetups) 
 - [Harvest.Finance - Make +300% Yields with yEarns Degenerate Cousin](https://www.youtube.com/watch?v=wmP2fGKUJG8) (Gabriel Haines)
 - [State Of Yield Farming - Results & Best APY And Future Opportunities
 ](https://www.youtube.com/watch?v=vrOlFGavRBs&t=510) (mention by denome)
