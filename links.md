@@ -2,7 +2,7 @@
 title: Harvest Finance Media & Dashboards
 description: manage your farming and learn more about Harvest
 published: true
-date: 2020-11-04T13:49:19.796Z
+date: 2020-11-04T14:11:21.353Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-14T19:44:06.472Z
@@ -34,7 +34,12 @@ Tools created by community members:
 - https://www.omnicalculator.com/finance/apy (convert between APY and APR)
 
 # Contests
-- Harvest Finance Web Design Contest. https://www.publish0x.com/harvestfinance/harvest-finance-web-design-contest-winners-xqorxee
+##### ONGOING
+- :pencil:  #DeFiFARMer Writing Contest - Ongoing until 13.11.20 : https://www.publish0x.com/publish0x-contests/defifarmer-writing-contest-and-giveaway-900-dollars-in-dolla-xqojggd
+
+---
+##### FINISHED
+- 🖥️ Harvest Finance Web Design Contest. https://www.publish0x.com/harvestfinance/harvest-finance-web-design-contest-winners-xqorxee
 Contest is over. Here are the winners:
 🥇 1st place: https://harvest-finance.webflow.io/
 🥈 2nd place: https://yellow118039.invisionapp.com/console/share/W31PYAZZS4 / https://twitter.com/yellowestchips
