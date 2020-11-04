@@ -2,7 +2,7 @@
 title: Frequently Asked Questions
 description: answers to common questions about Harvest Finance
 published: true
-date: 2020-10-22T02:48:13.327Z
+date: 2020-11-04T12:13:53.098Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-03T23:06:00.060Z
@@ -15,9 +15,10 @@ dateCreated: 2020-09-03T23:06:00.060Z
 
 1. Is Harvest audited? **[Yes](/security)**
 1. Who is the Harvest team? **The Harvest Finance launch team is anonymous**
-1. How many FARM tokens are there? [FARM tokens are capped at 690,420 tokens minted over a 4-year period](/en/supply)
-1. Why does my fAsset(fUSDT/fUSDC/etc...) conversion rate go down?) [Check Here](/en/fAsset-flucttuation)
-1. Why is my DAI balance going down? [Throughout explanation by Brandon | RADAR .](/en/DAI)
+1. How many FARM tokens are there? [**FARM tokens are capped at 690,420 tokens minted over a 4-year period**](/en/supply)
+1. Is there a fAssets shareprice charts? [**Yes**](/en/https://cold-block-3726.on.fleek.co/)
+1. Why does my fAsset(fUSDT/fUSDC/etc...) conversion rate go down?) [**Check Here**](/en/fAsset-flucttuation)
+1. Why is my DAI balance going down? [**Throughout explanation by Brandon | RADAR.**](/en/DAI)
 2. Where can I trade FARM tokens? **[FARM markets on Uniswap](/trade)**
 3. How do I turn tokens into Harvest `fTokens` that earn yield farming revenue? **[on the Harvest front page](/en/https://harvest.finance/)** or by **[trading on Uniswap](/trade)**
 2. How do I turn `fTokens` tokens back into regular tokens? **[withdrawal instructions](/stakedrop#removing-tokens-from-farming)**
