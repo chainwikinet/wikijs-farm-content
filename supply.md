@@ -2,7 +2,7 @@
 title: FARM Token Supply
 description: FARM token supply and emission schedule
 published: true
-date: 2020-10-22T09:08:36.623Z
+date: 2020-11-04T17:18:31.044Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-16T22:09:16.263Z
@@ -22,7 +22,7 @@ https://etherscan.io/token/0xa0246c9032bc3a600820415ae600c6388619a14d
 
 # How Many FARM tokens are liquid now?
 
-| Week | Distributed |% of max supply  | Total Supply | % of total supply
+| Week | Distributed |% of total supply  | Total Supply | % of total supply
 |------|-------------|-----------------|--------------|-------------------------
 |  1   | 57,569.1    | 8.34%           | 57,569.1     | 8.34% 
 |  2   | 51,676.2    | 6.48%           | 109,245.3    | 15.82%
@@ -32,6 +32,8 @@ https://etherscan.io/token/0xa0246c9032bc3a600820415ae600c6388619a14d
 |  6   | 22,507.3    | 3.26%           | 206,685.6    | 29.93%
 |  7   | 21,507.22   | 3.11%           | 228,192.8    | 33.05%
 |  8   | 20,551.42   | 2.98%           | 248,744.2    | 36.03%
+|  9   | 19,637.46   | 2.84%           | 248,744.2    | 38.87%
+|  10  | 18,764.45   | 2.71%           | 248,744.2    | 41.59%
 
 - Continues until week 208 and a Total Supply of 690,420 FARM tokens.
 
