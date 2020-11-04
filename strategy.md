@@ -2,7 +2,7 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2020-10-26T02:37:58.284Z
+date: 2020-11-04T17:53:45.266Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-04T07:47:54.724Z
@@ -22,6 +22,7 @@ Harvest Finance launched on September 1st. New farming strategies are constantly
 - **2020-09-17** Harvest adds UNI farming support for ETH-DAI, ETH-USDC, ETH-USDT, ETH-WBTC.
 - **2020-10-06** Harvest adds CRV farming support for TUSD with a 12 hour timelock.
 - **2020-10-13** Harvest adds SUSHI farming support for WBTC-TBTC, and adds a 12 hour timelock to UNI vaults.
+- **2020-11-03** Harvest adds PICKLE CRV farming support for 3CRV, and adds yCRV vault to mitigate flash loan vector attacks.
 
 As of September 8th, 70% of the yield farming revenue is returned to users who provide capital. The remaining 30% of the yield farming revenue is distributed to users who [stake FARM in the Profit Sharing contract][farm-stakedrop]. The Harvest Finance team does not charge fees for withdrawing or depositing assets and does not claim a fee on the yield farming revenue.
 
