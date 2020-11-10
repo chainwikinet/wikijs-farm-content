@@ -2,7 +2,7 @@
 title: Harvest Finance Media & Dashboards
 description: manage your farming and learn more about Harvest
 published: true
-date: 2020-11-04T16:55:08.050Z
+date: 2020-11-10T12:01:40.395Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-14T19:44:06.472Z
@@ -28,6 +28,7 @@ Tools released by the launch team to monitor and manage yield farming and stakin
 
 
 Tools created by community members:
+- http://farmdashboard.xyz/ ( stats + trades + vault changes)
 - https://cold-block-3726.on.fleek.co/ (fAssets price chart)
 - https://farmingreturn.com/ (caution: contains Google Analytics tracking software)
 - https://david4neblio.github.io/harvestyield/ (profit share yield calulator)
