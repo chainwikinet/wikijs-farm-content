@@ -2,7 +2,7 @@
 title: Wiki Contribution Guide
 description: how create and edit content on the wiki
 published: true
-date: 2020-09-25T08:25:19.285Z
+date: 2020-11-11T15:30:49.242Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-21T08:15:02.963Z
@@ -18,6 +18,7 @@ Contributing is easy!  Create and edit pages within seconds by signing in with t
 
 Some changes to the site, like adding your new page to the navigation sidebar, will require help from a wiki manager. Post in the `#wiki` channel on Discord for assistance.
 
+> Please use the Markdown format to create new pages.
 
 # Contribute with GitHub
 
@@ -32,22 +33,13 @@ After your pull request is approved by a wiki manager, they should go live on th
 ### Reoccurring Tasks
 
 **Gather blog posts and other media from Discord.**
-- add to https://farm.chainwiki.dev/en/press
+- add to https://farm.chainwiki.dev/en/links
 
 **Gather updated info about audits from Discord.**
 - add to https://farm.chainwiki.dev/en/security
 
-### Specific Requests
+**Update contract addresses and descriptions**
+- add to https://farm.chainwiki.dev/en/contracts
 
-**Gather list of Defi wallets like Zapper and Zerion that support Harest**
+**Gather list of wallets and exchanges that support Harvest**
 - add to https://farm.chainwiki.dev/en/links
-
-**Add links to dev and operational treasuries on Etherscan**
-- add to https://farm.chainwiki.dev/en/supply
-
-**Update links to BTC:fBTC Uniswap pools.**
-- add to https://farm.chainwiki.dev/en/stakedrop/lp
-
-**Edit the community stakedrop page to add the contracts from week 1.**
-- https://farm.chainwiki.dev/en/stakedrop/community
-- get contracts from https://harvest.finance/breadtothepeople
