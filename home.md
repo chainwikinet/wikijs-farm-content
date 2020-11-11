@@ -2,14 +2,11 @@
 title: Home
 description: Harvest Finance Community Chainwiki
 published: true
-date: 2020-10-29T03:40:00.909Z
+date: 2020-11-11T15:25:41.461Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-13T05:55:54.766Z
 ---
-
-# Harvest Governance Vote
-> There is an ongoing vote regarding whether or not reparations should be payed to those who lost funds in the flashloan attack on October 26th in the form of an IOU token. Read more and vote here: https://snapshot.page/#/farm/proposal/QmYF62qGaqyHAXt88Hmxise6CFaSWxnTmi5VedZ3VX8Zy2 Vote ends Oct 30, 2020, 9:00 PM {.is-success}
 
 # Harvest Finance Brings #BreadToThePeople :bread:
 
@@ -17,28 +14,12 @@ Yield farming can offer high interest rates, but it is becoming hard for smaller
 
 :corn: Tracking and responding to yield farming opportunities can be a full-time job.
 
-:carrot: Gas costs are increasing, and moving between farming opportunities is becoming prohibitively expensive.
+:carrot: Gas costs are increasing. Moving between farming opportunities and regularly transacting to compound your yields is becoming prohibitively expensive.
 
-:tomato: Smart contracts are hard to audit and bugs can result in locked funds for theft.
+:tomato: Smart contracts are hard to audit and bugs can result in lost funds.
 
-Harvest addresses this by deploying strategies to move assets between different yield farming opportunities to maximize yield. Deposit into Harvest and Harvest takes care of APY tracking, strategy development and auditing, and gas costs.
+Harvest addresses this by deploying strategies to move assets between different yield farming opportunities to maximize yield. **Deposit into Harvest and Harvest takes care of APY tracking, strategy development and auditing, and gas costs.** Deposits are automatically compounded wherever possible to maximize yield.
 
-# Why deposit at Harvest Finance
-> We SAVE you Time and Costs and bring you the newest high returns in Yield Farming.
-{.is-success}
-
-✅ We are [Audited](/en/security)
-
-✅ We save $500 000 for our farmers in gas fees everyDAY*. 
-- This alone can make a huge difference in your returns if you are a small farmer.
-
-✅ We find the farming opportunities that will maximize your yield(APY) returns. 
-- Finding the newest high return opportunities and doing a due dilligence might be a full time job. We do the work for you. 
-
-✅ We have a great community and mods always willing to help. [Join us on Discord!](/en/https://discord.gg/R5SeTVR)
-
-
-*Saved amount is tracked at Week2 and it depends on gas prices
 # Learn More :mag:
 
 > Join [Harvest Discord](https://discord.gg/R5SeTVR) and get involved to grow the harvest.
@@ -47,12 +28,13 @@ Harvest addresses this by deploying strategies to move assets between different 
 Explore this wiki to learn about Harvest and its yield farming strategies.
 
 - https://harvest.finance/
+- **Github:** https://github.com/harvest-finance
+- **Discord:** https://discord.gg/R5SeTVR
 - **Twitter:** https://twitter.com/harvest_finance
 - **Medium:** https://medium.com/harvest-finance
 - **Reddit:** https://www.reddit.com/r/HarvestFinance/
-- **Discord:** https://discord.gg/R5SeTVR
-- **Telegram:** https://t.me/Breadforthepeople (bridged with Discord)
-- **Github:**: https://github.com/harvest-finance
+- **Community News:** [Silo Sentinel](/sentinel) :newspaper:
+- **Telegram:** ~~https://t.me/Breadforthepeople~~ (discontinued)
 
 Earn `$FARM` in upcoming stakedrops or by contributing to the Harvest community.
 
@@ -69,4 +51,4 @@ The content is freely licensed and available on GitHub:
 
 https://github.com/chainwikinet/wikijs-farm-content (PRs accepted!)
 
-Administered by the [Chainwiki Network](https://meta.chainwiki.dev/).
+Administered by the [Chainwiki Network](https://meta.chainwiki.dev/). [Support](https://wiki.js.org/support) WikiJS development.
