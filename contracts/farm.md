@@ -2,7 +2,7 @@
 title: Contract: FARM Token
 description: FARM token contract information and links
 published: true
-date: 2020-11-11T22:55:45.951Z
+date: 2020-11-12T03:25:57.463Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-11T15:49:59.488Z
@@ -35,7 +35,7 @@ Pool contract address: [0x514906FC121c7878424a5C928cad1852CC545892][es-pool-farm
 
 # FARM Token Supply
 
-> Use the `!supply week 50` command in Discord to 
+> Use the `!supply week 50` command in Discord to see supply and emission statistics
 {.is-info}
 
 
