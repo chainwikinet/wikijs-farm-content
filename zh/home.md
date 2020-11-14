@@ -2,7 +2,7 @@
 title: 开心农场 Harvest.Finance
 description: 
 published: true
-date: 2020-11-14T04:45:54.526Z
+date: 2020-11-14T05:32:10.734Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-19T07:09:45.294Z
@@ -37,9 +37,8 @@ Harvest 通过部署针对不同收益耕作的项目的策略，实现在机会
 - **Twitter:** https://twitter.com/harvest_finance
 - **Medium:** https://medium.com/harvest-finance
 - **Reddit:** https://www.reddit.com/r/HarvestFinance/
-- **Community News:** [Silo Sentinel](/sentinel) :newspaper:
 - **微博** https://weibo.com/harvestfinance
-- **微信小助手微信** angelwongfks
+- **微信小助手微信** *angelwongfks*
 ![xiaozhushou.png](/xiaozhushou.png)
 
 
