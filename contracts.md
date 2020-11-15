@@ -2,7 +2,7 @@
 title: Harvest Tokens and Contracts
 description: Tokens, contracts, and key addresses of the Harvest Finance ecosystem
 published: true
-date: 2020-11-11T22:05:25.224Z
+date: 2020-11-15T02:23:14.600Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-11T22:03:19.306Z
@@ -56,6 +56,12 @@ dateCreated: 2020-11-11T22:03:19.306Z
 
 
 # Reward Pools
+
+
+
+| Contract | Description |
+|:---|:---|
+| [0xa239d5B5BF3deeB53E6e19635E82EdCE515D32F4][es-fusdc-auto] | [experimental] automatically stakes fUSDC rewards to Profit Sharing |
 
 [es-deployer]: https://etherscan.io/address/0xf00dd244228f51547f0563e60bca65a30fbf5f7f
 [es-minter]: https://etherscan.io/address/0x284d7200a0dabb05ee6de698da10d00df164f61d
@@ -121,3 +127,5 @@ dateCreated: 2020-11-11T22:03:19.306Z
 [es-pool-fdai]: https://etherscan.io/address/0xF9E5f9024c2f3f2908A1d0e7272861a767C9484b
 [es-pool-fusdc]: https://etherscan.io/address/0xE1f9A3EE001a2EcC906E8de637DBf20BB2d44633
 [es-pool-fusdt]: https://etherscan.io/address/0x5bd997039FFF16F653EF15D1428F2C791519f58d
+
+[es-fusdc-auto]: https://etherscan.io/address/0xa239d5b5bf3deeb53e6e19635e82edce515d32f4
