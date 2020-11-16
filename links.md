@@ -2,7 +2,7 @@
 title: Harvest Finance Media & Dashboards
 description: manage your farming and learn more about Harvest
 published: true
-date: 2020-11-10T12:46:59.825Z
+date: 2020-11-16T19:06:53.386Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-14T19:44:06.472Z
@@ -33,6 +33,7 @@ Tools created by community members:
 - https://farmingreturn.com/ (caution: contains Google Analytics tracking software)
 - https://david4neblio.github.io/harvestyield/ (profit share yield calulator)
 - https://www.omnicalculator.com/finance/apy (convert between APY and APR)
+- https://explore.duneanalytics.com/public/dashboards/nwtrluxssitcm8ipiQjUjwJQ5Xf5DF8KwSnOlYLa ($FARM allocation visualized)
 
 # Contests
 ##### ONGOING
