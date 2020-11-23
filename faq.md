@@ -2,7 +2,7 @@
 title: Frequently Asked Questions
 description: answers to common questions about Harvest Finance
 published: true
-date: 2020-11-23T16:40:44.901Z
+date: 2020-11-23T17:15:26.250Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-03T23:06:00.060Z
@@ -15,6 +15,7 @@ dateCreated: 2020-09-03T23:06:00.060Z
 
 1. Is Harvest audited? **[Yes](/security)**
 1. Who is the Harvest team? **The Harvest Finance launch team is anonymous**
+1. How is APY / APR calculated for the Pools? [**APY formulas**](/en/calculationAPY) 
 1. How many FARM tokens are there? [**FARM tokens are capped at 690,420 tokens minted over a 4-year period**](/en/supply)
 1. Is there a fAssets shareprice charts? [**Yes**](https://harvestcharts.on.fleek.co//) (It is created by a community member)
 1. Why does my fAsset(fUSDT/fUSDC/etc...) conversion rate go down?) [**Check Here**](/en/fAsset-flucttuation)
