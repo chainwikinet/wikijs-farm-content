@@ -2,7 +2,7 @@
 title: Harvest Finance Media & Dashboards
 description: manage your farming and learn more about Harvest
 published: true
-date: 2020-11-22T14:57:33.225Z
+date: 2020-11-23T13:16:32.452Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-14T19:44:06.472Z
@@ -48,7 +48,7 @@ Contest is over. Here are the winners:
 🥈 2nd place: https://yellow118039.invisionapp.com/console/share/W31PYAZZS4 / https://twitter.com/yellowestchips
 🥉 3rd place: https://i.imgur.com/fzN44e0.png
 
-- 🎉 Harvest Finance Creativity Contes. https://harvestfinance.medium.com/launching-the-harvest-finance-creativity-contest-d04d9f0a9a38 / Winners: https://www.publish0x.com/harvestfinance/harvest-finance-farm-arts-creativity-contest-winners-round-2-xyvlxwd
+- 🎉 Harvest Finance Creativity Contest. https://harvestfinance.medium.com/launching-the-harvest-finance-creativity-contest-d04d9f0a9a38 / Winners: https://www.publish0x.com/harvestfinance/harvest-finance-farm-arts-creativity-contest-winners-round-2-xyvlxwd
 Contest is over. Here are the winners: 
 🥇 1st place: https://twitter.com/LushDarkWings/status/1319781080606625799?s=20
 🥈 2nd place: https://twitter.com/svbubbles/status/1320712214190280705
