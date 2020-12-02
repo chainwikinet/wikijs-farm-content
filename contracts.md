@@ -2,7 +2,7 @@
 title: Harvest Tokens and Contracts
 description: Tokens, contracts, and key addresses of the Harvest Finance ecosystem
 published: true
-date: 2020-12-02T08:13:34.485Z
+date: 2020-12-02T08:26:21.831Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-11T22:03:19.306Z
@@ -32,6 +32,7 @@ dateCreated: 2020-11-11T22:03:19.306Z
 |fYCRV| [0x0FE4283e0216F94f5f9750a7a11AC54D3c9C38F3][es-fycrv]| deposit receipt for Harvest's Curve yPool vault. [learn more](fycrv)
 |fUSDN| [0x683E683fBE6Cf9b635539712c999f3B3EdCB8664][es-fusdn]| deposit receipt for Harvest's Curve USDN vault. [learn more](fusdn)
 |fBUSD| [0x4b1cBD6F6D8676AcE5E412C78B7a59b4A1bbb68a][es-fbusd]| deposit receipt for Harvest's Curve BUSD vault. [learn more](fbusd)
+|fcrvComp| [0x998cEb152A42a3EaC1f555B1E911642BeBf00faD][es-fcrvcomp] | deposit receipt for Harvest's Curve BUSD vault. [learn more](fcrvcomp)
 |fDAI| [0xab7FA2B2985BCcfC13c6D86b1D5A17486ab1e04C][es-fdai] | deposit receipt for Harvest's DAI vault. [learn more](fdai)
 |fUSDC| [0xf0358e8c3CD5Fa238a29301d0bEa3D63A17bEdBE][es-fusdc] | deposit receipt for Harvest's USDC vault. [learn more](fusdc)
 |fUSDT| [0x053c80eA73Dc6941F518a68E2FC52Ac45BDE7c9C][es-fusdt] | deposit receipt for Harvest's USDT vault. [learn more](fusdt)
@@ -101,6 +102,7 @@ dateCreated: 2020-11-11T22:03:19.306Z
 [es-fycrv]: https://etherscan.io/token/0x0FE4283e0216F94f5f9750a7a11AC54D3c9C38F3
 [es-fusdn]: https://etherscan.io/token/0x683e683fbe6cf9b635539712c999f3b3edcb8664
 [es-fbusd]: https://etherscan.io/token/0x4b1cbd6f6d8676ace5e412c78b7a59b4a1bbb68a
+[es-fcrvcomp]: https://etherscan.io/token/0x998cEb152A42a3EaC1f555B1E911642BeBf00faD
 [es-frenbtc]: https://etherscan.io/token/0xC391d1b08c1403313B0c28D47202DFDA015633C4
 [es-fcrvrenwbtc]: https://etherscan.io/token/0x9aA8F427A17d6B0d91B6262989EdC7D45d6aEdf8
 [es-fusdc_weth_lp]: https://etherscan.io/token/0xA79a083FDD87F73c2f983c5551EC974685D6bb36
