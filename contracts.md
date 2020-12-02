@@ -2,7 +2,7 @@
 title: Harvest Tokens and Contracts
 description: Tokens, contracts, and key addresses of the Harvest Finance ecosystem
 published: true
-date: 2020-11-15T02:23:14.600Z
+date: 2020-12-02T08:13:34.485Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-11T22:03:19.306Z
@@ -27,10 +27,12 @@ dateCreated: 2020-11-11T22:03:19.306Z
 |:---|:---|:---|
 |FARM|[0xa0246c9032bC3A600820415aE600c6388619A14D][es-farm] | Harvest profit sharing token. [learn more](farm)
 |fWETH|[0xFE09e53A81Fe2808bc493ea64319109B5bAa573e][es-fweth]| deposit receipt for Harvest's WETH vault. [learn more](fweth)
-|fcrvTBTC| 0x640704D106E79e105FDA424f05467F005418F1B5 |deposit receipt for Harvest's Curve TBTC metapool vault. [learn more](fcrvtbtc)
-|f3CRV| 0x71B9eC42bB3CB40F017D8AD8011BE8e384a95fa5| deposit receipt for Harvest's Curve 3pool vault. [learn more](f3crv)
-|fYCRV| 0x0FE4283e0216F94f5f9750a7a11AC54D3c9C38F3| deposit receipt for Harvest's Curve yPool vault. [learn more](fycrv)
-|fDAI| [0xab7fa2b2985bccfc13c6d86b1d5a17486ab1e04c][es-fdai] | deposit receipt for Harvest's DAI vault. [learn more](fdai)
+|fcrvTBTC| [0x640704D106E79e105FDA424f05467F005418F1B5][es-fcrvtbtc] |deposit receipt for Harvest's Curve TBTC metapool vault. [learn more](fcrvtbtc)
+|f3CRV| [0x71B9eC42bB3CB40F017D8AD8011BE8e384a95fa5][es-f3crv]| deposit receipt for Harvest's Curve 3pool vault. [learn more](f3crv)
+|fYCRV| [0x0FE4283e0216F94f5f9750a7a11AC54D3c9C38F3][es-fycrv]| deposit receipt for Harvest's Curve yPool vault. [learn more](fycrv)
+|fUSDN| [0x683E683fBE6Cf9b635539712c999f3B3EdCB8664][es-fusdn]| deposit receipt for Harvest's Curve USDN vault. [learn more](fusdn)
+|fBUSD| [0x4b1cBD6F6D8676AcE5E412C78B7a59b4A1bbb68a][es-fbusd]| deposit receipt for Harvest's Curve BUSD vault. [learn more](fbusd)
+|fDAI| [0xab7FA2B2985BCcfC13c6D86b1D5A17486ab1e04C][es-fdai] | deposit receipt for Harvest's DAI vault. [learn more](fdai)
 |fUSDC| [0xf0358e8c3CD5Fa238a29301d0bEa3D63A17bEdBE][es-fusdc] | deposit receipt for Harvest's USDC vault. [learn more](fusdc)
 |fUSDT| [0x053c80eA73Dc6941F518a68E2FC52Ac45BDE7c9C][es-fusdt] | deposit receipt for Harvest's USDT vault. [learn more](fusdt)
 |fTUSD| [0x7674622c63Bee7F46E86a4A5A18976693D54441b][es-ftusd] | deposit receipt for Harvest's TUSD vault. [learn more](ftusd)
@@ -38,10 +40,15 @@ dateCreated: 2020-11-11T22:03:19.306Z
 |fWBTC   | [0x5d9d25c7C457dD82fc8668FFC6B9746b674d4EcB][es-fwbtc] | deposit receipt for Harvest's wBTC vault. [learn more](fwbtc)
 |frenBTC | [0xC391d1b08c1403313B0c28D47202DFDA015633C4][es-frenbtc] | deposit receipt for Harvest's renBTC vault. [learn more](frenbtc)
 |fSLP_WBTC_TBTC | [0xF553E1f826f42716cDFe02bde5ee76b2a52fc7EB][es-fslp] | deposit receipt for Harvest's Sushiswap WBTC:TBTC vault. [learn more](fslp_wbtc_tbtc)
+|fSLP_WETH_DAI| [0x203E97aa6eB65A1A02d9E80083414058303f241E][es-fslp-weth-dai]|deposit receipt for Harvest's Sushiswap WETH:DAI vault. [learn more](fslp_weth_dai)
+|fSLP_WETH_USDC| [0x01bd09A1124960d9bE04b638b142Df9DF942b04a][es-fslp-weth-usdc]|deposit receipt for Harvest's Sushiswap WETH:USDC vault. [learn more](fslp_weth_usdc)
+|fSLP_WETH_USDT| [0x64035b583c8c694627A199243E863Bb33be60745][es-fslp-weth-usdt]|deposit receipt for Harvest's Sushiswap WETH:USDT vault. [learn more](fslp_weth_usdt)
+|fSLP_WETH_WBTC| [0x5C0A3F55AAC52AA320Ff5F280E77517cbAF85524][es-fslp-weth-wbtc]|deposit receipt for Harvest's Sushiswap WETH:WBTC vault. [learn more](fslp_weth_wbtc)
 |fUSDC_WETH_LP|[0xA79a083FDD87F73c2f983c5551EC974685D6bb36][es-fusdc_weth_lp]|deposit receipt for Harvest's Uniswap USDC:ETH vault. [learn more](funi_usdc_eth)
 |fUSDT_WETH_LP|[0x7DDc3ffF0612E75Ea5ddC0d6Bd4e268f70362Cff][es-fusdt_weth_lp]|deposit receipt for Harvest's Uniswap USDT:ETH vault. [learn more](funi_usdt_eth)
 |fDAI_WETH_LP|[	0x307E2752e8b8a9C29005001Be66B1c012CA9CDB7][es-fdai_weth_lp]|deposit receipt for Harvest's Uniswap DAI:ETH vault. [learn more](funi_dai_eth)
 |fWBTC_WETH_LP|[0x01112a60f427205dcA6E229425306923c3Cc2073][es-fwbtc_weth_lp]|deposit receipt for Harvest's Uniswap WBTC:ETH vault. [learn more](funi_wbtc_eth)
+
 
 
 
@@ -80,6 +87,8 @@ dateCreated: 2020-11-11T22:03:19.306Z
 [add-frenbtc]: https://harvestfi.github.io/add-frenbtc
 [add-fcrvrenwbtc]: https://harvestfi.github.io/add-fcrvrenwbtc
 
+
+[es-fweth]: https://etherscan.io/token/0xFE09e53A81Fe2808bc493ea64319109B5bAa573e
 [es-farm]: https://etherscan.io/token/0xa0246c9032bc3a600820415ae600c6388619a14d
 [es-farm_usdc_lp]: https://etherscan.io/address/0x514906FC121c7878424a5C928cad1852CC545892
 [es-fdai]: https://etherscan.io/token/0xab7fa2b2985bccfc13c6d86b1d5a17486ab1e04c
@@ -87,14 +96,24 @@ dateCreated: 2020-11-11T22:03:19.306Z
 [es-fusdt]: https://etherscan.io/token/0x053c80eA73Dc6941F518a68E2FC52Ac45BDE7c9C
 [es-ftusd]: https://etherscan.io/token/0x7674622c63Bee7F46E86a4A5A18976693D54441b
 [es-fwbtc]: https://etherscan.io/token/0x5d9d25c7C457dD82fc8668FFC6B9746b674d4EcB
+[es-fcrvtbtc]: https://etherscan.io/token/0x640704D106E79e105FDA424f05467F005418F1B5
+[es-f3crv]: https://etherscan.io/token/0x71B9eC42bB3CB40F017D8AD8011BE8e384a95fa5
+[es-fycrv]: https://etherscan.io/token/0x0FE4283e0216F94f5f9750a7a11AC54D3c9C38F3
+[es-fusdn]: https://etherscan.io/token/0x683e683fbe6cf9b635539712c999f3b3edcb8664
+[es-fbusd]: https://etherscan.io/token/0x4b1cbd6f6d8676ace5e412c78b7a59b4a1bbb68a
 [es-frenbtc]: https://etherscan.io/token/0xC391d1b08c1403313B0c28D47202DFDA015633C4
 [es-fcrvrenwbtc]: https://etherscan.io/token/0x9aA8F427A17d6B0d91B6262989EdC7D45d6aEdf8
-[es-fweth]: https://etherscan.io/token/0xFE09e53A81Fe2808bc493ea64319109B5bAa573e
 [es-fusdc_weth_lp]: https://etherscan.io/token/0xA79a083FDD87F73c2f983c5551EC974685D6bb36
 [es-fusdt_weth_lp]: https://etherscan.io/token/0x7DDc3ffF0612E75Ea5ddC0d6Bd4e268f70362Cff
 [es-fdai_weth_lp]: https://etherscan.io/token/0x307E2752e8b8a9C29005001Be66B1c012CA9CDB7
 [es-fwbtc_weth_lp]: https://etherscan.io/token/0x01112a60f427205dcA6E229425306923c3Cc2073
 [es-fslp]: https://etherscan.io/token/0xF553E1f826f42716cDFe02bde5ee76b2a52fc7EB
+[es-fslp-weth-dai]: https://etherscan.io/token/0x203E97aa6eB65A1A02d9E80083414058303f241E
+[es-fslp-weth-usdc]: https://etherscan.io/token/0x01bd09a1124960d9be04b638b142df9df942b04a
+[es-fslp-weth-usdt]: https://etherscan.io/token/0x64035b583c8c694627a199243e863bb33be60745
+[es-fslp-weth-wbtc]: https://etherscan.io/token/0x5c0a3f55aac52aa320ff5f280e77517cbaf85524
+
+
 
 [uni-buy-farm]: https://uniswap.exchange/swap?outputCurrency=0xa0246c9032bc3a600820415ae600c6388619a14d
 [uni-buy_farm_usdc]: https://app.uniswap.org/#/add/0xa0246c9032bc3a600820415ae600c6388619a14d/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48
