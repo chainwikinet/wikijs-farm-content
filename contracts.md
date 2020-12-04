@@ -2,7 +2,7 @@
 title: Harvest Tokens and Contracts
 description: Tokens, contracts, and key addresses of the Harvest Finance ecosystem
 published: true
-date: 2020-12-02T08:26:21.831Z
+date: 2020-12-04T09:18:01.282Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-11T22:03:19.306Z
@@ -15,9 +15,12 @@ dateCreated: 2020-11-11T22:03:19.306Z
 | [0xf00dD244228F51547f0563e60bCa65a30FBF5f7f][es-deployer] |Deploys and administers contracts|
 | [0xbed04C43E74150794F2ff5b62B4F73820EDaF661][es-harvester] |Executes harvests of farmed rewards|
 | [0x284D7200a0Dabb05ee6De698da10d00df164f61d][es-minter] |DelayMinter; announces and executes FARM minting|
+| [0xE20c31e3d08027F5AfACe84A3A46B7b3B165053c][es-notifyhelper] |Notify Helper; Sends profitshare emissions daily.
 | [0x008671Ca953EC3BAa8C1b9af4623d38789EE2236][es-vwap]|VWAP bot; auto-sells some FARM to pay for things|
 | [0x49d71131396F23F0bCE31dE80526D7C025981c4d][es-dev] |Developer fund; receives 20% of minted FARM|
 | [0x843002b1D545ef7abB71C716e6179570582faA40][es-ops] |Operations fund; receives 10% of minted FARM|
+
+[es-notifyhelper]: https://etherscan.io/address/0xe20c31e3d08027f5aface84a3a46b7b3b165053c
 
 # Token Contracts
 
