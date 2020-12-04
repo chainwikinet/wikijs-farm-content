@@ -2,7 +2,7 @@
 title: Harvest Finance Media & Dashboards
 description: manage your farming and learn more about Harvest
 published: true
-date: 2020-11-23T13:16:32.452Z
+date: 2020-12-04T08:12:19.292Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-14T19:44:06.472Z
@@ -76,6 +76,13 @@ Contest is over. Here are the winners:
 - Week 6 Update: Security Rules Everything Around Me https://medium.com/harvest-finance/week-6-update-security-rules-everything-around-me-62a681a3692a
 - Week 7 Update: Ongoing Vault Migration Phase 2 https://medium.com/harvest-finance/harvest-finance-week-7-update-ongoing-vault-migration-phase-2-794d293083f0
 - Week 8 Update: Welcome to the Good Life (Migration Complete) https://medium.com/@harvestfinance/week-8-update-welcome-to-the-good-life-migration-complete-cf72137fc6eb
+- Week 9 Update: Restoring Funds and Immediate Next Steps to Mitigate Hacks https://medium.com/harvest-finance/week-9-update-restoring-funds-and-immediate-next-steps-to-mitigate-hacks-c2dc5bd829e5
+- Harvest Flashloan Economic Attack Post-Mortem https://medium.com/harvest-finance/harvest-flashloan-economic-attack-post-mortem-3cf900d65217
+- Week 10 Update: New Vaults and More 🥖 Bread for the People! https://medium.com/harvest-finance/week-10-update-new-vaults-and-more-bread-for-the-people-644b661d6163
+- Week 11 Update: Gains and Golden GRAINs https://medium.com/harvest-finance/week-11-update-gains-and-golden-grains-66165235be1d
+- Week 12 — Seasonal Crop Rotation, Same Farming Destination https://medium.com/harvest-finance/week-12-seasonal-crop-rotation-same-farming-destination-9f76694fc872
+- Week 13 — A Season of Many Thanks to our Amazing Community https://medium.com/harvest-finance/week-13-a-season-of-many-thanks-to-our-amazing-community-db641a7afa8a
+- Week 14 Updates — Building Today, Funding the Builders of Tomorrow https://harvestfinance.medium.com/week-14-updates-building-today-funding-the-builders-of-tomorrow-74c5ea8575f6
 
 ## Community
 ##### Podcasts
