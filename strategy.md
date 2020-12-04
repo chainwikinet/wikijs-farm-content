@@ -2,7 +2,7 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2020-12-02T02:11:09.330Z
+date: 2020-12-04T05:01:02.076Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-04T07:47:54.724Z
@@ -30,6 +30,7 @@ Harvest Finance launched on September 1st. New farming strategies are constantly
 - **2020-11-17** Harvest adds CRV farming support for USDN, COMPOUND, and BUSD pools. 
 - **2020-11-30** Harvest adds IDLE farming by redeploying single-asset vault assets of USDC, USDT, TUSD, DAI, WBTC into idle.finance.
 - **2020-12-01** Harvest launches Self-Provisioning LP strategy using WETH single-asset pool in addition to enabling leveraged investing on Compound.
+- **2020-12-03** Harvest adds CRV farming support for HUSD and HBTC and INDEX farming support for ETH-DPI Uni LP.
 
 
 As of September 8th, 70% of the yield farming revenue is returned to users who provide capital. The remaining 30% of the yield farming revenue is distributed to users who [stake FARM in the Profit Sharing contract][farm-stakedrop]. The Harvest Finance team does not charge fees for withdrawing or depositing assets and does not claim a fee on the yield farming revenue.
