@@ -2,7 +2,7 @@
 title: Harvest Finance Media & Dashboards
 description: manage your farming and learn more about Harvest
 published: true
-date: 2020-12-04T08:12:19.292Z
+date: 2020-12-05T22:28:08.124Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-14T19:44:06.472Z
@@ -35,6 +35,7 @@ Tools created by community members:
 - https://david4neblio.github.io/harvestyield/ (profit share yield calulator)
 - https://www.omnicalculator.com/finance/apy (convert between APY and APR)
 - https://explore.duneanalytics.com/public/dashboards/nwtrluxssitcm8ipiQjUjwJQ5Xf5DF8KwSnOlYLa ($FARM allocation visualized)
+- https://www.weirdlittlecorner.com/farm (memes + artwork)
 
 # Contests
 ##### ONGOING
@@ -43,19 +44,21 @@ Tools created by community members:
 ---
 ##### FINISHED
 - 🖥️ Harvest Finance Web Design Contest. https://www.publish0x.com/harvestfinance/harvest-finance-web-design-contest-winners-xqorxee
-Contest is over. Here are the winners:
 🥇 1st place: https://harvest-finance.webflow.io/
 🥈 2nd place: https://yellow118039.invisionapp.com/console/share/W31PYAZZS4 / https://twitter.com/yellowestchips
 🥉 3rd place: https://i.imgur.com/fzN44e0.png
-
-- 🎉 Harvest Finance Creativity Contest. https://harvestfinance.medium.com/launching-the-harvest-finance-creativity-contest-d04d9f0a9a38 / Winners: https://www.publish0x.com/harvestfinance/harvest-finance-farm-arts-creativity-contest-winners-round-2-xyvlxwd
-Contest is over. Here are the winners: 
+.
+- 🎉 Harvest Finance Creativity Contest Round 2. https://www.publish0x.com/harvestfinance/harvest-finance-farm-arts-creativity-contest-winners-round-2-xyvlxwd
 🥇 1st place: https://twitter.com/LushDarkWings/status/1319781080606625799?s=20
 🥈 2nd place: https://twitter.com/svbubbles/status/1320712214190280705
 🥉 3rd place: https://twitter.com/ScifiZephyr/status/1320926223917150210
-
+.
+- 🎉 Harvest Finance Creativity Contest. https://www.publish0x.com/harvestfinance/harvestfinance-farm-arts-contest-winners-xxoxxed
+🥇 1st place: https://twitter.com/Jack93689918/status/1309840871462854656
+🥈 2nd place: https://twitter.com/BryanDivisions/status/1313689984646483968
+🥉 3rd place: https://twitter.com/LChaddington/status/1313198284601790464
+.
 - The 🥖#BreadForThePeople Meme Contest. https://medium.com/@harvestfinance/the-breadforthepeople-meme-contest-3b035b0c2fc4
-Contest is over. Here are the winners: 
 🥇 1st place: https://twitter.com/F3alimi/status/1307230681404182528
 🥈 2nd place: https://twitter.com/Geo47319865/status/1304516999935123457
 🥉 3rd place: https://twitter.com/blujunk/status/1306446725540798465
