@@ -2,7 +2,7 @@
 title: Home
 description: Harvest Finance Community Chainwiki
 published: true
-date: 2020-11-11T15:25:41.461Z
+date: 2020-12-06T11:55:29.827Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-13T05:55:54.766Z
@@ -38,7 +38,6 @@ Explore this wiki to learn about Harvest and its yield farming strategies.
 
 Earn `$FARM` in upcoming stakedrops or by contributing to the Harvest community.
 
-![harvest.jpeg](/harvest.jpeg)
 
 # About This Wiki :globe_with_meridians:
 
@@ -52,3 +51,5 @@ The content is freely licensed and available on GitHub:
 https://github.com/chainwikinet/wikijs-farm-content (PRs accepted!)
 
 Administered by the [Chainwiki Network](https://meta.chainwiki.dev/). [Support](https://wiki.js.org/support) WikiJS development.
+
+![harvest.jpeg](/harvest.jpeg)
