@@ -2,7 +2,7 @@
 title: Harvest Finance Articles, Media & Data
 description: manage your farming and learn more about Harvest
 published: true
-date: 2020-12-06T12:08:10.689Z
+date: 2020-12-06T14:49:21.379Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-14T19:44:06.472Z
@@ -91,17 +91,18 @@ Tools created by community members:
 
 ## Community
 ##### Podcasts
-Redemtion's podcast appearance at Defi France: https://youtu.be/GpmnSMLP_Ms?t=2463
+Redmption's podcast appearance at Defi France: https://youtu.be/GpmnSMLP_Ms?t=2463
+
+Redmption's podcast appearance at Delpi Digital: https://www.delphidigital.io/podcasts/red-from-harvest-finance-scaling-a-community-to-match-1b-in-tvl-at-its-height/
 ##### Articles
-- Redmption's Farmers Collection
-		- A bountiful Harvest awaits. https://medium.com/@Redmption/a-bountiful-harvest-awaits-373cbc9cb7d4
-		- Harvest Finance : The reality of APYs. https://medium.com/@Redmption/harvest-finance-the-reality-of-apys-e7bd93a795b7
-		- Panic at the Crypto https://medium.com/@Redmption/panic-at-the-crypto-8e4961d10e2
-		- Piece of mind at Harvest Finance https://redmption.medium.com/let-the-eye-of-vigilance-never-be-closed-d4756e68ada9
-		- Dew Diligence: A rebuttal to CoinTelegraph https://redmption.medium.com/cash-crop-evaluating-produce-eade80e5ab2d
-		- How does the FARM token work? https://redmption.medium.com/flight-of-the-aggregator-1a687a1662ed
-		- Cash Flow is King https://redmption.medium.com/cash-crop-evaluating-produce-eade80e5ab2d
-    
+- Redmption's Farmers Almanac
+		- ***Introduction to Harvest Finance***: https://medium.com/@Redmption/a-bountiful-harvest-awaits-373cbc9cb7d4
+		- ***Why Harvest Finance?***: https://medium.com/@Redmption/harvest-finance-the-reality-of-apys-e7bd93a795b7
+		- ***How do Depositors Make Money?*** https://redmption.medium.com/flight-of-the-aggregator-1a687a1662ed
+		- ***Evaluation of $FARM***: https://redmption.medium.com/cash-crop-evaluating-produce-eade80e5ab2d
+        - ***Beginners Tutorial - Six easy steps to depositing with Harvest Finance***: https://redmption.medium.com/yield-farming-for-beginners-getting-started-with-harvest-finance-aca3991fccc3
+
+***
 - Harvest Finance. A beginner’s perspective to farming. https://medium.com/@bartysu/harvest-finance-a-beginners-perspective-to-farming-b03b9ab8e852
 - Farm Divident paying shares: https://medium.com/trading-cryptocurrency/harvest-finance-farm-dividend-paying-shares-d600a9404f18
 - Harvest.Finance Security Review (HAECHI AUDIT). https://medium.com/haechi-audit/harvest-finance-security-review-64782c98d2ae
