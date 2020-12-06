@@ -1,8 +1,8 @@
 ---
-title: Harvest Finance Media & Dashboards
+title: Harvest Finance Articles, Media & Data
 description: manage your farming and learn more about Harvest
 published: true
-date: 2020-12-05T22:30:17.482Z
+date: 2020-12-06T12:01:18.289Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-14T19:44:06.472Z
