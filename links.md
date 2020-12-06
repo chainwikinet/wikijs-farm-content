@@ -2,7 +2,7 @@
 title: Harvest Finance Articles, Media & Data
 description: manage your farming and learn more about Harvest
 published: true
-date: 2020-12-06T12:01:18.289Z
+date: 2020-12-06T12:08:10.689Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-14T19:44:06.472Z
@@ -37,15 +37,18 @@ Tools created by community members:
 - https://explore.duneanalytics.com/public/dashboards/nwtrluxssitcm8ipiQjUjwJQ5Xf5DF8KwSnOlYLa ($FARM allocation visualized)
 
 # Contests
-##### ONGOING
-- :pencil:  #DeFiFARMer Writing Contest - Ongoing until 13.11.20 : https://www.publish0x.com/publish0x-contests/defifarmer-writing-contest-and-giveaway-900-dollars-in-dolla-xqojggd
+## ONGOING
 
----
-##### FINISHED
-- 🖥️ Harvest Finance Web Design Contest. https://www.publish0x.com/harvestfinance/harvest-finance-web-design-contest-winners-xqorxee
-🥇 1st place: https://harvest-finance.webflow.io/
-🥈 2nd place: https://yellow118039.invisionapp.com/console/share/W31PYAZZS4 / https://twitter.com/yellowestchips
-🥉 3rd place: https://i.imgur.com/fzN44e0.png
+- More coming soon!
+
+## FINISHED
+
+- :pencil:  [#DeFiFARMer Writing Contest](https://www.publish0x.com/publish0x-contests/defifarmer-writing-contest-and-giveaway-900-dollars-in-dolla-xqojggd) - Ongoing until 2020-11-13
+
+- 🖥️ [Harvest Finance Web Design Contest](https://www.publish0x.com/harvestfinance/harvest-finance-web-design-contest-winners-xqorxee)
+  - 🥇 1st place: [Harvest splash page in Webflow](https://harvest-finance.webflow.io/)
+  - 🥈 2nd place: [Harvest site reimagining in Invision](https://yellow118039.invisionapp.com/console/share/W31PYAZZS4) by [@yellowestchips](https://twitter.com/yellowestchips)
+  - 🥉 3rd place: [Harvest site accordion redesign](https://i.imgur.com/fzN44e0.png)
 .
 - 🎉 Harvest Finance Creativity Contest Round 2. https://www.publish0x.com/harvestfinance/harvest-finance-farm-arts-creativity-contest-winners-round-2-xyvlxwd
 🥇 1st place: https://twitter.com/LushDarkWings/status/1319781080606625799?s=20
