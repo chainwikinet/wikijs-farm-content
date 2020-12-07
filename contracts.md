@@ -2,7 +2,7 @@
 title: Harvest Tokens and Contracts
 description: Tokens, contracts, and key addresses of the Harvest Finance ecosystem
 published: true
-date: 2020-12-04T09:18:32.108Z
+date: 2020-12-07T23:29:27.383Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-11T22:03:19.306Z
@@ -30,6 +30,7 @@ dateCreated: 2020-11-11T22:03:19.306Z
 |:---|:---|:---|
 |FARM|[0xa0246c9032bC3A600820415aE600c6388619A14D][es-farm] | Harvest profit sharing token. [learn more](farm)
 |fWETH|[0xFE09e53A81Fe2808bc493ea64319109B5bAa573e][es-fweth]| deposit receipt for Harvest's WETH vault. [learn more](fweth)
+|fUni_ETH_DPI|0x4d5ef58aAc27d99935E5b6B4A6778ff292059991 | deposit receipt for Harvest's Uniswap ETH:DPI vault. [learn more](funi_weth_dpi)
 |fcrvTBTC| [0x640704D106E79e105FDA424f05467F005418F1B5][es-fcrvtbtc] |deposit receipt for Harvest's Curve TBTC metapool vault. [learn more](fcrvtbtc)
 |f3CRV| [0x71B9eC42bB3CB40F017D8AD8011BE8e384a95fa5][es-f3crv]| deposit receipt for Harvest's Curve 3pool vault. [learn more](f3crv)
 |fYCRV| [0x0FE4283e0216F94f5f9750a7a11AC54D3c9C38F3][es-fycrv]| deposit receipt for Harvest's Curve yPool vault. [learn more](fycrv)
