@@ -2,7 +2,7 @@
 title: Harvest Tokens and Contracts
 description: Tokens, contracts, and key addresses of the Harvest Finance ecosystem
 published: true
-date: 2020-12-07T23:29:27.383Z
+date: 2020-12-08T00:11:31.814Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-11T22:03:19.306Z
@@ -31,27 +31,33 @@ dateCreated: 2020-11-11T22:03:19.306Z
 |FARM|[0xa0246c9032bC3A600820415aE600c6388619A14D][es-farm] | Harvest profit sharing token. [learn more](farm)
 |fWETH|[0xFE09e53A81Fe2808bc493ea64319109B5bAa573e][es-fweth]| deposit receipt for Harvest's WETH vault. [learn more](fweth)
 |fUni_ETH_DPI|0x4d5ef58aAc27d99935E5b6B4A6778ff292059991 | deposit receipt for Harvest's Uniswap ETH:DPI vault. [learn more](funi_weth_dpi)
-|fcrvTBTC| [0x640704D106E79e105FDA424f05467F005418F1B5][es-fcrvtbtc] |deposit receipt for Harvest's Curve TBTC metapool vault. [learn more](fcrvtbtc)
-|f3CRV| [0x71B9eC42bB3CB40F017D8AD8011BE8e384a95fa5][es-f3crv]| deposit receipt for Harvest's Curve 3pool vault. [learn more](f3crv)
+
+|fCRV-HUSD| [0x29780C39164Ebbd62e9DDDE50c151810070140f2][es-fcrvhusd]|deposit receipt for Harvest's Curve HUSD metapool vault. [learn more](fcrvhusd)
 |fYCRV| [0x0FE4283e0216F94f5f9750a7a11AC54D3c9C38F3][es-fycrv]| deposit receipt for Harvest's Curve yPool vault. [learn more](fycrv)
-|fUSDN| [0x683E683fBE6Cf9b635539712c999f3B3EdCB8664][es-fusdn]| deposit receipt for Harvest's Curve USDN vault. [learn more](fusdn)
-|fBUSD| [0x4b1cBD6F6D8676AcE5E412C78B7a59b4A1bbb68a][es-fbusd]| deposit receipt for Harvest's Curve BUSD vault. [learn more](fbusd)
+|f3CRV| [0x71B9eC42bB3CB40F017D8AD8011BE8e384a95fa5][es-f3crv]| deposit receipt for Harvest's Curve 3pool vault. [learn more](f3crv)
 |fcrvComp| [0x998cEb152A42a3EaC1f555B1E911642BeBf00faD][es-fcrvcomp] | deposit receipt for Harvest's Curve BUSD vault. [learn more](fcrvcomp)
-|fDAI| [0xab7FA2B2985BCcfC13c6D86b1D5A17486ab1e04C][es-fdai] | deposit receipt for Harvest's DAI vault. [learn more](fdai)
+|fBUSD| [0x4b1cBD6F6D8676AcE5E412C78B7a59b4A1bbb68a][es-fbusd]| deposit receipt for Harvest's Curve BUSD vault. [learn more](fbusd)
+|fUSDN| [0x683E683fBE6Cf9b635539712c999f3B3EdCB8664][es-fusdn]| deposit receipt for Harvest's Curve USDN vault. [learn more](fusdn)
 |fUSDC| [0xf0358e8c3CD5Fa238a29301d0bEa3D63A17bEdBE][es-fusdc] | deposit receipt for Harvest's USDC vault. [learn more](fusdc)
 |fUSDT| [0x053c80eA73Dc6941F518a68E2FC52Ac45BDE7c9C][es-fusdt] | deposit receipt for Harvest's USDT vault. [learn more](fusdt)
 |fTUSD| [0x7674622c63Bee7F46E86a4A5A18976693D54441b][es-ftusd] | deposit receipt for Harvest's TUSD vault. [learn more](ftusd)
+|fDAI| [0xab7FA2B2985BCcfC13c6D86b1D5A17486ab1e04C][es-fdai] | deposit receipt for Harvest's DAI vault. [learn more](fdai)
+
+|fCRV-HBTC | 0xCC775989e76ab386E9253df5B0c0b473E22102E2| deposit receipt for Harvest's Curve HBTC metapool vault. [learn more](frenbtc)
+|fcrvTBTC| [0x640704D106E79e105FDA424f05467F005418F1B5][es-fcrvtbtc] |deposit receipt for Harvest's Curve TBTC metapool vault. [learn more](fcrvtbtc)
 |fcrvRenWBTC | [0x9aA8F427A17d6B0d91B6262989EdC7D45d6aEdf8][es-fcrvrenwbtc] | deposit receipt for Harvest's Curve RenWBTC pool vault. [learn more](fcrvrenwbtc)
 |fWBTC   | [0x5d9d25c7C457dD82fc8668FFC6B9746b674d4EcB][es-fwbtc] | deposit receipt for Harvest's wBTC vault. [learn more](fwbtc)
 |frenBTC | [0xC391d1b08c1403313B0c28D47202DFDA015633C4][es-frenbtc] | deposit receipt for Harvest's renBTC vault. [learn more](frenbtc)
-|fSLP_WBTC_TBTC | [0xF553E1f826f42716cDFe02bde5ee76b2a52fc7EB][es-fslp] | deposit receipt for Harvest's Sushiswap WBTC:TBTC vault. [learn more](fslp_wbtc_tbtc)
+
 |fSLP_WETH_DAI| [0x203E97aa6eB65A1A02d9E80083414058303f241E][es-fslp-weth-dai]|deposit receipt for Harvest's Sushiswap WETH:DAI vault. [learn more](fslp_weth_dai)
 |fSLP_WETH_USDC| [0x01bd09A1124960d9bE04b638b142Df9DF942b04a][es-fslp-weth-usdc]|deposit receipt for Harvest's Sushiswap WETH:USDC vault. [learn more](fslp_weth_usdc)
 |fSLP_WETH_USDT| [0x64035b583c8c694627A199243E863Bb33be60745][es-fslp-weth-usdt]|deposit receipt for Harvest's Sushiswap WETH:USDT vault. [learn more](fslp_weth_usdt)
 |fSLP_WETH_WBTC| [0x5C0A3F55AAC52AA320Ff5F280E77517cbAF85524][es-fslp-weth-wbtc]|deposit receipt for Harvest's Sushiswap WETH:WBTC vault. [learn more](fslp_weth_wbtc)
+|fSLP_WBTC_TBTC | [0xF553E1f826f42716cDFe02bde5ee76b2a52fc7EB][es-fslp] | deposit receipt for Harvest's Sushiswap WBTC:TBTC vault. [learn more](fslp_wbtc_tbtc)
+
+|fDAI_WETH_LP|[	0x307E2752e8b8a9C29005001Be66B1c012CA9CDB7][es-fdai_weth_lp]|deposit receipt for Harvest's Uniswap DAI:ETH vault. [learn more](funi_dai_eth)
 |fUSDC_WETH_LP|[0xA79a083FDD87F73c2f983c5551EC974685D6bb36][es-fusdc_weth_lp]|deposit receipt for Harvest's Uniswap USDC:ETH vault. [learn more](funi_usdc_eth)
 |fUSDT_WETH_LP|[0x7DDc3ffF0612E75Ea5ddC0d6Bd4e268f70362Cff][es-fusdt_weth_lp]|deposit receipt for Harvest's Uniswap USDT:ETH vault. [learn more](funi_usdt_eth)
-|fDAI_WETH_LP|[	0x307E2752e8b8a9C29005001Be66B1c012CA9CDB7][es-fdai_weth_lp]|deposit receipt for Harvest's Uniswap DAI:ETH vault. [learn more](funi_dai_eth)
 |fWBTC_WETH_LP|[0x01112a60f427205dcA6E229425306923c3Cc2073][es-fwbtc_weth_lp]|deposit receipt for Harvest's Uniswap WBTC:ETH vault. [learn more](funi_wbtc_eth)
 
 
@@ -103,6 +109,7 @@ dateCreated: 2020-11-11T22:03:19.306Z
 [es-ftusd]: https://etherscan.io/token/0x7674622c63Bee7F46E86a4A5A18976693D54441b
 [es-fwbtc]: https://etherscan.io/token/0x5d9d25c7C457dD82fc8668FFC6B9746b674d4EcB
 [es-fcrvtbtc]: https://etherscan.io/token/0x640704D106E79e105FDA424f05467F005418F1B5
+[es-fcrvhusd]: https://etherscan.io/token/0x29780C39164Ebbd62e9DDDE50c151810070140f2
 [es-f3crv]: https://etherscan.io/token/0x71B9eC42bB3CB40F017D8AD8011BE8e384a95fa5
 [es-fycrv]: https://etherscan.io/token/0x0FE4283e0216F94f5f9750a7a11AC54D3c9C38F3
 [es-fusdn]: https://etherscan.io/token/0x683e683fbe6cf9b635539712c999f3b3edcb8664
