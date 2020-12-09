@@ -2,7 +2,7 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2020-12-04T05:01:02.076Z
+date: 2020-12-09T15:59:12.473Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-04T07:47:54.724Z
@@ -13,6 +13,24 @@ dateCreated: 2020-09-04T07:47:54.724Z
 
 
 # Active Yield Farming Strategies
+
+**Farming Curve LP token rewards**
+Summary: deposit funds into Curve to receive a Curve LP token; deposit the Curve LP token into Harvest to automatically harvest the Curve rewards.
+Rewards Harvested: CRV (+ sometimes others, like KEEP)
+Strategies: [link relevant strategies]
+Vaults: Stablecoins (`CRV-YPOOL`, `CRV-3POOL`, `CRV-COMPOUND`, `CRV-BUSD`, `CRV-USDN`), Bitcoin (`CRV-TBTC`, `CRV-RENWBTC`)
+
+
+**Farming Uniswap-like LP token rewards**
+Summary: deposit funds into Uniswap or Sushiswap to receive an LP token; deposit the LP token into Harvest to automatically harvest the rewards.
+Rewards Harvested: 
+Active Vaults: Sushiswap `ETH-DAI`, `ETH-USDC`, `ETH-USDT`, `ETH-WBTC`; Uniswap `ETH-DPI`
+Disabled Vaults: Uniswap `ETH-DAI`, `ETH-USDC`, `ETH-USDT`, `ETH-WBTC`
+Strategies: [link relevant strategies]
+
+
+# History of Strategy Additions
+
 Harvest Finance launched on September 1st. New farming strategies are constantly evaluated for addition to Harvest.
 
 - **2020-09-01** Harvest Finance launches with yCRV CRV farming support for DAI, USDC, USDT
