@@ -2,7 +2,7 @@
 title: Home
 description: Harvest Finance Community Chainwiki
 published: true
-date: 2021-01-17T05:29:23.605Z
+date: 2021-01-17T05:29:36.759Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-13T05:55:54.766Z
@@ -21,8 +21,6 @@ Yield farming can offer high interest rates, but it is becoming hard for smaller
 :tomato: Smart contracts are hard to audit and bugs can result in lost funds.
 
 Harvest Finance addresses this by compounding yield farming rewards automatically wherever possible to maximize yield, and managing and developing new farming strategy relentlessly. 
-
-
 
  **Harvest takes care of gas costs, APY tracking, strategy development and auditing** 
 
