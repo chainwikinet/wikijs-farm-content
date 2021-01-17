@@ -2,7 +2,7 @@
 title: Home
 description: Harvest Finance Community Chainwiki
 published: true
-date: 2021-01-17T05:29:36.759Z
+date: 2021-01-17T05:30:14.435Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-13T05:55:54.766Z
@@ -12,7 +12,7 @@ dateCreated: 2020-08-13T05:55:54.766Z
 
 Yield farming can offer high interest rates, but it is becoming hard for smaller farmers to access:
 
-:lemon: Gas costs is going higher because of booming ETH price and Defi applications. 
+:lemon: Gas costs is going higher because of booming ETH price and DEFI applications. 
 
 :carrot: Moving between farming opportunities and compound yields is becoming prohibitively expensive.
 
