@@ -2,7 +2,7 @@
 title: Harvest Tokens and Contracts
 description: Tokens, contracts, and key addresses of the Harvest Finance ecosystem
 published: true
-date: 2020-12-08T20:53:49.534Z
+date: 2021-01-20T11:01:19.270Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-11T22:03:19.306Z
@@ -19,6 +19,9 @@ dateCreated: 2020-11-11T22:03:19.306Z
 | [0x008671Ca953EC3BAa8C1b9af4623d38789EE2236][es-vwap]|VWAP bot; auto-sells some FARM to pay for things|
 | [0x49d71131396F23F0bCE31dE80526D7C025981c4d][es-dev] |Developer fund; receives 20% of minted FARM|
 | [0x843002b1D545ef7abB71C716e6179570582faA40][es-ops] |Operations fund; receives 10% of minted FARM|
+| [0x252E7E8B9863f81798B1fEF8CfD9741A46De653C][es-ops2]|Operations wallet; Pays piecemeal for content, different contests, listings, mods, builders, sponsorships, audits, council deals, gitcoin, partnerships, tips, app testing, etc.|
+| [0x19762b3b0Fe9b4d4Bd16eFA242CD1f3bCD5fa57C][es-sr]|Strategic Reserve; It can be used for further incentivizing opportunities such as: market-making, incentivizing LPs, burning, etc. |
+
 
 
 
@@ -86,6 +89,7 @@ dateCreated: 2020-11-11T22:03:19.306Z
 [es-dev]: https://etherscan.io/address/0x49d71131396f23f0bce31de80526d7c025981c4d
 [es-notifyhelper]: https://etherscan.io/address/0xe20c31e3d08027f5aface84a3a46b7b3b165053c
 [es-ops]: https://etherscan.io/address/0x843002b1d545ef7abb71c716e6179570582faa40
+[es-ops2]: https://etherscan.io/address/0x252E7E8B9863f81798B1fEF8CfD9741A46De653C
 [es-vwap]: https://etherscan.io/address/0x008671ca953ec3baa8c1b9af4623d38789ee2236
 [es-harvester]: https://etherscan.io/address/0xbed04c43e74150794f2ff5b62b4f73820edaf661
 
