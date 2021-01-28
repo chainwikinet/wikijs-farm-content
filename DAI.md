@@ -2,7 +2,7 @@
 title: Why is my DAI balance going down?
 description: 
 published: true
-date: 2020-10-13T10:22:40.269Z
+date: 2021-01-28T13:48:49.853Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-13T10:08:29.780Z
@@ -11,11 +11,11 @@ dateCreated: 2020-10-13T10:08:29.780Z
 
 # Why is my DAI balance going down?
 
-> TL;DR. It is mainly due to the fact that DAI price is volatile for a stablecoin. This, combined with the Curve dynamics and the socilized price of down exits creates the volatility in your DAI balance. Nonetheless, you'll probably make money in the long run, but it'll be a bit more volatile than the other stablecoins. 
+> TL;DR. It is mainly due to the fact that DAI price is volatile for a stablecoin. This, combined with the Curve dynamics and the socialized price of down exits creates the volatility in your DAI balance. Nonetheless, you'll probably make money in the long run, but it'll be a bit more volatile than the other stablecoins. 
 {.is-info}
 
 
-**If you have questions about DAI deposits it's a good idea to read this throughout answer by Brandon | Radar. :**
+**If you have questions about DAI deposits it's a good idea to read this thorough answer by Brandon | Radar. :**
 
 ADMIN why is my DAI balance going down HELP ADMIN
 There are several reasons why your DAI deposit balance may drop even though harvesting is going fine.
