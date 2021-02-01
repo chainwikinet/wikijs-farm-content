@@ -2,11 +2,18 @@
 title: Home
 description: Harvest Finance Community Chainwiki
 published: true
-date: 2021-01-17T05:30:14.435Z
+date: 2021-02-01T16:55:34.470Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-13T05:55:54.766Z
 ---
+
+> This is a wiki and it can be edited by anyone. [Learn how](/contribute). We monitor for malicious contributions, but don't get scammed—double-check token addresses and [ask for help on Discord](https://discord.gg/R5SeTVR) if something doesn't seem right.
+{.is-info}
+
+> Harvest won't have any presales or airdrops. If you find one, it's a scam.
+{.is-warning}
+
 
 # Harvest Finance Brings #BreadToThePeople :bread:
 
@@ -49,9 +56,6 @@ Earn `$FARM` in upcoming stakedrops or by contributing to the Harvest community.
 
 
 # About This Wiki :globe_with_meridians:
-
-> Learn how to [contribute to this wiki](/contribute).
-{.is-info}
 
 This wiki is a resource for the Harvest Finance community.
 
