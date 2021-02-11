@@ -2,12 +2,11 @@
 title: FARM Markets
 description: buy and sell FARM tokens and other Harvest Finance assets
 published: true
-date: 2020-10-27T19:30:31.071Z
+date: 2021-02-11T18:58:36.069Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-13T07:23:41.115Z
 ---
-
 
 > Beware of scams! Verify all [token addresses](https://github.com/harvest-finance/harvest) to avoid trading fake tokens.
 {.is-warning}
@@ -37,32 +36,6 @@ dateCreated: 2020-08-13T07:23:41.115Z
 - Listed on Hotbit
 - Listed on [LBank.info](https://twitter.com/LBank_Exchange/status/1303291365896331265)
 
-
-# Harvest Finance Assets
-
-Harvest assets, including FARM and the fASSET Harvest deposit tokens, are available on Uniswap.
-
-> Click the token name in the following table to add it to Metamask and other compatible wallets.
-{.is-success}
-
-
-| Token   | Address | Uniswap |
-|---------|---------|---------|
-| [FARM][add-farm]    | [0xa0246c9032bC3A600820415aE600c6388619A14D][es-farm] | [buy][uni-buy-farm], [info][uni-info-farm]
-| FARM_USDC_LP      | [0x514906FC121c7878424a5C928cad1852CC545892][es-farm_usdc_lp]|[deposit LP][hf], [buy LP][uni-buy_farm_usdc]
-| [fDAI][add-fdai]    | [0xab7fa2b2985bccfc13c6d86b1d5a17486ab1e04c][es-fdai] | [deposit DAI][hf], [buy][uni-buy-fdai], [info][uni-info-fdai]
-| [fUSDC][add-fusdc]   | [0xf0358e8c3CD5Fa238a29301d0bEa3D63A17bEdBE][es-fusdc] | [deposit USDC][hf], [buy][uni-buy-fusdc], [info][uni-info-fusdc]
-| [fUSDT][add-fusdt]   | [0x053c80eA73Dc6941F518a68E2FC52Ac45BDE7c9C][es-fusdt] | [deposit USDT][hf], [buy][uni-buy-fusdt], [info][uni-info-fusdt]
-| TUSD | [0x7674622c63Bee7F46E86a4A5A18976693D54441b][es-ftusd]
-| [fWBTC][add-fwbtc]   | [0x5d9d25c7C457dD82fc8668FFC6B9746b674d4EcB][es-fwbtc] | [deposit WBTC][hf], [buy][uni-buy-fwbtc], [info][uni-info-fwbtc]
-| [frenBTC][add-frenbtc] | [0xC391d1b08c1403313B0c28D47202DFDA015633C4][es-frenbtc] | [deposit renBTC][hf], [buy][uni-buy-frenbtc], [info][uni-info-frenbtc]
-| [fcrvRenWBTC][add-fcrvrenwbtc] | [0x9aA8F427A17d6B0d91B6262989EdC7D45d6aEdf8][es-fcrvrenwbtc] | [deposit crvRenWBTC][hf], [buy][uni-buy-fcrvrenwbtc], [info][uni-info-fcrvrenwbtc]
-|fWETH|[0xFE09e53A81Fe2808bc493ea64319109B5bAa573e][es-fweth]|[deposit WETH][hf], [buy][uni-buy-fweth], [info][uni-info-fweth]|
-|FUSDC_WETH_LP|[0xA79a083FDD87F73c2f983c5551EC974685D6bb36][es-fusdc_weth_lp]|[deposit USDC_WETH_LP][hf], [buy LP][uni-buy-fusdc_weth_lp], [info][uni-info-fusdc_weth_lp]|
-|FUSDT_WETH_LP|[0x7DDc3ffF0612E75Ea5ddC0d6Bd4e268f70362Cff][es-fusdt_weth_lp]|[deposit USDT_WETH_LP][hf], [buy LP][uni-buy-fusdt_weth_lp], [info][uni-info-fusdt_weth_lp]|
-|FDAI_WETH_LP|[	0x307E2752e8b8a9C29005001Be66B1c012CA9CDB7][es-fdai_weth_lp]|[deposit DAI_WETH_LP][hf], [buy LP][uni-buy-fdai_weth_lp], [info][uni-info-fdai_weth_lp]|
-|FWBTC_WETH_LP|[0x01112a60f427205dcA6E229425306923c3Cc2073][es-fwbtc_weth_lp]|[deposit WBTC_WETH_LP][hf], [buy LP][uni-buy-fwbtc_weth_lp], [info][uni-info-fwbtc_weth_lp]|
-| fSLP | [0xF553E1f826f42716cDFe02bde5ee76b2a52fc7EB][es-fslp]
 
 
 
