@@ -2,7 +2,7 @@
 title: GRAIN
 description: GRAIN
 published: true
-date: 2021-02-12T18:22:36.203Z
+date: 2021-02-12T18:41:09.860Z
 tags: grain flash loan attack
 editor: markdown
 dateCreated: 2021-02-12T17:48:58.601Z
@@ -23,6 +23,7 @@ GRAIN is a buyback token for USDC/USDT depositors that feeds a percentage of tot
 GRAIN was voted in by the community shortly after the attack. The community voted for up to 0.5% of total emissions to go to GRAIN buyback and Uniswap liquidity. In the spirit of the farming cooperative, the dev and ops funds were used to contribute towards FARM used for the GRAIN buyback. 10% of the buyback amount came from the ops fund, and 20% came from the devs. The remaining 70% will come from farming incentive emissions.
 
 The community also voted for incentivizing GRAIN/FARM as the base pair. Incentivizing GRAIN/FARM would be beneficial because it would create a FARM supply sink, while at the same time giving GRAIN holders who also own FARM the ability to get more FARM emissions by staking in Uniswap.
+
 This gives a market value to GRAIN, by using some emissions to incentivize a liquid market. After much discussion, it was decided that creating a liquid market is the preferred option, because it allows GRAIN holders to trade with buyers that are interested in the APY of GRAIN farming instead of only having the option to hold for many months or years.
 
 In addition to providing incentives for the FARM:GRAIN pair, Harvest uses funds from the strategic reserve for strategic GRAIN buybacks as needed to buffer price volatility. The following amounts have been saved up for this purpose:
