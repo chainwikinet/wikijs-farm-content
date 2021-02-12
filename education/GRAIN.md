@@ -2,7 +2,7 @@
 title: GRAIN
 description: GRAIN
 published: true
-date: 2021-02-12T18:51:21.578Z
+date: 2021-02-12T18:55:37.996Z
 tags: grain flash loan attack
 editor: markdown
 dateCreated: 2021-02-12T17:48:58.601Z
@@ -45,8 +45,7 @@ Press ‘Claim GRAIN’ and follow the steps.
 Add GRAIN to Metamask by clicking the link given on the page. You will then be able to see GRAIN in your wallet.
 
 Trading GRAIN:
-An incentivized Uniswap pool was created with GRAIN/FARM as the base pair. The incentivized Uniswap pool was announced on Harvest's Discord and Twitter on Monday, December 7th 2020.
-The pool was kick started using GRAIN bought by the operations fund. Claims began around Monday, 17:00 UTC and liquidity incentivization began 8 hours later, to make sure that there was sufficient GRAIN available for the operations fund to buy and deposit into the Uniswap pool for an orderly market to form.
+An incentivized Uniswap pool was created with GRAIN/FARM as the base pair. The incentivized Uniswap pool was announced on Harvest's Discord and Twitter on Monday, December 7th 2020. The pool was kick started using GRAIN bought by the operations fund. Claims began around Monday, 17:00 UTC and liquidity incentivization began 8 hours later, to make sure that there was sufficient GRAIN available for the operations fund to buy and deposit into the Uniswap pool for an orderly market to form.
 
 
 
