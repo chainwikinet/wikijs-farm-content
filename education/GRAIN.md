@@ -2,7 +2,7 @@
 title: GRAIN
 description: GRAIN
 published: true
-date: 2021-02-12T18:41:09.860Z
+date: 2021-02-12T18:51:21.578Z
 tags: grain flash loan attack
 editor: markdown
 dateCreated: 2021-02-12T17:48:58.601Z
@@ -13,7 +13,7 @@ On 26th of October 26th, 2020 at 02:53:31 AM +UTC www.harvest.finance was attack
 
 Immediately following the attack, Harvest Finance acted and withdrew all the funds from the shared pools. This included DAI, USDC, USDT, TUSD as well as WBTC and renBTC. The funds are currently present in the vaults and cannot suffer from further market manipulation. The attack did not involve DAI, TUSD, WBTC and renBTC, and the depositors in these vaults were not affected. Furthermore, Harvest Finance rapidly evaluated the attack and reconstructed its process so they could prevent it from happening again. 
 
-Once the developers deconstructed the attack, they pointed out that the collateral damage was mostly on the thousands of small farmers affected. They admitted their engineering mistake and that the attacker had proven their point. They reminded the exploiter that the attack was going to be perceived poorly for extrapolating this liquidity farming model to the wider community and was detrimental to the DeFi space as whole. 
+Once the developers deconstructed the attack, they pointed out that the collateral damage was mostly on the thousands of small farmers affected. They admitted their engineering mistake and that the attacker had proven their point. They reminded the exploiter that the attack was going to be perceived poorly for extrapolating this liquidity farming model to the wider community and was detrimental to the DeFi space as a whole. 
 
 Once the attack had been reverse engineered by the Harvest developers and some funds returned, the governance deliberated and the Harvest team decided to enact a remediation plan in the form of GRAIN. Individuals affected by the attack were able to recover their balances through a blend of USDC/USDT reparations and the GRAIN token. Based on the snapshot taken one block before the attack, the team calculated the claim amount for each user using the logic here: https://github.com/harvest-finance/snapshot. GRAIN tokens were assigned in a pro-rata manner based on both their afflicted deposits and a proportionate amount of returned funds. This was done via the GRAIN claims portal on the Harvest Finance website, a UI that the devs thought would be easy to use and straightforward. For example: 99.5945 USD would return 5.2507 USDC + 2.1424 USDT + 92.2014 GRAIN to the affected user. This portal went live on December 7, 2020 and users whose balances were affected by the drawdown due to the economic exploit were able to receive their claim for USDT, USDC and the GRAIN token.
 
