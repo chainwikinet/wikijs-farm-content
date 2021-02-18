@@ -2,14 +2,16 @@
 title: GRAIN
 description: GRAIN
 published: true
-date: 2021-02-18T03:41:30.675Z
+date: 2021-02-18T03:43:28.831Z
 tags: grain flash loan attack
 editor: markdown
 dateCreated: 2021-02-12T17:48:58.601Z
 ---
 
 # The creation of GRAIN:
-On October 26th, 2020 at 02:53:31 AM +UTC www.harvest.finance was attacked by an exploit called a flash loan attack. An attacker executed a theft of funds from the USDC and USDT vaults of Harvest Finance. The attacker exploited an arbitrage and impermanent loss that influences the value of individual assets inside the Y pool of Curve.fi, which is where the funds of Harvest’s vaults were invested. The attacker transferred some funds back to the Harvest deployer within minutes of the exploit happening in transaction: 0x25119cd54a4562aa427d9770af383512f9cb5e8e4d17232ad96b69dc293a3510. This amount was 1,761,898.396474 USDC and 718,914.048541 USDT.
+On October 26th, 2020 at 02:53:31 AM +UTC www.harvest.finance was attacked by an exploit called a flash loan attack. An attacker executed a theft of funds from the USDC and USDT vaults of Harvest Finance. The attacker exploited an arbitrage and impermanent loss that influences the value of individual assets inside the Y pool of Curve.fi, which is where the funds of Harvest’s vaults were invested. The attacker [transferred][es-fund-return] some funds back to the Harvest deployer within minutes of the exploit happening. This amount was 1,761,898.396474 USDC and 718,914.048541 USDT.
+
+[es-fund-return]:https://etherscan.io/tx/0x25119cd54a4562aa427d9770af383512f9cb5e8e4d17232ad96b69dc293a3510
 
 Immediately following the attack, Harvest Finance acted and withdrew all the funds from the shared pools. This included DAI, USDC, USDT, TUSD as well as WBTC and renBTC. The funds are currently present in the vaults and cannot suffer from further market manipulation. The attack did not involve DAI, TUSD, WBTC and renBTC, and the depositors in these vaults were not affected. Furthermore, Harvest Finance rapidly evaluated the attack and reconstructed its process so they could prevent it from happening again. 
 
