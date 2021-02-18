@@ -2,7 +2,7 @@
 title: Frequently Asked Questions
 description: answers to common questions about Harvest Finance
 published: true
-date: 2021-02-18T11:14:22.382Z
+date: 2021-02-18T11:15:15.956Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-03T23:06:00.060Z
@@ -13,7 +13,7 @@ dateCreated: 2020-09-03T23:06:00.060Z
 
 # Common Questions
 
-1. Should I interact with the contract directly? **NO**, please use the website and ask for help in [#support](/en/https://discord.gg/AsRh9mCd).
+1. Should I interact with the contract directly? **NO**, please use the website and ask for help in [#support](https://discord.gg/AsRh9mCd).
 1. Is Harvest audited? **[Yes](/security)**
 1. Who is the Harvest team? **The Harvest Finance launch team is anonymous**
 1. How is APY / APR calculated for the Pools? [**APY formulas**](/en/calculationAPY) 
