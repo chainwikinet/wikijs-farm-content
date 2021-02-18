@@ -2,7 +2,7 @@
 title: GRAIN
 description: GRAIN
 published: true
-date: 2021-02-17T21:34:17.912Z
+date: 2021-02-18T03:41:30.675Z
 tags: grain flash loan attack
 editor: markdown
 dateCreated: 2021-02-12T17:48:58.601Z
@@ -15,10 +15,15 @@ Immediately following the attack, Harvest Finance acted and withdrew all the fun
 
 Once the developers deconstructed the attack, they pointed out that the collateral damage was mostly on the thousands of small farmers affected. They admitted their engineering mistake and that the attacker had proven their point. They reminded the exploiter that the attack was going to be perceived poorly for extrapolating this liquidity farming model to the wider community and was detrimental to the DeFi space as a whole. 
 
-Once the attack had been reverse engineered by the Harvest developers and some funds returned, the governance deliberated https://snapshot.page/#/farm/proposal/QmYF62qGaqyHAXt88Hmxise6CFaSWxnTmi5VedZ3VX8Zy2 and the Harvest team decided to enact a remediation plan in the form of GRAIN. Individuals affected by the attack were able to recover their balances through a blend of USDC/USDT reparations and the GRAIN token. Based on the snapshot taken one block before the attack, the team calculated the claim amount for each user using the logic here: https://github.com/harvest-finance/snapshot. GRAIN tokens were assigned in a pro-rata manner based on both their afflicted deposits and a proportionate amount of returned funds. This was done via the GRAIN claims portal on the Harvest Finance website, a UI that the devs thought would be easy to use and straightforward. For example: 99.5945 USD would return 5.2507 USDC + 2.1424 USDT + 92.2014 GRAIN to the affected user. This portal went live on December 7, 2020 and users whose balances were affected by the drawdown due to the economic exploit were able to receive their claim for USDT, USDC and the GRAIN token.
+Once the attack had been reverse engineered by the Harvest developers and some funds returned, the governance [deliberated][gov-remediation] and the Harvest team decided to enact a remediation plan in the form of GRAIN. Individuals affected by the attack were able to recover their balances through a blend of USDC/USDT reparations and the GRAIN token. Based on the snapshot taken one block before the attack, the team calculated the claim amount for each user using the logic [here][gov]. GRAIN tokens were assigned in a pro-rata manner based on both their afflicted deposits and a proportionate amount of returned funds. This was done via the GRAIN claims portal on the Harvest Finance website, a UI that the devs thought would be easy to use and straightforward. For example: 99.5945 USD would return 5.2507 USDC + 2.1424 USDT + 92.2014 GRAIN to the affected user. This portal went live on December 7, 2020 and users whose balances were affected by the drawdown due to the economic exploit were able to receive their claim for USDT, USDC and the GRAIN token.
+
+[gov-remediation]:https://snapshot.page/#/farm/proposal/QmYF62qGaqyHAXt88Hmxise6CFaSWxnTmi5VedZ3VX8Zy2 
+[gov]:https://github.com/harvest-finance/snapshot
 
 ## GRAIN tokenomics:
-GRAIN is a buyback token for USDC/USDT depositors that feeds a percentage of total weekly emissions to reparations pools. GRAIN was issued such that 1 GRAIN = $1 of harvest debt. Once harvest owns the tokens, they can be burned https://cointelegraph.com/explained/token-burning-explained, independent of the price they were bought at. Harvest will continue buying back GRAIN at a price of no more than $1 until they own all of it, at which point the debt will have been repaid.
+GRAIN is a buyback token for USDC/USDT depositors that feeds a percentage of total weekly emissions to reparations pools. GRAIN was issued such that 1 GRAIN = $1 of harvest debt. Once harvest owns the tokens, they can be [burned][ct-burning], independent of the price they were bought at. Harvest will continue buying back GRAIN at a price of no more than $1 until they own all of it, at which point the debt will have been repaid.
+
+[ct-burning]:https://cointelegraph.com/explained/token-burning-explained
 
 GRAIN was voted in by the community shortly after the attack. The community voted for up to 0.5% of total emissions to go to GRAIN buyback and Uniswap liquidity. In the spirit of the farming cooperative, the dev and ops funds were used to contribute towards FARM used for the GRAIN buyback. 10% of the buyback amount came from the ops fund, and 20% came from the devs. The remaining 70% will come from farming incentive emissions.
 
