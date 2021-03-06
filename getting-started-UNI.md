@@ -2,7 +2,7 @@
 title: Getting Started with UNI Pools
 description: Now you have the basics down. Let's go after that high APY in the UNI Pool!
 published: true
-date: 2020-10-12T22:52:02.001Z
+date: 2021-03-06T19:55:32.483Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-27T19:40:02.868Z
@@ -26,7 +26,7 @@ To participate in the Uniswap LP Farm, we will need to supply USDC-FARM liquidit
 1. Deposit USDC and FARM into Uniswap's Liquidity Pool. Receive UNI_LP tokens
 1. Deposit UNI_LP Token into Farm
 1. Profit! :bread:
-> These steps total 6 transactions on the Etherium blockchain. Be wary of gas prices before you start. Make sure you have enough ETH in your Wallet. Gas was at ~50 Gwei at time of doing this tutorial.
+> These steps total 6 transactions on the Ethereum blockchain. Be wary of gas prices before you start. Make sure you have enough ETH in your Wallet. Gas was at ~50 Gwei at time of doing this tutorial.
 {.is-warning}
 
 # Get USDC :watermelon:
@@ -88,7 +88,7 @@ Farming is good honest work. You did great my fellow farmhand. Let's now watch t
 > If ya need an overview of all data in the Dashboard, check out the last section of the [first tutorial](/en/getting-started#watch-your-bounty-grow)
 {.is-info}
 # What about All that Gas?
-Here's all the gas I paid in this process. Etherium gas price was around 55 Gwei while making these transactions.
+Here's all the gas I paid in this process. Ethereum gas price was around 55 Gwei while making these transactions.
 | Step                  | Transaction                | Cost   |
 |-----------------------|----------------------------|--------|
 | Swap USDC for FARM    | Approve USDC Spend Limit   |  $1.13 |
