@@ -2,7 +2,7 @@
 title: Harvest Tokens and Contracts
 description: Tokens, contracts, and key addresses of the Harvest Finance ecosystem
 published: true
-date: 2021-01-20T11:04:25.511Z
+date: 2021-03-20T07:00:17.798Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-11T22:03:19.306Z
@@ -32,6 +32,7 @@ dateCreated: 2020-11-11T22:03:19.306Z
 | Token   | Address | Description |
 |:---|:---|:---|
 |FARM|[0xa0246c9032bC3A600820415aE600c6388619A14D][es-farm] | Harvest profit sharing token. [learn more](farm)
+|iFARM| [0x1571eD0bed4D987fe2b498DdBaE7DFA19519F651][es-ifarm] | Interest-bearing FARM. 
 |fWETH|[0xFE09e53A81Fe2808bc493ea64319109B5bAa573e][es-fweth]| deposit receipt for Harvest's WETH vault. [learn more](fweth)
 |fUni_ETH_DPI|[0x2a32dcBB121D48C106F6d94cf2B4714c0b4Dfe48][es-funi-eth-dpi] | deposit receipt for Harvest's Uniswap ETH:DPI vault. [learn more](funi_weth_dpi)
 |--Stablecoins|
@@ -106,6 +107,7 @@ dateCreated: 2020-11-11T22:03:19.306Z
 
 [es-fweth]: https://etherscan.io/token/0xFE09e53A81Fe2808bc493ea64319109B5bAa573e
 [es-farm]: https://etherscan.io/token/0xa0246c9032bc3a600820415ae600c6388619a14d
+[es-ifarm]: https://etherscan.io/token/0x1571ed0bed4d987fe2b498ddbae7dfa19519f651
 [es-farm_usdc_lp]: https://etherscan.io/address/0x514906FC121c7878424a5C928cad1852CC545892
 [es-fdai]: https://etherscan.io/token/0xab7fa2b2985bccfc13c6d86b1d5a17486ab1e04c
 [es-fusdc]: https://etherscan.io/token/0xf0358e8c3CD5Fa238a29301d0bEa3D63A17bEdBE
