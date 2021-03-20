@@ -27,6 +27,7 @@ dateCreated: 2020-09-03T23:06:00.060Z
 4. Do FARM tokens get yield farming revenue just be holding them?  **FARM must be deposited in [Profit Sharing][hf-earn]** to earn yield farming revenue.
 5. How much yield farming revenue is shared with Profit Sharing stakers? **30% of yield farming revenue.** It is paid out using a seven-day moving average, so for the first week after launch, payouts may be small.  Yield farming revenue depends on the profitability of available yield farming opportunities and the total assets available for farming by Harvest.
 6. What happens to the other 70% of yield farming revenue?  **It is paid out to users that deposit assets to Harvest for farming**.  Over time, holders of Harvest farming fTokens will receive more of the underlying tokens when they withdraw.
+7. What is iFARM? **iFARM is the interest bearing FARM token, it works as FARM staked in the profit share and it's main advantages is a lower gas cost, transferability and possible future new utilities like lending collateralization as an exemple.**
 
 # Technical Stuff
 
@@ -85,6 +86,13 @@ Further reading on impermanent loss and AMM risks:
 Market impact (aka price impact) occurs when a trade is large enough to change the price of the assets that are traded on the exchange where they are being traded. Market impact can increase when liquidity decreases during periods of high volatility.
 
 Some Harvest strategies may involve entering and exiting automated market maker LP positions on Curve, Swerve, Balancer, Uniswap from a single asset supported by the AMM. If price volatility reduces the liquidity of the asset you have deposited, **you may experience market impact losses when you try to withdraw.** These losses may appear as a reduction in your deposited balance. If the liquidity situation for your asset improves, your displayed balance may also improve.
+
+## Death Spiral Risk
+
+> Crypto markets can be volatile, while this provides huge opportunities it can also be a huge risk. {.is-warning}
+
+Many market events can increase volatility, those events can have a direct effect in value deposited in harvest finance through many different assets, also, a panic in the market can trigger a bank run, if such an event happens in the same time FARM token suffers sell pressure, incentives in harvest finance may be affected and this can cause a negative feedback loop. 
+
 
 [hf]: https://harvest.finance/earn
 [hf-earn]: https://harvest.finance/earn
