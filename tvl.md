@@ -25,13 +25,13 @@ The assets that Harvest uses to farm are deposited in vault contracts, which iss
 | CRVRENWBTC Vault | CRVRENWBTC | fCRVRENWBTC | [0x192e9d29d43db385063799bc239e772c3b6888f3](https://etherscan.io/address/0x192e9d29d43db385063799bc239e772c3b6888f3) |
 | WETH Vault | WETH | fWETH | [0x8e298734681adbfC41ee5d17FF8B0d6d803e7098](https://etherscan.io/address/0x8e298734681adbfC41ee5d17FF8B0d6d803e7098) |
 
-Key functions for calculating TLV that are implemented by each Vault:
+Key functions for calculating TVL that are implemented by each Vault:
 
 - `underlying` is the address of the vault's underlying asset
 - `underlyingBalanceWithInvestment` is the total amount of the underlying asset in the vault
 - `underlyingUnit` is the value to divide by to convert the underlying balance to human-readable form
 
-Other functions not needed for TLV calculations:
+Other functions not needed for TVL calculations:
 
 - `getPricePerFullShare` is the current conversion rate between fASSET and ASSET. This increases with successful harvests.
 
