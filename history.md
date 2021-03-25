@@ -17,11 +17,6 @@ Harvest Finance was launched by an anonymous team on September 1st, 2020.
 
 [Contribute to this wiki!](/contribute)
 
-# DeFi Community Stakedrop (discontinued)
-
-
-To assist in initial distribution of FARM to a broad audience of DeFi power users, tokens in the DeFi community were selected to be eligible to stake their tokens in order to receive the Harvest Finance FARM token. These tokens were not deposited into the Harvest Finance
- [yield farming strategies](/strategy).
  
 ## Week 6
 
