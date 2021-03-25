@@ -14,19 +14,46 @@ dateCreated: 2020-09-04T07:47:54.724Z
 
 # Active Yield Farming Strategies
 
+**Single-Asset Strategies**
+Summary: deposit funds into Harvest to automatically harvest rewards.
+Rewards: Reward tokens are sold for additional deposited token.
+Vaults: Single Assets (`USDC`, `USDT`, `DAI`, `TUSD`, `WBTC`, `WETH`,`SUSHI`,`FARM`)
+Strategies: [link relevant strategies]
+
 **Farming Curve LP token rewards**
 Summary: deposit funds into Curve to receive a Curve LP token; deposit the Curve LP token into Harvest to automatically harvest the Curve rewards.
 Rewards Harvested: CRV (+ sometimes others, like KEEP)
 Strategies: [link relevant strategies]
-Vaults: Stablecoins (`CRV-YPOOL`, `CRV-3POOL`, `CRV-COMPOUND`, `CRV-BUSD`, `CRV-USDN`), Bitcoin (`CRV-TBTC`, `CRV-RENWBTC`)
+Vaults: Stablecoins (`CRV:HUSD`, `YCRV`, `3CRV`, `CRV:COMPOUND`, `CRV:BUSD`, `CRV:USDN`, `CRV:EURS`, `CRV:GUSD`, `CRV:UST`, `CRV:USDP`), Bitcoin (`CRV:HBTC`, `CRV:OBTC`, `CRV:TBTC`,`CRV:RENWBTC`)
+
+**Farming Sushiswap-like LP token rewards**
+Summary: deposit funds into Sushiswap to receive an LP token; deposit the LP token into Harvest to automatically harvest the rewards.
+Rewards Harvested: 
+Active Vaults: Sushiswap `SUSHI-ETH`, `ETH-DAI`, `ETH-USDC`, `ETH-USDT`, `ETH-WBTC`
+Strategies: [link relevant strategies]
 
 
 **Farming Uniswap-like LP token rewards**
-Summary: deposit funds into Uniswap or Sushiswap to receive an LP token; deposit the LP token into Harvest to automatically harvest the rewards.
+Summary: deposit funds into Uniswap to receive an LP token; deposit the LP token into Harvest to automatically harvest the rewards, some Uniswap pools distributes iFARM.
 Rewards Harvested: 
-Active Vaults: Sushiswap `ETH-DAI`, `ETH-USDC`, `ETH-USDT`, `ETH-WBTC`; Uniswap `ETH-DPI`
-Disabled Vaults: Uniswap `ETH-DAI`, `ETH-USDC`, `ETH-USDT`, `ETH-WBTC`
+Active Vaults: Uniswap `ETH-DPI`, `WBTC-KBTC`, `WBTC-KLON`, `FARM/ETH`, `FARM/GRAIN`,
 Strategies: [link relevant strategies]
+
+
+**Farming Seigniorage LP token rewards**
+Summary: deposit funds into Seigniorage to receive an LP token; deposit the LP token into Harvest to automatically harvest the rewards. 
+Rewards Harvested: 
+Active Vaults: Seigniorage `BAC-DAI`, `DAI-BASv2`, `DAI-BSG`, `DAI-BSGS`
+Strategies: [link relevant strategies]
+
+
+**Farming mSTONKs LP token rewards**
+Summary: deposit funds into mSTONKs to receive an LP token; deposit the LP token into Harvest to automatically harvest the rewards. 
+Rewards Harvested: 
+Active Vaults: mSTONKs `MAAPLE-UST`, `MAMZN-UST`, `MGOOGL-UST`, `MTSLA-UST`, `MNFLX-UST`, `MTWTR-UST`
+Strategies: [link relevant strategies]
+
+
 
 
 # History of Strategy Additions
