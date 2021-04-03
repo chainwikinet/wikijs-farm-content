@@ -2,20 +2,17 @@
 title: Frequently Asked Questions
 description: answers to common questions about Harvest Finance
 published: true
-date: 2021-02-18T11:17:36.366Z
+date: 2021-04-03T09:44:40.803Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-03T23:06:00.060Z
 ---
 
-
-
-
 # Common Questions
-
 1. Should I interact with the contract directly? **NO**, please use the website and ask for help in #support channel in Harvest Discord.
 1. Is Harvest audited? **[Yes](/security)**
 1. Who is the Harvest team? **The Harvest Finance launch team is anonymous**
+1. I deposited into a Pool for a few hours but still have no yield. **Why?** While FARM emissions start accruing immediately after depositing, yields from farmed tokens come after a successful doHardWork(). Profitability analysis is done on when to run the doHardWork() function. Please take a look at [Vault info](/en/education/vault) and [APY calculations](/en/calculationAPY) for more context. 
 1. How is APY / APR calculated for the Pools? [**APY formulas**](/en/calculationAPY) 
 1. How many FARM tokens are there? [**FARM tokens are capped at 690,420 tokens minted over a 4-year period**](/en/supply)
 1. Is there a fAssets shareprice charts? [**Yes**](https://harvestcharts.on.fleek.co//) (It is created by a community member)
