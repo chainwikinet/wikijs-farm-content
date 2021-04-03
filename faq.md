@@ -2,7 +2,7 @@
 title: Frequently Asked Questions
 description: answers to common questions about Harvest Finance
 published: true
-date: 2021-04-03T09:44:40.803Z
+date: 2021-04-03T10:02:50.365Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-03T23:06:00.060Z
