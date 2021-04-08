@@ -2,7 +2,7 @@
 title: Home
 description: Harvest Finance Community Chainwiki
 published: true
-date: 2021-02-01T16:55:34.470Z
+date: 2021-04-08T19:39:01.633Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-13T05:55:54.766Z
@@ -14,14 +14,11 @@ dateCreated: 2020-08-13T05:55:54.766Z
 > Harvest won't have any presales or airdrops. If you find one, it's a scam.
 {.is-warning}
 
-
 # Harvest Finance Brings #BreadToThePeople :bread:
 
 Yield farming can offer high interest rates, but it is becoming hard for smaller farmers to access:
 
-:lemon: Gas costs is going higher because of booming ETH price and DEFI applications. 
-
-:carrot: Moving between farming opportunities and compound yields is becoming prohibitively expensive.
+:carrot: Transactions costs are increasing, and it's prohibitively expensive to move between farming opportunities and regularly harvest to compound your yields.
 
 :corn: Tracking and responding to yield farming opportunities can be a full-time job.
 
@@ -29,16 +26,12 @@ Yield farming can offer high interest rates, but it is becoming hard for smaller
 
 Harvest Finance addresses this by compounding yield farming rewards automatically wherever possible to maximize yield, and managing and developing new farming strategy relentlessly. 
 
- **Harvest takes care of gas costs, APY tracking, strategy development and auditing** 
+ **Harvest takes care of gas costs, APY tracking, strategy development, and auditing.** 
 
 # Learn More :mag:
 
 > Join [Harvest Discord](https://discord.gg/R5SeTVR) and get involved to grow the harvest.
 {.is-success}
-
-For a great introduction to how Harvest works, read [Harvest 101][harvest101] by TheCryptoBlog.
-
-[harvest101]: https://mbroome02.medium.com/harvest-101-understanding-profit-share-4dccfd1a8c
 
 Explore this wiki to learn about Harvest and its yield farming strategies.
 
@@ -50,18 +43,16 @@ Explore this wiki to learn about Harvest and its yield farming strategies.
 - **Reddit:** https://www.reddit.com/r/HarvestFinance/
 - **Community News:** [Silo Sentinel](/sentinel) :newspaper:
 - **Translations:** https://harvest-translation.medium.com
-- **Telegram:** ~~https://t.me/Breadforthepeople~~ (discontinued)
+- **Telegram:** https://t.me/Breadforthepeople (announcements only)
 
-Earn `$FARM` in upcoming stakedrops or by contributing to the Harvest community.
-
+Earn `$FARM` by joining Discord and contributing to the Harvest community by helping with exchange and data listings, managing collaborations, or contributing code.
 
 # About This Wiki :globe_with_meridians:
 
-This wiki is a resource for the Harvest Finance community.
+This wiki is a resource for the Harvest Finance community.  [Learn how to contribute](/contribute).
 
-The content is freely licensed and available on GitHub:
-
-https://github.com/chainwikinet/wikijs-farm-content (PRs accepted!)
+The content is freely licensed and available on GitHub: 
+- https://github.com/chainwikinet/wikijs-farm-content
 
 Administered by the [Chainwiki Network](https://meta.chainwiki.dev/). [Support](https://wiki.js.org/support) WikiJS development.
 
