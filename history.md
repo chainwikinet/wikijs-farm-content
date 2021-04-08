@@ -23,6 +23,26 @@ Harvest Finance was launched by an anonymous team on September 1st, 2020.
 To assist in initial distribution of FARM to a broad audience of DeFi power users, tokens in the DeFi community were selected to be eligible to stake their tokens in order to receive the Harvest Finance FARM token. These tokens were not deposited into the Harvest Finance
  [yield farming strategies](/strategy).
  
+## Week 30
+
+🤝 Harvest finance proposes a long-term partnership with Sushiswap [Sushiswap <> Harvest Vesting Proposal](https://medium.com/harvest-finance/sushiswap-harvest-vesting-proposal-7a49898ca04c)
+
+## Week 26
+
+Harvest Finance launches iFARM, the interest bearing FARM token. 🚜🚜🚜 Goes brrrrr [Week 26 Update](https://yogafire-genuine.medium.com/eng-week-26-update-b6b5123f8685) 
+
+## Week 15
+
+🌾 Harvest Finance launches Grain token in order to repair users affected by the economic attack [Week 15 Update](https://medium.com/harvest-finance/week-15-make-it-rain-grain-9b56af6df118)
+
+## Week 11
+
+📊 On Oct 30, 2020 The community voted for a 0.5% FARM emission reparation to the flash loan attack users. [Week 11 Update](https://medium.com/harvest-finance/week-11-update-gains-and-golden-grains-66165235be1d)
+
+## Week 9
+
+Harvest Finance was exploited in a flash loan attack. [Week 9 Update](https://medium.com/harvest-finance/week-9-update-restoring-funds-and-immediate-next-steps-to-mitigate-hacks-c2dc5bd829e5)
+ 
 ## Week 6
 
 - 🔒 12 hours timelock strategy got deployed for the TUSD vault.
