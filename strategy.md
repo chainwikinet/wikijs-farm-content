@@ -2,7 +2,7 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2021-05-03T23:30:18.552Z
+date: 2021-05-03T23:47:56.657Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-04T07:47:54.724Z
@@ -99,10 +99,11 @@ This strategy farms CRV, the [Curve Finance DAO token][crv].
 | **Asset Farmed**        | CRV, Curve Finance DAO token  |
 | **Assets Used**         | CRV:HUSD, YCRV, 3CRV, CRV:COMPOUND, CRV:BUSD,CRV:USDN, CRV:EURS, CRV:GUSD, CRV:UST, CRV:USDP                      |
 | **Basic Strategy**      | CRV is farmed and sold for stablecoins |
-| **How To Participate**  | [deposit DAI, USDC, USDT, TUSD][hf] to receive fDAI, fUSDC, fUSDT |
-| **Yield Payout**        | Successful farming makes the fDAI, fUSDC, and fUSDT redeemable for a growing number of DAI, USDC, and USDT |
-| **FARM Incentives**      | [The fDAI, fUSDC, fUSDT, and fTUSD can be deposited to earn a stakedrop of FARM][farm-stakedrop] |
-| **Vault Contract**      | [VaultYCRV][es-vaultycrv], [fDAI][es-fdai], [fUSDC][es-fusdc], [fUSDT][es-fusdt], [fTUSD Vault Proxy Address][es-ftusd-proxy] ([Current TUSD Vault implementation][es-ftusd]) |
+| **How To Participate**  | Stake your share of the pool to receive the fAsset |
+| **Yield Payout**        | Successful farming makes the fAsset redeemable for a growing number of the pooled assets |
+| **FARM Incentives**      | CRV:HUSD, YCRV, 3CRV, CRV:COMPOUND, CRV:BUSD,CRV:USDN, CRV:EURS, CRV:GUSD, CRV:UST, CRV:USDP deposit receipts can be staked to earn FARM incentives |
+| **Vault Contract**      | [CRV:HUSD](https://etherscan.io/address/0x29780C39164Ebbd62e9DDDE50c151810070140f2) [YCRV](https://etherscan.io/address/0x0FE4283e0216F94f5f9750a7a11AC54D3c9C38F3) [3CRV](https://etherscan.io/address/0x71B9eC42bB3CB40F017D8AD8011BE8e384a95fa5) [CRV:COMPOUND](https://etherscan.io/address/0x998cEb152A42a3EaC1f555B1E911642BeBf00faD) [CRV:BUSD](https://etherscan.io/address/0x4b1cBD6F6D8676AcE5E412C78B7a59b4A1bbb68a) [CRV:USDN](https://etherscan.io/address/0x683E683fBE6Cf9b635539712c999f3B3EdCB8664) [CRV:EURS](https://etherscan.io/address/0x6eb941BD065b8a5bd699C5405A928c1f561e2e5a) [CRV:GUSD](https://etherscan.io/address/0xB8671E33fcFC7FEA2F7a3Ea4a117F065ec4b009E) [CRV:UST](https://etherscan.io/address/0x84A1DfAdd698886A614fD70407936816183C0A02) [CRV:USDP](https://etherscan.io/address/0x02d77f6925f4ef89EE2C35eB3dD5793f5695356f)  
+|
 | **Strategy Contract**   | [CRVStrategyYCRVMainnet][es-strat-crvstable-v2], [DAI Strategy][es-strat-crystable-dai], [USDC Strategy][es-strat-crystable-usdc], [USDT Strategy][es-strat-crystable-usdt], [TUSD Strategy][es-strat-crystable-tusd] |
 | **Example Harvest TX**  | [doHardWork][es-crvstable-harvest] |
 | **Timelock**            | None (To be implemented 2020-10-20)
