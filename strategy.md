@@ -2,7 +2,7 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2020-12-09T15:59:12.473Z
+date: 2021-05-03T23:18:32.155Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-04T07:47:54.724Z
@@ -14,19 +14,27 @@ dateCreated: 2020-09-04T07:47:54.724Z
 
 # Active Yield Farming Strategies
 
+**Single-Asset Strategies**
+Summary: deposit funds into Harvest to automatically harvest rewards.
+Rewards: Reward tokens are sold for additional deposited token.
+Vaults: `USDC`, `USDT`, `DAI`, `TUSD`, `WBTC`, `renBTC`
+Strategies: [link relevant strategies]
+
+
 **Farming Curve LP token rewards**
 Summary: deposit funds into Curve to receive a Curve LP token; deposit the Curve LP token into Harvest to automatically harvest the Curve rewards.
-Rewards Harvested: CRV (+ sometimes others, like KEEP)
-Strategies: [link relevant strategies]
+Rewards: CRV (+ sometimes others, like KEEP) is sold for additional deposited token.
 Vaults: Stablecoins (`CRV-YPOOL`, `CRV-3POOL`, `CRV-COMPOUND`, `CRV-BUSD`, `CRV-USDN`), Bitcoin (`CRV-TBTC`, `CRV-RENWBTC`)
+Strategies: [link relevant strategies]
 
 
 **Farming Uniswap-like LP token rewards**
 Summary: deposit funds into Uniswap or Sushiswap to receive an LP token; deposit the LP token into Harvest to automatically harvest the rewards.
-Rewards Harvested: 
-Active Vaults: Sushiswap `ETH-DAI`, `ETH-USDC`, `ETH-USDT`, `ETH-WBTC`; Uniswap `ETH-DPI`
-Disabled Vaults: Uniswap `ETH-DAI`, `ETH-USDC`, `ETH-USDT`, `ETH-WBTC`
+Rewards: Reward tokens are sold for additional deposited token.
+Active Vaults: Sushiswap `SLP-ETH:DAI`, `SLP-ETH:USDC`, `SLP-ETH:USDT`, `SLP-ETH:WBTC`; Uniswap `UNI-ETH:DPI`
+Disabled Vaults: Uniswap `UNI-ETH:DAI`, `UNI-ETH:USDC`, `UNI-ETH:USDT`, `UNI-ETH:WBTC`
 Strategies: [link relevant strategies]
+
 
 
 # History of Strategy Additions
@@ -65,12 +73,12 @@ This strategy farms CRV, the [Curve Finance DAO token][crv].
 | | |
 |------------------|-|
 | **Asset Farmed**        | CRV, Curve Finance DAO token  |
-| **Assets Used**         | wBTC, renBTC, crvRenWBTC      |
-| **Basic Strategy**      | CRV is farmed and sold for stablecoins |
+| **Assets Used**         | HBTC, OBTC, TBTC, RENWBTC      |
+| **Basic Strategy**      | CRV is farmed and sold for BTC |
 | **How To Participate**  | [deposit a supported asset][hf] |
 | **Yield Payout**        | Successful farming makes your deposit redeemable for a growing amount of the deposited asset |
-| **FARM Incentives**      | [fWBTC, frenBTC, and fcrvRenWBTC deposit receipts can be deposited to earn a stakedrop of FARM][farm-stakedrop] |
-| **Vault Contract**      | [fWBTC][es-fwbtc], [frenBTC][es-frenbtc], [fcrvRenWBTC][es-fcrvrenwbtc] |
+| **FARM Incentives**      | fCRV-HBTC, fCRV-OBTC, fCRV-RENWBTC deposit receipts can be staked to earn FARM incentives |
+| **Vault Contract**      | [fCRV-HBTC](https://etherscan.io/address/0xCC775989e76ab386E9253df5B0c0b473E22102E2), [fCRV-OBTC](https://etherscan.io/address/0x966A70A4d3719A6De6a94236532A0167d5246c72), [fCRV-RENWBTC](https://etherscan.io/address/0x9aA8F427A17d6B0d91B6262989EdC7D45d6aEdf8) |
 | **Strategy Contract**   | [CRVStrategyWBTCMainnet][es-strat-fwbtc], [CRVStrategyRENBTCMainnet][es-strat-renbtc], [CRVStrategyWRenBTCMixMainnet][es-strat-crvrenwbtc] |
 | **Example Harvest TX**  | [doHardWork](https://etherscan.io/tx/0x01dfcfd6dd1ca0db042fb516767c3725e06cc1db28a40781314c72d897351ba8) |
 | **Timelock**            | 12 hours
