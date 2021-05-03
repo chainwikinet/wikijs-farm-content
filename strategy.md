@@ -2,7 +2,7 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2021-05-03T23:18:32.155Z
+date: 2021-05-03T23:30:18.552Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-04T07:47:54.724Z
@@ -97,7 +97,7 @@ This strategy farms CRV, the [Curve Finance DAO token][crv].
 | | |
 |------------------|-|
 | **Asset Farmed**        | CRV, Curve Finance DAO token  |
-| **Assets Used**         | DAI, USDC, USDT               |
+| **Assets Used**         | CRV:HUSD, YCRV, 3CRV, CRV:COMPOUND, CRV:BUSD,CRV:USDN, CRV:EURS, CRV:GUSD, CRV:UST, CRV:USDP                      |
 | **Basic Strategy**      | CRV is farmed and sold for stablecoins |
 | **How To Participate**  | [deposit DAI, USDC, USDT, TUSD][hf] to receive fDAI, fUSDC, fUSDT |
 | **Yield Payout**        | Successful farming makes the fDAI, fUSDC, and fUSDT redeemable for a growing number of DAI, USDC, and USDT |
