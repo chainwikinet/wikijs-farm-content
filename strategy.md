@@ -2,7 +2,7 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2021-05-04T23:54:14.626Z
+date: 2021-05-04T23:57:47.374Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-04T07:47:54.724Z
@@ -18,7 +18,7 @@ dateCreated: 2020-09-04T07:47:54.724Z
 Summary: deposit funds into Harvest to automatically harvest rewards.
 Rewards: Reward tokens are sold for additional deposited token.
 Vaults: `USDC`, `USDT`, `DAI`, `TUSD`, `WBTC`, `renBTC`
-Strategies: [link relevant strategies]
+Strategies: [farm Comp and Idle with USDC ]
 
 
 **Farming Curve LP token rewards**
