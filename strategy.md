@@ -2,7 +2,7 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2021-05-03T23:49:46.860Z
+date: 2021-05-04T23:08:27.970Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-04T07:47:54.724Z
@@ -119,21 +119,21 @@ This strategy farms CRV, the [Curve Finance DAO token][crv].
 
 [es-crvstable-harvest]: https://etherscan.io/tx/0x0b8f78bb74fc5e1451af4c6b15dd48b263fc5b29006a3555bd5942313235d22a
 
-## Farming UNI With LP Tokens
-This strategy farms UNI, the [Uniswap Token][uni].
+## Farming With Uniswap Liquidity
+This strategy farms tokens based on Uniswap staking.
 
-> You do not receive UNI directly. Instead, the farmed UNI is sold to return more lp tokens of the type deposited when you withdraw.
+> You do not receive farmed tokens directly. Instead, the farmed tokens is sold to return more lp tokens of the type deposited when you withdraw.
 {.is-info}
 
 | | |
 |------------------|-|
-| **Asset Farmed**        | UNI, Uniswap token  |
-| **Assets Used**         | ETH-DAI, ETH-USDC, ETH-USDT, ETH-WBTC              |
-| **Basic Strategy**      | UNI is automatically farmed and sold for more LP tokens. Harvest pays your gas fees to grow the underlying LP. 30% of rewards are kept for FARM profit sharing. |
+| **Asset Farmed**        | INDEX, KLONX  |
+| **Assets Used**         | ETH-DPI, WBTC-KBTC, WBTC-KLONX, FARM/ETH, FARM/GRAIN               |
+| **Basic Strategy**      | INDEX and KLONX are automatically farmed and sold for more LP tokens. Harvest pays your gas fees to grow the underlying LP. 30% of rewards are kept for FARM profit sharing. |
 | **How To Participate**  | [deposit LP Tokens][hf] to receive fUNI-V2 |
 | **Yield Payout**        | Successful farming makes the fUNISWAP_LP redeemable for a growing number of LP tokens. |
-| **FARM Incentives**     | [The fUNISWAP_LP can be deposited to earn a stakedrop of FARM][farm-stakedrop] |
-| **Vault Contract**      | fUNI-V2 [fWBTC_WETH_LP][es-fwbtc-weth-LP] ([implementation][es-fwbtc-weth-LP-proxy]), [fUSDC_WETH_LP][es-fusdc-weth-LP] ([implementation][es-fusdc-weth-LP-proxy]), [fUSDT_WETH_LP][es-fusdt-weth-LP] ([implementation][es-fusdt-weth-LP-proxy]), [fDAI-WETH-LP][es-fdai-weth-LP] ([implementation][es-fdai-weth-LP-proxy]) |
+| **FARM Incentives**     | UNISWAP_LP deposit receipts can be staked to earn FARM incentives |
+| **Vault Contract**      | [ETH-DPI](https://etherscan.io/address/0x2a32dcBB121D48C106F6d94cf2B4714c0b4Dfe48) [WBTC-KBTC](https://etherscan.io/address/0x5cd9Db40639013A08d797A839C9BECD6EC5DCD4D) [WBTC-KLONX](https://etherscan.io/address/0xB4E3fC276532f27Bd0F738928Ce083A3b064ba61)|
 | **Strategy Contract**   | SNXRewardUniLPStrategy [WBTC-WETH][es-weth-wbtc-strategy], [USDT-WETH][es-weth-usdt-strategy], [USDC-WETH][es-weth-usdc-strategy], [DAI-WETH][es-weth-dai-strategy]|
 | **Example Harvest TX**  | [doHardWork][es-weth-wbtc-harvest]|
 | **Timelock**            | 12 hours
