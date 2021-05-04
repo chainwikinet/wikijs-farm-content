@@ -2,7 +2,7 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2021-05-04T23:44:42.622Z
+date: 2021-05-04T23:54:14.626Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-04T07:47:54.724Z
@@ -86,6 +86,38 @@ This strategy farms CRV, the [Curve Finance DAO token][crv].
 [es-strat-fwbtc]: https://etherscan.io/address/0x3f31edcd57b2461fd2650f4a1066a97f73b97158#code
 [es-strat-renbtc]: https://etherscan.io/address/0xd2429c20af3eb06b15c08b5290f4971b9fac20b1#code
 [es-strat-crvrenwbtc]: https://etherscan.io/address/0x9aA8F427A17d6B0d91B6262989EdC7D45d6aEdf8#code
+
+## Farming COMP and IDLE with Stablecoins
+
+This strategy farms COMP, the [Compound Finance token](https://www.coingecko.com/en/coins/compound) and IDLE, the [Idle Finance token](https://www.coingecko.com/en/coins/idle) .
+
+> You do not receive COMP and IDLE directly. Instead, the farmed tokens are sold to return more stablecoins to you when you withdraw.
+{.is-info}
+
+| | |
+|------------------|-|
+| **Asset Farmed**        | COMP, Compound Finance token and IDLE, Idle finance token |
+| **Assets Used**         | USDC, USDT, DAI |
+| **Basic Strategy**      | COMP and IDLE are farmed and sold for stablecoins |
+| **How To Participate**  | Stake your share of the pool to receive the fAsset |
+| **Yield Payout**        | Successful farming makes the fAsset redeemable for a growing number of the pooled assets |
+| **FARM Incentives**      | fUSDC, fUSDT, fDAI deposit receipts can be staked to earn FARM incentives |
+| **Vault Contract**      | [USDC](https://etherscan.io/address/0xf0358e8c3CD5Fa238a29301d0bEa3D63A17bEdBE) [USDT](https://etherscan.io/address/0x053c80eA73Dc6941F518a68E2FC52Ac45BDE7c9C) [DAI](https://etherscan.io/address/0xab7fa2b2985bccfc13c6d86b1d5a17486ab1e04c)   
+|
+| **Strategy Contract**   | [CRVStrategyYCRVMainnet][es-strat-crvstable-v2], [DAI Strategy][es-strat-crystable-dai], [USDC Strategy][es-strat-crystable-usdc], [USDT Strategy][es-strat-crystable-usdt], [TUSD Strategy][es-strat-crystable-tusd] |
+| **Example Harvest TX**  | [doHardWork][es-crvstable-harvest] |
+| **Timelock**            | 12 Hours
+
+> Note: This strategy is using a two-tiered vault. All stablecoins deposited are combined into a single pool, thus farming yields are equal for all three pools.
+{.is-info}
+
+[es-strat-crvstable-v2]: https://etherscan.io/address/0x2427da81376a0c0a0c654089a951887242d67c92
+[es-strat-crystable-dai]: https://etherscan.io/address/0xab4ae725223a91c3363e050619a088c0903e6d84#code
+[es-strat-crystable-usdc]: https://etherscan.io/address/0xd55ada00494d96ce1029c201425249f9dfd216cc#code
+[es-strat-crystable-usdt]: https://etherscan.io/address/0x1c47343ea7135c2ba3b2d24202ad960adafaa81c
+[es-strat-crystable-tusd]: https://etherscan.io/address/0x9d356fda8437f7c7b6a4bc84466a98a4a6eec462
+
+[es-crvstable-harvest]: https://etherscan.io/tx/0x0b8f78bb74fc5e1451af4c6b15dd48b263fc5b29006a3555bd5942313235d22a
 
 ## Farming CRV with Stablecoins
 
