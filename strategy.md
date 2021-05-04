@@ -2,7 +2,7 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2021-05-04T23:26:15.058Z
+date: 2021-05-04T23:44:42.622Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-04T07:47:54.724Z
@@ -106,7 +106,7 @@ This strategy farms CRV, the [Curve Finance DAO token][crv].
 |
 | **Strategy Contract**   | [CRVStrategyYCRVMainnet][es-strat-crvstable-v2], [DAI Strategy][es-strat-crystable-dai], [USDC Strategy][es-strat-crystable-usdc], [USDT Strategy][es-strat-crystable-usdt], [TUSD Strategy][es-strat-crystable-tusd] |
 | **Example Harvest TX**  | [doHardWork][es-crvstable-harvest] |
-| **Timelock**            | None (To be implemented 2020-10-20)
+| **Timelock**            | 12 Hours
 
 > Note: This strategy is using a two-tiered vault. All stablecoins deposited are combined into a single pool, thus farming yields are equal for all three pools.
 {.is-info}
@@ -155,11 +155,40 @@ This strategy farms tokens based on Uniswap staking.
 
 [es-weth-wbtc-harvest]: https://etherscan.io/tx/0x7e9f139d796487bebe3b0d6e629aee01fafc6b1dd05a8783aa297c96625510cd
 
+## Sushi HODL strategies with LP Tokens
+
+This strategy farms XSUSHI and AAVE the [SUSHI staked token on Sushiswap](https://www.coingecko.com/en/coins/xsushi) and [AAVE token](https://www.coingecko.com/en/coins/aave).
+
+> You do not receive XSUSHI and AAVE directly. Instead, the farmed XSUSHI and AAVE are sold to return more SLP to you when you withdraw.
+{.is-info}
+
+| | |
+|------------------|-|
+| **Asset Farmed**        | XSUSHI, staked token on Sushiswap and AAVE |
+| **Assets Used**         | SUSHI, ETH-DAI, ETH-USDC, ETH-USDT, ETH-WBTC, |
+| **Basic Strategy**      | XSUSHI and AAVE are automatically farmed and sold for more LP tokens. Harvest pays your gas fees to grow the underlying LP. 30% of rewards are kept for FARM profit sharing. |
+| **How To Participate**  | [deposit a supported asset][hf] |
+| **Yield Payout**        | Successful farming makes your deposit redeemable for a growing amount of the deposited asset |
+| **FARM Incentives**      | fSLP deposit receipts can be staked to earn FARM incentives |
+| **Vault Contract**      | [SUSHI](https://etherscan.io/address/0x274AA8B58E8C57C4e347C8768ed853Eb6D375b48) [ETH-DAI](https://etherscan.io/address/0x29EC64560ab14d3166222Bf07c3F29c4916E0027) [ETH-USDC](https://etherscan.io/address/0x5774260CcD87F4FfFc4456260857207fc8BCb89A) [ETH-USDT](https://etherscan.io/address/0x4D4B6f8EFb685b774234Fd427201b3a9bF36ffc8) [ETH-WBTC](https://etherscan.io/address/0xB677bcA369f2523F62862F88d83471D892dD55B9) 
+|
+| **Strategy Contract**   | SushiMasterChefLPStrategy [fWBTC_TBTC_LP][es-wbtc-tbtc-strategy] |
+| **Example Harvest TX**  | [doHardWork][es-wbtc-tbtc-harvest] |
+| **Timelock**            | 12 hours
+
+[es-fwbtc-tbtc-LP]: https://etherscan.io/address/0xF553E1f826f42716cDFe02bde5ee76b2a52fc7EB
+
+[es-fwbtc-tbtc-LP-proxy]: https://etherscan.io/address/0x9b3be0cc5dd26fd0254088d03d8206792715588b
+
+[es-wbtc-tbtc-strategy]: https://etherscan.io/address/0x53df6664b3ddE086DCe6315c317d1002b14B87E3
+
+[es-wbtc-tbtc-harvest]: https://etherscan.io/tx/0xdb0f7cd77685b5ac36cbf251771b4d26c9056aaa583eccc2cabdc43be50640d6
+
 ## Sushiswap strategies with LP Tokens
 
 This strategy farms SUSHI, the [Sushiswap token][sushi].
 
-> You do not receive SUSHI directly. Instead, the farmed SUSHI is sold to return more BTC to you when you withdraw.
+> You do not receive SUSHI directly. Instead, the farmed SUSHI is sold to return more SLP to you when you withdraw.
 {.is-info}
 
 | | |
@@ -201,7 +230,7 @@ This strategy farms COMP, the [Compound Finance Token](https://www.coingecko.com
 | **Vault Contract**      | [fWETH](https://etherscan.io/address/0xFE09e53A81Fe2808bc493ea64319109B5bAa573e) |
 | **Strategy Contract**   | [DEGOSimpleStrategy][es-weth-strategy] |
 | **Example Harvest TX**  | [doHardWork][harvestdego] |
-| **Timelock**            | None (To be implemented 2020-10-20)
+| **Timelock**            | 12 Hours
 
 [es-weth-strategy]: https://etherscan.io/address/0xa23c6f2d85fe47e613ce6bbb40e74acb49ae281a#code
 
