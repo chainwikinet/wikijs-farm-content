@@ -74,7 +74,7 @@ dateCreated: 2020-11-11T22:03:19.306Z
 
 | Token   | Address | Links |
 |:---|:---|:---|
-| FARM_USDC_LP | [0x514906FC121c7878424a5C928cad1852CC545892][es-farm_usdc_lp] |incentivized; [learn more](contracts/farm)
+| FARM_ETH_LP | [0x6555c79a8829b793F332f1535B0eFB1fE4C11958](https://etherscan.io/address/0x6555c79a8829b793F332f1535B0eFB1fE4C11958) |incentivized; [learn more](contracts/farm)
 
 
 # Reward Pools
