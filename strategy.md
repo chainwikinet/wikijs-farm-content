@@ -2,7 +2,7 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2021-05-05T16:18:16.807Z
+date: 2021-05-05T16:23:18.785Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-04T07:47:54.724Z
@@ -92,7 +92,7 @@ Strategy vaults:
 [farm XSUSHI and AAVE in the ETH-USDT pool](https://etherscan.io/address/0x4D4B6f8EFb685b774234Fd427201b3a9bF36ffc8)
 [farm XSUSHI and AAVE in the ETH-WBTC pool](https://etherscan.io/address/0xB677bcA369f2523F62862F88d83471D892dD55B9)
 
-**NFT**
+**NFT Strategies**
 Summary: deposit funds into Sushiswap to receive an LP token; deposit the LP token into Harvest to automatically harvest the rewards.
 Rewards: Reward tokens are sold for additional deposited token.
 
@@ -107,7 +107,7 @@ Strategy vaults:
 [farm MUSE in the GPUNKS20-ETH pool](https://etherscan.io/address/0xe6e0B4294eF6a518bB702402e9842Df2a2Abf1B1)
 
 **1INCH**
-Summary: deposit funds into Sushiswap to receive an LP token; deposit the LP token into Harvest to automatically harvest the rewards.
+Summary: deposit funds into 1inch to receive an LP token; deposit the LP token into Harvest to automatically harvest the rewards.
 Rewards: Reward tokens are sold for additional deposited token.
 
 Active Strategies: 1inch `1INCH-ETH`, `1INCH-USDC`, `1INCH-WBTC`
@@ -115,6 +115,14 @@ Strategy vaults:
 [farm 1INCH in the 1INCH-ETH pool](https://etherscan.io/address/0xFCA949E34ecd9dE519542CF02054DE707Cf361cE)
 [farm 1INCH in the 1INCH-USDC pool](https://etherscan.io/address/0xF174DDDD9DBFfeaeA5D908a77d695a77e53025b3)
 [farm 1INCH in the 1INCH-WBTC pool](https://etherscan.io/address/0xDdB4669f39c03A6edA92ffB5B78A9C1a74615F1b)
+
+**Sushiswap**
+Summary: deposit funds into Sushiswap to receive an LP token; deposit the LP token into Harvest to automatically harvest the rewards.
+Rewards: Reward tokens are sold for additional deposited token.
+
+Active Strategies: Sushiswap `1INCH-ETH`, `1INCH-USDC`, `1INCH-WBTC`
+Strategy vaults: 
+[farm 1INCH in the 1INCH-ETH pool](https://etherscan.io/address/0xFCA949E34ecd9dE519542CF02054DE707Cf361cE)
 
 
 
