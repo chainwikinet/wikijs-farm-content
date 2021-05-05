@@ -2,7 +2,7 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2021-05-05T16:23:18.785Z
+date: 2021-05-05T16:32:25.149Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-04T07:47:54.724Z
@@ -43,7 +43,7 @@ Strategy vaults:
 [farm CRV in the CRV:COMPOUND pool](https://etherscan.io/address/0x998cEb152A42a3EaC1f555B1E911642BeBf00faD)
 [farm CRV in the CRV:BUSD pool](https://etherscan.io/address/0x4b1cBD6F6D8676AcE5E412C78B7a59b4A1bbb68a)
 [farm CRV in the CRV:USDN pool](https://etherscan.io/address/0x683E683fBE6Cf9b635539712c999f3B3EdCB8664)
-[farm CRV in the CRV:EURS pool](https://etherscan.io/address/0x6eb941BD065b8a5bd699C5405A928c1f561e2e5a)
+[farm CRV and SNX in the CRV:EURS pool](https://etherscan.io/address/0x6eb941BD065b8a5bd699C5405A928c1f561e2e5a)
 [farm CRV in the CRV:GUSD pool](https://etherscan.io/address/0xB8671E33fcFC7FEA2F7a3Ea4a117F065ec4b009E)
 [farm CRV in the CRV:UST pool](https://etherscan.io/address/0x84A1DfAdd698886A614fD70407936816183C0A02)
 [farm CRV in the CRV:USDP pool](https://etherscan.io/address/0x02d77f6925f4ef89EE2C35eB3dD5793f5695356f)
@@ -93,7 +93,7 @@ Strategy vaults:
 [farm XSUSHI and AAVE in the ETH-WBTC pool](https://etherscan.io/address/0xB677bcA369f2523F62862F88d83471D892dD55B9)
 
 **NFT Strategies**
-Summary: deposit funds into Sushiswap to receive an LP token; deposit the LP token into Harvest to automatically harvest the rewards.
+Summary: deposit funds to receive an LP token; deposit the LP token into Harvest to automatically harvest the rewards.
 Rewards: Reward tokens are sold for additional deposited token.
 
 Active Strategies: `MUSE-ETH`, `DUDES20-ETH`, `MASK20-ETH`, `ROPE20-ETH`,  `MCAT20-ETH`,  `MEME20-ETH`,  `GPUNKS20-ETH`
@@ -120,9 +120,14 @@ Strategy vaults:
 Summary: deposit funds into Sushiswap to receive an LP token; deposit the LP token into Harvest to automatically harvest the rewards.
 Rewards: Reward tokens are sold for additional deposited token.
 
-Active Strategies: Sushiswap `1INCH-ETH`, `1INCH-USDC`, `1INCH-WBTC`
+Active Strategies: Sushiswap `ETH-SUSHI`, `ETH-DAI`, `ETH-USDC`, `ETH-USDT`, `ETH-WBTC`, `ETH-UST`,
 Strategy vaults: 
-[farm 1INCH in the 1INCH-ETH pool](https://etherscan.io/address/0xFCA949E34ecd9dE519542CF02054DE707Cf361cE)
+[farm SUSHI in the ETH-SUSHI pool](https://etherscan.io/address/0x5aDe382F38A09A1F8759D06fFE2067992ab5c78e)
+[farm SUSHI in the ETH-DAI pool](https://etherscan.io/address/0x203E97aa6eB65A1A02d9E80083414058303f241E)
+[farm SUSHI in the ETH-USDC pool](https://etherscan.io/address/0x01bd09A1124960d9bE04b638b142Df9DF942b04a)
+[farm SUSHI in the ETH-USDT pool](https://etherscan.io/address/0x64035b583c8c694627A199243E863Bb33be60745)
+[farm SUSHI in the ETH-WBTC pool](https://etherscan.io/address/0x5C0A3F55AAC52AA320Ff5F280E77517cbAF85524)
+[farm SUSHI in the ETH-UST pool](https://etherscan.io/address/0x4D4D85c6a1ffE6Bb7a1BEf51c9E2282893feE521)
 
 
 
