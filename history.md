@@ -2,7 +2,7 @@
 title: Harvest Finance History
 description: launch, governance, and significant events in Harvest Finance
 published: true
-date: 2020-10-13T07:47:18.052Z
+date: 2021-05-05T17:27:52.178Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-16T03:19:50.546Z
@@ -36,7 +36,7 @@ the community vote results : https://snapshot.page/#/farm/proposal/QmQvoNCNhz5dA
 
 > 🤑 The council of 69♋ was introduced. It is an initiatve to bring even more yields💰 for Harvest Finance farmers by investing in strategic early stage ventures. 
 The way The council of 69♋ works is : 
-> 1. A savy community member suggest a deal and organizises a community vote to move the deal further (1000FARM votes needed)
+> 1. A savvy community member suggest a deal and organizises a community vote to move the deal further (1000FARM votes needed)
 > 2. The Harvest council of 69 performs a due dilligence and makes a decision
 > 3. 💰 After a successful invesmtnt the member who suggested **the deal gets 10% in a liquidity even, while the remaining 90% go to the Profit Share pool** to be distributed among the Harvest Farmers.
 > 
@@ -172,7 +172,28 @@ The following DeFi assets were eligible for Week 1 stakedrop rewards:
 :spaghetti: BASED-sUSD Uniswap LP
 :grapes: PASTA-ETH Uniswap LP
 
-## Week 1 Stakedrop Details
+# History of Strategy Additions
 
-> Grow Harvest. [Contribute to this wiki!](/contribute)
-{.is-info}
+Harvest Finance launched on September 1st. New farming strategies are constantly evaluated for addition to Harvest.
+
+- **2020-09-01** Harvest Finance launches with yCRV CRV farming support for DAI, USDC, USDT
+- **2020-09-05** Within 16 hours of Swerve launch, Harvest adds SWRV farming support for DAI, USDC, USDT
+- **2020-09-08** Harvest adds CurveRenWBTC CRV farming support for WBTC, renBTC, crvRenWBTC
+- **2020-09-17** Harvest adds UNI farming support for ETH-DAI, ETH-USDC, ETH-USDT, ETH-WBTC.
+- **2020-10-06** Harvest adds CRV farming support for TUSD with a 12 hour timelock.
+- **2020-10-13** Harvest adds SUSHI farming support for WBTC-TBTC, and adds a 12 hour timelock to UNI vaults.
+- **2020-10-20** Harvest adds DEGO farming support for WETH, and adds a 12 hour timelock to Stable, BTC and ETH vaults.
+- **2020-11-03** Harvest adds PICKLE CRV farming support for 3CRV, and adds yCRV vault to mitigate flash loan vector attacks, 12 hour timelock is now active on all vaults.
+- **2020-11-10** Harvest adds KEEP/CRV farming support for TBTC.
+- **2020-11-11** Harvest adds COMP farming by redeploying single-asset vaults of USDC and DAI
+- **2020-11-13** Harvest redeploys USDT single-asset vault to farm COMP
+- **2020-11-16** Harvest adds SUSHI farming support for ETH-USDC, ETH-USDT, ETH-DAI, and ETH-WBTC.
+- **2020-11-17** Harvest adds CRV farming support for USDN, COMPOUND, and BUSD pools. 
+- **2020-11-30** Harvest adds IDLE farming by redeploying single-asset vault assets of USDC, USDT, TUSD, DAI, WBTC into idle.finance.
+- **2020-12-01** Harvest launches Self-Provisioning LP strategy using WETH single-asset pool in addition to enabling leveraged investing on Compound.
+- **2020-12-03** Harvest adds CRV farming support for HUSD and HBTC and INDEX farming support for ETH-DPI Uni LP.
+
+
+As of September 8th, 70% of the yield farming revenue is returned to users who provide capital. The remaining 30% of the yield farming revenue is distributed to users who [stake FARM in the Profit Sharing contract][farm-stakedrop]. The Harvest Finance team does not charge fees for withdrawing or depositing assets and does not claim a fee on the yield farming revenue.
+
+As of November 3rd, all vaults include a 12 hour timelock for both strategy changes and vault upgrades.
