@@ -2,7 +2,7 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2021-05-05T16:06:19.585Z
+date: 2021-05-05T16:18:16.807Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-04T07:47:54.724Z
@@ -91,6 +91,31 @@ Strategy vaults:
 [farm XSUSHI and AAVE in the ETH-USDC pool](https://etherscan.io/address/0x5774260CcD87F4FfFc4456260857207fc8BCb89A)
 [farm XSUSHI and AAVE in the ETH-USDT pool](https://etherscan.io/address/0x4D4B6f8EFb685b774234Fd427201b3a9bF36ffc8)
 [farm XSUSHI and AAVE in the ETH-WBTC pool](https://etherscan.io/address/0xB677bcA369f2523F62862F88d83471D892dD55B9)
+
+**NFT**
+Summary: deposit funds into Sushiswap to receive an LP token; deposit the LP token into Harvest to automatically harvest the rewards.
+Rewards: Reward tokens are sold for additional deposited token.
+
+Active Strategies: `MUSE-ETH`, `DUDES20-ETH`, `MASK20-ETH`, `ROPE20-ETH`,  `MCAT20-ETH`,  `MEME20-ETH`,  `GPUNKS20-ETH`
+Strategy vaults: 
+[farm MUSE in the MUSE-ETH pool](https://etherscan.io/address/0xc45d471c77ff31C39474d68a5080Fe1FfACDBC04)
+[farm MUSE in the DUDES20-ETH pool](https://etherscan.io/address/0x1E5f4e7127ea3981551D2Bf97dCc8f17a4ECEbEf)
+[farm MUSE in the MASK20-ETH pool](https://etherscan.io/address/0xF2a671645D0DF54d2f03E9ad7916c8F7368D1C29)
+[farm MUSE in the ROPE20-ETH pool](https://etherscan.io/address/0xAF9486E3DA0cE8d125aF9b256b3ecd104a3031B9)
+[farm MUSE in the MCAT20-ETH pool](https://etherscan.io/address/0x0cA19915439C12B16C0A8C119eC05fA801365a15)
+[farm MUSE in the MEME20-ETH pool](https://etherscan.io/address/0x227A46266329767cEa8883BFC81d21f1Ea0EdbB3)
+[farm MUSE in the GPUNKS20-ETH pool](https://etherscan.io/address/0xe6e0B4294eF6a518bB702402e9842Df2a2Abf1B1)
+
+**1INCH**
+Summary: deposit funds into Sushiswap to receive an LP token; deposit the LP token into Harvest to automatically harvest the rewards.
+Rewards: Reward tokens are sold for additional deposited token.
+
+Active Strategies: 1inch `1INCH-ETH`, `1INCH-USDC`, `1INCH-WBTC`
+Strategy vaults: 
+[farm 1INCH in the 1INCH-ETH pool](https://etherscan.io/address/0xFCA949E34ecd9dE519542CF02054DE707Cf361cE)
+[farm 1INCH in the 1INCH-USDC pool](https://etherscan.io/address/0xF174DDDD9DBFfeaeA5D908a77d695a77e53025b3)
+[farm 1INCH in the 1INCH-WBTC pool](https://etherscan.io/address/0xDdB4669f39c03A6edA92ffB5B78A9C1a74615F1b)
+
 
 
 # History of Strategy Additions
