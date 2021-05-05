@@ -2,7 +2,7 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2021-05-05T00:03:12.597Z
+date: 2021-05-05T00:04:54.090Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-04T07:47:54.724Z
