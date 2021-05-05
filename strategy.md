@@ -2,7 +2,7 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2021-05-05T00:04:54.090Z
+date: 2021-05-05T00:05:50.392Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-04T07:47:54.724Z
@@ -117,8 +117,6 @@ This strategy farms COMP, the [Compound Finance token](https://www.coingecko.com
 | **Example Harvest TX**  | [doHardWork][es-crvstable-harvest] |
 | **Timelock**            | 12 Hours
 
-> Note: This strategy is using a two-tiered vault. All stablecoins deposited are combined into a single pool, thus farming yields are equal for all three pools.
-{.is-info}
 
 [es-strat-crvstable-v2]: https://etherscan.io/address/0x2427da81376a0c0a0c654089a951887242d67c92
 [es-strat-crystable-dai]: https://etherscan.io/address/0xab4ae725223a91c3363e050619a088c0903e6d84#code
