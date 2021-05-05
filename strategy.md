@@ -2,7 +2,7 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2021-05-04T23:57:47.374Z
+date: 2021-05-05T00:03:12.597Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-04T07:47:54.724Z
@@ -11,14 +11,23 @@ dateCreated: 2020-09-04T07:47:54.724Z
 > Grow Harvest. [Contribute to this wiki!](/contribute)
  {.is-success}
 
+> Please do not interact directly with Smart contracts!
+{.is-danger}
+
 
 # Active Yield Farming Strategies
 
 **Single-Asset Strategies**
 Summary: deposit funds into Harvest to automatically harvest rewards.
 Rewards: Reward tokens are sold for additional deposited token.
-Vaults: `USDC`, `USDT`, `DAI`, `TUSD`, `WBTC`, `renBTC`
-Strategies: [farm Comp and Idle with USDC ]
+Vaults: `USDC`, `USDT`, `DAI`, `TUSD`, `WBTC`
+Strategies: 
+[farm Comp and Idle with USDC](https://etherscan.io/address/0xf0358e8c3CD5Fa238a29301d0bEa3D63A17bEdBE)
+[farm Comp and Idle with USDT](https://etherscan.io/address/0x053c80eA73Dc6941F518a68E2FC52Ac45BDE7c9C)
+[farm Comp and Idle with DAI](https://etherscan.io/address/0xab7fa2b2985bccfc13c6d86b1d5a17486ab1e04c)
+[farm Comp and Idle with WBTC](https://etherscan.io/address/0x5d9d25c7C457dD82fc8668FFC6B9746b674d4EcB)
+
+
 
 
 **Farming Curve LP token rewards**
