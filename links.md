@@ -2,7 +2,7 @@
 title: Harvest Finance Articles, Media & Data
 description: manage your farming and learn more about Harvest
 published: true
-date: 2020-12-06T14:52:01.595Z
+date: 2021-05-05T17:41:53.927Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-14T19:44:06.472Z
@@ -10,7 +10,9 @@ dateCreated: 2020-08-14T19:44:06.472Z
 
 # Listings
 
+- [Harvest Finance in the Coingecko yield farming list](https://www.coingecko.com/en/yield-farming)
 - [Harvest Finance in the Coinmarketcap yield farming list](https://coinmarketcap.com/yield-farming/)
+- [Harvest Finance on Defipulse](https://defipulse.com/)
 - [Harvest Finance on dapp.com](https://www.dapp.com/ja/app/harvest-finance)
 
 
@@ -37,9 +39,8 @@ Guides
 Tools created by community members:
 - https://cultivator.finance/ (profit calculator with APR/APY + asset list with TVL & APR/APY)
 - http://farmdashboard.xyz/ ( stats + trades + vault changes)
-- https://cold-block-3726.on.fleek.co/ (fAssets price chart)
-- https://farmingreturn.com/ (caution: contains Google Analytics tracking software)
-- https://david4neblio.github.io/harvestyield/ (profit share yield calulator)
+- https://harvestcharts.on.fleek.co/ (fAssets price chart)
+
 - https://www.omnicalculator.com/finance/apy (convert between APY and APR)
 - https://explore.duneanalytics.com/public/dashboards/nwtrluxssitcm8ipiQjUjwJQ5Xf5DF8KwSnOlYLa ($FARM allocation visualized)
 
@@ -81,20 +82,9 @@ Tools created by community members:
 ## Core Team
 - The Harvest Finance Launch. https://medium.com/harvest-finance/the-harvest-finance-project-338c3e5806fc
 - Harvest Reward Pools Launch. https://medium.com/harvest-finance/harvest-reward-pools-launch-60d1dcbc4b81
-- Harvest Rewards Week 2 Launch. https://medium.com/harvest-finance/harvest-rewards-week-2-launch-thegreenrevolution-14c68af416e9
-- 🔥🔥🔥 and Rewards Week 3 Launch. https://medium.com/harvest-finance/and-rewards-week-3-launch-f4e771946894
-- 🚜 Harvest Rewards Week 4 Launch. https://medium.com/harvest-finance/harvest-rewards-week-4-launch-f69ae0b26e09
-- Week 5: The Power of 69 https://medium.com/harvest-finance/week-5-the-power-of-69-6c8346ec3d8d
-- Week 6 Update: Security Rules Everything Around Me https://medium.com/harvest-finance/week-6-update-security-rules-everything-around-me-62a681a3692a
-- Week 7 Update: Ongoing Vault Migration Phase 2 https://medium.com/harvest-finance/harvest-finance-week-7-update-ongoing-vault-migration-phase-2-794d293083f0
-- Week 8 Update: Welcome to the Good Life (Migration Complete) https://medium.com/@harvestfinance/week-8-update-welcome-to-the-good-life-migration-complete-cf72137fc6eb
-- Week 9 Update: Restoring Funds and Immediate Next Steps to Mitigate Hacks https://medium.com/harvest-finance/week-9-update-restoring-funds-and-immediate-next-steps-to-mitigate-hacks-c2dc5bd829e5
-- Harvest Flashloan Economic Attack Post-Mortem https://medium.com/harvest-finance/harvest-flashloan-economic-attack-post-mortem-3cf900d65217
-- Week 10 Update: New Vaults and More 🥖 Bread for the People! https://medium.com/harvest-finance/week-10-update-new-vaults-and-more-bread-for-the-people-644b661d6163
-- Week 11 Update: Gains and Golden GRAINs https://medium.com/harvest-finance/week-11-update-gains-and-golden-grains-66165235be1d
-- Week 12 — Seasonal Crop Rotation, Same Farming Destination https://medium.com/harvest-finance/week-12-seasonal-crop-rotation-same-farming-destination-9f76694fc872
-- Week 13 — A Season of Many Thanks to our Amazing Community https://medium.com/harvest-finance/week-13-a-season-of-many-thanks-to-our-amazing-community-db641a7afa8a
-- Week 14 Updates — Building Today, Funding the Builders of Tomorrow https://harvestfinance.medium.com/week-14-updates-building-today-funding-the-builders-of-tomorrow-74c5ea8575f6
+- Announcements can be found on Harvest Finance medium page https://harvestfinance.medium.com/
+- Week updates can be read in Yogafire medium page: https://yogafire-genuine.medium.com/
+
 
 ## Community
 ##### Podcasts
@@ -114,6 +104,15 @@ Redmption's podcast appearance at Delpi Digital: https://www.delphidigital.io/po
 
 ## Translations
 - (French) https://cryptoouf.com/newsletter/category/Harvest+finance
+- (Indonesian) https://medium.com/@gamewatch21
+- (Vietnamese) https://mmo4me.com/threads/harvest-finance-cap-nhat-tuan-27.422058/#post-7352096
+- (Japanese) https://miwa-wv.medium.com/
+- (Traditional Chinese) https://harvestfinance-tw.medium.com/
+- (Korean) https://yogafire-genuine.medium.com/
+- (Italian) https://coirof.medium.com/
+- (Russian) https://makurinma03.medium.com/
+- (Portuguese) https://medium.com/@sandraspigato
+- (Turkish) https://medium.com/@armaganpublish
 
 - [Contribute!](/contribute)
 
@@ -130,6 +129,4 @@ Redmption's podcast appearance at Delpi Digital: https://www.delphidigital.io/po
 - Farmer Chad T-Shirt https://www.teepublic.com/t-shirt/14054742-harvest-finance-bread-for-the-people
 
 # Other Media
-- Harvest Reddit https://www.reddit.com/r/HarvestFinance/
-- [Harvest Newsletter](/harvest_newsletter_.pdf) (Week 3)
 - Memes + Artwork https://www.weirdlittlecorner.com/farm 
