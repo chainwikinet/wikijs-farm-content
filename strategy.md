@@ -2,7 +2,7 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2021-05-05T16:32:25.149Z
+date: 2021-05-05T16:47:02.644Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-04T07:47:54.724Z
@@ -116,6 +116,16 @@ Strategy vaults:
 [farm 1INCH in the 1INCH-USDC pool](https://etherscan.io/address/0xF174DDDD9DBFfeaeA5D908a77d695a77e53025b3)
 [farm 1INCH in the 1INCH-WBTC pool](https://etherscan.io/address/0xDdB4669f39c03A6edA92ffB5B78A9C1a74615F1b)
 
+**Seigniorage**
+Summary: deposit funds into Basis Cash to receive an LP token; deposit the LP token into Harvest to automatically harvest the rewards.
+Rewards: Reward tokens are sold for additional deposited token.
+
+Active Strategies: Basis Cash `DAI-BAC`, `DAI-BASv2`
+Strategy vaults: 
+[farm BASv2 in the DAI-BAC pool](https://etherscan.io/address/0x6Bccd7E983E438a56Ba2844883A664Da87E4C43b)
+[farm BASv2 in the DAI-BASv2 pool](https://etherscan.io/address/0xf8b7235fcfd5A75CfDcC0D7BC813817f3Dd17858)
+
+
 **Sushiswap**
 Summary: deposit funds into Sushiswap to receive an LP token; deposit the LP token into Harvest to automatically harvest the rewards.
 Rewards: Reward tokens are sold for additional deposited token.
@@ -123,12 +133,6 @@ Rewards: Reward tokens are sold for additional deposited token.
 Active Strategies: Sushiswap `ETH-SUSHI`, `ETH-DAI`, `ETH-USDC`, `ETH-USDT`, `ETH-WBTC`, `ETH-UST`,
 Strategy vaults: 
 [farm SUSHI in the ETH-SUSHI pool](https://etherscan.io/address/0x5aDe382F38A09A1F8759D06fFE2067992ab5c78e)
-[farm SUSHI in the ETH-DAI pool](https://etherscan.io/address/0x203E97aa6eB65A1A02d9E80083414058303f241E)
-[farm SUSHI in the ETH-USDC pool](https://etherscan.io/address/0x01bd09A1124960d9bE04b638b142Df9DF942b04a)
-[farm SUSHI in the ETH-USDT pool](https://etherscan.io/address/0x64035b583c8c694627A199243E863Bb33be60745)
-[farm SUSHI in the ETH-WBTC pool](https://etherscan.io/address/0x5C0A3F55AAC52AA320Ff5F280E77517cbAF85524)
-[farm SUSHI in the ETH-UST pool](https://etherscan.io/address/0x4D4D85c6a1ffE6Bb7a1BEf51c9E2282893feE521)
-
 
 
 # History of Strategy Additions
