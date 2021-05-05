@@ -2,7 +2,7 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2021-05-05T16:01:32.660Z
+date: 2021-05-05T16:06:19.585Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-04T07:47:54.724Z
@@ -80,6 +80,17 @@ Strategy vaults:
 [farm FARM in the FARM/GRAIN pool](https://etherscan.io/address/0xe58f0d2956628921cdEd2eA6B195Fc821c3a2b16)
 
 
+**Sushi HODL Strategy**
+Summary: deposit funds into Sushiswap to receive an LP token; deposit the LP token into Harvest to automatically harvest the rewards.
+Rewards: Reward tokens are sold for additional deposited token.
+
+Active Strategies: Sushiswap `SUSHI`, `ETH-DAI`, `ETH-USDC`, `ETH-USDT`;  `ETH-WBTC`
+Strategy vaults: 
+[farm XSUSHI and AAVE in the SUSHI pool](https://etherscan.io/address/0x274AA8B58E8C57C4e347C8768ed853Eb6D375b48)
+[farm XSUSHI and AAVE in the ETH-DAI pool](https://etherscan.io/address/0x29EC64560ab14d3166222Bf07c3F29c4916E0027)
+[farm XSUSHI and AAVE in the ETH-USDC pool](https://etherscan.io/address/0x5774260CcD87F4FfFc4456260857207fc8BCb89A)
+[farm XSUSHI and AAVE in the ETH-USDT pool](https://etherscan.io/address/0x4D4B6f8EFb685b774234Fd427201b3a9bF36ffc8)
+[farm XSUSHI and AAVE in the ETH-WBTC pool](https://etherscan.io/address/0xB677bcA369f2523F62862F88d83471D892dD55B9)
 
 
 # History of Strategy Additions
