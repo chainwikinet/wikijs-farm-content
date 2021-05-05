@@ -2,7 +2,7 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2021-05-05T00:05:50.392Z
+date: 2021-05-05T15:51:51.773Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-04T07:47:54.724Z
@@ -20,8 +20,9 @@ dateCreated: 2020-09-04T07:47:54.724Z
 **Single-Asset Strategies**
 Summary: deposit funds into Harvest to automatically harvest rewards.
 Rewards: Reward tokens are sold for additional deposited token.
-Vaults: `USDC`, `USDT`, `DAI`, `TUSD`, `WBTC`
-Strategies: 
+
+Stablecoins: `USDC`, `USDT`, `DAI`, `TUSD`, `WBTC`
+Strategy vaults: 
 [farm Comp and Idle with USDC](https://etherscan.io/address/0xf0358e8c3CD5Fa238a29301d0bEa3D63A17bEdBE)
 [farm Comp and Idle with USDT](https://etherscan.io/address/0x053c80eA73Dc6941F518a68E2FC52Ac45BDE7c9C)
 [farm Comp and Idle with DAI](https://etherscan.io/address/0xab7fa2b2985bccfc13c6d86b1d5a17486ab1e04c)
@@ -33,12 +34,42 @@ Strategies:
 **Farming Curve LP token rewards**
 Summary: deposit funds into Curve to receive a Curve LP token; deposit the Curve LP token into Harvest to automatically harvest the Curve rewards.
 Rewards: CRV (+ sometimes others, like KEEP) is sold for additional deposited token.
-Vaults: Stablecoins (`CRV-YPOOL`, `CRV-3POOL`, `CRV-COMPOUND`, `CRV-BUSD`, `CRV-USDN`), Bitcoin (`CRV-TBTC`, `CRV-RENWBTC`)
+
+Stablecoins (`CRV:HUSD`, `YCRV`, `3CRV`, `CRV:COMPOUND`, `CRV:BUSD`, `CRV:USDN`, `CRV:EURS`, `CRV:GUSD`, `CRV:UST`, `CRV:USDP`),
+Strategy vaults: 
+[farm CRV in the CRV:HUSD pool](https://etherscan.io/address/0x29780C39164Ebbd62e9DDDE50c151810070140f2)
+[farm CRV in the YCRV pool](https://etherscan.io/address/0x0FE4283e0216F94f5f9750a7a11AC54D3c9C38F3)
+[farm CRV in the 3CRV pool](https://etherscan.io/address/0x71B9eC42bB3CB40F017D8AD8011BE8e384a95fa5)
+[farm CRV in the CRV:COMPOUND pool](https://etherscan.io/address/0x998cEb152A42a3EaC1f555B1E911642BeBf00faD)
+[farm CRV in the CRV:BUSD pool](https://etherscan.io/address/0x4b1cBD6F6D8676AcE5E412C78B7a59b4A1bbb68a)
+[farm CRV in the CRV:USDN pool](https://etherscan.io/address/0x683E683fBE6Cf9b635539712c999f3B3EdCB8664)
+[farm CRV in the CRV:EURS pool](https://etherscan.io/address/0x6eb941BD065b8a5bd699C5405A928c1f561e2e5a)
+[farm CRV in the CRV:GUSD pool](https://etherscan.io/address/0xB8671E33fcFC7FEA2F7a3Ea4a117F065ec4b009E)
+[farm CRV in the CRV:UST pool](https://etherscan.io/address/0x84A1DfAdd698886A614fD70407936816183C0A02)
+[farm CRV in the CRV:USDP pool](https://etherscan.io/address/0x02d77f6925f4ef89EE2C35eB3dD5793f5695356f)
+
+
+
+Bitcoin (`CRV:HBTC`, `CRV:OBTC`, `CRV:TBTC`, `CRV:RENWBTC`)
+Strategy vaults: 
+[farm CRV in the CRV:HBTC pool](https://etherscan.io/address/0xCC775989e76ab386E9253df5B0c0b473E22102E2)
+[farm CRV in the CRV:OBTC pool](https://etherscan.io/address/0x966A70A4d3719A6De6a94236532A0167d5246c72)
+[farm CRV in the CRV:TBTC pool](https://etherscan.io/address/0x640704D106E79e105FDA424f05467F005418F1B5)
+[farm CRV in the CRV:RENWBTC pool](https://etherscan.io/address/0x9aA8F427A17d6B0d91B6262989EdC7D45d6aEdf8)
+
+Ethereum (`CRV:STETH`)
+Strategy vaults: 
+[farm CRV in the CRV:STETH pool](https://etherscan.io/address/0xc27bfE32E0a934a12681C1b35acf0DBA0e7460Ba)
+
+LINK (`CRV:LINK`)
+Strategy vaults: 
+[farm CRV in the CRV:LINK pool](https://etherscan.io/address/0x24C562E24A4B5D905f16F2391E07213efCFd216E)
+
 Strategies: [link relevant strategies]
 
 
-**Farming Uniswap-like LP token rewards**
-Summary: deposit funds into Uniswap or Sushiswap to receive an LP token; deposit the LP token into Harvest to automatically harvest the rewards.
+**Uniswap Liquidity**
+Summary: deposit funds into Uniswap to receive an LP token; deposit the LP token into Harvest to automatically harvest the rewards.
 Rewards: Reward tokens are sold for additional deposited token.
 Active Vaults: Sushiswap `SLP-ETH:DAI`, `SLP-ETH:USDC`, `SLP-ETH:USDT`, `SLP-ETH:WBTC`; Uniswap `UNI-ETH:DPI`
 Disabled Vaults: Uniswap `UNI-ETH:DAI`, `UNI-ETH:USDC`, `UNI-ETH:USDT`, `UNI-ETH:WBTC`
