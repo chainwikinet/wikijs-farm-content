@@ -2,7 +2,7 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2021-05-05T16:57:30.682Z
+date: 2021-05-05T17:26:09.428Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-04T07:47:54.724Z
@@ -93,7 +93,7 @@ Strategy vaults:
 [farm XSUSHI and AAVE in the ETH-WBTC pool](https://etherscan.io/address/0xB677bcA369f2523F62862F88d83471D892dD55B9)
 
 **NFT Strategies**
-Summary: deposit funds to receive an LP token; deposit the LP token into Harvest to automatically harvest the rewards.
+Summary: deposit funds into Uniswap to receive an LP token; deposit the LP token into Harvest to automatically harvest the rewards.
 Rewards: Reward tokens are sold for additional deposited token.
 
 Active Strategies: `MUSE-ETH`, `DUDES20-ETH`, `MASK20-ETH`, `ROPE20-ETH`,  `MCAT20-ETH`,  `MEME20-ETH`,  `GPUNKS20-ETH`
