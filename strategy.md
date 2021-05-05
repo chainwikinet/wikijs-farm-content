@@ -2,7 +2,7 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2021-05-05T15:51:51.773Z
+date: 2021-05-05T16:01:32.660Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-04T07:47:54.724Z
@@ -35,7 +35,7 @@ Strategy vaults:
 Summary: deposit funds into Curve to receive a Curve LP token; deposit the Curve LP token into Harvest to automatically harvest the Curve rewards.
 Rewards: CRV (+ sometimes others, like KEEP) is sold for additional deposited token.
 
-Stablecoins (`CRV:HUSD`, `YCRV`, `3CRV`, `CRV:COMPOUND`, `CRV:BUSD`, `CRV:USDN`, `CRV:EURS`, `CRV:GUSD`, `CRV:UST`, `CRV:USDP`),
+Stablecoins `CRV:HUSD`, `YCRV`, `3CRV`, `CRV:COMPOUND`, `CRV:BUSD`, `CRV:USDN`, `CRV:EURS`, `CRV:GUSD`, `CRV:UST`, `CRV:USDP`
 Strategy vaults: 
 [farm CRV in the CRV:HUSD pool](https://etherscan.io/address/0x29780C39164Ebbd62e9DDDE50c151810070140f2)
 [farm CRV in the YCRV pool](https://etherscan.io/address/0x0FE4283e0216F94f5f9750a7a11AC54D3c9C38F3)
@@ -50,30 +50,35 @@ Strategy vaults:
 
 
 
-Bitcoin (`CRV:HBTC`, `CRV:OBTC`, `CRV:TBTC`, `CRV:RENWBTC`)
+Bitcoin `CRV:HBTC`, `CRV:OBTC`, `CRV:TBTC`, `CRV:RENWBTC`
 Strategy vaults: 
 [farm CRV in the CRV:HBTC pool](https://etherscan.io/address/0xCC775989e76ab386E9253df5B0c0b473E22102E2)
 [farm CRV in the CRV:OBTC pool](https://etherscan.io/address/0x966A70A4d3719A6De6a94236532A0167d5246c72)
 [farm CRV in the CRV:TBTC pool](https://etherscan.io/address/0x640704D106E79e105FDA424f05467F005418F1B5)
 [farm CRV in the CRV:RENWBTC pool](https://etherscan.io/address/0x9aA8F427A17d6B0d91B6262989EdC7D45d6aEdf8)
 
-Ethereum (`CRV:STETH`)
+Ethereum `CRV:STETH`
 Strategy vaults: 
 [farm CRV in the CRV:STETH pool](https://etherscan.io/address/0xc27bfE32E0a934a12681C1b35acf0DBA0e7460Ba)
 
-LINK (`CRV:LINK`)
+LINK `CRV:LINK`
 Strategy vaults: 
 [farm CRV in the CRV:LINK pool](https://etherscan.io/address/0x24C562E24A4B5D905f16F2391E07213efCFd216E)
 
-Strategies: [link relevant strategies]
 
 
 **Uniswap Liquidity**
 Summary: deposit funds into Uniswap to receive an LP token; deposit the LP token into Harvest to automatically harvest the rewards.
 Rewards: Reward tokens are sold for additional deposited token.
-Active Vaults: Sushiswap `SLP-ETH:DAI`, `SLP-ETH:USDC`, `SLP-ETH:USDT`, `SLP-ETH:WBTC`; Uniswap `UNI-ETH:DPI`
-Disabled Vaults: Uniswap `UNI-ETH:DAI`, `UNI-ETH:USDC`, `UNI-ETH:USDT`, `UNI-ETH:WBTC`
-Strategies: [link relevant strategies]
+
+Active Strategies: Uniswap `ETH-DPI`, `WBTC-KBTC`, `WBTC-KLONX`, `FARM/ETH`;  `FARM/GRAIN`
+Strategy vaults: 
+[farm INDEX in the ETH-DPI pool](https://etherscan.io/address/0x2a32dcBB121D48C106F6d94cf2B4714c0b4Dfe48)
+[farm KLONX in the WBTC-KBTC pool](https://etherscan.io/address/0x5cd9Db40639013A08d797A839C9BECD6EC5DCD4D)
+[farm KLONX in the WBTC-KLONX pool](https://etherscan.io/address/0xB4E3fC276532f27Bd0F738928Ce083A3b064ba61)
+[farm FARM in the FARM/ETH pool](https://etherscan.io/address/0x6555c79a8829b793F332f1535B0eFB1fE4C11958)
+[farm FARM in the FARM/GRAIN pool](https://etherscan.io/address/0xe58f0d2956628921cdEd2eA6B195Fc821c3a2b16)
+
 
 
 
