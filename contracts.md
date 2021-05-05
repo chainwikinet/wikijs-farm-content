@@ -2,7 +2,7 @@
 title: Harvest Tokens and Contracts
 description: Tokens, contracts, and key addresses of the Harvest Finance ecosystem
 published: true
-date: 2021-03-20T07:00:17.798Z
+date: 2021-05-05T17:49:35.194Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-11T22:03:19.306Z
@@ -32,7 +32,7 @@ dateCreated: 2020-11-11T22:03:19.306Z
 | Token   | Address | Description |
 |:---|:---|:---|
 |FARM|[0xa0246c9032bC3A600820415aE600c6388619A14D][es-farm] | Harvest profit sharing token. [learn more](farm)
-|iFARM| [0x1571eD0bed4D987fe2b498DdBaE7DFA19519F651][es-ifarm] | Interest-bearing FARM. 
+|iFARM| [0x1571eD0bed4D987fe2b498DdBaE7DFA19519F651][es-ifarm] | Interest-bearing FARM. You can read a very instructive article [here](https://mbroome02.medium.com/harvest-101-understanding-ifarm-and-its-potential-54d9cfe305e5) credits to "TheCryptoBlog"
 |fWETH|[0xFE09e53A81Fe2808bc493ea64319109B5bAa573e][es-fweth]| deposit receipt for Harvest's WETH vault. [learn more](fweth)
 |fUni_ETH_DPI|[0x2a32dcBB121D48C106F6d94cf2B4714c0b4Dfe48][es-funi-eth-dpi] | deposit receipt for Harvest's Uniswap ETH:DPI vault. [learn more](funi_weth_dpi)
 |--Stablecoins|
