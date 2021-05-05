@@ -2,7 +2,7 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2021-05-05T16:50:36.736Z
+date: 2021-05-05T16:57:30.682Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-04T07:47:54.724Z
@@ -137,6 +137,20 @@ Active Strategies: Basis Cash `DAI-BAC`, `DAI-BASv2`
 Strategy vaults: 
 [farm BASv2 in the DAI-BAC pool](https://etherscan.io/address/0x6Bccd7E983E438a56Ba2844883A664Da87E4C43b)
 [farm BASv2 in the DAI-BASv2 pool](https://etherscan.io/address/0xf8b7235fcfd5A75CfDcC0D7BC813817f3Dd17858)
+
+**mSTONKs farms**
+Summary: deposit funds into Mirror finance to receive an LP token; deposit the LP token into Harvest to automatically harvest the rewards.
+Rewards: Reward tokens are sold for additional deposited token.
+
+Active Strategies: Basis Cash `MAAPL-UST`, `MAMZN-UST`, `MGOOGL-UST`, `MTSLA-UST`, `MNFLX-UST`, `MTWTR-UST`
+
+Strategy vaults: 
+[farm MIR in the MAAPL-UST pool](https://etherscan.io/address/0x11804D69AcaC6Ae9466798325fA7DE023f63Ab53)
+[farm MIR in the MAMZN-UST pool](https://etherscan.io/address/0x8334A61012A779169725FcC43ADcff1F581350B7)
+[farm MIR in the MGOOGL-UST pool](https://etherscan.io/address/0x07DBe6aA35EF70DaD124f4e2b748fFA6C9E1963a)
+[farm MIR in the MTSLA-UST pool](https://etherscan.io/address/0xC800982d906671637E23E031e907d2e3487291Bc)
+[farm MIR in the MNFLX-UST pool](https://etherscan.io/address/0x99C2564C9D4767C13E13F38aB073D4758af396Ae)
+[farm MIR in the MTWTR-UST pool](https://etherscan.io/address/0xb37c79f954E3e1A4ACCC14A5CCa3E46F226038b7)
 
 
 # History of Strategy Additions
