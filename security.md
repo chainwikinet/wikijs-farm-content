@@ -2,11 +2,16 @@
 title: Harvest Security
 description: testing and auditing the Harvest Finance contracts
 published: true
-date: 2020-10-27T07:40:30.900Z
+date: 2021-05-11T00:23:33.540Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-06T07:52:56.974Z
 ---
+
+# Bounty Program
+Harvest is offering bounties of up to $50,000 for the responsible disclosure of smart contract and website insecurities through Immunefi. 
+
+Learn more at https://immunefi.com/bounty/harvest/
 
 # Contract Tests
 
@@ -49,7 +54,15 @@ As a result, what we could find was minor issues including missing interface fil
 
 ## Certik Audit
 
-An audit from [Certik](https://twitter.com/certik_io) has also been commissioned. Certik is expected to complete in Week7.
+An audit from [Certik](https://twitter.com/certik_io) has also been commissioned. The Certik audit started on September 16 and ended on October 2, 2020. No critical issues were found.
+
+> [Certik Audit](https://github.com/harvest-finance/harvest/blob/master/audits/CertiK-Harvest.pdf)
+
+## Least Authority
+
+An audit from [Least Authority](https://twitter.com/LeastAuthority?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) has also been commissioned. The Least Authority audit started on September 16 and ended on October 2, 2020. 
+
+> [Least Authority](https://github.com/harvest-finance/harvest/blob/master/audits/LeastAuthority-Harvest.pdf)
 
 # Incident Retrospectives
 
