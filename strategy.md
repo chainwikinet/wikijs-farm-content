@@ -2,7 +2,7 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2021-05-11T13:04:05.055Z
+date: 2021-05-11T13:31:49.204Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-04T07:47:54.724Z
@@ -152,6 +152,29 @@ Strategy vaults:
 [farm MIR in the MNFLX-UST pool](https://etherscan.io/address/0x99C2564C9D4767C13E13F38aB073D4758af396Ae)
 [farm MIR in the MTWTR-UST pool](https://etherscan.io/address/0xb37c79f954E3e1A4ACCC14A5CCa3E46F226038b7)
 
+## Farming COMP with WETH
+This strategy farms COMP, the [Compound Finance Token](https://www.coingecko.com/en/coins/compound).
+
+> You do not receive COMP directly. Instead, the farmed COMP is sold to return more wETH to you when you withdraw.
+{.is-info}
+
+| | |
+|------------------|-|
+| **Asset Farmed**        | COMP, Compound Finance token  |
+| **Assets Used**         | WETH               |
+| **Basic Strategy**      | COMP is farmed and sold for stablecoins |
+| **How To Participate**  | [deposit WETH][hf] to receive fWETH |
+| **Yield Payout**        | Successful farming makes the fWETH redeemable for a growing number of WETH |
+| **FARM Incentives**      | fWETH deposit receipts can be staked to earn FARM incentives |
+| **Vault Contract**      | [fWETH](https://etherscan.io/address/0xFE09e53A81Fe2808bc493ea64319109B5bAa573e) |
+| **Strategy Contract**   | [DEGOSimpleStrategy][es-weth-strategy] |
+| **Example Harvest TX**  | [doHardWork][harvestdego] |
+| **Timelock**            | 12 Hours
+
+[es-weth-strategy]: https://etherscan.io/address/0xa23c6f2d85fe47e613ce6bbb40e74acb49ae281a#code
+
+[harvestdego]: https://etherscan.io/tx/0x6fdb02f8f961dae5853d15c1ff06322025abdf3eb76097a1d99b2fbe888c005b
+
 ## Farming COMP and IDLE with Stablecoins
 
 This strategy farms COMP, the [Compound Finance token](https://www.coingecko.com/en/coins/compound) and IDLE, the [Idle Finance token](https://www.coingecko.com/en/coins/idle) .
@@ -167,7 +190,7 @@ This strategy farms COMP, the [Compound Finance token](https://www.coingecko.com
 | **How To Participate**  | Stake your share of the pool to receive the fAsset |
 | **Yield Payout**        | Successful farming makes the fAsset redeemable for a growing number of the pooled assets |
 | **FARM Incentives**      | fUSDC, fUSDT, fDAI deposit receipts can be staked to earn FARM incentives |
-| **Vault Contract**      | [USDC](https://etherscan.io/address/0xf0358e8c3CD5Fa238a29301d0bEa3D63A17bEdBE) [USDT](https://etherscan.io/address/0x053c80eA73Dc6941F518a68E2FC52Ac45BDE7c9C) [DAI](https://etherscan.io/address/0xab7fa2b2985bccfc13c6d86b1d5a17486ab1e04c)   
+| **Vault Contract**      | [fUSDC](https://etherscan.io/address/0xf0358e8c3CD5Fa238a29301d0bEa3D63A17bEdBE) [fUSDT](https://etherscan.io/address/0x053c80eA73Dc6941F518a68E2FC52Ac45BDE7c9C) [fDAI](https://etherscan.io/address/0xab7fa2b2985bccfc13c6d86b1d5a17486ab1e04c)   
 |
 | **Strategy Contract**   | [CRVStrategyYCRVMainnet][es-strat-crvstable-v2], [DAI Strategy][es-strat-crystable-dai], [USDC Strategy][es-strat-crystable-usdc], [USDT Strategy][es-strat-crystable-usdt], [TUSD Strategy][es-strat-crystable-tusd] |
 | **Example Harvest TX**  | [doHardWork][es-crvstable-harvest] |
@@ -197,7 +220,7 @@ This strategy farms CRV, the [Curve Finance DAO token][crv].
 | **How To Participate**  | Stake your share of the pool to receive the fAsset |
 | **Yield Payout**        | Successful farming makes the fAsset redeemable for a growing number of the pooled assets |
 | **FARM Incentives**      | CRV:HUSD, YCRV, 3CRV, CRV:COMPOUND, CRV:BUSD,CRV:USDN, CRV:EURS, CRV:GUSD, CRV:UST, CRV:USDP deposit receipts can be staked to earn FARM incentives |
-| **Vault Contract**      | [CRV:HUSD](https://etherscan.io/address/0x29780C39164Ebbd62e9DDDE50c151810070140f2) [YCRV](https://etherscan.io/address/0x0FE4283e0216F94f5f9750a7a11AC54D3c9C38F3) [3CRV](https://etherscan.io/address/0x71B9eC42bB3CB40F017D8AD8011BE8e384a95fa5) [CRV:COMPOUND](https://etherscan.io/address/0x998cEb152A42a3EaC1f555B1E911642BeBf00faD) [CRV:BUSD](https://etherscan.io/address/0x4b1cBD6F6D8676AcE5E412C78B7a59b4A1bbb68a) [CRV:USDN](https://etherscan.io/address/0x683E683fBE6Cf9b635539712c999f3B3EdCB8664) [CRV:EURS](https://etherscan.io/address/0x6eb941BD065b8a5bd699C5405A928c1f561e2e5a) [CRV:GUSD](https://etherscan.io/address/0xB8671E33fcFC7FEA2F7a3Ea4a117F065ec4b009E) [CRV:UST](https://etherscan.io/address/0x84A1DfAdd698886A614fD70407936816183C0A02) [CRV:USDP](https://etherscan.io/address/0x02d77f6925f4ef89EE2C35eB3dD5793f5695356f)  
+| **Vault Contract**      | [fCRV:HUSD](https://etherscan.io/address/0x29780C39164Ebbd62e9DDDE50c151810070140f2) [fYCRV](https://etherscan.io/address/0x0FE4283e0216F94f5f9750a7a11AC54D3c9C38F3) [f3CRV](https://etherscan.io/address/0x71B9eC42bB3CB40F017D8AD8011BE8e384a95fa5) [fCRV:COMPOUND](https://etherscan.io/address/0x998cEb152A42a3EaC1f555B1E911642BeBf00faD) [fCRV:BUSD](https://etherscan.io/address/0x4b1cBD6F6D8676AcE5E412C78B7a59b4A1bbb68a) [fCRV:USDN](https://etherscan.io/address/0x683E683fBE6Cf9b635539712c999f3B3EdCB8664) [fCRV:EURS](https://etherscan.io/address/0x6eb941BD065b8a5bd699C5405A928c1f561e2e5a) [fCRV:GUSD](https://etherscan.io/address/0xB8671E33fcFC7FEA2F7a3Ea4a117F065ec4b009E) [fCRV:UST](https://etherscan.io/address/0x84A1DfAdd698886A614fD70407936816183C0A02) [fCRV:USDP](https://etherscan.io/address/0x02d77f6925f4ef89EE2C35eB3dD5793f5695356f)  
 |
 | **Strategy Contract**   | [CRVStrategyYCRVMainnet][es-strat-crvstable-v2], [DAI Strategy][es-strat-crystable-dai], [USDC Strategy][es-strat-crystable-usdc], [USDT Strategy][es-strat-crystable-usdt], [TUSD Strategy][es-strat-crystable-tusd] |
 | **Example Harvest TX**  | [doHardWork][es-crvstable-harvest] |
@@ -229,9 +252,9 @@ This strategy farms XSUSHI and AAVE the [SUSHI staked token on Sushiswap](https:
 | **How To Participate**  | [deposit a supported asset][hf] |
 | **Yield Payout**        | Successful farming makes your deposit redeemable for a growing amount of the deposited asset |
 | **FARM Incentives**      | fSLP deposit receipts can be staked to earn FARM incentives |
-| **Vault Contract**      | [SUSHI](https://etherscan.io/address/0x274AA8B58E8C57C4e347C8768ed853Eb6D375b48) [ETH-DAI](https://etherscan.io/address/0x29EC64560ab14d3166222Bf07c3F29c4916E0027) [ETH-USDC](https://etherscan.io/address/0x5774260CcD87F4FfFc4456260857207fc8BCb89A) [ETH-USDT](https://etherscan.io/address/0x4D4B6f8EFb685b774234Fd427201b3a9bF36ffc8) [ETH-WBTC](https://etherscan.io/address/0xB677bcA369f2523F62862F88d83471D892dD55B9) 
+| **Vault Contract**      | [fSUSHI](https://etherscan.io/address/0x274AA8B58E8C57C4e347C8768ed853Eb6D375b48) [fETH-DAI](https://etherscan.io/address/0x29EC64560ab14d3166222Bf07c3F29c4916E0027) [fETH-USDC](https://etherscan.io/address/0x5774260CcD87F4FfFc4456260857207fc8BCb89A) [fETH-USDT](https://etherscan.io/address/0x4D4B6f8EFb685b774234Fd427201b3a9bF36ffc8) [fETH-WBTC](https://etherscan.io/address/0xB677bcA369f2523F62862F88d83471D892dD55B9) 
 |
-| **Strategy Contract**   | SushiMasterChefLPStrategy [fWBTC_TBTC_LP][es-wbtc-tbtc-strategy] |
+| **Strategy Contract**   |  |
 | **Example Harvest TX**  | [doHardWork][es-wbtc-tbtc-harvest] |
 | **Timelock**            | 12 hours
 
@@ -260,6 +283,30 @@ This strategy farms CRV, the [Curve Finance DAO token][crv].
 | **FARM Incentives**      | fCRV-HBTC, fCRV-OBTC, fCRV-RENWBTC deposit receipts can be staked to earn FARM incentives |
 | **Vault Contract**      | [fCRV-HBTC](https://etherscan.io/address/0xCC775989e76ab386E9253df5B0c0b473E22102E2), [fCRV-OBTC](https://etherscan.io/address/0x966A70A4d3719A6De6a94236532A0167d5246c72), [fCRV-RENWBTC](https://etherscan.io/address/0x9aA8F427A17d6B0d91B6262989EdC7D45d6aEdf8) |
 | **Strategy Contract**   | [CRVStrategyWBTCMainnet][es-strat-fwbtc], [CRVStrategyRENBTCMainnet][es-strat-renbtc], [CRVStrategyWRenBTCMixMainnet][es-strat-crvrenwbtc] |
+| **Example Harvest TX**  | [doHardWork](https://etherscan.io/tx/0x01dfcfd6dd1ca0db042fb516767c3725e06cc1db28a40781314c72d897351ba8) |
+| **Timelock**            | 12 hours
+
+[es-strat-fwbtc]: https://etherscan.io/address/0x3f31edcd57b2461fd2650f4a1066a97f73b97158#code
+[es-strat-renbtc]: https://etherscan.io/address/0xd2429c20af3eb06b15c08b5290f4971b9fac20b1#code
+[es-strat-crvrenwbtc]: https://etherscan.io/address/0x9aA8F427A17d6B0d91B6262989EdC7D45d6aEdf8#code
+
+## Farming MUSE with NFTs
+
+This strategy farms MUSE.
+
+> You do not receive MUSE directly. Instead, the farmed MUSE is sold to return more LP tokens to you when you withdraw.
+{.is-info}
+
+| | |
+|------------------|-|
+| **Asset Farmed**        | MUSE  |
+| **Assets Used**         | MUSE-ETH, DUDES20-ETH, MASK20-ETH, ROPE20-ETH, MCAT20-ETH, MEME20-ETH, GPUNKS20-ETH      
+| **Basic Strategy**      | MUSE is farmed and sold for LP tokens |
+| **How To Participate**  | [deposit a supported asset][hf] |
+| **Yield Payout**        | Successful farming makes your deposit redeemable for a growing amount of the deposited asset |
+| **FARM Incentives**      | fMUSE-ETH, fDUDES20-ETH, fMASK20-ETH, fROPE20-ETH, fMCAT20-ETH, fMEME20-ETH, fGPUNKS20-ETH deposit receipts can be staked to earn FARM incentives |
+| **Vault Contract**      | [fMUSE-ETH](https://etherscan.io/address/0xc45d471c77ff31C39474d68a5080Fe1FfACDBC04) [fDUDES20-ETH](https://etherscan.io/address/0x1E5f4e7127ea3981551D2Bf97dCc8f17a4ECEbEf) [fMASK20-ETH](https://etherscan.io/address/0xF2a671645D0DF54d2f03E9ad7916c8F7368D1C29) [fROPE20-ETH](https://etherscan.io/address/0xAF9486E3DA0cE8d125aF9b256b3ecd104a3031B9) [fMCAT20-ETH](https://etherscan.io/address/0x0cA19915439C12B16C0A8C119eC05fA801365a15) [fMEME20-ETH](https://etherscan.io/address/0x227A46266329767cEa8883BFC81d21f1Ea0EdbB3) [fGPUNKS20-ETH](https://etherscan.io/address/0xe6e0B4294eF6a518bB702402e9842Df2a2Abf1B1)
+| **Strategy Contract**   | |
 | **Example Harvest TX**  | [doHardWork](https://etherscan.io/tx/0x01dfcfd6dd1ca0db042fb516767c3725e06cc1db28a40781314c72d897351ba8) |
 | **Timelock**            | 12 hours
 
@@ -334,28 +381,7 @@ This strategy farms SUSHI, the [Sushiswap token][sushi].
 
 [es-wbtc-tbtc-harvest]: https://etherscan.io/tx/0xdb0f7cd77685b5ac36cbf251771b4d26c9056aaa583eccc2cabdc43be50640d6
 
-## Farming COMP with WETH
-This strategy farms COMP, the [Compound Finance Token](https://www.coingecko.com/en/coins/compound).
 
-> You do not receive COMP directly. Instead, the farmed COMP is sold to return more wETH to you when you withdraw.
-{.is-info}
-
-| | |
-|------------------|-|
-| **Asset Farmed**        | COMP, Compound Finance token  |
-| **Assets Used**         | WETH               |
-| **Basic Strategy**      | COMP is farmed and sold for stablecoins |
-| **How To Participate**  | [deposit WETH][hf] to receive fWETH |
-| **Yield Payout**        | Successful farming makes the fWETH redeemable for a growing number of WETH |
-| **FARM Incentives**      | fWETH deposit receipts can be staked to earn FARM incentives |
-| **Vault Contract**      | [fWETH](https://etherscan.io/address/0xFE09e53A81Fe2808bc493ea64319109B5bAa573e) |
-| **Strategy Contract**   | [DEGOSimpleStrategy][es-weth-strategy] |
-| **Example Harvest TX**  | [doHardWork][harvestdego] |
-| **Timelock**            | 12 Hours
-
-[es-weth-strategy]: https://etherscan.io/address/0xa23c6f2d85fe47e613ce6bbb40e74acb49ae281a#code
-
-[harvestdego]: https://etherscan.io/tx/0x6fdb02f8f961dae5853d15c1ff06322025abdf3eb76097a1d99b2fbe888c005b
 
 ## Farming Other Things
 
