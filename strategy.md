@@ -2,7 +2,7 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2021-05-11T14:32:26.794Z
+date: 2021-05-11T15:31:57.177Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-04T07:47:54.724Z
@@ -348,12 +348,12 @@ This strategy farms SUSHI, the [Sushiswap token](https://www.coingecko.com/en/co
 | | |
 |------------------|-|
 | **Asset Farmed**        | SUSHI, Sushiswap token  |
-| **Assets Used**         | ETH-SUSHI, ETH-DAI, ETH-USDC, ETH-USDT, ETH-WBTC, ETH-UST,  |
+| **Assets Used**         | ETH-SUSHI, ETH-DAI, ETH-USDC, ETH-USDT, ETH-WBTC, ETH-UST  |
 | **Basic Strategy**      | SUSHI is automatically farmed and sold for more LP tokens. Harvest pays your gas fees to grow the underlying LP. 30% of rewards are kept for FARM profit sharing. |
 | **How To Participate**  | [deposit a supported asset][hf] |
 | **Yield Payout**        | Successful farming makes your deposit redeemable for a growing amount of the deposited asset |
 | **FARM Incentives**      | fSLP deposit receipts can be staked to earn FARM incentives |
-| **Vault Contract**      | [ETH-SUSHI](https://etherscan.io/address/0x5aDe382F38A09A1F8759D06fFE2067992ab5c78e) [ETH-DAI](https://etherscan.io/address/0x203E97aa6eB65A1A02d9E80083414058303f241E) [ETH-USDC](https://etherscan.io/address/0x01bd09A1124960d9bE04b638b142Df9DF942b04a) [ETH-USDT](https://etherscan.io/address/0x64035b583c8c694627A199243E863Bb33be60745) [ETH-WBTC](https://etherscan.io/address/0x5C0A3F55AAC52AA320Ff5F280E77517cbAF85524) [ETH-UST](https://etherscan.io/address/0x4D4D85c6a1ffE6Bb7a1BEf51c9E2282893feE521)
+| **Vault Contract**      | [fETH-SUSHI](https://etherscan.io/address/0x5aDe382F38A09A1F8759D06fFE2067992ab5c78e) [fETH-DAI](https://etherscan.io/address/0x203E97aa6eB65A1A02d9E80083414058303f241E) [fETH-USDC](https://etherscan.io/address/0x01bd09A1124960d9bE04b638b142Df9DF942b04a) [fETH-USDT](https://etherscan.io/address/0x64035b583c8c694627A199243E863Bb33be60745) [fETH-WBTC](https://etherscan.io/address/0x5C0A3F55AAC52AA320Ff5F280E77517cbAF85524) [fETH-UST](https://etherscan.io/address/0x4D4D85c6a1ffE6Bb7a1BEf51c9E2282893feE521)
 |
 | **Strategy Contract**   | SushiMasterChefLPStrategy [fWBTC_TBTC_LP][es-wbtc-tbtc-strategy] |
 | **Example Harvest TX**  | [doHardWork][es-wbtc-tbtc-harvest] |
@@ -402,6 +402,65 @@ This strategy farms tokens based on Uniswap staking.
 [es-weth-dai-strategy]: https://etherscan.io/address/0x2cf4ceb36172fb2196a47490419d57584234cbd4
 
 [es-weth-wbtc-harvest]: https://etherscan.io/tx/0x7e9f139d796487bebe3b0d6e629aee01fafc6b1dd05a8783aa297c96625510cd
+
+
+## Seigniorage strategies with LP Tokens
+
+This strategy farms BASv2, the Basis Cash token
+
+> You do not receive BASv2 directly. Instead, the farmed BASv2 is sold to return more LP to you when you withdraw.
+{.is-info}
+
+| | |
+|------------------|-|
+| **Asset Farmed**        | BASv2, Basis Cash token  |
+| **Assets Used**         | DAI-BAC, DAI-BASv2  |
+| **Basic Strategy**      | BASv2 is automatically farmed and sold for more LP tokens. Harvest pays your gas fees to grow the underlying LP. 30% of rewards are kept for FARM profit sharing. |
+| **How To Participate**  | [deposit a supported asset][hf] |
+| **Yield Payout**        | Successful farming makes your deposit redeemable for a growing amount of the deposited asset |
+| **FARM Incentives**      | fUNISWAP LP deposit receipts can be staked to earn FARM incentives |
+| **Vault Contract**      | [DAI-BAC](https://etherscan.io/address/0x6Bccd7E983E438a56Ba2844883A664Da87E4C43b) [DAI-BASv2](https://etherscan.io/address/0xf8b7235fcfd5A75CfDcC0D7BC813817f3Dd17858) 
+|
+| **Strategy Contract**   |  |
+| **Example Harvest TX**  | [doHardWork][es-wbtc-tbtc-harvest] |
+| **Timelock**            | 12 hours
+
+[es-fwbtc-tbtc-LP]: https://etherscan.io/address/0xF553E1f826f42716cDFe02bde5ee76b2a52fc7EB
+
+[es-fwbtc-tbtc-LP-proxy]: https://etherscan.io/address/0x9b3be0cc5dd26fd0254088d03d8206792715588b
+
+[es-wbtc-tbtc-strategy]: https://etherscan.io/address/0x53df6664b3ddE086DCe6315c317d1002b14B87E3
+
+[es-wbtc-tbtc-harvest]: https://etherscan.io/tx/0xdb0f7cd77685b5ac36cbf251771b4d26c9056aaa583eccc2cabdc43be50640d6
+
+## mSTONKs strategies with LP Tokens
+
+This strategy farms MIR, the [Mirror Finance token](https://www.coingecko.com/en/coins/mirror-protocol)
+
+> You do not receive MIR directly. Instead, the farmed BASv2 is sold to return more LP to you when you withdraw.
+{.is-info}
+
+| | |
+|------------------|-|
+| **Asset Farmed**        | MIR, Mirror Finance token  |
+| **Assets Used**         | MAAPL-UST, MAMZN-UST, MGOOGL-UST, MTSLA-UST, MNFLX-UST, MTWTR-UST   |
+| **Basic Strategy**      | MIR is automatically farmed and sold for more LP tokens. Harvest pays your gas fees to grow the underlying LP. 30% of rewards are kept for FARM profit sharing. |
+| **How To Participate**  | [deposit a supported asset][hf] |
+| **Yield Payout**        | Successful farming makes your deposit redeemable for a growing amount of the deposited asset |
+| **FARM Incentives**      | fUNISWAP LP deposit receipts can be staked to earn FARM incentives |
+| **Vault Contract**      | [fMAAPL-UST](https://etherscan.io/address/0x11804D69AcaC6Ae9466798325fA7DE023f63Ab53) [fMAMZN-UST](https://etherscan.io/address/0x8334A61012A779169725FcC43ADcff1F581350B7) [fMGOOGL-UST](https://etherscan.io/address/0x07DBe6aA35EF70DaD124f4e2b748fFA6C9E1963a) [fMTSLA-UST](https://etherscan.io/address/0xC800982d906671637E23E031e907d2e3487291Bc) [fMNFLX-UST](https://etherscan.io/address/0x99C2564C9D4767C13E13F38aB073D4758af396Ae) [fMTWTR-UST](https://etherscan.io/address/0xb37c79f954E3e1A4ACCC14A5CCa3E46F226038b7) 
+|
+| **Strategy Contract**   |  |
+| **Example Harvest TX**  | [doHardWork][es-wbtc-tbtc-harvest] |
+| **Timelock**            | 12 hours
+
+[es-fwbtc-tbtc-LP]: https://etherscan.io/address/0xF553E1f826f42716cDFe02bde5ee76b2a52fc7EB
+
+[es-fwbtc-tbtc-LP-proxy]: https://etherscan.io/address/0x9b3be0cc5dd26fd0254088d03d8206792715588b
+
+[es-wbtc-tbtc-strategy]: https://etherscan.io/address/0x53df6664b3ddE086DCe6315c317d1002b14B87E3
+
+[es-wbtc-tbtc-harvest]: https://etherscan.io/tx/0xdb0f7cd77685b5ac36cbf251771b4d26c9056aaa583eccc2cabdc43be50640d6
 
 
 # Potential Strategy Improvements
