@@ -2,7 +2,7 @@
 title: Harvest Finance History
 description: launch, governance, and significant events in Harvest Finance
 published: true
-date: 2021-05-11T00:20:47.341Z
+date: 2021-05-11T00:45:19.776Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-16T03:19:50.546Z
@@ -19,6 +19,9 @@ Harvest Finance was launched by an anonymous team on September 1st, 2020.
 
 # Harvest Finance history
  
+## Week 32
+
+🚜 Harvest Finance becomes multi chain and releases BSC farms. BSC farmers can grow their crops on Harvest Finance and become part of the yield farming revolution.
 
  ## Week 30
 
