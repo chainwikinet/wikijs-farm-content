@@ -2,7 +2,7 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2021-05-11T13:45:37.606Z
+date: 2021-05-11T14:32:26.794Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-04T07:47:54.724Z
@@ -402,45 +402,6 @@ This strategy farms tokens based on Uniswap staking.
 [es-weth-dai-strategy]: https://etherscan.io/address/0x2cf4ceb36172fb2196a47490419d57584234cbd4
 
 [es-weth-wbtc-harvest]: https://etherscan.io/tx/0x7e9f139d796487bebe3b0d6e629aee01fafc6b1dd05a8783aa297c96625510cd
-
-
-
-## Farming Other Things
-
-Evidence that more is in the works:
-
-**FARM_crvRenWBTC**
-https://etherscan.io/address/0x192e9d29d43db385063799bc239e772c3b6888f3#readContract
-strategy: 0xaf2d2e5c5af90c782c008b5b287f20334eeb308e ???
-underlying: 0x49849c98ae39fff122806c06791fa73784fb3675 Curve.fi renBTC/wBTC (crvRenWBTC)
-NoMintRewardPool: https://etherscan.io/address/0x5365a2c47b90ee8c9317fac20edc3ce7037384fb#readContract
-
-**FARM_renBTC (frenBTC)**
-https://etherscan.io/address/0xfbe122d0ba3c75e1f7c80bd27613c9f35b81feec#code
-strategy: 0x86de355d20ce83692ec4744b71b74f01a8e838b3 CRVStrategyRENBTCMainnet
-underlying: 0xeb4c2781e4eba804ce9a9803c67d0893436bb27d renBTC (renBTC)
-NoMintRewardPool: https://etherscan.io/address/0xcfe1103863f9e7cf3452ca8932eef44d314bf9c5#code
-
-**FARM_WBTC (fWBTC)**
-https://etherscan.io/address/0xc07eb91961662d275e2d285bdc21885a4db136b0
-strategy: 0x16438572ce90caacd83f175b4b9e22e360a76b48 CRVStrategyWBTCMainnet
-underlying: 0x2260fac5e5542a773aa44fbcfedf7c193bc2c599 Wrapped BTC (WBTC)
-NoMintRewardPool: https://etherscan.io/address/0x6291ece696cb6682a9bb1d42fca4160771b1d7cc#readContract
-
-**CRVStrategySwerveUSDTMainnet** (v2?)
-https://etherscan.io/address/0x0477b3b746f99010d255f6556444039e2e58864e#code
-
-**CRVStrategySwerveUSDCMainnet** (v2?)
-https://etherscan.io/address/0x00f9d525828beebf1ee75fb72b1f21932e195bdf#code
-
-
-# New Strategy Proposals
-
-## Curve hBTC Pool (wBTC, hBTC)
-
-Curve launched a new hBTC pool with hBTC, wBTC pair: https://www.curve.fi/hbtc
-
-CRV stakedrop weight for this pool is zero, so this is not a yield farming opportunity yet.
 
 
 # Potential Strategy Improvements
