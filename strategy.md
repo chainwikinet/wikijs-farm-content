@@ -2,7 +2,7 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2021-05-11T13:33:43.256Z
+date: 2021-05-11T13:40:48.422Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-04T07:47:54.724Z
@@ -306,6 +306,30 @@ This strategy farms MUSE.
 | **Yield Payout**        | Successful farming makes your deposit redeemable for a growing amount of the deposited asset |
 | **FARM Incentives**      | fMUSE-ETH, fDUDES20-ETH, fMASK20-ETH, fROPE20-ETH, fMCAT20-ETH, fMEME20-ETH, fGPUNKS20-ETH deposit receipts can be staked to earn FARM incentives |
 | **Vault Contract**      | [fMUSE-ETH](https://etherscan.io/address/0xc45d471c77ff31C39474d68a5080Fe1FfACDBC04) [fDUDES20-ETH](https://etherscan.io/address/0x1E5f4e7127ea3981551D2Bf97dCc8f17a4ECEbEf) [fMASK20-ETH](https://etherscan.io/address/0xF2a671645D0DF54d2f03E9ad7916c8F7368D1C29) [fROPE20-ETH](https://etherscan.io/address/0xAF9486E3DA0cE8d125aF9b256b3ecd104a3031B9) [fMCAT20-ETH](https://etherscan.io/address/0x0cA19915439C12B16C0A8C119eC05fA801365a15) [fMEME20-ETH](https://etherscan.io/address/0x227A46266329767cEa8883BFC81d21f1Ea0EdbB3) [fGPUNKS20-ETH](https://etherscan.io/address/0xe6e0B4294eF6a518bB702402e9842Df2a2Abf1B1)
+| **Strategy Contract**   | |
+| **Example Harvest TX**  | [doHardWork](https://etherscan.io/tx/0x01dfcfd6dd1ca0db042fb516767c3725e06cc1db28a40781314c72d897351ba8) |
+| **Timelock**            | 12 hours
+
+[es-strat-fwbtc]: https://etherscan.io/address/0x3f31edcd57b2461fd2650f4a1066a97f73b97158#code
+[es-strat-renbtc]: https://etherscan.io/address/0xd2429c20af3eb06b15c08b5290f4971b9fac20b1#code
+[es-strat-crvrenwbtc]: https://etherscan.io/address/0x9aA8F427A17d6B0d91B6262989EdC7D45d6aEdf8#code
+
+## Farming 1INCH with LP Tokens
+
+This strategy farms 1INCH, the [1inch governance token](https://www.coingecko.com/en/coins/1inch).
+
+> You do not receive 1INCH directly. Instead, the farmed 1INCH is sold to return more LP tokens to you when you withdraw.
+{.is-info}
+
+| | |
+|------------------|-|
+| **Asset Farmed**        | 1INCH  |
+| **Assets Used**         | 1INCH-ETH, 1INCH-USDC, 1INCH-WBTC     
+| **Basic Strategy**      | 1INCH is farmed and sold for LP tokens |
+| **How To Participate**  | [deposit a supported asset][hf] |
+| **Yield Payout**        | Successful farming makes your deposit redeemable for a growing amount of the deposited asset |
+| **FARM Incentives**      | f1INCH-ETH, f1INCH-USDC, f1INCH-WBTC  deposit receipts can be staked to earn FARM incentives |
+| **Vault Contract**      | [f1INCH-ETH](https://etherscan.io/address/0xFCA949E34ecd9dE519542CF02054DE707Cf361cE) [f1INCH-USDC](https://etherscan.io/address/0xF174DDDD9DBFfeaeA5D908a77d695a77e53025b3) [f1INCH-WBTC](https://etherscan.io/address/0xDdB4669f39c03A6edA92ffB5B78A9C1a74615F1b) 
 | **Strategy Contract**   | |
 | **Example Harvest TX**  | [doHardWork](https://etherscan.io/tx/0x01dfcfd6dd1ca0db042fb516767c3725e06cc1db28a40781314c72d897351ba8) |
 | **Timelock**            | 12 hours
