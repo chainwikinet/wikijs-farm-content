@@ -2,7 +2,7 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2021-05-11T13:43:23.463Z
+date: 2021-05-11T13:45:37.606Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-04T07:47:54.724Z
@@ -340,7 +340,7 @@ This strategy farms 1INCH, the [1inch governance token](https://www.coingecko.co
 
 ## Sushiswap strategies with LP Tokens
 
-This strategy farms SUSHI, the [Sushiswap token][sushi].
+This strategy farms SUSHI, the [Sushiswap token](https://www.coingecko.com/en/coins/sushi).
 
 > You do not receive SUSHI directly. Instead, the farmed SUSHI is sold to return more SLP to you when you withdraw.
 {.is-info}
