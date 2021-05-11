@@ -2,7 +2,7 @@
 title: Harvest Finance History
 description: launch, governance, and significant events in Harvest Finance
 published: true
-date: 2021-05-11T00:45:19.776Z
+date: 2021-05-11T00:54:04.891Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-16T03:19:50.546Z
@@ -19,37 +19,39 @@ Harvest Finance was launched by an anonymous team on September 1st, 2020.
 
 # Harvest Finance history
  
-## Week 32
+## Week 32 - BSC Release and listed on DPI
 
-🚜 Harvest Finance becomes multi chain and releases BSC farms. BSC farmers can grow their crops on Harvest Finance and become part of the yield farming revolution.
+🚜 Harvest Finance becomes multi chain and releases BSC farms. BSC farmers can grow their crops on Harvest Finance and become part of the yield farming revolution. Harvest Finance joined the DPI, one of the most famous DeFi assets index. 
 
- ## Week 30
+ ## Week 30 - Sushiswap public proposal
 
 🤝 Harvest finance proposes a long-term partnership with Sushiswap [Sushiswap <> Harvest Vesting Proposal](https://medium.com/harvest-finance/sushiswap-harvest-vesting-proposal-7a49898ca04c)
 
-## Week 26
+## Week 26 - iFARM Release
 
 Harvest Finance launches iFARM, the interest bearing FARM token. 🚜🚜🚜 Goes brrrrr [Week 26 Update](https://yogafire-genuine.medium.com/eng-week-26-update-b6b5123f8685) 
 
-## Week 15
+## Week 15 - Grain Release 
 
 🌾 Harvest Finance launches Grain token in order to repair users affected by the economic attack [Week 15 Update](https://medium.com/harvest-finance/week-15-make-it-rain-grain-9b56af6df118)
 
-## Week 11
+## Week 11 - Solution to affected users
 
 📊 On Oct 30, 2020 The community voted for a 0.5% FARM emission reparation to the flash loan attack users. [Week 11 Update](https://medium.com/harvest-finance/week-11-update-gains-and-golden-grains-66165235be1d)
 
-## Week 9
+## Week 9 - Flash loan attack
 
 Harvest Finance was exploited in a flash loan attack. [Week 9 Update](https://medium.com/harvest-finance/week-9-update-restoring-funds-and-immediate-next-steps-to-mitigate-hacks-c2dc5bd829e5)
  
-## Week 6
+## Week 6 - Timelock, audits, governance and council of 69
 
 - 🔒 12 hours timelock strategy got deployed for the TUSD vault.
 - 📝 2 out of the 3 security [Audits](/en/security) have been published
 - 🤑 The first deal to consider for The council of 69 has been shaped [Snapshot Vote](/en/https://snapshot.page/#/farm/proposal/QmNf42fVYj1jnbFxrp1hQQRZH6mynH9tddBtSjY9bkpxDo)
 - 🗳️ Harvest governance begin to take shape. [Governance discussion Forum](/en/https://gov.harvest.finance/)
-## Week 5
+
+## Week 5 - Supply reduction and council of 69
+
 > 🔥🔥🔥 After a throughout discussion on total emissions and a community vote on 27th of September the total supply of FARM tokens was reduced from 5 000 000 to 690,420 FARM. [Weekly Supply](/en/supply)
 the community vote results : https://snapshot.page/#/farm/proposal/QmQvoNCNhz5dARMgR82vFPeHAMPqMahHgsHjPYggFuAkGZ
 
@@ -67,12 +69,12 @@ The way The council of 69♋ works is :
 - 🥩Autostaking and autocompounding for the Profit Share automated
 - 🥇Tons of new listing for Harvest Finance on major platform
 
-## Week 4
+## Week 4 - Burning and VWAP bot
 
 - 🔥Further burn of 5846.9 FARM
 - 🤖 Enabling a VWAP bot
 
-## Week 3
+## Week 3 - Harvest Finance reaches 500M in TVL
 
 - 🌟 $500 000 000 in TVL reached
 - 🔥FARM Supply reductions started after discussions in the community. 14,580 FARM were burned (a 36% reduction of the initially planned emissions for Week3) :
@@ -86,7 +88,7 @@ https://etherscan.io/tx/0x8c291fe6a2e2f3c56c6df33f197f49bf3f363a4bb93ab050a1a71c
 In Week 3, which began on September 15th at ~19:00 UTC, the team and community decided to discontinue the community stakedrop. FARM tokens can be [traded on Uniswap](/trade) or acquired by [providing liquidity on Harvest assets](/stakedrop/lp) or [depositing supported assets into Harvest yield farming strategies](/stakedrop/deposit).
 
 
-## Week 2 Rewards
+## Week 2 - Rewards
 
 > Week 2 rewards ended on September 8th at 19:00 UTC. It is not necessary to withdraw your assets or FARM rewards from https://harvest.finance immediately.
 {.is-warning}
@@ -173,7 +175,7 @@ UNI AMPL_WETH:    https://etherscan.io/address/0xc5be99a02c6857f9eac67bbce58df55
 FARM:             https://etherscan.io/token/0xa0246c9032bC3A600820415aE600c6388619A14D
 
 
-## Week 1 Rewards
+## Week 1 - Rewards
 
 > Week 1 rewards ended on September 8th at 20:00 UTC. It is not necessary to withdraw your assets or FARM rewards from https://harvest.finance immediately.
 {.is-warning}
