@@ -14,7 +14,7 @@ dateCreated: 2020-08-13T07:23:41.115Z
 # Key Resources
 
 - [Harvest Community Dashboard](https://harvestfi.github.io/dashboard/) - open source tool ([Github](https://github.com/harvestfi/dashboard)) for monitoring your positions
-- [FARM:USDC Chart for Uniswap](https://beta.dex.vision/?ticker=UniswapV2:FARMUSDC-0x514906FC121c7878424a5C928cad1852CC545892&interval=15) - accurate prices
+- [FARM:ETH Chart for Uniswap](https://www.tradingview.com/symbols/FARMWETH/) - accurate prices
 - [Trade FARM on Uniswap](https://app.uniswap.org/#/swap?outputCurrency=0xa0246c9032bc3a600820415ae600c6388619a14d) - simplest trading
 - [FARM Limit Orders on 1inch](https://1inch.exchange/#/limit-order/USDC/FARM) - automatically buy or sell at a certain price
 
@@ -26,7 +26,6 @@ dateCreated: 2020-08-13T07:23:41.115Z
 - Create FARM [market orders](https://1inch.exchange/#/ETH/FARM) and [limit orders](https://1inch.exchange/#/limit-order/USDC/FARM) on 1inch.exchange
 - FARM is listed on Paraswap.io
 - FARM is listed on DeBank.com
-- Trading might be available on [Balancer](https://balancer.exchange/) or [CREAM Swap](https://app.cream.finance/swap)
 
 
 # Centralized Exchange Listings
