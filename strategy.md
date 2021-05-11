@@ -2,7 +2,7 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2021-05-05T17:28:43.011Z
+date: 2021-05-11T13:00:04.904Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-04T07:47:54.724Z
@@ -152,33 +152,6 @@ Strategy vaults:
 [farm MIR in the MNFLX-UST pool](https://etherscan.io/address/0x99C2564C9D4767C13E13F38aB073D4758af396Ae)
 [farm MIR in the MTWTR-UST pool](https://etherscan.io/address/0xb37c79f954E3e1A4ACCC14A5CCa3E46F226038b7)
 
-
-
-
-## Farming CRV with BTC
-
-This strategy farms CRV, the [Curve Finance DAO token][crv].
-
-> You do not receive CRV directly. Instead, the farmed CRV is sold to return more BTC to you when you withdraw.
-{.is-info}
-
-| | |
-|------------------|-|
-| **Asset Farmed**        | CRV, Curve Finance DAO token  |
-| **Assets Used**         | HBTC, OBTC, TBTC, RENWBTC      |
-| **Basic Strategy**      | CRV is farmed and sold for BTC |
-| **How To Participate**  | [deposit a supported asset][hf] |
-| **Yield Payout**        | Successful farming makes your deposit redeemable for a growing amount of the deposited asset |
-| **FARM Incentives**      | fCRV-HBTC, fCRV-OBTC, fCRV-RENWBTC deposit receipts can be staked to earn FARM incentives |
-| **Vault Contract**      | [fCRV-HBTC](https://etherscan.io/address/0xCC775989e76ab386E9253df5B0c0b473E22102E2), [fCRV-OBTC](https://etherscan.io/address/0x966A70A4d3719A6De6a94236532A0167d5246c72), [fCRV-RENWBTC](https://etherscan.io/address/0x9aA8F427A17d6B0d91B6262989EdC7D45d6aEdf8) |
-| **Strategy Contract**   | [CRVStrategyWBTCMainnet][es-strat-fwbtc], [CRVStrategyRENBTCMainnet][es-strat-renbtc], [CRVStrategyWRenBTCMixMainnet][es-strat-crvrenwbtc] |
-| **Example Harvest TX**  | [doHardWork](https://etherscan.io/tx/0x01dfcfd6dd1ca0db042fb516767c3725e06cc1db28a40781314c72d897351ba8) |
-| **Timelock**            | 12 hours
-
-[es-strat-fwbtc]: https://etherscan.io/address/0x3f31edcd57b2461fd2650f4a1066a97f73b97158#code
-[es-strat-renbtc]: https://etherscan.io/address/0xd2429c20af3eb06b15c08b5290f4971b9fac20b1#code
-[es-strat-crvrenwbtc]: https://etherscan.io/address/0x9aA8F427A17d6B0d91B6262989EdC7D45d6aEdf8#code
-
 ## Farming COMP and IDLE with Stablecoins
 
 This strategy farms COMP, the [Compound Finance token](https://www.coingecko.com/en/coins/compound) and IDLE, the [Idle Finance token](https://www.coingecko.com/en/coins/idle) .
@@ -240,6 +213,30 @@ This strategy farms CRV, the [Curve Finance DAO token][crv].
 [es-strat-crystable-tusd]: https://etherscan.io/address/0x9d356fda8437f7c7b6a4bc84466a98a4a6eec462
 
 [es-crvstable-harvest]: https://etherscan.io/tx/0x0b8f78bb74fc5e1451af4c6b15dd48b263fc5b29006a3555bd5942313235d22a
+
+## Farming CRV with BTC
+
+This strategy farms CRV, the [Curve Finance DAO token][crv].
+
+> You do not receive CRV directly. Instead, the farmed CRV is sold to return more BTC to you when you withdraw.
+{.is-info}
+
+| | |
+|------------------|-|
+| **Asset Farmed**        | CRV, Curve Finance DAO token  |
+| **Assets Used**         | HBTC, OBTC, TBTC, RENWBTC      |
+| **Basic Strategy**      | CRV is farmed and sold for BTC |
+| **How To Participate**  | [deposit a supported asset][hf] |
+| **Yield Payout**        | Successful farming makes your deposit redeemable for a growing amount of the deposited asset |
+| **FARM Incentives**      | fCRV-HBTC, fCRV-OBTC, fCRV-RENWBTC deposit receipts can be staked to earn FARM incentives |
+| **Vault Contract**      | [fCRV-HBTC](https://etherscan.io/address/0xCC775989e76ab386E9253df5B0c0b473E22102E2), [fCRV-OBTC](https://etherscan.io/address/0x966A70A4d3719A6De6a94236532A0167d5246c72), [fCRV-RENWBTC](https://etherscan.io/address/0x9aA8F427A17d6B0d91B6262989EdC7D45d6aEdf8) |
+| **Strategy Contract**   | [CRVStrategyWBTCMainnet][es-strat-fwbtc], [CRVStrategyRENBTCMainnet][es-strat-renbtc], [CRVStrategyWRenBTCMixMainnet][es-strat-crvrenwbtc] |
+| **Example Harvest TX**  | [doHardWork](https://etherscan.io/tx/0x01dfcfd6dd1ca0db042fb516767c3725e06cc1db28a40781314c72d897351ba8) |
+| **Timelock**            | 12 hours
+
+[es-strat-fwbtc]: https://etherscan.io/address/0x3f31edcd57b2461fd2650f4a1066a97f73b97158#code
+[es-strat-renbtc]: https://etherscan.io/address/0xd2429c20af3eb06b15c08b5290f4971b9fac20b1#code
+[es-strat-crvrenwbtc]: https://etherscan.io/address/0x9aA8F427A17d6B0d91B6262989EdC7D45d6aEdf8#code
 
 ## Farming With Uniswap Liquidity
 This strategy farms tokens based on Uniswap staking.
