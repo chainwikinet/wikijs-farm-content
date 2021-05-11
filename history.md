@@ -2,7 +2,7 @@
 title: Harvest Finance History
 description: launch, governance, and significant events in Harvest Finance
 published: true
-date: 2021-05-11T00:14:24.469Z
+date: 2021-05-11T00:20:47.341Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-16T03:19:50.546Z
@@ -17,13 +17,9 @@ Harvest Finance was launched by an anonymous team on September 1st, 2020.
 
 [Contribute to this wiki!](/contribute)
 
-# DeFi Community Stakedrop (discontinued)
-
-
-To assist in initial distribution of FARM to a broad audience of DeFi power users, tokens in the DeFi community were selected to be eligible to stake their tokens in order to receive the Harvest Finance FARM token. These tokens were not deposited into the Harvest Finance
- [yield farming strategies](/strategy).
+# Harvest Finance history
  
- 
+
  ## Week 30
 
 🤝 Harvest finance proposes a long-term partnership with Sushiswap [Sushiswap <> Harvest Vesting Proposal](https://medium.com/harvest-finance/sushiswap-harvest-vesting-proposal-7a49898ca04c)
@@ -218,3 +214,9 @@ Harvest Finance launched on September 1st. New farming strategies are constantly
 As of September 8th, 70% of the yield farming revenue is returned to users who provide capital. The remaining 30% of the yield farming revenue is distributed to users who [stake FARM in the Profit Sharing contract][farm-stakedrop]. The Harvest Finance team does not charge fees for withdrawing or depositing assets and does not claim a fee on the yield farming revenue.
 
 As of November 3rd, all vaults include a 12 hour timelock for both strategy changes and vault upgrades.
+
+# DeFi Community Stakedrop (discontinued)
+
+
+To assist in initial distribution of FARM to a broad audience of DeFi power users, tokens in the DeFi community were selected to be eligible to stake their tokens in order to receive the Harvest Finance FARM token. These tokens were not deposited into the Harvest Finance
+ [yield farming strategies](/strategy).
