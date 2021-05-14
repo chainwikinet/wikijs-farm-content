@@ -2,7 +2,7 @@
 title: Harvest Finance Articles, Media & Data
 description: manage your farming and learn more about Harvest
 published: true
-date: 2021-05-05T17:41:53.927Z
+date: 2021-05-14T21:51:49.510Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-14T19:44:06.472Z
@@ -113,6 +113,7 @@ Redmption's podcast appearance at Delpi Digital: https://www.delphidigital.io/po
 - (Russian) https://makurinma03.medium.com/
 - (Portuguese) https://medium.com/@sandraspigato
 - (Turkish) https://medium.com/@armaganpublish
+- (Spanish) https://c3h.medium.com/
 
 - [Contribute!](/contribute)
 
