@@ -2,7 +2,7 @@
 title: BSC Strategies
 description: 
 published: true
-date: 2021-05-14T22:50:00.393Z
+date: 2021-05-14T22:57:02.175Z
 tags: 
 editor: markdown
 dateCreated: 2021-05-11T18:32:46.895Z
@@ -126,6 +126,29 @@ This strategy farms CAKE, the [Pancakeswap token](https://www.coingecko.com/en/c
 | **Yield Payout**        | Successful farming makes the fAssets redeemable for a growing number of single assets |
 | **FARM Incentives**      | fAssets tokens deposit receipts can be staked to earn FARM incentives |
 | **Vault Contract**      | [BUSD-BNB](https://bscscan.com//address/0xF7A3a95d0f7E8A5EEaE483Cdd7b76aF287283D34) [CAKE](https://bscscan.com//address/0x3D5B0a8CD80e2A87953525fC136c33112E4b885a) [ETH-BNB](https://bscscan.com//address/0xE1f9A3EE001a2EcC906E8de637DBf20BB2d44633) [USDT-BNB](https://bscscan.com//address/0x6D386490e2367Fc31b4aCC99aB7c7D4d998a3121) [XVS-BNB](https://bscscan.com//address/0x0bB94083d5718a8cb716faDc016187a0d6C99425) [CAKE-BNB](https://bscscan.com//address/0xfFBD102fAFbd9e15C9122d9C62aB299AFD4D3E4F)  |
+| **Strategy Contract**   |  |
+| **Example Harvest TX**  | [doHardWork][harvestdego] |
+| **Timelock**            | 12 Hours
+
+[es-weth-strategy]: https://etherscan.io/address/0xa23c6f2d85fe47e613ce6bbb40e74acb49ae281a#code
+
+[harvestdego]: https://etherscan.io/tx/0x6fdb02f8f961dae5853d15c1ff06322025abdf3eb76097a1d99b2fbe888c005b
+
+## Goose Strategies
+This strategy farms EGG, the [Goose Finance token](https://coinmarketcap.com/currencies/goose-finance/).
+
+> You do not receive EGG directly. Instead, the farmed EGG is sold to return more tokens to you when you withdraw.
+{.is-info}
+
+| | |
+|------------------|-|
+| **Asset Farmed**        | EGG, the Goose Finance token  |
+| **Assets Used**         | `EGG-BNB`, `EGG-BUSD` |
+| **Basic Strategy**      | EGG is farmed and sold for  fAssets |
+| **How To Participate**  | [deposit tokens](https://harvest.finance/) to receive fAssets |
+| **Yield Payout**        | Successful farming makes the fAssets redeemable for a growing number of single assets |
+| **FARM Incentives**      | fAssets tokens deposit receipts can be staked to earn FARM incentives |
+| **Vault Contract**      | [EGG-BNB](https://bscscan.com//address/0xe3f309F151746b3C0953e4C0E455bFf3dc2176AA) [EGG-BUSD](https://bscscan.com//address/0xcD8FB1302C30fde56BCE5B34211E84561BBF0dF1) |
 | **Strategy Contract**   |  |
 | **Example Harvest TX**  | [doHardWork][harvestdego] |
 | **Timelock**            | 12 Hours
