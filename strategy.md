@@ -2,7 +2,7 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2021-05-14T19:44:36.696Z
+date: 2021-05-14T19:48:25.456Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-04T07:47:54.724Z
@@ -106,9 +106,10 @@ Strategy vaults:
 Summary: deposit funds into Sushiswap to receive an LP token; deposit the LP token into Harvest to automatically harvest the rewards.
 Rewards: Reward tokens are sold for additional deposited token.
 
-Active Strategies: Sushiswap `ETH-SUSHI`, `ETH-DAI`, `ETH-USDC`, `ETH-USDT`, `ETH-WBTC`, `ETH-UST`,
+Active Strategies: Sushiswap `ETH-SUSHI`,`ETH-PERP`, `ETH-DAI`, `ETH-USDC`, `ETH-USDT`, `ETH-WBTC`, `ETH-UST`,
 Strategy vaults: 
 [farm SUSHI in the ETH-SUSHI pool](https://etherscan.io/address/0x5aDe382F38A09A1F8759D06fFE2067992ab5c78e)
+[farm SUSHI in the ETH-PERP pool](https://etherscan.io/address/0x230D3E848d04516826067aCb08Fa6c5A552D3E62)
 [farm SUSHI in the ETH-DAI pool](https://etherscan.io/address/0x203E97aa6eB65A1A02d9E80083414058303f241E)
 [farm SUSHI in the ETH-USDC pool](https://etherscan.io/address/0x01bd09A1124960d9bE04b638b142Df9DF942b04a)
 [farm SUSHI in the ETH-USDT pool](https://etherscan.io/address/0x64035b583c8c694627A199243E863Bb33be60745)
