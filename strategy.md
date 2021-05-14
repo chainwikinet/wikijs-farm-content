@@ -2,7 +2,7 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2021-05-14T19:38:45.324Z
+date: 2021-05-14T19:44:36.696Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-04T07:47:54.724Z
@@ -66,21 +66,6 @@ LINK `CRV:LINK`
 Strategy vaults: 
 [farm CRV in the CRV:LINK pool](https://etherscan.io/address/0x24C562E24A4B5D905f16F2391E07213efCFd216E)
 
-
-
-**Uniswap Liquidity**
-Summary: deposit funds into Uniswap to receive an LP token; deposit the LP token into Harvest to automatically harvest the rewards.
-Rewards: Reward tokens are sold for additional deposited token.
-
-Active Strategies: Uniswap `ETH-DPI`, `WBTC-KBTC`, `WBTC-KLONX`, `FARM/ETH`;  `FARM/GRAIN`
-Strategy vaults: 
-[farm INDEX in the ETH-DPI pool](https://etherscan.io/address/0x2a32dcBB121D48C106F6d94cf2B4714c0b4Dfe48)
-[farm KLONX in the WBTC-KBTC pool](https://etherscan.io/address/0x5cd9Db40639013A08d797A839C9BECD6EC5DCD4D)
-[farm KLONX in the WBTC-KLONX pool](https://etherscan.io/address/0xB4E3fC276532f27Bd0F738928Ce083A3b064ba61)
-[farm FARM in the FARM/ETH pool](https://etherscan.io/address/0x6555c79a8829b793F332f1535B0eFB1fE4C11958)
-[farm FARM in the FARM/GRAIN pool](https://etherscan.io/address/0xe58f0d2956628921cdEd2eA6B195Fc821c3a2b16)
-
-
 **Sushi HODL Strategy**
 Summary: deposit funds into Sushiswap to receive an LP token; deposit the LP token into Harvest to automatically harvest the rewards.
 Rewards: Reward tokens are sold for additional deposited token.
@@ -129,6 +114,18 @@ Strategy vaults:
 [farm SUSHI in the ETH-USDT pool](https://etherscan.io/address/0x64035b583c8c694627A199243E863Bb33be60745)
 [farm SUSHI in the ETH-WBTC pool](https://etherscan.io/address/0x5C0A3F55AAC52AA320Ff5F280E77517cbAF85524)
 [farm SUSHI in the ETH-UST pool](https://etherscan.io/address/0x4D4D85c6a1ffE6Bb7a1BEf51c9E2282893feE521)
+
+**Uniswap Liquidity**
+Summary: deposit funds into Uniswap to receive an LP token; deposit the LP token into Harvest to automatically harvest the rewards.
+Rewards: Reward tokens are sold for additional deposited token.
+
+Active Strategies: Uniswap `ETH-DPI`, `WBTC-KBTC`, `WBTC-KLONX`, `FARM/ETH`;  `FARM/GRAIN`
+Strategy vaults: 
+[farm INDEX in the ETH-DPI pool](https://etherscan.io/address/0x2a32dcBB121D48C106F6d94cf2B4714c0b4Dfe48)
+[farm KLONX in the WBTC-KBTC pool](https://etherscan.io/address/0x5cd9Db40639013A08d797A839C9BECD6EC5DCD4D)
+[farm KLONX in the WBTC-KLONX pool](https://etherscan.io/address/0xB4E3fC276532f27Bd0F738928Ce083A3b064ba61)
+[farm FARM in the FARM/ETH pool](https://etherscan.io/address/0x6555c79a8829b793F332f1535B0eFB1fE4C11958)
+[farm FARM in the FARM/GRAIN pool](https://etherscan.io/address/0xe58f0d2956628921cdEd2eA6B195Fc821c3a2b16)
 
 **Seigniorage**
 Summary: deposit funds into Basis Cash to receive an LP token; deposit the LP token into Harvest to automatically harvest the rewards.
