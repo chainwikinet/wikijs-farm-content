@@ -2,7 +2,7 @@
 title: BSC Strategies
 description: 
 published: true
-date: 2021-05-14T22:35:08.792Z
+date: 2021-05-14T22:50:00.393Z
 tags: 
 editor: markdown
 dateCreated: 2021-05-11T18:32:46.895Z
@@ -54,6 +54,16 @@ Strategy vaults:
 [farm CAKE with USDT-BNB in Pancakeswap](https://bscscan.com//address/0x6D386490e2367Fc31b4aCC99aB7c7D4d998a3121)
 [farm CAKE with XVS-BNB in Pancakeswap](https://bscscan.com//address/0x0bB94083d5718a8cb716faDc016187a0d6C99425)
 [farm CAKE with CAKE-BNB in Pancakeswap](https://bscscan.com//address/0xfFBD102fAFbd9e15C9122d9C62aB299AFD4D3E4F)
+
+**Goose Strategies**
+Summary: deposit funds into Harvest to automatically harvest rewards.
+Rewards: Reward tokens are sold for additional deposited token.
+
+Goose farming: `EGG-BNB`, `EGG-BUSD`
+
+Strategy vaults: 
+[farm EGG with EGG-BNB in Goose](https://bscscan.com//address/0xe3f309F151746b3C0953e4C0E455bFf3dc2176AA)
+[farm EGG with EGG-BUSD in Goose](https://bscscan.com//address/0xcD8FB1302C30fde56BCE5B34211E84561BBF0dF1)
 
 ## Farming SPACE with LP tokens
 This strategy farms SPACE, the [Farm Space Token](https://coinmarketcap.com/currencies/farm-space/).
