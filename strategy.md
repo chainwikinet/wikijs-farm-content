@@ -2,7 +2,7 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2021-05-14T19:56:32.003Z
+date: 2021-05-14T20:14:19.912Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-04T07:47:54.724Z
@@ -120,11 +120,13 @@ Strategy vaults:
 Summary: deposit funds into Uniswap to receive an LP token; deposit the LP token into Harvest to automatically harvest the rewards.
 Rewards: Reward tokens are sold for additional deposited token.
 
-Active Strategies: Uniswap `ETH-DPI`, `WBTC-KBTC`, `WBTC-KLONX`, `FARM/ETH`;  `FARM/GRAIN`
+Active Strategies: Uniswap `ETH-DPI`, `WBTC-KBTC`, `WBTC-KLONX`, `ETH-MVI`, `KXUSD-DAI`, `FARM/ETH`;  `FARM/GRAIN`
 Strategy vaults: 
 [farm INDEX in the ETH-DPI pool](https://etherscan.io/address/0x2a32dcBB121D48C106F6d94cf2B4714c0b4Dfe48)
 [farm KLONX in the WBTC-KBTC pool](https://etherscan.io/address/0x5cd9Db40639013A08d797A839C9BECD6EC5DCD4D)
 [farm KLONX in the WBTC-KLONX pool](https://etherscan.io/address/0xB4E3fC276532f27Bd0F738928Ce083A3b064ba61)
+[farm INDEX in the ETH-MVI pool](https://etherscan.io/address/0x5EA74C6AbF0e523fdecFE218CCb3d2fDe2339613)
+[farm KLONX in the KXUSD-DAI pool](https://etherscan.io/address/0x26193024f481aA987FC5230E107F1651b3e01741)
 [farm FARM in the FARM/ETH pool](https://etherscan.io/address/0x6555c79a8829b793F332f1535B0eFB1fE4C11958)
 [farm FARM in the FARM/GRAIN pool](https://etherscan.io/address/0xe58f0d2956628921cdEd2eA6B195Fc821c3a2b16)
 
@@ -375,12 +377,12 @@ This strategy farms tokens based on Uniswap staking.
 | | |
 |------------------|-|
 | **Asset Farmed**        | INDEX, KLONX  |
-| **Assets Used**         | ETH-DPI, WBTC-KBTC, WBTC-KLONX, FARM/ETH, FARM/GRAIN               |
+| **Assets Used**         | ETH-DPI, WBTC-KBTC, WBTC-KLONX, ETH-MVI, KXUSD-DAI, FARM/ETH, FARM/GRAIN               |
 | **Basic Strategy**      | INDEX and KLONX are automatically farmed and sold for more LP tokens. Harvest pays your gas fees to grow the underlying LP. 30% of rewards are kept for FARM profit sharing. |
 | **How To Participate**  | [deposit LP Tokens][hf] to receive fUNI-V2 |
 | **Yield Payout**        | Successful farming makes the fUNISWAP_LP redeemable for a growing number of LP tokens. |
 | **FARM Incentives**     | UNISWAP_LP deposit receipts can be staked to earn FARM incentives |
-| **Vault Contract**      | [ETH-DPI](https://etherscan.io/address/0x2a32dcBB121D48C106F6d94cf2B4714c0b4Dfe48) [WBTC-KBTC](https://etherscan.io/address/0x5cd9Db40639013A08d797A839C9BECD6EC5DCD4D) [WBTC-KLONX](https://etherscan.io/address/0xB4E3fC276532f27Bd0F738928Ce083A3b064ba61)|
+| **Vault Contract**      | [ETH-DPI](https://etherscan.io/address/0x2a32dcBB121D48C106F6d94cf2B4714c0b4Dfe48) [WBTC-KBTC](https://etherscan.io/address/0x5cd9Db40639013A08d797A839C9BECD6EC5DCD4D) [WBTC-KLONX](https://etherscan.io/address/0xB4E3fC276532f27Bd0F738928Ce083A3b064ba61) [ETH-MVI](https://etherscan.io/address/0x5EA74C6AbF0e523fdecFE218CCb3d2fDe2339613) [KXUSD-DAI](https://etherscan.io/address/0x26193024f481aA987FC5230E107F1651b3e01741) |
 | **Strategy Contract**   | SNXRewardUniLPStrategy [WBTC-WETH][es-weth-wbtc-strategy], [USDT-WETH][es-weth-usdt-strategy], [USDC-WETH][es-weth-usdc-strategy], [DAI-WETH][es-weth-dai-strategy]|
 | **Example Harvest TX**  | [doHardWork][es-weth-wbtc-harvest]|
 | **Timelock**            | 12 hours
