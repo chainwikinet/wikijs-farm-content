@@ -2,7 +2,7 @@
 title: BSC Strategies
 description: 
 published: true
-date: 2021-05-14T21:43:28.017Z
+date: 2021-05-14T22:02:39.354Z
 tags: 
 editor: markdown
 dateCreated: 2021-05-11T18:32:46.895Z
@@ -42,6 +42,18 @@ Strategy vaults:
 [farm VENUS with ETH](https://bscscan.com//address/0x2CE34b1bb247f242f1d2A33811E01138968EFBFF)
 [farm VENUS with BTCB](https://bscscan.com//address/0xd75ffA16FFbCf4078d55fF246CfBA79Bb8cE3F63)
 
+**Pancake Strategies**
+Summary: deposit funds into Harvest to automatically harvest rewards.
+Rewards: Reward tokens are sold for additional deposited token.
+
+Pancake farming: `BUSD-BNB`, `CAKE`, `ETH-BNB`, `USDT-BNB`, `XVS-BNB`, `CAKE-BNB`
+Strategy vaults: 
+[farm CAKE with BUSD-BNB in Pancakeswap](https://bscscan.com//address/0xF7A3a95d0f7E8A5EEaE483Cdd7b76aF287283D34)
+[farm CAKE with CAKE in Pancakeswap](https://bscscan.com//address/0x3D5B0a8CD80e2A87953525fC136c33112E4b885a)
+[farm CAKE with ETH-BNB in Pancakeswap](https://bscscan.com//address/0xE1f9A3EE001a2EcC906E8de637DBf20BB2d44633)
+[farm CAKE with USDT-BNB in Pancakeswap](https://bscscan.com//address/0x6D386490e2367Fc31b4aCC99aB7c7D4d998a3121)
+[farm CAKE with XVS-BNB in Pancakeswap](https://bscscan.com//address/0x0bB94083d5718a8cb716faDc016187a0d6C99425)
+[farm CAKE with CAKE-BNB in Pancakeswap](https://bscscan.com//address/0xfFBD102fAFbd9e15C9122d9C62aB299AFD4D3E4F)
 
 ## Farming SPACE with LP tokens
 This strategy farms SPACE, the [Farm Space Token](https://coinmarketcap.com/currencies/farm-space/).
