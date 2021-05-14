@@ -2,7 +2,7 @@
 title: Harvest Finance History
 description: launch, governance, and significant events in Harvest Finance
 published: true
-date: 2021-05-14T17:45:44.156Z
+date: 2021-05-14T18:50:09.435Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-16T03:19:50.546Z
@@ -13,7 +13,9 @@ dateCreated: 2020-08-16T03:19:50.546Z
 
 # Launch
 
-Harvest Finance was launched by an anonymous team on September 1st, 2020.
+Harvest Finance was launched by an anonymous team on September 1st, 2020 to bring bread and the spirit of 69 & 420 for the people.
+
+![image.png](/image.png)
 
 [Contribute to this wiki!](/contribute)
 
