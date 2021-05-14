@@ -2,7 +2,7 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2021-05-14T19:48:25.456Z
+date: 2021-05-14T19:56:32.003Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-04T07:47:54.724Z
@@ -347,12 +347,12 @@ This strategy farms SUSHI, the [Sushiswap token](https://www.coingecko.com/en/co
 | | |
 |------------------|-|
 | **Asset Farmed**        | SUSHI, Sushiswap token  |
-| **Assets Used**         | ETH-SUSHI, ETH-DAI, ETH-USDC, ETH-USDT, ETH-WBTC, ETH-UST  |
+| **Assets Used**         | ETH-SUSHI, ETH-PERP, ETH-DAI, ETH-USDC, ETH-USDT, ETH-WBTC, ETH-UST  |
 | **Basic Strategy**      | SUSHI is automatically farmed and sold for more LP tokens. Harvest pays your gas fees to grow the underlying LP. 30% of rewards are kept for FARM profit sharing. |
 | **How To Participate**  | [deposit a supported asset][hf] |
 | **Yield Payout**        | Successful farming makes your deposit redeemable for a growing amount of the deposited asset |
 | **FARM Incentives**      | fSLP deposit receipts can be staked to earn FARM incentives |
-| **Vault Contract**      | [fETH-SUSHI](https://etherscan.io/address/0x5aDe382F38A09A1F8759D06fFE2067992ab5c78e) [fETH-DAI](https://etherscan.io/address/0x203E97aa6eB65A1A02d9E80083414058303f241E) [fETH-USDC](https://etherscan.io/address/0x01bd09A1124960d9bE04b638b142Df9DF942b04a) [fETH-USDT](https://etherscan.io/address/0x64035b583c8c694627A199243E863Bb33be60745) [fETH-WBTC](https://etherscan.io/address/0x5C0A3F55AAC52AA320Ff5F280E77517cbAF85524) [fETH-UST](https://etherscan.io/address/0x4D4D85c6a1ffE6Bb7a1BEf51c9E2282893feE521)
+| **Vault Contract**      | [fETH-SUSHI](https://etherscan.io/address/0x5aDe382F38A09A1F8759D06fFE2067992ab5c78e) [fETH-PERP](https://etherscan.io/address/0x230D3E848d04516826067aCb08Fa6c5A552D3E62) [fETH-DAI](https://etherscan.io/address/0x203E97aa6eB65A1A02d9E80083414058303f241E) [fETH-USDC](https://etherscan.io/address/0x01bd09A1124960d9bE04b638b142Df9DF942b04a) [fETH-USDT](https://etherscan.io/address/0x64035b583c8c694627A199243E863Bb33be60745) [fETH-WBTC](https://etherscan.io/address/0x5C0A3F55AAC52AA320Ff5F280E77517cbAF85524) [fETH-UST](https://etherscan.io/address/0x4D4D85c6a1ffE6Bb7a1BEf51c9E2282893feE521)
 |
 | **Strategy Contract**   | SushiMasterChefLPStrategy [fWBTC_TBTC_LP][es-wbtc-tbtc-strategy] |
 | **Example Harvest TX**  | [doHardWork][es-wbtc-tbtc-harvest] |
