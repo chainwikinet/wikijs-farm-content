@@ -2,7 +2,7 @@
 title: BSC Strategies
 description: 
 published: true
-date: 2021-05-14T22:57:02.175Z
+date: 2021-05-14T23:21:14.885Z
 tags: 
 editor: markdown
 dateCreated: 2021-05-11T18:32:46.895Z
@@ -64,6 +64,17 @@ Goose farming: `EGG-BNB`, `EGG-BUSD`
 Strategy vaults: 
 [farm EGG with EGG-BNB in Goose](https://bscscan.com//address/0xe3f309F151746b3C0953e4C0E455bFf3dc2176AA)
 [farm EGG with EGG-BUSD in Goose](https://bscscan.com//address/0xcD8FB1302C30fde56BCE5B34211E84561BBF0dF1)
+
+**bDollar Strategies**
+Summary: deposit funds into Harvest to automatically harvest rewards.
+Rewards: Reward tokens are sold for additional deposited token.
+
+Goose farming: `BDO-BNB`, `BDO-BUSD`, `SBDO-BUSD`
+
+Strategy vaults: 
+[farm SBDO with BDO-BNB in Goose](https://bscscan.com//address/0xe3f309F151746b3C0953e4C0E455bFf3dc2176AA)
+[farm SBDO with BDO-BUSD in Goose](https://bscscan.com//address/0xcD8FB1302C30fde56BCE5B34211E84561BBF0dF1)
+[farm SBDO with SBDO-BUSD in Goose](https://bscscan.com//address/0xcD8FB1302C30fde56BCE5B34211E84561BBF0dF1)
 
 ## Farming SPACE with LP tokens
 This strategy farms SPACE, the [Farm Space Token](https://coinmarketcap.com/currencies/farm-space/).
@@ -149,6 +160,29 @@ This strategy farms EGG, the [Goose Finance token](https://coinmarketcap.com/cur
 | **Yield Payout**        | Successful farming makes the fAssets redeemable for a growing number of single assets |
 | **FARM Incentives**      | fAssets tokens deposit receipts can be staked to earn FARM incentives |
 | **Vault Contract**      | [EGG-BNB](https://bscscan.com//address/0xe3f309F151746b3C0953e4C0E455bFf3dc2176AA) [EGG-BUSD](https://bscscan.com//address/0xcD8FB1302C30fde56BCE5B34211E84561BBF0dF1) |
+| **Strategy Contract**   |  |
+| **Example Harvest TX**  | [doHardWork][harvestdego] |
+| **Timelock**            | 12 Hours
+
+[es-weth-strategy]: https://etherscan.io/address/0xa23c6f2d85fe47e613ce6bbb40e74acb49ae281a#code
+
+[harvestdego]: https://etherscan.io/tx/0x6fdb02f8f961dae5853d15c1ff06322025abdf3eb76097a1d99b2fbe888c005b
+
+## bDollar Strategies
+This strategy farms sBDO, the [bDollar share token](https://coinmarketcap.com/currencies/bdollar-share/).
+
+> You do not receive sBDO directly. Instead, the farmed sBDO is sold to return more tokens to you when you withdraw.
+{.is-info}
+
+| | |
+|------------------|-|
+| **Asset Farmed**        | sBDO, the bDollar share token  |
+| **Assets Used**         | `BDO-BNB`, `BDO-BUSD`, `SBDO-BUSD` |
+| **Basic Strategy**      | sBDO is farmed and sold for  fAssets |
+| **How To Participate**  | [deposit tokens](https://harvest.finance/) to receive fAssets |
+| **Yield Payout**        | Successful farming makes the fAssets redeemable for a growing number of single assets |
+| **FARM Incentives**      | fAssets tokens deposit receipts can be staked to earn FARM incentives |
+| **Vault Contract**      | [BDO-BNB](https://bscscan.com//address/0xe3f309F151746b3C0953e4C0E455bFf3dc2176AA) [BDO-BUSD](https://bscscan.com//address/0xcD8FB1302C30fde56BCE5B34211E84561BBF0dF1) [SBDO-BUSD](https://bscscan.com//address/0xcD8FB1302C30fde56BCE5B34211E84561BBF0dF1) |
 | **Strategy Contract**   |  |
 | **Example Harvest TX**  | [doHardWork][harvestdego] |
 | **Timelock**            | 12 Hours
