@@ -2,7 +2,7 @@
 title: Harvest Finance History
 description: launch, governance, and significant events in Harvest Finance
 published: true
-date: 2021-05-11T00:54:04.891Z
+date: 2021-05-14T17:45:44.156Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-16T03:19:50.546Z
@@ -21,7 +21,7 @@ Harvest Finance was launched by an anonymous team on September 1st, 2020.
  
 ## Week 32 - BSC Release and listed on DPI
 
-🚜 Harvest Finance becomes multi chain and releases BSC farms. BSC farmers can grow their crops on Harvest Finance and become part of the yield farming revolution. Harvest Finance joined the DPI, one of the most famous DeFi assets index. 
+🚜 Harvest Finance becomes multi chain and releases BSC farms. BSC farmers can grow their crops on Harvest Finance and become part of the yield farming revolution. Harvest Finance joined the DPI, one of the most famous DeFi assets index. [Week 32 Update](https://yogafire-genuine.medium.com/eng-week-32-update-8893d980f147)
 
  ## Week 30 - Sushiswap public proposal
 
