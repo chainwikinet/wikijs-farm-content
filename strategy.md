@@ -2,7 +2,7 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2021-05-14T19:33:38.571Z
+date: 2021-05-14T19:38:45.324Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-04T07:47:54.724Z
@@ -21,12 +21,13 @@ dateCreated: 2020-09-04T07:47:54.724Z
 Summary: deposit funds into Harvest to automatically harvest rewards.
 Rewards: Reward tokens are sold for additional deposited token.
 
-Stablecoins: `USDC`, `USDT`, `DAI`, `TUSD`, `WBTC`
+Stablecoins: `USDC`, `USDT`, `DAI`, `TUSD`, `WBTC`, `WETH`
 Strategy vaults: 
 [farm Comp and Idle with USDC](https://etherscan.io/address/0xf0358e8c3CD5Fa238a29301d0bEa3D63A17bEdBE)
 [farm Comp and Idle with USDT](https://etherscan.io/address/0x053c80eA73Dc6941F518a68E2FC52Ac45BDE7c9C)
 [farm Comp and Idle with DAI](https://etherscan.io/address/0xab7fa2b2985bccfc13c6d86b1d5a17486ab1e04c)
 [farm Comp and Idle with WBTC](https://etherscan.io/address/0x5d9d25c7C457dD82fc8668FFC6B9746b674d4EcB)
+[farm Comp and Idle with WETH](https://etherscan.io/address/0xFE09e53A81Fe2808bc493ea64319109B5bAa573e)
 
 
 
