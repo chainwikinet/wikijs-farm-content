@@ -2,7 +2,7 @@
 title: Harvest Finance Yield Farming Strategies
 description: how the Total Value Locked in Harvest creates revenue for FARM holders
 published: true
-date: 2021-05-14T20:26:14.575Z
+date: 2021-05-14T23:33:01.050Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-04T07:47:54.724Z
@@ -10,6 +10,9 @@ dateCreated: 2020-09-04T07:47:54.724Z
 
 > Grow Harvest. [Contribute to this wiki!](/contribute)
  {.is-success}
+ 
+>Harvest APYs only account for the instantaneous reward rate provided for the vault, and do not account for potential changes in value the deposited tokens.
+{is warning}
 
 > Please do not interact directly with Smart contracts!
 {.is-danger}
