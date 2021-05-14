@@ -1,8 +1,8 @@
 ---
-title: Getting Started
+title: Tutorial: Farm with USDC
 description: New to Farming? This will walk you through your first farming experience
 published: true
-date: 2020-10-08T13:46:36.032Z
+date: 2021-05-14T18:00:51.233Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-20T18:56:27.102Z
@@ -122,6 +122,7 @@ All done? Alright! Let's get farming!
 - Consider when using a system like Curve there is slippage when withdrawing to a singular asset, as well as a withdraw fee. When a user exits Harvest, those fees are currently socialized across the fAsset pools, but in the near future will be directly charged to the user triggering the slippage/fee. This means the pool value of fAssets will no longer be impacted by these events.
 
 **Q:** Why does the APY go up and down?
+-	**A:**  There are many reasons why APY goes up and down, it may be sometimes due to governance decisions on incentives like the amount of emissions directed to profit share, fundamental tokenomics dynamics as the 4% emission reduction every week, or even swings in price of FARM token can deviate the short term APY from the base 30%. Market volume in LP assets farmed can also have an impact in the APY movement as a high volume generally in a LP position captures more fees driving up the APY.
 
 **Q:** Everyone keeps talking about “Whales” in the Discord. What are they, and how do they impact FARMing?
 -	**A:** Whales are entities with very high capital, referred to as such because they are "bigger" than the average investor. Their large-volume transactions often have observable effects on the market because their [market impact](https://en.wikipedia.org/wiki/Market_impact) is large. For example, sufficiently large purchases of $FARM will cause the price of $FARM to increase, while large selloffs will cause the price to fall. Additionally, because FARM stakedrops are finite and defined at the beginning of each week, large investments/withdraws have the potential to significantly change the APY associated with the stakedrop reward. (Stakedrops are the incentives added to each pool, displayed on the front page as +[:tractor: APY%].)
