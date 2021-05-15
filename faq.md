@@ -2,7 +2,7 @@
 title: Frequently Asked Questions
 description: answers to common questions about Harvest Finance
 published: true
-date: 2021-05-14T18:18:43.977Z
+date: 2021-05-15T00:27:16.587Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-03T23:06:00.060Z
@@ -26,6 +26,8 @@ dateCreated: 2020-09-03T23:06:00.060Z
 6. What happens to the other 70% of yield farming revenue?  **It is paid out to users that deposit assets to Harvest for farming**.  Over time, holders of Harvest farming fTokens will receive more of the underlying tokens when they withdraw.
 7. What is iFARM? **iFARM is the interest bearing FARM token, it works as FARM staked in the profit share and it's main advantages is a lower gas cost, transferability and possible future new utilities like lending collateralization as an exemple.**
 8. Why does the Profitshare APY go up and down? **There are many reasons why APY goes up and down, it may be sometimes due to governance decisions on incentives like the amount of emissions directed to profit share, fundamental tokenomics dynamics as the 4% emission reduction every week, or even swings in price of FARM token can deviate the short term APY from the base 30%. Market volume in LP assets farmed can also have an impact in the APY movement as a high volume generally in a LP position captures more fees driving up the APY.**
+9. The 30% fee from profit share is charged from the APY in farms shown in the front page? **No. The APY shown in the front page was already charged by the 30% Profit Share fee, they are the final APY.**
+
 
 
 # Technical Stuff
