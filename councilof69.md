@@ -2,7 +2,7 @@
 title: Council of 69
 description: 
 published: true
-date: 2021-03-17T15:00:33.775Z
+date: 2021-06-09T20:01:33.848Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-17T15:00:33.775Z
@@ -24,6 +24,7 @@ Since inception, Harvest Finance has made 4 deals through the Council of 69:
 2. $50,000 in Benchmark for BMK at seed price with 1 year vesting ([Medium Post](https://medium.com/harvest-finance/week-11-update-gains-and-golden-grains-66165235be1d))
 3. $50,000 in AP Wine for $0.30/APW, vested over 2 years ([Snapshot Vote](https://snapshot.org/#/harvestfi.eth/proposal/QmfHjnprH2YhE6th2cevRdi9MzUTNXA3HpSsQsah6oasXY))
 4. $15,000 in Babylon Finance at $10/BABL with 3 year vesting after 1 year cliff ([Snapshot Vote](https://snapshot.org/#/harvestfi.eth/proposal/QmdwFBtNJYcDpUnWgNV6pfFkhM1gqedDc1WHGkiWYtp3uG))
+5. CompliFi - Terms are private until vesting has completed after 6 months
 
 **Got a good deal for Harvest to invest in? Head over to the [Discord Channel](https://discord.com/channels/748967094745563176/761336315257421875) to pitch for your 10% cut!**
 
