@@ -2,7 +2,7 @@
 title: Harvest Deposit Stakedrop
 description: deposit assets into Harvest yield farming strategies, receive FARM
 published: true
-date: 2021-08-29T20:51:15.819Z
+date: 2021-08-29T20:51:49.845Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-08T03:09:48.188Z
