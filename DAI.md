@@ -2,7 +2,7 @@
 title: Why is my DAI balance going down?
 description: 
 published: true
-date: 2021-08-30T02:58:12.796Z
+date: 2021-08-30T03:00:57.016Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-13T10:08:29.780Z
@@ -44,7 +44,7 @@ This is a design choice that Harvest made for how the single-asset vaults operat
 How big of an impact does this effect have on the balances of a particular vault today?  I don't know, but the data is all on-chain if you want to do the math and partition all of the gains and losses yourself.
 
 4. What To Do?
-The DAI vault experiences all of these effects much more strongly than the other vaults, so just swap DAI for something else and pick a different one.  Pure-LP-position asset-agnostic vaults like CRVRENWBTC allow advanced users to fully control the timing and market impact of AMM entry and exit.  An asset-agnostic fyCRV vault could enable this as well for the stablecoins and would be a great addition to the v2 vault layout.
+The DAI vault experiences all of these effects much more strongly than the other vaults, so just swap DAI for something else and pick a different one.  Pure-LP-position asset-agnostic vaults like CRVRENWBTC allow advanced users to fully control the timing and market impact of AMM e[harvest_newsletter_.pdf](/harvest_newsletter_.pdf)ntry and exit.  An asset-agnostic fyCRV vault could enable this as well for the stablecoins and would be a great addition to the v2 vault layout.
 5. ADMIN I'm still mad about this!
 If the slight fluctuations in the balance is too much to handle, and you find yourself refreshing the screen a lot, maybe withdrawing is the best option
 6. Bonus Irony
