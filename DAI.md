@@ -2,14 +2,14 @@
 title: Why is my DAI balance going down?
 description: 
 published: true
-date: 2021-08-30T03:00:57.016Z
+date: 2021-08-30T03:03:36.054Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-13T10:08:29.780Z
 ---
 
 - 1. 
-# Why is my DAI balance going down?
+> # Why is my DAI balance going down?
 
 > TL;DR. It is mainly due to the fact that DAI price is volatile for a stablecoin. This, combined with the Curve dynamics and the socialized price of down exits creates the volatility in your DAI balance. Nonetheless, you'll probably make money in the long run, but it'll be a bit more volatile than the other stablecoins. 
 {.is-info}
@@ -45,7 +45,7 @@ How big of an impact does this effect have on the balances of a particular vault
 
 4. What To Do?
 The DAI vault experiences all of these effects much more strongly than the other vaults, so just swap DAI for something else and pick a different one.  Pure-LP-position asset-agnostic vaults like CRVRENWBTC allow advanced users to fully control the timing and market impact of AMM e[harvest_newsletter_.pdf](/harvest_newsletter_.pdf)ntry and exit.  An asset-agnostic fyCRV vault could enable this as well for the stablecoins and would be a great addition to the v2 vault layout.
-5. ADMIN I'm still mad about this!
+1. 5. ADMIN I'm still mad [tvl](/en/tvl)about this!
 If the slight fluctuations in the balance is too much to handle, and you find yourself refreshing the screen a lot, maybe withdrawing is the best option
 6. Bonus Irony
 Because of gain socialization on deposit, the fDAI vault has outperformed all of the other stablecoin vaults by 2-3x.  So if you want to play stupid DAI games and win stupid DAI prizes, you could play your entry and exit right and make more money in this vault than anywhere else.
