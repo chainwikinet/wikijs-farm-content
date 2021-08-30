@@ -1,0 +1,86 @@
+<!--
+title: Harvest Vault
+description: 
+published: true
+date: 2021-08-30T04:14:16.881Z
+tags: 
+editor: code
+dateCreated: 2020-12-10T20:05:38.840Z
+-->
+
+<h1 class="toc-header" id="harvest-vaults"> Harvest Vaults</h1><div>
+</div><p>A vault is an Ethereum scaling solution that allows users to safely deposit and withdraw funds from a pool of investable assets.</p><div>
+</div><p><img alt="vault_draft.png" src="/vault_draft.png"></p><div>
+</div><p>When a user deposits funds, they are issued a share of the vault, represented by an <code>fASSET</code>. These user's funds are then made available for investment according to a pre-defined "strategy" specified by the Harvest devs. Whenever an investment strategy generates revenue (or losses), the total amount of assets in the Vault is updated, however the number of existing <code>fASSET</code> shares does not change. As a result, the value of each <code>fASSET</code> share increases with every successful harvest. When a user withdraws <code>fASSET</code> shares from the vault, the <code>fASSET</code> is burned and the user receives funds proportional to the growth of the investment since their deposit.</p><div>
+</div><p><img alt="vault_draft2.png" src="/vault_draft2.png"></p><div>
+</div><p>Most of Harvest's strategies function by investing the underlying assets into incentivized liquidity pools for various other protocols. Harvest automatically compounds its interest by selling the incentived rewards into more of the underlying vault asset and reinvesting it. While harvest may show that your deposit is "farming" some particular token, you will only receive the token you deposited, unless otherwise specified.</p><div>
+</div><p>User funds are protected in vaults by a number of mechanism:</p><div>
+</div><ol>
+<li>The owners of the vault can only move the underlying funds in and out of the pre-defined investment strategy.</li>
+<li><code>fASSET</code>shares can only be minted by depositing funds into the vault, and are destroyed when the user withdraws funds.</li>
+<li>The investment strategy is protected from changes by a 'timelock.' <a class="is-internal-link is-invalid-page" href="/en/education/vault/timelock">read more</a></li>
+</ol><div>
+</div><p>Harvest Vaults do not track the wallet addresses of depositors. Instead, <code>fASSET</code> shares are represented by fungible ERC-20 tokens that can be transferred between accounts and traded on secondary markets. Users that trade away or lose their <code>fASSET</code> shares will not have access to their deposited funds.</p><div>
+</div><p>Because ethereum gas usage is defined by the number of contracts interacted with and the complexity of the interactions, depositing tokens through the Vault smart contract and minting new <code>fASSET</code> shares requires signifantly more gas than than the token trading that most Ethereum users may be used to. Users should take care to monitor gas expenses, as they may reduce or even overwhelm the profitability of smaller scale investments (&lt;$1000), especially when network activity is high.</p><div>
+</div><p>Harvest provides additional incentives for users to deposit funds in the form of <code>FARM</code> tokens. These rewards are distributed to users who prove ownership of deposits by "<a class="is-internal-link is-invalid-page" href="/en/education/vault/staking">staking</a>" their <code>fASSETs</code> in reward pool contracts. It is important to note that before a user can withdraw funds, they must first retrieve their <code>fASSET</code> from a reward pool staking contract.</p><div>
+</div><h1 class="toc-header" id="stakingreward-pools"> Staking/Reward Pools</h1><div>
+</div><p>A Reward Pool, or Staking Contract is an ethereum scaling solution for providing rewards to users over time.</p><div>
+</div><p>It is in Harvest's interest to attract new users to its platform to provide additional deposits for its investment strategies and liquidity to the FARM token so that users can buy and sell FARM. To that end FARM emissions are provided as incentives, which are distributed to users pro rata via reward pools.</p><div>
+</div><p>Users provide their proof of investment in the form of an <code>fASSET</code> (or <code>UNI-V2</code> FARM:ETH LP token in the case of liquidity providers). The user's address is then credited with FARM for each second that the proof of investment remains in the reward pool.<br>
+The rewards pool offers two functions:</p><div>
+</div><ul>
+<li>Claim: The contract sends the user any accumulated FARM rewards,  but retains the staked <code>fASSET</code> to continue accumulating rewards.</li>
+<li>Unstake and Claim: Calls the <code>exit()</code> function of the contract, which returns the staked <code>fASSET</code> to the user's address in addition to any accumulated FARM rewards.</li>
+</ul><div>
+</div><p>Harvest generally displays the reward rate of the staking contract in the form of an "APY." This represents the instantaneous per-second reward rate per dollar value of the staked <code>fASSET</code>. The reward rate is determined as follows:</p><div>
+</div><ol>
+<li>At the start of each weak, "emissions" of FARM are sent as a lump sum to each reward pool contract by the devs. These numbers are published in the weekly Harvest medium post.</li>
+<li>The rewards are 'notified' by the devs, indicating that they should begin paying out.</li>
+<li>For every second that passes, the emitted amount/604800 (number of seconds in a week) are distributed pro rata to every address with staked fassets.</li>
+</ol><div>
+</div><p>Please note that the greater the participation in a rewards pool, the lower the reward payed to each participant per second (and therefore APY) becomes.</p><div>
+</div><h1 class="toc-header" id="timelocks"> Timelocks</h1><div>
+</div><blockquote class="is-success">
+<p>All Harvest vaults operate with a 12 hour timelock in place.</p>
+</blockquote><div>
+</div><p>Timelocks are an often-referenced security feature in Etherium contracts that protect users from changes they disagree with.</p><div>
+</div><p>Because DeFi platforms handle money, there have been numerous examples of scams and projects turned fraudulent that have stolen money from users. Timelocks have been popularized as a method of distancing developers from users funds by requiring a period of time to elapse before changes can be made.</p><div>
+</div><p>Harvest has deployed timelocks on all vaults that function as follows:</p><div>
+</div><ol>
+<li>If the devs wish to change the investing strategy, they must first deploy the new strategy to the blockchain.</li>
+<li>Next they "announce" the strategy change, which emits a web3 event that can be read by chainwatching bots.</li>
+<li>Users have a specified amount of time (currently 12 hours) to examine the new contract and withdraw funds if they wish to opt out.</li>
+<li>Any time after the specified period has elapsed, the deployer may choose to either accept or reject the strategy change.</li>
+</ol><div>
+</div><p>The primary function of timelocks is to protect investors from malicious strategies attempting to steal funds.</p><div>
+</div><p>Example scenario without timelock:</p><div>
+</div><ul>
+<li>A malicious investment strategy is deployed that deposits all of users' funds into a malicious wallet.</li>
+<li>In the same block, the investment strategy in the vault updates.</li>
+<li>In the same block, the vault transfers funds to the mallicious wallet, and all funds are lost.</li>
+</ul><div>
+</div><p>Example scenario with timelock:</p><div>
+</div><ul>
+<li>A malicious investment strategy is deployed that deposits all of users' funds into a malicious wallet.</li>
+<li>The strategy change is announced by the vault, indicating that it can change to this malicious strategy in 12 hours.</li>
+<li>Chainwatchers report the strategy change, and technically competent users can sound the alarm, warning others to withdraw.</li>
+<li>Users have the remaining time to withdraw their funds.</li>
+</ul><div>
+</div><p>While timelocks can play a big role in protecting funds from malicious or compromised developers, they are not without drawbacks. Because the timelock period must elapse before <em>any</em> strategy change, timelocks <strong>amplify</strong> users exposure to bugs and vulnerabilities in the code. If a bug exposes user funds to exploitation, developers must wait the timelock's duration after building a fix to apply it. Additionally, timelocks limit the flexibility developers have in swiftly deploying new strategies to capture shorter term opportunities.</p><div>
+</div><p>The current 12 hour durration of timelocks was selected on 9/15/2020 by the harvest community as a compromise between the risks and benefits of timelocks via a farmer's market discord poll:<br>
+<img alt="timelock_poll.png" src="/timelock_poll.png"></p><div>
+</div><h1 class="toc-header" id="strategies"> Strategies</h1><div>
+</div><p>Strategies are a key component in the Harvest machinery that define the ways in which vault funds can invested.</p><div>
+</div><p>Because strategies are responsible for directly moving user funds, they are strictly scrutinized and tested prior to their deployment. Strategies become associated with a vault through a 'timelock' mechanism, meaning that the change is first announced, then a period of time must elapse (currently 12 hours) before the change is made official and the new strategy can access funds.</p><div>
+</div><p>While the specifics of each strategy may differ based on the investment opportunity being taken advantage of, all strategies use a function called <code>doHardWork()</code> to compound their interest with the following steps:</p><div>
+</div><ol>
+<li>Collect reward tokens accumulated by the invested funds.</li>
+<li>Liquidate the rewards into the invested token.</li>
+<li>Invest recovered funds into the investment opportunity.</li>
+</ol><div>
+</div><blockquote class="is-info">
+<p>During liquidation, a fee (currently 30%) is taken from the rewards and used to buy FARM on the market, which is then distributed to those who have staked FARM in Profitshring.</p>
+</blockquote><div>
+</div><p>Whenever <code>doHardWork()</code> is called, the price of each share of the associated vault increases. Most vaults are harvested every 12-48 hours, depending on the liquidity of their associated token. If you notice that a vault has failed to harvest in more than 48 hours, please let a mod know in the Harvest community discord server.</p><div>
+</div><p>The following is an example of what this 'harvest' transaction via <code>doHardWork()</code> looks like: <a class="is-external-link" href="https://etherscan.io/tx/0xa96648073820c1b2a9e2427963a439d7ae895661e5ea3c7f8c99604b04832d3b">https://etherscan.io/tx/0xa96648073820c1b2a9e2427963a439d7ae895661e5ea3c7f8c99604b04832d3b</a></p><div>
+</div>
